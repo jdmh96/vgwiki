@@ -1,4 +1,4 @@
-# Vainglory Bot
+# Vainglory Wiki
 
-The bots description here
+Welcome To The Official Vainglory Wiki
 
