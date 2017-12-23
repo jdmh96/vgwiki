@@ -1,5 +1,5 @@
 # Summary
 
-* [Items](aegis.md)
 * [Introduction](README.md)
+* [Items](aegis.md)
 
