@@ -12,5 +12,15 @@
 
 #### Alpha
 
+###### Heroic Perk: Infinite Reboot
+
+###### Ability A: Prime Directive
+
+###### Ability B: Core Charge
+
+###### Ultimate: Termination Protocol
+
+
+
 
 
