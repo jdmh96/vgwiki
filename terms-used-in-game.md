@@ -246,107 +246,31 @@ SR – Summoner’s Rift; the 5v5 map of League of legends.
 
 Sry/srry - Sorry.
 
-  
-
-
-  
-
-
 SS - Stands for miss or missing. This is said when an opponent in a certain lane is missing and so could have left the lane to for example gank other players. Extra caution is advised when someone says SS. SS can be followed or preceded by more information. \(E.g. top ss means whoever was in top lane is missing, ss annie means annie is missing from her lane, 2 ss bot means two champions are missing from the bot lane, etc.\). In North America, MIA \(missing in action\) is used instead of SS and in Asia MS \(missing\) is used. When this champion returns to back lane, you say 're' to let your teammates know.
-
-  
-
-
-  
-
 
 Stack - This word can be used in many different ways but always involves multiplying the effect of something. A stack is originally a more or less orderly pile or heap: a precariously balanced stack of books. There are items that "stack" or "pile up" a certain value for each time you do a certain action like auto-attacking \(e.g Guinsoo's Rageblade\), using a skill or killing a champion. There are items that stack values, but you can also stack items yourself \(buying more than one\). There are also skills that stack values \(e.g. Soraka's Starcall\). \[definition provided by fightknights\]
 
-  
-
-
-  
-
-
 Some more examples:
-
-  
-
-
-  
-
 
 Riven is stacking Bloodthirsters = Riven is buying many Bloodthirsters \(an item\).
 
-  
-
-
-  
-
-
 Katarina's Mejai's Soulstealer is at 15 stacks = i.e. her Soulstealer now gives 140 ability power.
-
-  
-
-
-  
-
 
 The debuff from Soraka's Starcall stacks up to a maximum of 8 = Each time Soraka hits someone with Starcall their magic resistance is reduced by 10 \(with a level 3 Starcall\). This keeps increasing everytime she hits them until their magic resistance is lowered by a total of 80. If it didnt stack then the maximum would be 10.
 
-  
-
-
-  
-
-
 If an item is said not to not stack with another item, like Lichbane and Trinityforce, then the unique values will not add up and only the effect of one of the items will proc - in this case whichever effect does the highest damage\)
-
-  
-
-
-  
-
 
 I'm sure there are more examples I could find, but I hope that from this explanation and the context you see the word in its meaning will be clear enough. If not, let me know in the comments below!
 
-  
-
-
-  
-
-
 Store – The ‘out-of-game’ League of Legends store in which you can buy champions, runes, and other things with RP or IP. Not to be confused with shop.
-
-  
-
-
-  
-
 
 Steal - Specific definitions of this vary but always at least refers to getting the last hit on a unit when an ally was already attacking it. can refer to stealing a champion kill, a minion kill, or a jungle monster.This is usually meant in a negative fashion, as in: you 'stole' from your ally. But stealing is often used as a strategy and so can be used in a positive way. See the next post for more details on when stealing is good.
 
-  
-
-
-  
-
-
 Stun – A debuff that completely shuts down someone. They are unable to move, attack, or do abilities for the duration of the stun. During a stun, there are only a very things you can do, such as cast Cleanse, or activate Tryndamere’s ultimate.
-
-  
-
-
-  
-
 
 Supp - Support. This is a champion or player who doesn't take any minion last hits and so usually ends up with very little gold. This is usually a champion who can do quite well without much gold and their main purpose is to help out the ad carry in their difficult early laning phase and later help the team as a whole by placing wards, healing champions, providing beneficial auras or disabling the enemy champions. See laning arrangement in the next post for more info.
 
-  
-
-
-  
-
-
 Sustain - Long-term regeneration. E.g. a champion with a lot of sustain can stay in lane for a long time because they can keep regenerating their mana or hp so they never have to go back to base to heal. \(kudos to zigomorfico\)
+
+Freezing the lane means that if the enemy laner manages to kill all your minions before you can kill thier's, you will intentionally stand far away enough from the turret, so that the turret does not target the minions and take away your chances of last hitting them and you also prevent the minions from pushing further and hitting your turret. In essence, you freeze the lane by being the enemy minions' target, thus preventing them from damaging your turret and ensuring that you get the last hit.
 
