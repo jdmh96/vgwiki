@@ -68,7 +68,17 @@ Each stack increases health cost of Core Charge by 2%, but also increases the da
 
 Alpha starts her self-destruct sequence, exploding after 3s & then resurrecting herself with Infinite Reboot.
 
-* At the start 
+* At the start of the ability, she gains a burst of move speed that decays rapidly.
+* She also gains a large health barrier. if enemies break this barrier, she explodes early.
+* This ability can only be activated while Infinite Reboot is available.
+* Barrier: 400 - 1000 \(level 1-12\)
+* Explosion radius: 4.5 meters.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal Ratio % | Weapon Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 85s | 75s | 65s |  |  |
+| Energy Cost | 0 | 0 | 0 |  |  |
+| Damage | 529 | 933 | 1337 | 250% |  |
 
 
 
