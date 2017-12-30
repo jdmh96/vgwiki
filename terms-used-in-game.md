@@ -100,6 +100,14 @@ Dealing a large amount of damage in a short time, also called nuke.
 
 The tall grass on every map in which you can hide.
 
+# Freezing the Lane
+
+If the opposing laner manages to kill all your minions before you can kill theirs, you will intentionally stand far away enough from the turret, so that the turret does not target the minions and take away your chances of last hitting them. 
+
+You also prevent the minions from pushing further and hitting your turret. 
+
+You freeze the lane by being the enemy minions' target, preventing them from damaging your turret and ensuring that you get the last hit.
+
 # Juke
 
 To trick someone into going the wrong way when he/she is chasing you. This is often done by being invisible for a few seconds using the brush or a hero's ability which provides invisibility.
@@ -162,7 +170,7 @@ Most valuable player
 
 Nice one.
 
-# Nerf 
+# Nerf
 
 To weaken a certain a characteristic of the game, usually a hero, in order to balance the game. Nerf's are seen when game updates are processed.
 
@@ -280,5 +288,5 @@ Supp - Support. This is a champion or player who doesn't take any minion last hi
 
 Sustain - Long-term regeneration. E.g. a champion with a lot of sustain can stay in lane for a long time because they can keep regenerating their mana or hp so they never have to go back to base to heal. \(kudos to zigomorfico\)
 
-Freezing the lane means that if the enemy laner manages to kill all your minions before you can kill thier's, you will intentionally stand far away enough from the turret, so that the turret does not target the minions and take away your chances of last hitting them and you also prevent the minions from pushing further and hitting your turret. In essence, you freeze the lane by being the enemy minions' target, thus preventing them from damaging your turret and ensuring that you get the last hit.
+
 
