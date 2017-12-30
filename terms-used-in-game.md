@@ -48,7 +48,7 @@ At the moment.
 
 Back; when someone is told to "B" that person is being told to retreat. If someone’s say that they will "B", they intend to retreat or recall.
 
-# Bait 
+# Bait
 
 Someone who is used to lure enemy heroes. Usually your team will be ready to jump on the enemy as soon as they attack the bait.
 
@@ -58,19 +58,17 @@ In ranked games and draft mode games each team can 'ban' three heroes at the sta
 
 Ban could also refer to banning an account from playing or from posting on the forums. Forum bans are handed out when a player breaks the forum rules.
 
-Banning an account from playing is done when a player is found to be breaking the games 'Terms of Use'. 
+Banning an account from playing is done when a player is found to be breaking the games 'Terms of Use'.
 
 # BD
 
-Backdoor; to attack a turret or vain crystal without any minions or hero backup. You have snuck into the enemies stronghold 'through the backdoor'.  
-
+Backdoor; to attack a turret or vain crystal without any minions or hero backup. You have snuck into the enemies stronghold 'through the backdoor'.
 
 # BG
 
 Bad game. This can be said by the winning team should the losing team have a disconnection or an afk as a means of good sportsmanship, in recognizing that they won because it was an uneven match and not because they are better. Similarly, it can be said by losing team to indicate that they didn't think it was a good game because they had a dc, afk, troller, etc...
 
-This can also be used by ragers to indicate that it wasn’t a good game because they played badly or because their team was bad.  
-
+This can also be used by ragers to indicate that it wasn’t a good game because they played badly or because their team was bad.
 
 # Blue pilling
 
@@ -78,77 +76,41 @@ An old school phrase meaning recalling.
 
 # Bot
 
+# Brb
+
+Be right back. This could refer to real life \(as in someone is going to the toilet\) or in game \(as in someone is going to buy items\).
+
+# BT 
+
+Bloodthirster
+
+# Buff
+
+When the game goes through an update, the creators will occasionally provide a "buff" to a hero they think needs to have extra power to be able to keep up with the abilities of the other heroes or new heroes.
+
+# Build
+
+The set of items you buy for your hero.
+
+# Burst
+
+Dealing a large amount of damage in a short time, also called nuke.
+
+# Bush/brush
+
+The tall grass on every map in which you can hide.
+
+# Juke
+
+To trick someone into going the wrong way when he/she is chasing you. This is often done by being invisible for a few seconds using the brush or a hero's ability which provides invisibility.
+
+# Jungle
+
+Refers to almost everything that is not lane or base. It is where the jungle monsters reside.
+
+# Jungler
+
+The player who mostly stays in the jungle and gains gold from killing the monsters there. 
 
 
-  
-
-
-  
-
-
-Brb - Be right back. This could refer to real life \(as in someone is going to the toilet\) or in game \(as in someone is going to buy items\).
-
-  
-
-
-  
-
-
-BT - Bloodthirster
-
-  
-
-
-  
-
-
-Buff – Something that makes a champions stronger in some way e.g. red buff, an aura of magic resistance, etc.
-
-  
-
-
-  
-
-
-Build – The set of items you buy for your champion.
-
-  
-
-
-  
-
-
-Burst - Dealing a large amount of damage in a short time, also called nuke.
-
-  
-
-
-  
-
-
-Bush/brush - The tall grass on every map in which you can hide.
-
-  
-
-
-  
-
-
-Juke – To trick someone into going the wrong way when he/she is chasing you. This is often done by being invisible for a few seconds using the brush, the fog of war, akali’s twilight shroud, etc.
-
-  
-
-
-  
-
-
-Jungle – Refers to almost everything that is not lane or base. It is where the jungle monsters reside. There is no jungle in Dominion.
-
-  
-
-
-  
-
-
-Jungler - The player who mostly stays in the jungle and gains gold from killing the monsters there \(does not apply in Dominion\). See laning arrangement in the next post for more info.
 
