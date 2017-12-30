@@ -68,7 +68,7 @@ Each stack increases health cost of Core Charge by 2%, but also increases the da
 
 Alpha starts her self-destruct sequence, exploding after 3s & then resurrecting herself with Infinite Reboot.
 
-* At the start
+* At the start 
 
 
 
