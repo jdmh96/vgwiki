@@ -226,25 +226,27 @@ Someone who leaves the game out of anger or frustration.
 
 # Roam
 
-A player/hero is roaming when they are not staying in one place \(or lane\) but rather moving across the map constantly to gank other lanes, invade jungle, etc. This is sometimes referred to a seperate role and in this case usually replaces the support. 
+A player/hero is roaming when they are not staying in one place \(or lane\) but rather moving across the map constantly to gank other lanes, invade jungle, etc. This is sometimes referred to a seperate role and in this case usually replaces the support.
 
 # Shop
 
 The in-game shop in your base where you can buy items for your hero with gold. Not to be confused with store.
 
-Silence – Someone who is silenced cannot cast any abilities. There are some exceptions however, such as Cleanse, and Tryndamere’s ultimate.
+# Silence
 
-Skillshot – An ability which does not lock on to your target, and so you need to aim properly in order to hit an enemy.
+Someone who is silenced cannot cast any abilities. 
 
-Snowballing – Snowballing means getting stronger exponentially. Meaning that the more kills you get, the stronger you get and so the more kills you are able to get, etc. Snowballing is usually said when referring to items which get stronger the more kills you get such as Sword of the Occult,
+# Skillshot
 
-Mejai’s Soulstealer, etc.
+An ability which does not lock on to your target, and so you need to aim properly in order to hit an enemy.
 
-Solo top - Refers to the top lane \(usually in Summoner's Rift\) when held by one champion. See laning arrangement in the next post for more info.
+# Snowballing
 
-Spell vamp - Allows you to regain some of the damage you dealt with spells as health. Similar to lifesteal. Whereas lifesteal applies to autoattacks, spell vamp applies to spells and other magic damage. Spell vamp percentage is divided by 3 for multi-target spells.
+Snowballing means getting stronger exponentially. Meaning that the more kills you get, the stronger you get and so the more kills you are able to get, etc. Snowballing is usually said when referring to items which get stronger the more kills you get.
 
-Split push - Split pushing is when two parties are pushing in different lanes. I.e. If all five team members are pushing mid lane, then they are all pushing. But if a group of four is pushing bottom lane, and the other player is pushing top lane then both parties are split pushing. Sometimes the word split pushing is also used when one party is pushing one lane and the rest of the team is not necessarily pushing a lane, but just distracting the enemies by fighting over baron or something.
+# Split push
+
+Split pushing is when two parties are pushing in different lanes. I.e. If all five team members are pushing mid lane, then they are all pushing. But if a group of four is pushing bottom lane, and the other player is pushing top lane then both parties are split pushing. Sometimes the word split pushing is also used when one party is pushing one lane and the rest of the team is not necessarily pushing a lane, but just distracting the enemies by fighting over baron or something.
 
 Squishy – A champion is squishy if he/she is very easy to kill because of low max hp/armor or magic resisitance. The opposite of durable.
 
