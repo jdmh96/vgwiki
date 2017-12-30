@@ -80,10 +80,6 @@ An old school phrase meaning recalling.
 
 Be right back. This could refer to real life \(as in someone is going to the toilet\) or in game \(as in someone is going to buy items\).
 
-# BT
-
-Bloodthirster
-
 # Buff
 
 When the game goes through an update, the creators will occasionally provide a "buff" to a hero they think needs to have extra power to be able to keep up with the abilities of the other heroes or new heroes.
@@ -200,13 +196,17 @@ Oh my God.
 
 On my way.
 
-OOM – Out of mana.
+# OP
 
-OP - Overpowered or original post.
+Overpowered or original post.
 
-Overextending - A champion moving too far in lane/enemy territory, which can open them up to ganks. Sometimes it's hard to tell whether someone is overextending or split pushing. \(definition by zigomorfico\)
+# Overextending
 
-Passive – An ability that has a more permanent effect. This can be a q, w, e, r or innate ability. But most often, when people say passive, they simply refer to your innate. See innate for more information.
+A hero moving too far in lane/enemy territory, which can open them up to ganks. 
+
+# Passive
+
+An ability that has a more permanent effect. This can be a q, w, e, r or innate ability. But most often, when people say passive, they simply refer to your innate. See innate for more information.
 
 PD - Phantom dancer
 
