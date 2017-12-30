@@ -208,147 +208,145 @@ Push to win – Signals one final push in which you expect to destroy the nexus 
 
 QQ – When used as capitals, these look like a set of crying eyes and so refer to someone who is crying/raging.
 
-  
-
-
-  
-
-
 QSS - Quicksilver Sash
-
-  
-
-
-  
-
 
 Ragequitter – Someone who leaves the game out of anger or frustration.
 
-  
-
-
-  
-
-
 Rat - Could refer to Twitch.
-
-  
-
-
-  
-
 
 Re - see SS.
 
-  
-
-
-  
-
-
 Red - Could refer to the red golem or to the Red buff.
-
-  
-
-
-  
-
 
 River – The large river that runs from the left top to the right bottom of Summoner’s Rift.
 
-  
-
-
-  
-
-
 Roam - A player/champion is roaming when they are not staying in one place \(or lane\) but rather moving across the map constantly to gank other lanes, invade jungle, etc. This is sometimes referred to a seperate role and in this case usually replaces the support. Alistar is a good example of a champion who can play support but can then suddenly go roaming when necessary because of his strong supporting and strong ganking abilities.
-
-  
-
-
-  
-
 
 RP – Riot points; points that you get buy paying real money or winning competitions with which you can buy champions, skins, name changes, and other things.
 
-  
-
-
-  
-
-
 Shop – The in-game shop in your base where you can buy items for your champion with gold. Not to be confused with store.
-
-  
-
-
-  
-
 
 Silence – Someone who is silenced cannot cast any abilities. There are some exceptions however, such as Cleanse, and Tryndamere’s ultimate.
 
-  
-
-
-  
-
-
 Skillshot – An ability which does not lock on to your target, and so you need to aim properly in order to hit an enemy.
-
-  
-
-
-  
-
 
 Snowballing – Snowballing means getting stronger exponentially. Meaning that the more kills you get, the stronger you get and so the more kills you are able to get, etc. Snowballing is usually said when referring to items which get stronger the more kills you get such as Sword of the Occult,
 
-  
-
-
-  
-
-
 Mejai’s Soulstealer, etc.
-
-  
-
-
-  
-
 
 Solo top - Refers to the top lane \(usually in Summoner's Rift\) when held by one champion. See laning arrangement in the next post for more info.
 
-  
-
-
-  
-
-
 Spell vamp - Allows you to regain some of the damage you dealt with spells as health. Similar to lifesteal. Whereas lifesteal applies to autoattacks, spell vamp applies to spells and other magic damage. Spell vamp percentage is divided by 3 for multi-target spells.
-
-  
-
-
-  
-
 
 Split push - Split pushing is when two parties are pushing in different lanes. I.e. If all five team members are pushing mid lane, then they are all pushing. But if a group of four is pushing bottom lane, and the other player is pushing top lane then both parties are split pushing. Sometimes the word split pushing is also used when one party is pushing one lane and the rest of the team is not necessarily pushing a lane, but just distracting the enemies by fighting over baron or something.
 
-  
-
-
-  
-
-
 Squishy – A champion is squishy if he/she is very easy to kill because of low max hp/armor or magic resisitance. The opposite of durable.
 
-  
-
-
-  
-
-
 SR – Summoner’s Rift; the 5v5 map of League of legends.
+
+Sry/srry - Sorry.
+
+  
+
+
+  
+
+
+SS - Stands for miss or missing. This is said when an opponent in a certain lane is missing and so could have left the lane to for example gank other players. Extra caution is advised when someone says SS. SS can be followed or preceded by more information. \(E.g. top ss means whoever was in top lane is missing, ss annie means annie is missing from her lane, 2 ss bot means two champions are missing from the bot lane, etc.\). In North America, MIA \(missing in action\) is used instead of SS and in Asia MS \(missing\) is used. When this champion returns to back lane, you say 're' to let your teammates know.
+
+  
+
+
+  
+
+
+Stack - This word can be used in many different ways but always involves multiplying the effect of something. A stack is originally a more or less orderly pile or heap: a precariously balanced stack of books. There are items that "stack" or "pile up" a certain value for each time you do a certain action like auto-attacking \(e.g Guinsoo's Rageblade\), using a skill or killing a champion. There are items that stack values, but you can also stack items yourself \(buying more than one\). There are also skills that stack values \(e.g. Soraka's Starcall\). \[definition provided by fightknights\]
+
+  
+
+
+  
+
+
+Some more examples:
+
+  
+
+
+  
+
+
+Riven is stacking Bloodthirsters = Riven is buying many Bloodthirsters \(an item\).
+
+  
+
+
+  
+
+
+Katarina's Mejai's Soulstealer is at 15 stacks = i.e. her Soulstealer now gives 140 ability power.
+
+  
+
+
+  
+
+
+The debuff from Soraka's Starcall stacks up to a maximum of 8 = Each time Soraka hits someone with Starcall their magic resistance is reduced by 10 \(with a level 3 Starcall\). This keeps increasing everytime she hits them until their magic resistance is lowered by a total of 80. If it didnt stack then the maximum would be 10.
+
+  
+
+
+  
+
+
+If an item is said not to not stack with another item, like Lichbane and Trinityforce, then the unique values will not add up and only the effect of one of the items will proc - in this case whichever effect does the highest damage\)
+
+  
+
+
+  
+
+
+I'm sure there are more examples I could find, but I hope that from this explanation and the context you see the word in its meaning will be clear enough. If not, let me know in the comments below!
+
+  
+
+
+  
+
+
+Store – The ‘out-of-game’ League of Legends store in which you can buy champions, runes, and other things with RP or IP. Not to be confused with shop.
+
+  
+
+
+  
+
+
+Steal - Specific definitions of this vary but always at least refers to getting the last hit on a unit when an ally was already attacking it. can refer to stealing a champion kill, a minion kill, or a jungle monster.This is usually meant in a negative fashion, as in: you 'stole' from your ally. But stealing is often used as a strategy and so can be used in a positive way. See the next post for more details on when stealing is good.
+
+  
+
+
+  
+
+
+Stun – A debuff that completely shuts down someone. They are unable to move, attack, or do abilities for the duration of the stun. During a stun, there are only a very things you can do, such as cast Cleanse, or activate Tryndamere’s ultimate.
+
+  
+
+
+  
+
+
+Supp - Support. This is a champion or player who doesn't take any minion last hits and so usually ends up with very little gold. This is usually a champion who can do quite well without much gold and their main purpose is to help out the ad carry in their difficult early laning phase and later help the team as a whole by placing wards, healing champions, providing beneficial auras or disabling the enemy champions. See laning arrangement in the next post for more info.
+
+  
+
+
+  
+
+
+Sustain - Long-term regeneration. E.g. a champion with a lot of sustain can stay in lane for a long time because they can keep regenerating their mana or hp so they never have to go back to base to heal. \(kudos to zigomorfico\)
 
