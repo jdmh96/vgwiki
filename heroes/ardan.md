@@ -13,5 +13,16 @@ Ardan benefits from purchasing health items.
 
 ###### Stats Lvl 1-12
 
+* Health: 838 - 2638
+* Energy: 0
+* Armor: 20 - 70
+* Shield: 20 - 70
+* Weapon: 80 - 140
+* Atk Speed: 100% - 136.3%
+* Range: 1.8
+* Move Speed: 3.3
+
+
+
 
 
