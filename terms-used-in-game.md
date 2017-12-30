@@ -80,7 +80,7 @@ An old school phrase meaning recalling.
 
 Be right back. This could refer to real life \(as in someone is going to the toilet\) or in game \(as in someone is going to buy items\).
 
-# BT 
+# BT
 
 Bloodthirster
 
@@ -110,7 +110,128 @@ Refers to almost everything that is not lane or base. It is where the jungle mon
 
 # Jungler
 
-The player who mostly stays in the jungle and gains gold from killing the monsters there. 
+The player who mostly stays in the jungle and gains gold from killing the monsters there.
+
+# KS 
+
+Kill Steal. To steal a kill from someone by getting the last hit on the hero. 
+
+# Kite
+
+To kite is when you stay at a distance \(with your ranged champ\) from your opponent and attack them from that distance, so they cant attack you. Ashe is very good at this as her attacks slow the opponent and so keep the opponent from getting to her. \[kudos to Alarus for adding and to fightknights for defining\]
+
+  
 
 
+L2P - Learn to play
+
+  
+
+
+  
+
+
+Leash - See pull.
+
+  
+
+
+  
+
+
+Lane – One of the \(three in Summoner’s Rift and two in Twisted Treeline\) ‘roads’ on the map.
+
+  
+
+
+  
+
+
+Lifesteal - Allows you to regain part of the damage you dealt as health. For example: If you dealt 100 damage and had 10% lifesteal you would get 10 health back. Lifesteal only applies to autoattacks and a few abilities. Whereas spell vamp applies to most magic spells and some other things. Lifesteal percentage is divided by 3 for multi-target spells.
+
+  
+
+
+  
+
+
+Line - Misspelling of lane
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+MF - Miss Fortune
+
+  
+
+
+  
+
+
+Mia = Missing in action - see SS
+
+  
+
+
+  
+
+
+Mid – Refers to the middle lane in Summoner’s Rift, the middle capture points in Dominion or sometimes the top lane in Twisted Treeline. See laning arrangement in the next post for more information on who goes here on Summoner's Rift.
+
+  
+
+
+  
+
+
+Miss - See SS
+
+  
+
+
+  
+
+
+Could also refer to Miss Fortune \(though usually mf is used\) kudos to somersetsaxon
+
+  
+
+
+  
+
+
+MP5 - Mana regeneration per five seconds
+
+  
+
+
+  
+
+
+MrP - Magic resistance penetration or simply magic penetration. The higher your MrP, the more magic damage you do to enemies with magic resistance.
+
+  
+
+
+  
+
+
+MS - Movement Speed
+
+  
+
+
+  
+
+
+MVP - Most valuable player
 
