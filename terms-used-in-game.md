@@ -118,7 +118,7 @@ Kill Steal. To steal a kill from someone by getting the last hit on the hero.
 
 # Kite
 
-To kite is when you stay at a distance \(with your ranged hero\) from your opponent and attack them from that distance, so they cannot attack you. 
+To kite is when you stay at a distance \(with your ranged hero\) from your opponent and attack them from that distance, so they cannot attack you.
 
 # L2P
 
@@ -134,7 +134,7 @@ One of the ‘roads’ on the map.
 
 # Lifesteal
 
-Allows you to regain part of the damage you dealt as health. For example: If you dealt 100 damage and had 10% lifesteal you would get 10 health back. Lifesteal only applies to auto-attacks and a few abilities. 
+Allows you to regain part of the damage you dealt as health. For example: If you dealt 100 damage and had 10% lifesteal you would get 10 health back. Lifesteal only applies to auto-attacks and a few abilities.
 
 # MF
 
@@ -154,7 +154,7 @@ Could also refer to Miss Fortune \(though usually mf is used\)
 
 Mana regeneration per five seconds
 
-# MrP 
+# MrP
 
 Magic resistance penetration or simply magic penetration. The higher your MrP, the more magic damage you do to enemies with magic resistance.
 
@@ -162,167 +162,193 @@ Magic resistance penetration or simply magic penetration. The higher your MrP, t
 
 Movement Speed
 
-# MVP 
+# MVP
 
 Most valuable player
 
 N1 - Nice one.
 
-  
-
-
-  
-
-
 Nerf – To weaken a certain a characteristic of the game, usually a champion, in order to balance the game. E.g. making Annie’s bear deal less damage. Nerfs are usually done every two weeks with the regular patch.
-
-  
-
-
-  
-
 
 Noob/Newb/Newbie/Nub/Nab - Originally termed to be a beginner. But is now used more often to refer to someone who is a bad player.
 
-  
-
-
-  
-
-
 Np - No problem
-
-  
-
-
-  
-
 
 Nuke – Dealing a large amount of damage in a short time, also called burst. Sometimes people also use nuke to refer to dealing a large amount of area damage.
 
-  
-
-
-  
-
-
 Nuke comes from nuclear bomb, which deals a large amount of damage over a large area in a short time.
-
-  
-
-
-  
-
 
 Nuker – Someone who is capable of nuking.
 
-  
-
-
-  
-
-
 OMG - Oh my God.
-
-  
-
-
-  
-
 
 OMW - On my way.
 
-  
-
-
-  
-
-
 OOM – Out of mana.
-
-  
-
-
-  
-
 
 OP - Overpowered or original post.
 
-  
-
-
-  
-
-
 Overextending - A champion moving too far in lane/enemy territory, which can open them up to ganks. Sometimes it's hard to tell whether someone is overextending or split pushing. \(definition by zigomorfico\)
-
-  
-
-
-  
-
-
-  
-
-
-  
-
 
 Passive – An ability that has a more permanent effect. This can be a q, w, e, r or innate ability. But most often, when people say passive, they simply refer to your innate. See innate for more information.
 
-  
-
-
-  
-
-
 PD - Phantom dancer
-
-  
-
-
-  
-
 
 Pink - or pink ward, refers to a vision ward \(the expensive one that can detect stealth\). This could also refer to an oracle \(though im not sure\).
 
-  
-
-
-  
-
-
 Poke - A form of harass which uses long ranged attacks to cause small to moderate damage in order to weaken an enemy, while keeping a safe position. Used often before fights or when fighting for objectives like dragon or nashor. \(definition by zigomorfico\)
-
-  
-
-
-  
-
 
 Proc = Activate/trigger. This can be used in a variety of scenarios.
 
-  
-
-
-  
-
-
 Pull - A pull is the first hit on a jungle monster, done by someone other than the person going to kill the monster. For example: if Warwick wants to kill the blue golem then Brand could do the first hit on that golem and then go away. This ensures that the blue golem will end up chasing Brand for a while before attacking Warwick. During this time Warwick can keep hitting the blue golem without taking any damage. It will usually be a few seconds before the blue golem realizes Brand is gone and will start attacking Warwick. These few seconds can often make the difference between the jungler being able to kill the blue or not being able to kill the blue golem \(though in this case with Warwick as he can always take on blue easily\).
-
-  
-
-
-  
-
 
 Push – To advance in lane towards the enemy nexus with the intention of destroying towers, inhibitors or the nexus.
 
-  
-
-
-  
-
-
 Push to win – Signals one final push in which you expect to destroy the nexus and end the game.
+
+QQ – When used as capitals, these look like a set of crying eyes and so refer to someone who is crying/raging.
+
+  
+
+
+  
+
+
+QSS - Quicksilver Sash
+
+  
+
+
+  
+
+
+Ragequitter – Someone who leaves the game out of anger or frustration.
+
+  
+
+
+  
+
+
+Rat - Could refer to Twitch.
+
+  
+
+
+  
+
+
+Re - see SS.
+
+  
+
+
+  
+
+
+Red - Could refer to the red golem or to the Red buff.
+
+  
+
+
+  
+
+
+River – The large river that runs from the left top to the right bottom of Summoner’s Rift.
+
+  
+
+
+  
+
+
+Roam - A player/champion is roaming when they are not staying in one place \(or lane\) but rather moving across the map constantly to gank other lanes, invade jungle, etc. This is sometimes referred to a seperate role and in this case usually replaces the support. Alistar is a good example of a champion who can play support but can then suddenly go roaming when necessary because of his strong supporting and strong ganking abilities.
+
+  
+
+
+  
+
+
+RP – Riot points; points that you get buy paying real money or winning competitions with which you can buy champions, skins, name changes, and other things.
+
+  
+
+
+  
+
+
+Shop – The in-game shop in your base where you can buy items for your champion with gold. Not to be confused with store.
+
+  
+
+
+  
+
+
+Silence – Someone who is silenced cannot cast any abilities. There are some exceptions however, such as Cleanse, and Tryndamere’s ultimate.
+
+  
+
+
+  
+
+
+Skillshot – An ability which does not lock on to your target, and so you need to aim properly in order to hit an enemy.
+
+  
+
+
+  
+
+
+Snowballing – Snowballing means getting stronger exponentially. Meaning that the more kills you get, the stronger you get and so the more kills you are able to get, etc. Snowballing is usually said when referring to items which get stronger the more kills you get such as Sword of the Occult,
+
+  
+
+
+  
+
+
+Mejai’s Soulstealer, etc.
+
+  
+
+
+  
+
+
+Solo top - Refers to the top lane \(usually in Summoner's Rift\) when held by one champion. See laning arrangement in the next post for more info.
+
+  
+
+
+  
+
+
+Spell vamp - Allows you to regain some of the damage you dealt with spells as health. Similar to lifesteal. Whereas lifesteal applies to autoattacks, spell vamp applies to spells and other magic damage. Spell vamp percentage is divided by 3 for multi-target spells.
+
+  
+
+
+  
+
+
+Split push - Split pushing is when two parties are pushing in different lanes. I.e. If all five team members are pushing mid lane, then they are all pushing. But if a group of four is pushing bottom lane, and the other player is pushing top lane then both parties are split pushing. Sometimes the word split pushing is also used when one party is pushing one lane and the rest of the team is not necessarily pushing a lane, but just distracting the enemies by fighting over baron or something.
+
+  
+
+
+  
+
+
+Squishy – A champion is squishy if he/she is very easy to kill because of low max hp/armor or magic resisitance. The opposite of durable.
+
+  
+
+
+  
+
+
+SR – Summoner’s Rift; the 5v5 map of League of legends.
 
