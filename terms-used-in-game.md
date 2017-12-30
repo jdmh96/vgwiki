@@ -234,7 +234,7 @@ The in-game shop in your base where you can buy items for your hero with gold. N
 
 # Silence
 
-Someone who is silenced cannot cast any abilities. 
+Someone who is silenced cannot cast any abilities.
 
 # Skillshot
 
@@ -244,19 +244,23 @@ An ability which does not lock on to your target, and so you need to aim properl
 
 Snowballing means getting stronger exponentially. Meaning that the more kills you get, the stronger you get and so the more kills you are able to get, etc. Snowballing is usually said when referring to items which get stronger the more kills you get.
 
-# Split push
+# Squishy 
 
-Split pushing is when two parties are pushing in different lanes. I.e. If all five team members are pushing mid lane, then they are all pushing. But if a group of four is pushing bottom lane, and the other player is pushing top lane then both parties are split pushing. Sometimes the word split pushing is also used when one party is pushing one lane and the rest of the team is not necessarily pushing a lane, but just distracting the enemies by fighting over baron or something.
+A hero is squishy if he/she is very easy to kill because of low max hp/armor resistance to other hero's abilities. 
 
-Squishy – A champion is squishy if he/she is very easy to kill because of low max hp/armor or magic resisitance. The opposite of durable.
+The opposite of durable.
 
-SR – Summoner’s Rift; the 5v5 map of League of legends.
+# Sry/srry
 
-Sry/srry - Sorry.
+Sorry.
 
-SS - Stands for miss or missing. This is said when an opponent in a certain lane is missing and so could have left the lane to for example gank other players. Extra caution is advised when someone says SS. SS can be followed or preceded by more information. \(E.g. top ss means whoever was in top lane is missing, ss annie means annie is missing from her lane, 2 ss bot means two champions are missing from the bot lane, etc.\). In North America, MIA \(missing in action\) is used instead of SS and in Asia MS \(missing\) is used. When this champion returns to back lane, you say 're' to let your teammates know.
+# SS
 
-Stack - This word can be used in many different ways but always involves multiplying the effect of something. A stack is originally a more or less orderly pile or heap: a precariously balanced stack of books. There are items that "stack" or "pile up" a certain value for each time you do a certain action like auto-attacking \(e.g Guinsoo's Rageblade\), using a skill or killing a champion. There are items that stack values, but you can also stack items yourself \(buying more than one\). There are also skills that stack values \(e.g. Soraka's Starcall\). \[definition provided by fightknights\]
+Stands for miss or missing. This is said when an opponent in a certain area is missing & therfore could have left the area to push lane or gank other players. Extra caution is advised when someone says SS. 
+
+# Stacks
+
+This word can be used in many different ways but always involves multiplying the effect of something. A stack is originally a more or less orderly pile or heap: a precariously balanced stack of books. There are items that "stack" or "pile up" a certain value for each time you do a certain action like auto-attacking \(e.g Guinsoo's Rageblade\), using a skill or killing a champion. There are items that stack values, but you can also stack items yourself \(buying more than one\). There are also skills that stack values \(e.g. Soraka's Starcall\). \[definition provided by fightknights\]
 
 Some more examples:
 
