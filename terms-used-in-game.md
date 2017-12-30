@@ -150,14 +150,6 @@ See SS
 
 Could also refer to Miss Fortune \(though usually mf is used\)
 
-# MP5
-
-Mana regeneration per five seconds
-
-# MrP
-
-Magic resistance penetration or simply magic penetration. The higher your MrP, the more magic damage you do to enemies with magic resistance.
-
 # MS
 
 Movement Speed
@@ -166,23 +158,39 @@ Movement Speed
 
 Most valuable player
 
-N1 - Nice one.
+# N1
 
-Nerf – To weaken a certain a characteristic of the game, usually a champion, in order to balance the game. E.g. making Annie’s bear deal less damage. Nerfs are usually done every two weeks with the regular patch.
+Nice one.
 
-Noob/Newb/Newbie/Nub/Nab - Originally termed to be a beginner. But is now used more often to refer to someone who is a bad player.
+# Nerf 
 
-Np - No problem
+To weaken a certain a characteristic of the game, usually a hero, in order to balance the game. Nerf's are seen when game updates are processed.
 
-Nuke – Dealing a large amount of damage in a short time, also called burst. Sometimes people also use nuke to refer to dealing a large amount of area damage.
+# Noob/Newb/Newbie/Nub/Nab
+
+Originally termed to be a beginner. But is now used more often to refer to someone who is a bad player.
+
+# NP
+
+No problem
+
+# Nuke
+
+Dealing a large amount of damage in a short time, also called burst. Sometimes people also use nuke to refer to dealing a large amount of area damage.
 
 Nuke comes from nuclear bomb, which deals a large amount of damage over a large area in a short time.
 
-Nuker – Someone who is capable of nuking.
+# Nuker
 
-OMG - Oh my God.
+Someone who is capable of nuking.
 
-OMW - On my way.
+# OMG
+
+Oh my God.
+
+# OMW
+
+On my way.
 
 OOM – Out of mana.
 
