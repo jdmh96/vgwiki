@@ -212,33 +212,25 @@ An ability that has a more permanent effect, you have this ability throughout th
 
 A form of harass which uses long ranged attacks to cause small to moderate damage in order to weaken an enemy, while keeping a safe position. Used often before fights or when fighting for objectives like dragon or nashor. \(definition by zigomorfico\)
 
-# Pull 
+# Push
 
-A pull is the first hit on a jungle monster, done by someone other than the person going to kill the monster. For example: if Warwick wants to kill the blue golem then Brand could do the first hit on that golem and then go away. This ensures that the blue golem will end up chasing Brand for a while before attacking Warwick. During this time Warwick can keep hitting the blue golem without taking any damage. It will usually be a few seconds before the blue golem realizes Brand is gone and will start attacking Warwick. These few seconds can often make the difference between the jungler being able to kill the blue or not being able to kill the blue golem \(though in this case with Warwick as he can always take on blue easily\).
+To advance in lane towards the enemy Vain with the intention of destroying turrets, heroes, minions & or the Vain itself.
 
-Push – To advance in lane towards the enemy nexus with the intention of destroying towers, inhibitors or the nexus.
+# Push to win
 
-Push to win – Signals one final push in which you expect to destroy the nexus and end the game.
+Signals one final push in which you expect to destroy the Vain and end the game.
 
-QQ – When used as capitals, these look like a set of crying eyes and so refer to someone who is crying/raging.
+# Rage Quitter
 
-QSS - Quicksilver Sash
+Someone who leaves the game out of anger or frustration.
 
-Ragequitter – Someone who leaves the game out of anger or frustration.
+# Roam
 
-Rat - Could refer to Twitch.
+A player/hero is roaming when they are not staying in one place \(or lane\) but rather moving across the map constantly to gank other lanes, invade jungle, etc. This is sometimes referred to a seperate role and in this case usually replaces the support. 
 
-Re - see SS.
+# Shop
 
-Red - Could refer to the red golem or to the Red buff.
-
-River – The large river that runs from the left top to the right bottom of Summoner’s Rift.
-
-Roam - A player/champion is roaming when they are not staying in one place \(or lane\) but rather moving across the map constantly to gank other lanes, invade jungle, etc. This is sometimes referred to a seperate role and in this case usually replaces the support. Alistar is a good example of a champion who can play support but can then suddenly go roaming when necessary because of his strong supporting and strong ganking abilities.
-
-RP – Riot points; points that you get buy paying real money or winning competitions with which you can buy champions, skins, name changes, and other things.
-
-Shop – The in-game shop in your base where you can buy items for your champion with gold. Not to be confused with store.
+The in-game shop in your base where you can buy items for your hero with gold. Not to be confused with store.
 
 Silence – Someone who is silenced cannot cast any abilities. There are some exceptions however, such as Cleanse, and Tryndamere’s ultimate.
 
