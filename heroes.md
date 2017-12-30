@@ -44,6 +44,35 @@ Burns the target every second & causes Adagio's other abilities to deal more dam
 
 Temporarily boosts an allied hero's next several basic attacks for 6s.
 
-* 
+* Deals bonus damage to enemies afflicted by Arcane Fire.
+
+* Bonus damage is increased if Adagio casts this spell on himself.
+
+* Resets basic-attack cooldown on activation.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 10s | 10s | 10s | 10s | 10s |  |  |
+| Energy       Cost | 105 | 130 | 155 | 180 | 205 |  |  |
+| Number of Attacks | 5 | 5 | 5 | 5 | 7 |  |  |
+| Damage | 20 | 40 | 60 | 80 | 120 | 40% |  |
+| Arcane Fire Bonus | 5 | 15 | 25 | 35 | 55 | 40% |  |
+| Self-cast    Bonus  | 5 | 10 | 15 | 20 | 30 | 20% |  |
+
+#### Ultimate: Verse of Judgement
+
+Adagio channels for 2s then deals heavy damage to all enemies in a wide ring around him. Enemies burning with Arcane Fire are also stunned.
+
+* Adagio temporarily gains fortified health while channeling.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal Ratio % | Weapon Ratio % |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Cooldown | 100s | 80s | 60s |  |  |
+| Energy Cost | 140 | 190 | 240 |  |  |
+| Range | 9 | 9 | 9 |  |  |
+| Damage | 500 | 900 | 1300 | 100% |  |
+| Fortified Health | 125 | 225 | 325 |  |  |
+| Stun Duration | 2.2s | 2.2s | 2.2s |  |  |
+
 
 
