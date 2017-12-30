@@ -112,72 +112,61 @@ Refers to almost everything that is not lane or base. It is where the jungle mon
 
 The player who mostly stays in the jungle and gains gold from killing the monsters there.
 
-# KS 
+# KS
 
-Kill Steal. To steal a kill from someone by getting the last hit on the hero. 
+Kill Steal. To steal a kill from someone by getting the last hit on the hero.
 
 # Kite
 
-To kite is when you stay at a distance \(with your ranged champ\) from your opponent and attack them from that distance, so they cant attack you. Ashe is very good at this as her attacks slow the opponent and so keep the opponent from getting to her. \[kudos to Alarus for adding and to fightknights for defining\]
+To kite is when you stay at a distance \(with your ranged hero\) from your opponent and attack them from that distance, so they cannot attack you. 
 
-  
+# L2P
 
+Learn to play
 
-L2P - Learn to play
+# Leash
 
-  
+See pull.
 
+# Lane
 
-  
+One of the ‘roads’ on the map.
 
+# Lifesteal
 
-Leash - See pull.
+Allows you to regain part of the damage you dealt as health. For example: If you dealt 100 damage and had 10% lifesteal you would get 10 health back. Lifesteal only applies to auto-attacks and a few abilities. 
 
-  
+# MF
 
+Miss Fortune
 
-  
+# MIA
 
+Missing in action - see SS
 
-Lane – One of the \(three in Summoner’s Rift and two in Twisted Treeline\) ‘roads’ on the map.
+# Miss
 
-  
+See SS
 
+Could also refer to Miss Fortune \(though usually mf is used\)
 
-  
+# MP5
 
+Mana regeneration per five seconds
 
-Lifesteal - Allows you to regain part of the damage you dealt as health. For example: If you dealt 100 damage and had 10% lifesteal you would get 10 health back. Lifesteal only applies to autoattacks and a few abilities. Whereas spell vamp applies to most magic spells and some other things. Lifesteal percentage is divided by 3 for multi-target spells.
+# MrP 
 
-  
+Magic resistance penetration or simply magic penetration. The higher your MrP, the more magic damage you do to enemies with magic resistance.
 
+# MS
 
-  
+Movement Speed
 
+# MVP 
 
-Line - Misspelling of lane
+Most valuable player
 
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-MF - Miss Fortune
-
-  
-
-
-  
-
-
-Mia = Missing in action - see SS
+N1 - Nice one.
 
   
 
@@ -185,7 +174,7 @@ Mia = Missing in action - see SS
   
 
 
-Mid – Refers to the middle lane in Summoner’s Rift, the middle capture points in Dominion or sometimes the top lane in Twisted Treeline. See laning arrangement in the next post for more information on who goes here on Summoner's Rift.
+Nerf – To weaken a certain a characteristic of the game, usually a champion, in order to balance the game. E.g. making Annie’s bear deal less damage. Nerfs are usually done every two weeks with the regular patch.
 
   
 
@@ -193,7 +182,7 @@ Mid – Refers to the middle lane in Summoner’s Rift, the middle capture point
   
 
 
-Miss - See SS
+Noob/Newb/Newbie/Nub/Nab - Originally termed to be a beginner. But is now used more often to refer to someone who is a bad player.
 
   
 
@@ -201,7 +190,7 @@ Miss - See SS
   
 
 
-Could also refer to Miss Fortune \(though usually mf is used\) kudos to somersetsaxon
+Np - No problem
 
   
 
@@ -209,7 +198,7 @@ Could also refer to Miss Fortune \(though usually mf is used\) kudos to somerset
   
 
 
-MP5 - Mana regeneration per five seconds
+Nuke – Dealing a large amount of damage in a short time, also called burst. Sometimes people also use nuke to refer to dealing a large amount of area damage.
 
   
 
@@ -217,7 +206,7 @@ MP5 - Mana regeneration per five seconds
   
 
 
-MrP - Magic resistance penetration or simply magic penetration. The higher your MrP, the more magic damage you do to enemies with magic resistance.
+Nuke comes from nuclear bomb, which deals a large amount of damage over a large area in a short time.
 
   
 
@@ -225,7 +214,7 @@ MrP - Magic resistance penetration or simply magic penetration. The higher your 
   
 
 
-MS - Movement Speed
+Nuker – Someone who is capable of nuking.
 
   
 
@@ -233,5 +222,107 @@ MS - Movement Speed
   
 
 
-MVP - Most valuable player
+OMG - Oh my God.
+
+  
+
+
+  
+
+
+OMW - On my way.
+
+  
+
+
+  
+
+
+OOM – Out of mana.
+
+  
+
+
+  
+
+
+OP - Overpowered or original post.
+
+  
+
+
+  
+
+
+Overextending - A champion moving too far in lane/enemy territory, which can open them up to ganks. Sometimes it's hard to tell whether someone is overextending or split pushing. \(definition by zigomorfico\)
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+Passive – An ability that has a more permanent effect. This can be a q, w, e, r or innate ability. But most often, when people say passive, they simply refer to your innate. See innate for more information.
+
+  
+
+
+  
+
+
+PD - Phantom dancer
+
+  
+
+
+  
+
+
+Pink - or pink ward, refers to a vision ward \(the expensive one that can detect stealth\). This could also refer to an oracle \(though im not sure\).
+
+  
+
+
+  
+
+
+Poke - A form of harass which uses long ranged attacks to cause small to moderate damage in order to weaken an enemy, while keeping a safe position. Used often before fights or when fighting for objectives like dragon or nashor. \(definition by zigomorfico\)
+
+  
+
+
+  
+
+
+Proc = Activate/trigger. This can be used in a variety of scenarios.
+
+  
+
+
+  
+
+
+Pull - A pull is the first hit on a jungle monster, done by someone other than the person going to kill the monster. For example: if Warwick wants to kill the blue golem then Brand could do the first hit on that golem and then go away. This ensures that the blue golem will end up chasing Brand for a while before attacking Warwick. During this time Warwick can keep hitting the blue golem without taking any damage. It will usually be a few seconds before the blue golem realizes Brand is gone and will start attacking Warwick. These few seconds can often make the difference between the jungler being able to kill the blue or not being able to kill the blue golem \(though in this case with Warwick as he can always take on blue easily\).
+
+  
+
+
+  
+
+
+Push – To advance in lane towards the enemy nexus with the intention of destroying towers, inhibitors or the nexus.
+
+  
+
+
+  
+
+
+Push to win – Signals one final push in which you expect to destroy the nexus and end the game.
 
