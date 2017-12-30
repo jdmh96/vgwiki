@@ -100,11 +100,15 @@ Dealing a large amount of damage in a short time, also called nuke.
 
 The tall grass on every map in which you can hide.
 
+# CP
+
+Crystal Power
+
 # Freezing the Lane
 
-If the opposing laner manages to kill all your minions before you can kill theirs, you will intentionally stand far away enough from the turret, so that the turret does not target the minions and take away your chances of last hitting them. 
+If the opposing laner manages to kill all your minions before you can kill theirs, you will intentionally stand far away enough from the turret, so that the turret does not target the minions and take away your chances of last hitting them.
 
-You also prevent the minions from pushing further and hitting your turret. 
+You also prevent the minions from pushing further and hitting your turret.
 
 You freeze the lane by being the enemy minions' target, preventing them from damaging your turret and ensuring that you get the last hit.
 
@@ -131,10 +135,6 @@ To kite is when you stay at a distance \(with your ranged hero\) from your oppon
 # L2P
 
 Learn to play
-
-# Leash
-
-See pull.
 
 # Lane
 
@@ -288,5 +288,7 @@ Supp - Support. This is a champion or player who doesn't take any minion last hi
 
 Sustain - Long-term regeneration. E.g. a champion with a lot of sustain can stay in lane for a long time because they can keep regenerating their mana or hp so they never have to go back to base to heal. \(kudos to zigomorfico\)
 
+# WP
 
+Weapon Power
 
