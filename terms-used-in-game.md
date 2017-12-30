@@ -230,7 +230,7 @@ A player/hero is roaming when they are not staying in one place \(or lane\) but 
 
 # Shop
 
-The in-game shop in your base where you can buy items for your hero with gold. Not to be confused with store.
+The in-game shop in your base where you can buy items for your hero with gold. Not to be confused with the Market.
 
 # Silence
 
@@ -244,9 +244,9 @@ An ability which does not lock on to your target, and so you need to aim properl
 
 Snowballing means getting stronger exponentially. Meaning that the more kills you get, the stronger you get and so the more kills you are able to get, etc. Snowballing is usually said when referring to items which get stronger the more kills you get.
 
-# Squishy 
+# Squishy
 
-A hero is squishy if he/she is very easy to kill because of low max hp/armor resistance to other hero's abilities. 
+A hero is squishy if he/she is very easy to kill because of low max hp/armor resistance to other hero's abilities.
 
 The opposite of durable.
 
@@ -256,27 +256,19 @@ Sorry.
 
 # SS
 
-Stands for miss or missing. This is said when an opponent in a certain area is missing & therfore could have left the area to push lane or gank other players. Extra caution is advised when someone says SS. 
+Stands for miss or missing. This is said when an opponent in a certain area is missing & therfore could have left the area to push lane or gank other players. Extra caution is advised when someone says SS.
 
 # Stacks
 
-This word can be used in many different ways but always involves multiplying the effect of something. A stack is originally a more or less orderly pile or heap: a precariously balanced stack of books. There are items that "stack" or "pile up" a certain value for each time you do a certain action like auto-attacking \(e.g Guinsoo's Rageblade\), using a skill or killing a champion. There are items that stack values, but you can also stack items yourself \(buying more than one\). There are also skills that stack values \(e.g. Soraka's Starcall\). \[definition provided by fightknights\]
+This word can be used in many different ways but always involves multiplying the effect of something. There are items that "stack" or "pile up" a certain value for each time you do a certain action \(eg. Catherine's A\), using a skill or killing a hero. There are items that stack values, but you can also stack items yourself \(buying more than one - dependent on the item type\). There are also skills that stack values. 
 
-Some more examples:
+# Market
 
-Riven is stacking Bloodthirsters = Riven is buying many Bloodthirsters \(an item\).
+The ‘out-of-game’Vainglory Market in which you can buy heroes, chests, ice, skins & talents etc. Not to be confused with the in-game shop.
 
-Katarina's Mejai's Soulstealer is at 15 stacks = i.e. her Soulstealer now gives 140 ability power.
+# Steal
 
-The debuff from Soraka's Starcall stacks up to a maximum of 8 = Each time Soraka hits someone with Starcall their magic resistance is reduced by 10 \(with a level 3 Starcall\). This keeps increasing everytime she hits them until their magic resistance is lowered by a total of 80. If it didnt stack then the maximum would be 10.
-
-If an item is said not to not stack with another item, like Lichbane and Trinityforce, then the unique values will not add up and only the effect of one of the items will proc - in this case whichever effect does the highest damage\)
-
-I'm sure there are more examples I could find, but I hope that from this explanation and the context you see the word in its meaning will be clear enough. If not, let me know in the comments below!
-
-Store – The ‘out-of-game’ League of Legends store in which you can buy champions, runes, and other things with RP or IP. Not to be confused with shop.
-
-Steal - Specific definitions of this vary but always at least refers to getting the last hit on a unit when an ally was already attacking it. can refer to stealing a champion kill, a minion kill, or a jungle monster.This is usually meant in a negative fashion, as in: you 'stole' from your ally. But stealing is often used as a strategy and so can be used in a positive way. See the next post for more details on when stealing is good.
+Specific definitions of this vary but always at least refers to getting the last hit on a unit when an ally was already attacking it. can refer to stealing a champion kill, a minion kill, or a jungle monster.This is usually meant in a negative fashion, as in: you 'stole' from your ally. But stealing is often used as a strategy and so can be used in a positive way. See the next post for more details on when stealing is good.
 
 Stun – A debuff that completely shuts down someone. They are unable to move, attack, or do abilities for the duration of the stun. During a stun, there are only a very things you can do, such as cast Cleanse, or activate Tryndamere’s ultimate.
 
