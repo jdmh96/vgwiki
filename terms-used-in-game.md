@@ -202,21 +202,19 @@ Overpowered or original post.
 
 # Overextending
 
-A hero moving too far in lane/enemy territory, which can open them up to ganks. 
+A hero moving too far in lane/enemy territory, which can open them up to ganks.
 
 # Passive
 
-An ability that has a more permanent effect. This can be a q, w, e, r or innate ability. But most often, when people say passive, they simply refer to your innate. See innate for more information.
+An ability that has a more permanent effect, you have this ability throughout the match and its strength or length of effect can only be altered through purchase of specific items.
 
-PD - Phantom dancer
+# Poke
 
-Pink - or pink ward, refers to a vision ward \(the expensive one that can detect stealth\). This could also refer to an oracle \(though im not sure\).
+A form of harass which uses long ranged attacks to cause small to moderate damage in order to weaken an enemy, while keeping a safe position. Used often before fights or when fighting for objectives like dragon or nashor. \(definition by zigomorfico\)
 
-Poke - A form of harass which uses long ranged attacks to cause small to moderate damage in order to weaken an enemy, while keeping a safe position. Used often before fights or when fighting for objectives like dragon or nashor. \(definition by zigomorfico\)
+# Pull 
 
-Proc = Activate/trigger. This can be used in a variety of scenarios.
-
-Pull - A pull is the first hit on a jungle monster, done by someone other than the person going to kill the monster. For example: if Warwick wants to kill the blue golem then Brand could do the first hit on that golem and then go away. This ensures that the blue golem will end up chasing Brand for a while before attacking Warwick. During this time Warwick can keep hitting the blue golem without taking any damage. It will usually be a few seconds before the blue golem realizes Brand is gone and will start attacking Warwick. These few seconds can often make the difference between the jungler being able to kill the blue or not being able to kill the blue golem \(though in this case with Warwick as he can always take on blue easily\).
+A pull is the first hit on a jungle monster, done by someone other than the person going to kill the monster. For example: if Warwick wants to kill the blue golem then Brand could do the first hit on that golem and then go away. This ensures that the blue golem will end up chasing Brand for a while before attacking Warwick. During this time Warwick can keep hitting the blue golem without taking any damage. It will usually be a few seconds before the blue golem realizes Brand is gone and will start attacking Warwick. These few seconds can often make the difference between the jungler being able to kill the blue or not being able to kill the blue golem \(though in this case with Warwick as he can always take on blue easily\).
 
 Push – To advance in lane towards the enemy nexus with the intention of destroying towers, inhibitors or the nexus.
 
