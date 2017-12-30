@@ -260,7 +260,7 @@ Stands for miss or missing. This is said when an opponent in a certain area is m
 
 # Stacks
 
-This word can be used in many different ways but always involves multiplying the effect of something. There are items that "stack" or "pile up" a certain value for each time you do a certain action \(eg. Catherine's A\), using a skill or killing a hero. There are items that stack values, but you can also stack items yourself \(buying more than one - dependent on the item type\). There are also skills that stack values. 
+This word can be used in many different ways but always involves multiplying the effect of something. There are items that "stack" or "pile up" a certain value for each time you do a certain action \(eg. Catherine's A\), using a skill or killing a hero. There are items that stack values, but you can also stack items yourself \(buying more than one - dependent on the item type\). There are also skills that stack values.
 
 # Market
 
@@ -268,13 +268,19 @@ The ‘out-of-game’Vainglory Market in which you can buy heroes, chests, ice, 
 
 # Steal
 
-Specific definitions of this vary but always at least refers to getting the last hit on a unit when an ally was already attacking it. can refer to stealing a champion kill, a minion kill, or a jungle monster.This is usually meant in a negative fashion, as in: you 'stole' from your ally. But stealing is often used as a strategy and so can be used in a positive way. See the next post for more details on when stealing is good.
+Specific definitions of this vary but always at least refers to getting the last hit on a unit when an ally was already attacking it. Can refer to stealing a hero kill, a minion kill, or a jungle monster.This is usually meant in a negative fashion, as in: you 'stole' from your ally. But stealing is often used as a strategy and so can be used in a positive way.
 
-Stun – A debuff that completely shuts down someone. They are unable to move, attack, or do abilities for the duration of the stun. During a stun, there are only a very things you can do, such as cast Cleanse, or activate Tryndamere’s ultimate.
+# Stun
 
-Supp - Support. This is a champion or player who doesn't take any minion last hits and so usually ends up with very little gold. This is usually a champion who can do quite well without much gold and their main purpose is to help out the ad carry in their difficult early laning phase and later help the team as a whole by placing wards, healing champions, providing beneficial auras or disabling the enemy champions. See laning arrangement in the next post for more info.
+A debuff that completely shuts down someone. They are unable to move, attack, or do abilities for the duration of the stun. 
 
-Sustain - Long-term regeneration. E.g. a champion with a lot of sustain can stay in lane for a long time because they can keep regenerating their mana or hp so they never have to go back to base to heal. \(kudos to zigomorfico\)
+# Supp
+
+Support. This is a hero or player who doesn't take any minion last hits and so usually ends up with very little gold. This is usually a hero who can do quite well without much gold and their main purpose is to help out the carry in their difficult early laning phase, & later help the team as a whole by placing vision, healing heroes, disabling the enemy heroes. 
+
+# Sustain
+
+Long-term regeneration. E.g. a hero with a lot of sustain can stay in lane for a long time because they can keep regenerating their HP so they do not have to return to base to regenerate.
 
 # WP
 
