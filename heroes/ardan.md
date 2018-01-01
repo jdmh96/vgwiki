@@ -41,5 +41,33 @@ Arden dashes to protect an ally, granting them a 4s barrier & a burst of move sp
 
 #### Ability B: Blood for Blood
 
+Ardan rushes forward & punches his target.
+
+* Overdrive: At max rank, Blood for Blood deals an additional 40% damage.
+* Blood for Blood can only be activated when Ardan has 100% Vengeance & will consume all of it.
+* Blood for Blood triggers basic-attack effects.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 20s | 20s | 20s | 20s | 20s |  |  |
+| Energy       Cost | 0 | 0 | 0 | 0 | 0 |  |  |
+| Range | 5 | 5 | 5 | 5 | 7 |  |  |
+| Damage | 40 | 80 | 120 | 160 | 200 | 70% |  |
+
+#### Ultimate: Gauntlet
+
+Ardan leaps to the target location & projects a perimeter around him. Enemy heroes who touch or cross the perimeter are stunned & take crystal damage.
+
+* If Ardan leaves the perimeter, it is immediately destroyed.
+* Ardan instantly gains full Vengeance upon using this ability.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal      Ratio % | Weapon     Ratio % |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Cooldown | 100s | 90s | 80s |  |  |
+| Energy Cost | 0 | 0 | 0 |  |  |
+| Damage | 250 | 375 | 500 | 350% |  |
+| Stun Duration | 1s | 1s | 1s |  |  |
+| Duration | 4 | 6 | 8 |  |  |
+
 
 
