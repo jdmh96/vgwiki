@@ -55,5 +55,16 @@ Baptiste ordains a target enemy, damaging them & creating an ethereal prison aro
 
 #### Ultimate: Fearsome Shade
 
-Baptiste 
+Baptiste summons waves of shade that terrorize enemies caught in their path. Enemies struck by the shade run from the source in fear & take damage each second.
+
+* Deals 50% less damage to minions.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal Ratio % | Weapon Ratio % |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Cooldown | 80s | 65s | 50s |  |  |
+| Energy Cost | 60 | 80 | 100 |  |  |
+| Damage/Sec | 100 | 125 | 150 | 65% |  |
+| Fear Duration | 1s | 1.3s | 1.6s |  |  |
+
+
 
