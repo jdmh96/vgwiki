@@ -31,7 +31,15 @@ Arden dashes to protect an ally, granting them a 4s barrier & a burst of move sp
 * Barrier scales up with 30% of Ardan's bonus health.
 * Any time this ally takes damage, Ardan gains Vengeance.
 
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 13s | 13s | 13s | 13s | 13s |  |  |
+| Energy       Cost | 0 | 0 | 0 | 0 | 0 |  |  |
+| Range | 7 | 7 | 7 | 7 | 8.5 |  |  |
+| Damage | 50 | 100 | 150 | 200 | 250 | 120% |  |
+| Barrier | 80 | 120 | 160 | 200 | 240 |  |  |
 
+#### Ability B: Blood for Blood
 
 
 
