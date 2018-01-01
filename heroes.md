@@ -20,6 +20,26 @@
 
 ###### Ultimate: Termination Protocol
 
+#### Ardan
+
+###### Heroic Perk: Julia's Gift
+
+###### Ability A: Vanguard
+
+###### Ability B: Blood for Blood
+
+###### Ultimate: Guantley
+
+#### Baptiste
+
+###### Heroic Perk: Reap
+
+###### Ability A: Bad Mojo
+
+###### Ability B: Ordained
+
+###### Ultimate: Fearsome Shade
+
 
 
 

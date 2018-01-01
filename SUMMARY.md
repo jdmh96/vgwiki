@@ -5,6 +5,7 @@
   * [Adagio](heroes/adagio.md)
   * [Alpha](heroes/alpha.md)
   * [Ardan](heroes/ardan.md)
+  * Baptiste
 * [Items](aegis.md)
 * [Terms used in game](terms-used-in-game.md)
 
