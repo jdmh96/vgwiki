@@ -23,7 +23,10 @@ Baptiste steals soul fragments through combat & is healed for each soul fragment
 * Range: 2.8
 * Move Speed: 3.4
 
+#### Bad Mojo
 
+Baptiste pulls a vial of liquid from his vest & throws it. The vial explodes upon reaching its target or when colliding with an enemy.
 
+* 
 
 
