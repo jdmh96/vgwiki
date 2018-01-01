@@ -22,6 +22,15 @@ Ardan benefits from purchasing health items.
 * Range: 1.8
 * Move Speed: 3.3
 
+#### Ability A: Vanguard
+
+Arden dashes to protect an ally, granting them a 4s barrier & a burst of move speed. This also slows & damages nearby enemies.
+
+* Overdrive: At max rank, Vanguard grants 30% Vengeance when cast on an ally.
+* Using this ability on himself results in only half the barrier, speed boost & Vengeance gain.
+* Barrier scales up with 30% of Ardan's bonus health.
+* Any time this ally takes damage, Ardan gains Vengeance.
+
 
 
 
