@@ -46,7 +46,37 @@ Blackfeather lunges to his target with a thrust of his sword, then gains 2.2 bon
 Blackfeather pierces all enemies in a line, damaging them & applying a decaying slow for 1s.
 
 * Overdrive: At max rank, On Point gains increased range.
-* If this 
+* If this hits at least one enemy hero, Blackfeather also gains a 1.2s barrier that scales with 12% of his bonus health & recovers 35 focus.
+* The amount of focus recovered is further increased with 2% of his max energy & 50% of his energy regen.
+* The duration of this slow is increased by 0.4s for each stack of Heartthrob on the target.
+* Deals 50% less damage to minions.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 6s | 5.5s | 5s | 4.5s | 3.5s |  |  |
+| Energy       Cost | 0 | 0 | 0 | 0 | 0 |  |  |
+| Focus Cost | 60 | 60 | 60 | 60 | 60 |  |  |
+| Range | 7 | 7 | 7 | 7 | 9 |  |  |
+| Damage | 80 | 120 | 160 | 200 | 240 | 180% | 100% |
+| Slow | 50% | 55% | 60% | 65% | 70% |  |  |
+| Barrier | 120 | 150 | 180 | 210 | 270 |  |  |
+
+#### Ultimate: Rose Offensive
+
+Blackfeather dashes & slashes all enemies along his path.
+
+* During the dash, Blackfeather is immune to negative effects & has fortified health.
+* This ability has 2 charges.
+* This ability triggers basic-attack effects.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal Ratio % | Weapon Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Charge Time | 40s | 35s | 30s |  |  |
+| Energy Cost | 0 | 0 | 0 |  |  |
+| Cooldown | 1.8s | 1s | 0.2s |  |  |
+| Focus Cost | 50 | 50 | 50 |  |  |
+| Damage | 50 | 100 | 150 | 50% |  |
+| Fortified Health | 75 | 125 | 175 |  |  |
 
 
 
