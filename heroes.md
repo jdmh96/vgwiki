@@ -50,6 +50,28 @@
 
 ###### Ultimate: Ion Cannon
 
+#### Blackfeather
+
+###### Heroic Perk: Heartthrob
+
+###### Ability A: Feint of Heart
+
+###### Ability B: On Point
+
+###### Ultimate: Rose Offensive
+
+#### Catherine
+
+###### Heroic Perk: Captain of the Guard
+
+###### Ability A: Merciless Pursuit
+
+###### Ability B: Stormguard
+
+###### Ultimate: Blast Tremor
+
+
+
 
 
 
