@@ -10,4 +10,5 @@
   * [Baptiste](heroes/baptiste.md)
   * [Baron](heroes/baron.md)
   * [Blackfeather](heroes/blackfeather.md)
+  * [Catherine](heroes/catherine.md)
 
