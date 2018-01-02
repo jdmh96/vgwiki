@@ -22,5 +22,9 @@ Blackfeather's attacks & abilities apply Heartthrob stacks to enemies. Any time 
 * Range: 1.8
 * Move Speed: 3.4
 
+#### Ability A: Feint of Heart
+
+Blackfeather lunges 
+
 
 
