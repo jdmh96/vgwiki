@@ -37,7 +37,7 @@ Baron launches artillery toward the target location, heavily damaging enemies on
 | Range | 8 | 8 | 8 | 8 | 8 | 1.5% |  |
 | Damage | 40 | 120 | 200 | 280 | 360 | 170% | 70% |
 
-Ability B: Jump Jets
+#### Ability B: Jump Jets
 
-After a brief delay, Baron jets to the target location then 
+After a brief delay, Baron jets to the target location then
 
