@@ -40,6 +40,16 @@
 
 ###### Ultimate: Fearsome Shade
 
+#### Baron
+
+###### Heroic Perk: Rocket Launcher
+
+###### Ability A: Porcupine Mortar
+
+###### Ability B: Jump Jets
+
+###### Ultimate: Ion Cannon
+
 
 
 
