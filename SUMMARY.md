@@ -12,5 +12,5 @@
   * [Blackfeather](heroes/blackfeather.md)
   * [Catherine](heroes/catherine.md)
   * [Celeste](heroes/celeste.md)
-  * Churnwalker
+  * [Churnwalker](heroes/churnwalker.md)
 
