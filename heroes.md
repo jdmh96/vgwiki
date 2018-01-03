@@ -92,13 +92,13 @@
 
 #### Flicker
 
-###### Heroic Perk: 
+###### Heroic Perk: Willow Whisper
 
-###### Ability A: 
+###### Ability A: Binding Light
 
-###### Ability B: 
+###### Ability B: Fairy Dust
 
-###### Ultimate: 
+###### Ultimate: Mooncloak
 
 
 
