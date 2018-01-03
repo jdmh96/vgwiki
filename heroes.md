@@ -120,5 +120,25 @@
 
 ###### Ultimate: Bloodsong
 
+#### Grace
+
+###### Heroic Perk: Retribution
+
+###### Ability A: Benediction
+
+###### Ability B: Holy Nova
+
+###### Ultimate: Divine Intervention
+
+#### Grumpjaw
+
+###### Heroic Perk:
+
+###### Ability A: 
+
+###### Ability B: 
+
+###### Ultimate: 
+
 
 
