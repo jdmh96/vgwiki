@@ -70,9 +70,15 @@
 
 ###### Ultimate: Blast Tremor
 
+#### Celeste
 
+###### Heroic Perk: Julia's Light
 
+###### Ability A: Heliogenesis
 
+###### Ability B: Core Collapse
+
+###### Ultimate: Solar Storm
 
 
 
