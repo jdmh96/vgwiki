@@ -15,4 +15,5 @@
   * [Churnwalker](heroes/churnwalker.md)
   * [Flicker](heroes/flicker.md)
   * [Glaive](heroes/glaive.md)
+  * [Grace](heroes/grace.md)
 
