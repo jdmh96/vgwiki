@@ -46,5 +46,20 @@ After a brief delay, the target location collapses & nearby enemies are stunned 
 | Damage | 100 | 175 | 250 | 325 | 475 | 40% |  |
 | Stun           Duration | 1s | 1s | 1s | 1s | 1.5s |  |  |
 
+#### Ultimate: Solar Storm
+
+Celeste launches a storm of stars that travels across the world. Stars collide with the first enemy they hit, dealing crystal damage in an area.
+
+* The number of stars increases each time Solar Storm is upgraded.
+* Deals 50% damage to non-heroes.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal Ratio % | Weapon Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 70s | 65s | 60s |  |  |
+| Energy Cost | 100 | 100 | 100 |  |  |
+| Lead Star           Damage | 300 | 325 | 350 | 100% |  |
+| Star Damage | 150 | 160 | 170 | 20% |  |
+| Stars | 3 | 5 | 7 |  |  |
+
 
 
