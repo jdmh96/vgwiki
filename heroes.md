@@ -90,5 +90,15 @@
 
 ###### Ultimate: Trespass
 
+#### Flicker
+
+###### Heroic Perk: 
+
+###### Ability A: 
+
+###### Ability B: 
+
+###### Ultimate: 
+
 
 
