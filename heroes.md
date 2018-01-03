@@ -80,5 +80,15 @@
 
 ###### Ultimate: Solar Storm
 
+#### Churnwalker
+
+###### Heroic Perk: Futility of Life
+
+###### Ability A: Hook & Chain
+
+###### Ability B: Torment
+
+###### Ultimate: Trespass
+
 
 
