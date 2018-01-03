@@ -48,7 +48,14 @@ Flicker swirls fairy dust around him for 3s, slowing & dealing damage to anyone 
 
 After 1s, Flicker & his allies temporarily gain stealth & a move-speed bonus.
 
-* The stealth will break
+* The stealth will break when the hero uses an ability, attacks or takes damage.
+* After a short time, that hero will stealth again so long as Mooncloak's duration has not expired.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal Ratio % | Weapon Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 105s | 90s | 75s |  |  |
+| Energy Cost | 100 | 100 | 100 |  |  |
+| Duration | 8s | 10s | 12s |  |  |
 
 
 
