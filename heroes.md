@@ -100,5 +100,25 @@
 
 ###### Ultimate: Mooncloak
 
+#### Fortress
+
+###### Heroic Perk: Packmates
+
+###### Ability A: Truth of the Tooth
+
+###### Ability B: Law of the Claw
+
+###### Ultimate: Attack of the Pack
+
+#### Glaive
+
+###### Heroic Perk: Hunt The Weak
+
+###### Ability A: Afterburn
+
+###### Ability B: Twisted Stroke
+
+###### Ultimate: Bloodsong
+
 
 
