@@ -19,7 +19,36 @@ Flicker gains stealth & a move-speed bonus when in brush for 2s. Flicker can the
 * Range: 1.5
 * Move Speed: 3.5
 
+#### Ability A: Binding Light
 
+Flicker commands his fairies to swarm the target location for 2s, dealing damage to enemies within it. When the effect expires, fairy light roots any enemy heroes still within the area.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 6s | 5.5s | 5s | 4.5s | 4s |  |  |
+| Energy       Cost | 30 | 40 | 50 | 60 | 70 |  |  |
+| Range | 8 | 8 | 8 | 8 | 8 |  |  |
+| Damage/     Sec | 80 | 160 | 240 | 320 | 400 | 25% |  |
+| Root           Duration | 1s | 1s | 1s | 1s | 1.5s |  |  |
+
+#### Ability B: Fairy Dust
+
+Flicker swirls fairy dust around him for 3s, slowing & dealing damage to anyone inside the dusted area. After 3s, the dust ignites, dealing a burst of damage.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 14s | 13s | 12s | 11s | 9s |  |  |
+| Energy       Cost | 60 | 70 | 80 | 90 | 100 |  |  |
+| Range | 4 | 4 | 4 | 4 | 4 |  |  |
+| Slow | 35% | 40% | 45% | 50% | 60% |  |  |
+| Damage/   Sec | 30 | 60 | 90 | 120 | 180 | 50% |  |
+| Detonate   Damage | 60 | 120 | 180 | 240 | 360 | 100% |  |
+
+#### Ultimate: Mooncloak
+
+After 1s, Flicker & his allies temporarily gain stealth & a move-speed bonus.
+
+* The stealth will break
 
 
 
