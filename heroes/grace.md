@@ -16,14 +16,18 @@ All effects in Grace's heroic perk & abilities are capped at 200 Crystal power e
 
 ###### Stats Lvl 1-12
 
-* Health: 834 - 2503
-* Energy: 275 - 440
-* Armor: 20 - 60
-* Shield: 20 - 60
-* Weapon: 80 - 153
-* Atk Speed: 100% - 113.2%
-* Range: 2.6
-* Move Speed: 3.3
+* Health: 740 - 2483
+* Energy: 268 - 653
+* Armor: 20 - 70
+* Shield: 20 - 70
+* Weapon: 73 - 152
+* Atk Speed: 100% - 136.3%
+* Range: 2.7
+* Move Speed: 3.5
+
+#### Ability A: Benediction
+
+
 
 
 
