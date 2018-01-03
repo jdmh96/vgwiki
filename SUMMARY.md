@@ -11,4 +11,5 @@
   * [Baron](heroes/baron.md)
   * [Blackfeather](heroes/blackfeather.md)
   * [Catherine](heroes/catherine.md)
+  * [Celeste](heroes/celeste.md)
 
