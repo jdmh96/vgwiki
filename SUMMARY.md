@@ -14,6 +14,7 @@
   * [Celeste](heroes/celeste.md)
   * [Churnwalker](heroes/churnwalker.md)
   * [Flicker](heroes/flicker.md)
+  * [Fortress](heroes/fortress.md)
   * [Glaive](heroes/glaive.md)
   * [Grace](heroes/grace.md)
   * [Grumpjaw](heroes/grumpjaw.md)
