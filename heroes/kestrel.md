@@ -37,5 +37,31 @@ Kestrel fires an arrow that hits the first target in its path. The arrow then ex
 
 #### Ability B: Active Camo
 
+Kestrel instantly stealths & gains bonus move speed. She leaves behind an invisible mist trap that explodes when she damages an enemy hero inside it, damaging & stunning them for 0.8s.
+
+* Kestrel cannot activate this ability if she took damage from a hero in the last 2.5s \(-1% weapon power\).
+* This window is reduced by bonus weapon power.
+* The primary impact of Glimmershot reduces the cooldown of Active Camo by 1.5s.
+* Trap requires 1.2s to arm before it can detonate.
+* The trap has vision & can see enemies.
+* Turrets, Scout Traps & Flare Guns can still see Kestrel while she is invisible.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 10s | 10s | 10s | 10s | 8s |  |  |
+| Energy       Cost | 130 | 130 | 130 | 130 | 130 |  |  |
+| Stealth      Duration | 1s | 1s | 1s | 1s | 1.5s | 3% |  |
+| Speed        Boost | 1 | 1 | 1 | 1 | 1 |  | 0.2% |
+| Mist           Duration | 4s | 5s | 6s | 7s | 8s | 1% |  |
+| Damage | 100 | 150 | 200 | 250 | 300 | 270% |  |
+
+#### Ultimate: One Shot, One Kill
+
+Kestrel charges up & fires a single powerful arrow across the fold, impacting on the first enemy hero, large creature or structure in its path.
+
+* When this hits a target, it reveals it & grants Kestrel full Adrenaline stacks.
+* The base damage dealt by this ability is weapon damage.
+* Deals 50% less damage to structures.
+
 
 
