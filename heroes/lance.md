@@ -40,5 +40,32 @@ Lance lunges forward & strikes through his opponents, dealing weapon damage & ro
 
 #### Ability B: Gythian Wall
 
+Lance smashes enemies back with his shield, dealing weapon damage & also stunning them if they collide with a wall or structure \(max 1.4s\). Afterward, he holds his shield steadfast, greatly reducing incoming damage from the target direction by up to 90%.
+
+* Overdrive: At max rank, Lance ignores all negative effects \(from any direction\) while this ability is active.
+* Damage reduction is 50% effective against turrets.
+* Passive: Lance strafes around the enemy he has most recently attacked. While strafing, he reduces damage from the target's direction by up to 50%.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 9s | 8.5s | 8s | 7.5s | 7s |  |  |
+| Energy       Cost | 0 | 0 | 0 | 0 | 0 |  |  |
+| Stamina    Cost | 40 | 40 | 40 | 40 | 40 |  |  |
+| Damage | 70 | 105 | 140 | 175 | 210 | 80% | 100% |
+| Stun           Duration | 0.6s | 0.7s | 0.8s | 0.9s | 1s | 0.2% |  |
+| Passive     Damage   Reduction | 8% | 10% | 12% | 14% | 18% | 15% |  |
+| Active        Damage   Reduction | 20% | 24% | 28% | 32% | 36% | 15% |  |
+
+#### Ultimate: Combat Roll
+
+Lance rolls in the target direction. His next basic attack within 2s will strike quickly, dealing bonus crystal damage.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal Ratio % | Weapon Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 8s | 6s | 4s |  |  |
+| Energy Cost | 0 | 0 | 0 |  |  |
+| Stamina Cost | 30 | 25 | 20 |  |  |
+| Damage | 150 | 250 | 350 | 60% |  |
+
 
 
