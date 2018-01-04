@@ -18,4 +18,5 @@
   * [Grace](heroes/grace.md)
   * [Grumpjaw](heroes/grumpjaw.md)
   * [Gwen](heroes/gwen.md)
+  * [Idris](heroes/idris.md)
 

@@ -142,33 +142,35 @@
 
 #### Gwen
 
-###### Heroic Perk: 
+###### Heroic Perk: Booomstick
 
-###### Ability A: 
+###### Ability A: Buckshot Bonanza
 
-###### Ability B: 
+###### Ability B: Skidaddle
 
-###### Ultimate: 
+###### Ultimate: Aces High
 
 #### Idris
 
-###### Heroic Perk: 
+###### Heroic Perk: Divergent Paths
 
-###### Ability A: 
+###### Ability A: Shroudstep
 
-###### Ability B: 
+###### Ability B: Chakram
 
-###### Ultimate: 
+###### Ultimate: Shimmer Strike
 
 #### Joule
 
-###### Heroic Perk: 
+###### Heroic Perk: Heavy Plating
 
-###### Ability A: 
+###### Ability A: Rocket Leap
 
-###### Ability B: 
+###### Ability B: Thunder Strike
 
-###### Ultimate: 
+###### Ultimate: Big Red Button
+
+
 
 
 
