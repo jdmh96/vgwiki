@@ -51,7 +51,25 @@ Reduce incoming damage by 40% \(+5% crystal power\).
 
 After a short delay, Grace knocks enemies into the air, disabling them for 1s.
 
+* Overdrive: Grace gains immunity to negative effects when casting this ability.
+* If this attack hits at least one enemy, Grace will immediately recover from the ability.
+* Deals 50% less damage to minions.
 
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 13s | 12s | 11s | 10s | 8s |  |  |
+| Energy       Cost | 100 | 100 | 100 | 100 | 100 |  |  |
+| Damage | 125 | 200 | 275 | 350 | 425 | 200% |  |
+
+#### Ultimate: Divine Intervention
+
+Grace instantly surrounds herself & her target with a full holy shield & begins channeling for 1.8s after which Grace's target receives a massive heal.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal Ratio % | Weapon Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 70s | 60s | 50s |  |  |
+| Energy Cost | 0 | 0 | 0 |  |  |
+| Healing Strength | 500 | 600 | 800 | 200% |  |
 
 
 
