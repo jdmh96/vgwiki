@@ -32,7 +32,40 @@ Fortress marks the target enemy as prey & his next basic attack becomes a short-
 | Duration | 2s | 2s | 2s | 2s | 3s |  |  |
 | Lifesteal | 10% | 12% | 14% | 16% | 20% |  |  |
 
-Ability B: Law of the Claw
+#### Ability B: Law of the Claw
+
+Fortress claws his target, causing it to bleed for several seconds.
+
+* Attacks from Fortress & his allies increase bleeding by one stack.
+* Upon reaching 6 stacks, the target is dealt a burst of damage based on its max health & receives mortal wound \(reduced healing\).
+* Overdrive: At max rank, the target is also slowed by 30% upon reaching 6 stacks.
+* Bleeding damage per second: 10 \(+15% of crystal power\)
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 11s | 10s | 9s | 8s | 6s |  |  |
+| Energy       Cost | 30 | 40 | 50 | 60 | 70 |  |  |
+| Damage | 70 | 115 | 160 | 205 | 250 | 70% |  |
+| % Max          Health | 8% | 10% | 12% | 14% | 18% | 5% |  |
+
+#### Ultimate: Attack of the Pack
+
+Fortress summons a pack of wolves. Each pack wolf seeks out a different enemy hero.
+
+* It takes three separate attacks to kill a pack wolf.
+* Wolves apply bleeding with their basic attacks.
+* Wolves take normal damage from abilities & are granted 20% of Fortress' bonus defensive stas.
+* Fortress gains fortified health & attack speed when the wolves are summoned.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal Ratio % | Weapon Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 80s | 70s | 60s |  |  |
+| Energy Cost | 120 | 140 | 160 |  |  |
+| Duration | 10s | 12s | 14s |  |  |
+| Attack Speed | 30% | 45% | 60% |  |  |
+| Fortified Health | 300 | 425 | 550 |  |  |
+| Wolf Attack        Damage | 20 | 40 | 60 |  |  |
+| Wolf Base Health | 300 | 425 | 550 |  |  |
 
 
 
