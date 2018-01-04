@@ -10,3 +10,5 @@ Aftershock is a Tier 3 Crystal Power item used to increase your crystal power by
 
 
 
+
+
