@@ -35,5 +35,31 @@ Gwen blasts enemies in the target direction, dealing weapon damage to all target
 
 #### Ability B: Skedaddle
 
+Gwen gains a burst of move speed while instantly removing from herself any negative movement-impairing effects.
+
+* Blocks further effects for 0.5s.
+* Passive: Gwen gains 0.8 bonus move speed for the entire match. This effect is temporarily disabled for 4s upon taking damage from an enemy hero.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 24s | 21s | 18s | 15s | 12s |  |  |
+| Energy       Cost | 60 | 60 | 60 | 60 | 60 |  |  |
+| Speed        Boost | 1.2 | 1.4 | 1.6 | 1.8 | 2.2 |  |  |
+| Bonus        Speed       Duration | 1.5s | 1.5s | 1.5s | 1.5s | 1.5s |  |  |
+
+#### Ultimate: Aces High
+
+Gwen flings a card in the target direction, stunning & dealing weapon damage the first hero it hits.
+
+* The card damages everything it passes through.
+* Deals 50% less damage to minions.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal Ratio % | Weapon Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 75s | 60s | 45s |  |  |
+| Energy Cost | 100 | 100 | 100 |  |  |
+| Damage | 250 | 400 | 550 | 240% | 100% |
+| Stun Duration | 1s | 1.2s | 1.4s |  |  |
+
 
 
