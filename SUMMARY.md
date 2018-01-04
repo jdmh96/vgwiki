@@ -16,4 +16,5 @@
   * [Flicker](heroes/flicker.md)
   * [Glaive](heroes/glaive.md)
   * [Grace](heroes/grace.md)
+  * [Grumpjaw](heroes/grumpjaw.md)
 

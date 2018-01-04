@@ -132,13 +132,13 @@
 
 #### Grumpjaw
 
-###### Heroic Perk:
+###### Heroic Perk: Living Armor
 
-###### Ability A: 
+###### Ability A: Grumpy
 
-###### Ability B: 
+###### Ability B: Hangry
 
-###### Ultimate: 
+###### Ultimate: Stuffed
 
 
 
