@@ -20,4 +20,5 @@
   * [Gwen](heroes/gwen.md)
   * [Idris](heroes/idris.md)
   * [Joule](heroes/joule.md)
+  * [Kestrel](heroes/kestrel.md)
 
