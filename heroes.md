@@ -190,5 +190,17 @@
 
 ###### Ultimate: Yummy Catnip Frenzy
 
+#### Krul
+
+###### Heroic Perk: 
+
+###### Ability A: 
+
+###### Ability B: 
+
+###### Ultimate: 
+
+
+
 
 
