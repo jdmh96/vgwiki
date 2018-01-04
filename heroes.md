@@ -200,5 +200,45 @@
 
 ###### Ultimate: From Hell's Heart
 
+#### Lance
+
+###### Heroic Perk: Partisan's Technique
+
+###### Ability A: Impale
+
+###### Ability B: Gythian Wall
+
+###### Ultimate: Combat Roll
+
+#### Lorelai
+
+###### Heroic Perk: That's Swell
+
+###### Ability A: Fish Food
+
+###### Ability B: Splashdown
+
+###### Ultimate: Waterwall
+
+#### Lyra
+
+###### Heroic Perk: Principle Arcanum
+
+###### Ability A: Imperial Sigil
+
+###### Ability B: Bright Bulwark
+
+###### Ultimate: Arcane Passage
+
+#### Ozo
+
+###### Heroic Perk: Carnie Luck
+
+###### Ability A: Three-Ring Circus
+
+###### Ability B: Acrobounce
+
+###### Ultimate: Bangarang
+
 
 
