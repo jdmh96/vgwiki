@@ -21,4 +21,5 @@
   * [Idris](heroes/idris.md)
   * [Joule](heroes/joule.md)
   * [Kestrel](heroes/kestrel.md)
+  * [Koshka](heroes/koshka.md)
 
