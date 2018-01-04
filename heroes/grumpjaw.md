@@ -39,7 +39,29 @@ Grumpjaw charges forward & slashes the area in front of him, damaging & slowing 
 
 #### Ability B: Hangry
 
-Grumpjaw leaps
+Grumpjaw leaps toward his target & attacks it. Afterward, he gains bonus weapon damage & attack speed for several seconds.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 9s | 9s | 9s | 9s | 9s |  |  |
+| Energy       Cost | 30 | 40 | 50 | 60 | 70 |  |  |
+| Bonus        Speed       Duration | 5s | 5s | 5s | 5s | 6s |  |  |
+| Damage | 30 | 50 | 70 | 90 | 110 | 80% |  |
+| Attack        Speed | 20% | 30% | 40% | 50% | 60% |  |  |
+
+#### Ultimate: Stuffed
+
+Grumpjaw lunges forward, devouring the first enemy hero on his path. While inside Grumpjaw's belly, enemies cannot move, act or see. After 3s, Grumpjaw will spit the enemy out in front of him.
+
+* Reactivate this ability to spit the enemy out early.
+* If Grumpjaw is stunned, killed or otherwise interrupted while eating, he will release his victim early.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal Ratio % | Weapon Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 70s | 60s | 50s |  |  |
+| Energy Cost | 50 | 60 | 70 |  |  |
+| Damage | 400 | 550 | 700 | 200% |  |
+| Duration | 3s | 3s | 3s |  |  |
 
 
 
