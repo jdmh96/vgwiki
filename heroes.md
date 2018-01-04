@@ -140,5 +140,35 @@
 
 ###### Ultimate: Stuffed
 
+#### Gwen
+
+###### Heroic Perk: 
+
+###### Ability A: 
+
+###### Ability B: 
+
+###### Ultimate: 
+
+#### Idris
+
+###### Heroic Perk: 
+
+###### Ability A: 
+
+###### Ability B: 
+
+###### Ultimate: 
+
+#### Joule
+
+###### Heroic Perk: 
+
+###### Ability A: 
+
+###### Ability B: 
+
+###### Ultimate: 
+
 
 
