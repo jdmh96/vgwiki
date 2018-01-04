@@ -30,7 +30,15 @@ Lance lunges forward & strikes through his opponents, dealing weapon damage & ro
 * If this attack hits at least one enemy, Lance will immediately recover from the ability.
 * Deals 50% less damage to minions.
 
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 12s | 11s | 10s | 9s | 7s |  |  |
+| Energy       Cost | 0 | 0 | 0 | 0 | 0 |  |  |
+| Stamina    Cost | 30 | 30 | 30 | 30 | 30 |  |  |
+| Damage | 120 | 240 | 360 | 480 | 600 | 80% | 140% |
+| Root           Duration | 1s | 1s | 1s | 1s | 1.2s | 0.2% |  |
 
+#### Ability B: Gythian Wall
 
 
 
