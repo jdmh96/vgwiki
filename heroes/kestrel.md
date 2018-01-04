@@ -63,5 +63,13 @@ Kestrel charges up & fires a single powerful arrow across the fold, impacting on
 * The base damage dealt by this ability is weapon damage.
 * Deals 50% less damage to structures.
 
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal Ratio % | Weapon Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 55s | 45s | 35s |  |  |
+| Energy Cost | 60 | 60 | 60 |  |  |
+| Damage | 450 | 625 | 800 | 260% | 120% |
+| Armor Piercing | 10% | 20% | 30% |  |  |
+| Reveal Duration | 2s | 4s | 6s |  |  |
+
 
 
