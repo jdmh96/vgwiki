@@ -192,15 +192,13 @@
 
 #### Krul
 
-###### Heroic Perk: 
+###### Heroic Perk: Shadows Empower Me
 
-###### Ability A: 
+###### Ability A: Dead Man's Rush
 
-###### Ability B: 
+###### Ability B: Spectral Smite
 
-###### Ultimate: 
-
-
+###### Ultimate: From Hell's Heart
 
 
 
