@@ -19,9 +19,44 @@ Joule has bonus armor & shield against damage that hits her on the front & sides
 * Range: 2.4
 * Move Speed: 3.4
 
-Ability A: Rocket Leap
+#### Ability A: Rocket Leap
 
-Joule leaps to the target location. Enemies
+Joule leaps to the target location. Enemies caught underneath Joule take full damage & are stunned, while enemies near the impact are knocked away & take 33% damage.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 22s | 20s | 18s | 16s | 10s |  |  |
+| Energy       Cost | 100 | 115 | 130 | 145 | 160 |  |  |
+| Damage | 150 | 200 | 250 | 300 | 350 | 170% |  |
+| Stun           Duation | 1.1s | 1.2s | 1.3s | 1.4s | 1.5s |  |  |
+
+#### Ability B: Thunder Strike
+
+Joule's mech fires an energy bolt directly in front of her. If this strikes an enemy, the next Thunder Strike will have bonus armor & shield pierce.
+
+* Overdrive: At max rank, weapon damage can critically strike.
+* Cooldown speed improves with attack speed.
+* Deals 50% less damage to minions.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 2.5s | 2.5s | 2.5s | 2.5s | 2.5s |  |  |
+| Energy       Cost | 40 | 40 | 40 | 40 | 40 |  |  |
+| Damage | 80 | 110 | 140 | 170 | 200 | 160% | 175% |
+| Bonus        Pierce | 5% | 6% | 7% | 8% | 10% |  |  |
+
+#### Ultimate: Big Red Button
+
+Joule fires a massive beam of energy for 1.5s.
+
+* The force of this beam pushes Joule backward during channeling.
+* Deals 50% less damage to structures.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal Ratio % | Weapon Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 60s | 50s | 40s |  |  |
+| Energy Cost | 100 | 125 | 150 |  |  |
+| Damage/Sec | 530 | 995 | 1460 | 350% |  |
 
 
 
