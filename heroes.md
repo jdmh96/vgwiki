@@ -170,7 +170,15 @@
 
 ###### Ultimate: Big Red Button
 
+#### Kestrel
 
+###### Heroic Perk: Adrenaline
+
+###### Ability A: Glimmershot
+
+###### Ability B: Active Camo
+
+###### Ultimate: One Shot, One Kill
 
 
 
