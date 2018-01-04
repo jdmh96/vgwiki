@@ -180,5 +180,15 @@
 
 ###### Ultimate: One Shot, One Kill
 
+#### Koshka
+
+###### Heroic Perk: Bloodrush
+
+###### Ability A: Pouncy Fun
+
+###### Ability B: Twirly Death
+
+###### Ultimate: Yummy Catnip Frenzy
+
 
 
