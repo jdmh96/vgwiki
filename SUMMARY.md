@@ -27,4 +27,5 @@
   * [Lance](heroes/lance.md)
   * [Lorelai](heroes/lorelai.md)
   * [Lyra](heroes/lyra.md)
+  * [Ozo](heroes/ozo.md)
 
