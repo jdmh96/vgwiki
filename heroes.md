@@ -240,5 +240,135 @@
 
 ###### Ultimate: Bangarang
 
+#### Petal
+
+###### Heroic Perk: Munions
+
+###### Ability A: Brambleboom Seeds
+
+###### Ability B: Trampoline!
+
+###### Ultimate: Spontaneous Combustion
+
+#### Phinn
+
+###### Heroic Perk: Unstoppable
+
+###### Ability A: Quibble
+
+###### Ability B: Polite Company
+
+###### Ultimate: Forced Accord
+
+#### Reim
+
+###### Heroic Perk: Frostguard
+
+###### Ability A: Winter Spire
+
+###### Ability B: Chill Winds
+
+###### Ultimate: Valkyrie
+
+#### Reza
+
+###### Heroic Perk: Firestarter
+
+###### Ability A: Scorcher
+
+###### Ability B: Troublemaker
+
+###### Ultimate: Netherform Detonator
+
+#### Ringo
+
+###### Heroic Perk: Double Down
+
+###### Ability A: Achilles Shot
+
+###### Ability B: Twirling Silver
+
+###### Ultimate: Hellfire Brew
+
+#### Rona
+
+###### Heroic Perk: Berserker's Fury
+
+###### Ability A: Into the Fray
+
+###### Ability B: Foesplitter
+
+###### Ultimate: Red Mist
+
+#### Samuel
+
+###### Heroic Perk: Corrupted Genius
+
+###### Ability A: Malice & Verdict
+
+###### Ability B: Drifting Dark
+
+###### Ultimate: Oblivion
+
+#### SAW
+
+###### Heroic Perk: Spin up
+
+###### Ability A: Roadie Run
+
+###### Ability B: Suppressing Fire
+
+###### Ultimate: Mad Cannon
+
+#### Skaarf
+
+###### Heroic Perk: Fan the Flames
+
+###### Ability A: Spitfire
+
+###### Ability B: Goop
+
+###### Ultimate: Dragon Breath
+
+#### Skye
+
+###### Heroic Perk: Target Lock
+
+###### Ability A: Forward Barrage
+
+###### Ability B: Suri Strike
+
+###### Ultimate: Death from Above
+
+#### Taka
+
+###### Heroic Perk: House Kamuha
+
+###### Ability A: Kaiten
+
+###### Ability B: Kaku
+
+###### Ultimate: X-Retsu
+
+#### Varya
+
+###### Heroic Perk: Chain Lightning
+
+###### Ability A: Stormforged Spear
+
+###### Ability B: Arc Recursion
+
+###### Ultimate: Anvil's Hammer
+
+#### Vox
+
+###### Heroic Perk: Julia's Song
+
+###### Ability A: Sonic Zoom
+
+###### Ability B: Pulse
+
+###### Ultimate: Wait for It ...
+
 
 
