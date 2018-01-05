@@ -26,4 +26,5 @@
   * [Krul](heroes/krul.md)
   * [Lance](heroes/lance.md)
   * [Lorelai](heroes/lorelai.md)
+  * [Lyra](heroes/lyra.md)
 
