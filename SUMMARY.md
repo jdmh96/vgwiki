@@ -30,4 +30,5 @@
   * [Ozo](heroes/ozo.md)
   * [Petal](heroes/petal.md)
   * [Phinn](heroes/phinn.md)
+  * [Reim](heroes/reim.md)
 
