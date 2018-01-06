@@ -29,4 +29,5 @@
   * [Lyra](heroes/lyra.md)
   * [Ozo](heroes/ozo.md)
   * [Petal](heroes/petal.md)
+  * [Phinn](heroes/phinn.md)
 
