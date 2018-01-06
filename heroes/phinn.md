@@ -8,7 +8,16 @@ Phinn cannot be stopped or stunned. All movement-impairing effects are instead r
 
 * He even shrugs off attempts on his life, passively gaining 18% additional armor, shield & max health from items & effects.
 
+###### Stats Lvl 1-12
 
+* Health: 892 - 2781
+* Energy: 220 - 440
+* Armor: 20 - 70
+* Shield: 20 - 70
+* Weapon: 95 - 154
+* Atk Speed: 100% - 113.2%
+* Range: 1.9
+* Move Speed: 2.8
 
 
 
