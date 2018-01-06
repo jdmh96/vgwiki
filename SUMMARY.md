@@ -31,4 +31,5 @@
   * [Petal](heroes/petal.md)
   * [Phinn](heroes/phinn.md)
   * [Reim](heroes/reim.md)
+  * [Reza](heroes/reza.md)
 
