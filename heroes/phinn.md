@@ -19,5 +19,9 @@ Phinn cannot be stopped or stunned. All movement-impairing effects are instead r
 * Range: 1.9
 * Move Speed: 2.8
 
+Ability A: Quibble
+
+Phinn slams his anchor down on the targeted location, heavily slowing enemies for 0.9s.
+
 
 
