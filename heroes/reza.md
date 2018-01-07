@@ -29,11 +29,41 @@ Reza smashes the ground, creating a fiery shockwave in front of him. This deals 
 
 | Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Cooldown | 4s | 3.5s | 3s | 2.5s | 2s |  |  |
-| Energy       Cost | 60 | 60 | 60 | 60 | 60 |  |  |
-| Range | 6 | 6 | 6 | 6 | 7.5 |  |  |
-| 1st Hit       Damage | 60 | 90 | 120 | 150 | 180 | 70% |  |
-| 2nd Hit      Damage | 60 | 90 | 120 | 150 | 180 | 100% |  |
+| Cooldown | 6s | 5.5s | 5s | 4.5s | 4s |  |  |
+| Energy       Cost | 30 | 40 | 50 | 60 | 70 |  |  |
+| Range | 7 | 7 | 7 | 7 | 9 |  |  |
+| Damage | 80 | 130 | 180 | 230 | 280 | 90% |  |
+
+#### Ability B: Troublemaker
+
+Reza dashes to the target location, dealing crystal damage to enemies he passes through.
+
+* Reza's next basic attack deals bonus crystal damage.
+* This ability has 2 charges.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Charge       Time | 15s | 14s | 13s | 12s | 10s |  |  |
+| Energy       Cost | 40 | 50 | 60 | 70 | 80 |  |  |
+| Cooldown | 2s | 2s | 2s | 2s | 2s |  |  |
+| Bonus        Damage | 25 | 50 | 75 | 100 | 125 | 80% |  |
+| Damage | 70 | 100 | 130 | 160 | 190 | 60% |  |
+
+#### Ultimate: Netherform Detonator
+
+Reza vanishes removing from himself any negative movement-impairing effects, then reappears at the target location in empowered demon form.
+
+* Upom reappearing, he unleashes a blazing explosion, damaging enemies & consuming Firestarter within the target radius.
+* Reza then applies Firestarter to all enemies nearby.
+* Each basic attack now applies Firestarter on enemies without Firestarter on them.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal Ratio % | Weapon Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 50s | 45s | 40s |  |  |
+| Energy Cost | 100 | 120 | 140 |  |  |
+| Damage | 250 | 250 | 450 | 50% |  |
+| Duration | 6s | 7s | 8s |  |  |
+| Fortified Health | 120 | 220 | 320 | 10% |  |
 
 
 
