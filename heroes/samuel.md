@@ -22,5 +22,7 @@ Every 6s, Samuel's next basic attack fires a bolt of dark power that deals bonus
 * Range: 6
 * Move Speed: 3.2
 
+Ability A: Malice & Verdict
+
 
 
