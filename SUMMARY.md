@@ -32,4 +32,5 @@
   * [Phinn](heroes/phinn.md)
   * [Reim](heroes/reim.md)
   * [Reza](heroes/reza.md)
+  * [Ringo](heroes/ringo.md)
 
