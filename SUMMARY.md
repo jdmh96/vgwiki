@@ -34,4 +34,5 @@
   * [Reza](heroes/reza.md)
   * [Ringo](heroes/ringo.md)
   * [Rona](heroes/rona.md)
+  * [Samuel](heroes/samuel.md)
 
