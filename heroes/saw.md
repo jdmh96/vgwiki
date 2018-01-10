@@ -22,5 +22,22 @@ Every basic attack give SAW increased attack speed, but it also significantly de
 * Range: 6.5
 * Move Speed: 3.1
 
+#### Ability A: Roadie Run
+
+SAW sprints & switches to a melee combat knife. If SAW stabs someone, he will deal bonus damage based on the target's missing health & roll backward.
+
+* Activating this ability clears all stacks of Spin Up.
+* Crystal power will boost the run speed, up to a maximum of +3.2.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 15s | 14s | 13s | 12s | 11s |  |  |
+| Energy       Cost | 65 | 65 | 65 | 65 | 65 |  |  |
+| Base          Damage | 60 | 140 | 220 | 300 | 380 | 280% |  |
+| Missing     Health % | 15% | 20% | 25% | 30% | 40% |  |  |
+| Speed        Boost | 2.5 | 2.5 | 2.5 | 2.5 | 2.5 | 1.5% |  |
+
+Ability B: Suppressing Fire
+
 
 
