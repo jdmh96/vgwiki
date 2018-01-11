@@ -1,6 +1,4 @@
-# Adagio
-
-Team healer & damage enhancer with a large area stun. A medium difficulty hero.
+###### ![](/assets/Adagio_Wiki_sml.gif)Team healer & damage enhancer with a large area stun. A medium difficulty hero.
 
 #### Heroic Perk: Arcane Renewal
 
