@@ -36,4 +36,5 @@
   * [Rona](heroes/rona.md)
   * [Samuel](heroes/samuel.md)
   * [SAW](heroes/saw.md)
+  * [Skaarf](heroes/skaarf.md)
 
