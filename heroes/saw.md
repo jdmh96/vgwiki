@@ -39,5 +39,19 @@ SAW sprints & switches to a melee combat knife. If SAW stabs someone, he will de
 
 #### Ability B: Suppressing Fire
 
+SAW fires a hurricane of bullets in a set direction for 2s, damaging & slowing enemies in its path.
+
+* Finishing this ability grants all stacks of Spin Up & resets the cooldown of Roadie Run.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 15s | 15s | 15s | 15s | 15s |  |  |
+| Energy       Cost | 40 | 50 | 60 | 70 | 80 |  |  |
+| Damage/   Sec | 120 | 170 | 220 | 270 | 370 | 200% |  |
+| Slow          Duration | 2s | 2s | 2s | 2s | 2.5s |  |  |
+| Slow | 45% | 45% | 45% | 45% | 45% | 45% |  |
+
+#### Ultimate: Mad Cannon
+
 
 
