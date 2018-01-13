@@ -53,5 +53,17 @@ SAW fires a hurricane of bullets in a set direction for 2s, damaging & slowing e
 
 #### Ultimate: Mad Cannon
 
+SAW loads explosive shells into his gun that deal additional damage based on the target's missing health. The shells also deal splash damage based on the amount of crystal power SAW has.
+
+* This explosive ammo fires 0.3 slower than usual & grants 2 stacks of Spin Up.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal Ratio % | Weapon Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 100s | 80s | 60s |  |  |
+| Energy Cost | 60 | 75 | 90 |  |  |
+| Crystal Damage | 40 | 60 | 80 | 140% |  |
+| Missing Health % | 12% | 12% | 12% |  |  |
+| \# Shells | 5 | 7 | 9 |  |  |
+
 
 
