@@ -37,4 +37,5 @@
   * [Samuel](heroes/samuel.md)
   * [SAW](heroes/saw.md)
   * [Skaarf](heroes/skaarf.md)
+  * [Skye](heroes/skye.md)
 
