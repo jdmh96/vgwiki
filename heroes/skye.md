@@ -44,7 +44,37 @@ Skye dashes to a chosen location around her locked target while firing a volley 
 * This ability can only be activated when Skye has a locked target.
 * Activating this ability resets a portion of the cooldown on Forward Barrage.
 
-Passive: Each ability 
+Passive: Each ability point in Suri Strike increases the duration of Target Lock.
+
+* Deals 50% less damage to minions.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 14s | 12s | 10s | 8s | 6s |  |  |
+| Energy       Cost | 70 | 70 | 70 | 70 | 70 |  |  |
+| Damage | 90 | 150 | 210 | 270 | 330 | 100% |  |
+| Duration    Bonus | 1s | 1.5s | 2s | 2.5s | 4s |  |  |
+| Cooldown Reset | 40% | 55% | 70% | 85% | 100% |  |  |
+
+Ultimate: Death from Above
+
+Skye fires a salvo of missiles at a chosen location around her locked target. After a 1.3s delay, the missiles rain down on that location, stunning enemies for 0.5s. Enemies still in the area afterward are slowed & take crystal damage.
+
+* Aiming directly on your locked target rains down the missiles in a cluster.
+* Aiming away from your locked target rains them down in a line across the target's path.
+* This ability can only be activated when Skye has a locked target.
+* Deals 50% less damage to structures & bosses.
+
+Passive: Each ability point in Death from Above increases the range of Target Lock.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Crystal Ratio % | Weapon Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 30s | 24s | 18s |  |  |
+| Energy Cost | 70 | 90 | 110 |  |  |
+| Duration | 2s | 3s | 4s |  |  |
+| Damage / Sec | 250 | 300 | 350 | 50% |  |
+| Slow | 55% | 60% | 65% |  |  |
+| Range Bonus | 1.5 | 3 | 4.5 |  |  |
 
 
 
