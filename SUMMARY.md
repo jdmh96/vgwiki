@@ -38,4 +38,5 @@
   * [SAW](heroes/saw.md)
   * [Skaarf](heroes/skaarf.md)
   * [Skye](heroes/skye.md)
+  * [Taka](heroes/taka.md)
 
