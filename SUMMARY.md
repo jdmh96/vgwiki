@@ -40,4 +40,5 @@
   * [Skye](heroes/skye.md)
   * [Taka](heroes/taka.md)
   * [Varya](heroes/varya.md)
+  * [Vox](heroes/vox.md)
 
