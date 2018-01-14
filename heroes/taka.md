@@ -20,5 +20,17 @@ When Taka uses an ability or lands a Mortal Strike, he gains a stack of Ki.
 * Range: 2
 * Move Speed: 3.4
 
+#### Ability A: Kaiten
+
+Taka flips over his target, cutting it with his switchblade. Taka is invulnerable to damage & negetive effects while in mid-air.
+
+| Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cooldown | 15s | 15s | 15s | 15s | 15s |  |  |
+| Energy       Cost | 55 | 55 | 55 | 55 | 0 |  |  |
+| Damage | 100 | 165 | 230 | 295 | 360 | 80% |  |
+
+#### Ability B: Kaku
+
 
 
