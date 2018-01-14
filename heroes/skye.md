@@ -40,5 +40,11 @@ Skye fires a continuous stream of bullets while strafing in the selected directi
 
 Skye dashes to a chosen location around her locked target while firing a volley of missiles along a line between her & her target.
 
+* Multiple missiles can hit the same target, but subsequent hits deal 20% damage.
+* This ability can only be activated when Skye has a locked target.
+* Activating this ability resets a portion of the cooldown on Forward Barrage.
+
+Passive: Each ability 
+
 
 
