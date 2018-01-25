@@ -43,4 +43,5 @@
   * [Vox](heroes/vox.md)
 * [Adagio Lore](lores/adagio-lore.md)
 * [Alpha Lore](alpha-lore.md)
+* [Arden Lore](arden-lore.md)
 
