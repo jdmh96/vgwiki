@@ -41,8 +41,5 @@
   * [Taka](heroes/taka.md)
   * [Varya](heroes/varya.md)
   * [Vox](heroes/vox.md)
-* [Lores](lores.md)
-  * Alpha Lore
-  * [Adagio Lore](lores/adagio-lore.md)
-* [Adagio Lore](adagio.md)
+* [Adagio Lore](lores/adagio-lore.md)
 
