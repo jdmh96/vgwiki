@@ -42,5 +42,7 @@
   * [Varya](heroes/varya.md)
   * [Vox](heroes/vox.md)
 * [Lores](lores.md)
-* [Adagio](adagio.md)
+  * Alpha Lore
+  * [Adagio Lore](lores/adagio-lore.md)
+* [Adagio Lore](adagio.md)
 
