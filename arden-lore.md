@@ -2,8 +2,6 @@
 
 “I do not need your permission to buy a goat,” Julia said. “Goat milk is delicious, and we can make cheese.”
 
-
-
 They’d been arguing all evening. Ardan was hunched over his power gauntlet, sanding down the edges of a grill he’d removed to improve air flow. Outside in the yard, a goat shrieked into the moonless dark. “Goats stink and scream like fiends,” he grumped. “It hasn’t stopped for an hour. How will the twins sleep?”
 
 “The kids need a pet. Are you dropping metal shavings on my divan?”
@@ -100,8 +98,6 @@ He fled from the house into the dark, past the poor dead goat, whose screams had
 
 “Stop swinging.”
 
-
-
 From the top car of the rusted-out Carnie Wheel in the abandoned amusement park, Celeste gazes down at the mismatched buildings and colorful blinking lights of Taizen Gate. Up there, she can almost forget what it’s like to bump through the crowds, her fingers curled up tight in her brother’s so as not to lose him. How the merchants shove dead fish and live chickens and beeping gadgets in her face in the markets. How she never sleeps well thanks to the MECHANIC sign over her father’s garage that pulses red through her curtains. How the few stars that appear above the bright city call to her.
 
 Vox grins, not even holding on, shifting his weight back and forth hard. “What? Like_this_? Is this what’s scaring you?”
@@ -194,8 +190,6 @@ _Celeste searches among the faces of the Stormguard for the one who killed her m
 
 Ardan slammed his fist into the armor’s control panel.
 
-
-
 “Command?” responded the computer voice.
 
 “Vanguard up!” he screamed.
@@ -208,7 +202,7 @@ Had his rules been so impossible? Don’t draw attention to yourselves. Don’t 
 
 And now, his children were falling.
 
-_Don’t draw attention to yourselves._And they’d put up_posters_.
+_Don’t draw attention to yourselves.\_And they’d put up\_posters_.
 
 \*
 
@@ -262,13 +256,9 @@ _WHOOMSHHHHH_
 
 through us and creates this freaking puddle of flame that we have to jump over. Dad’s armor is overheating, and this old Gythian war mage who’s doing all the talking is like, “We must escape to the barge!” and Dad’s like, “My daughter will have nothing to do with your old-world politics!” and I’m like, “Can we discuss this later when we aren’t, you know, about to
 
-_die_
+_die_?”
 
-?”
-
-
-
-We race down this old creaking dock toward the_RAAAAAHHHHHRRR_of these titanbacks that pull the barges. While the soldiers yank on the ropes to float a beast close enough for us to board, the Stormguard march closer, singing a creepy war song. An arrow goes_SHTOOMP_into the spine of the guy next to me. What’s left of the first line of Gythian defense stabs at the shields like_zzzppttt_–_zzppptt_, and Celeste holds my elbow and leans in.
+We race down this old creaking dock toward the_RAAAAAHHHHHRRR\_of these titanbacks that pull the barges. While the soldiers yank on the ropes to float a beast close enough for us to board, the Stormguard march closer, singing a creepy war song. An arrow goes\_SHTOOMP\_into the spine of the guy next to me. What’s left of the first line of Gythian defense stabs at the shields like\_zzzppttt_–_zzppptt_, and Celeste holds my elbow and leans in.
 
 “Do the thing,” she says. Then she smiles at me like everything isn’t chaos, like it’s just us on top of the world again.
 
@@ -276,13 +266,157 @@ So I gather up all the sound I feel. The titanback’s mouth yawns without a sou
 
 I aim it, then I let it go.
 
-It blasts in waves like_WUB-WUB-WUB-WUB_right at the line of Stormguard. Then the Gythians go to town on those dangerous dames, slice-n-dicing, and the Stormguard retreat, Gythians chasing after them.
+It blasts in waves like\_WUB-WUB-WUB-WUB\_right at the line of Stormguard. Then the Gythians go to town on those dangerous dames, slice-n-dicing, and the Stormguard retreat, Gythians chasing after them.
 
-I’m expecting accolades, like at_least_someone could act impressed? But the titanback burps out this big noise and the war mage is already trying to get Celeste onto the barge. Dad isn’t having it. He grabs Celeste back by her wrist. “She isn’t going,” he says.
+I’m expecting accolades, like at\_least\_someone could act impressed? But the titanback burps out this big noise and the war mage is already trying to get Celeste onto the barge. Dad isn’t having it. He grabs Celeste back by her wrist. “She isn’t going,” he says.
 
 The war mage goes on about how Celeste has to fulfill her destiny and take the throne blah blah blah, but Dad is having none of it. He even fakes a punch at the Gythian mage to make him flinch. Dad says the Storm Queen is threatening their dying civilization and they think throwing Sis at the problem will fix it. Celeste and I are like_whoa_. We learned about the tyrant queen in school, how her armies mow down and pillage other cities, killing dissenters and kidnapping talented kids to be raised as Stormguard soldiers.
 
 It gets crazy-tense, and everyone’s talking about what’s best for Celeste. But it feels like my future’s being decided too. And I got a decision to make…
+
+# Arden Lore: Part Six - ‘ESCAPE TO THE FOLD PART II’
+
+“If there is a way to end her tyranny, shouldn’t I do it?” Celeste says in that calm way that always winds Dad up even worse.
+
+“Your mother thought she could supplant the Storm Queen with technologist help, and look what happened to her.”
+
+Wrong thing to say to Celeste. The girl is hella stubborn on the subject of Mom. “I love you, Dadda, but I won’t ask permission. They’re my people.”
+
+“And you are going to save them, your highness?” Dad scoffs.
+
+“Dad.” I put my hand on his arm. He shakes me off, so I put it back. “Listen.” And I let him hear.
+
+An echo comes from all around us, a voice from a long time ago. It says,
+
+_“The kids need a pet.”_
+
+Dad spins around, staring all wild-eyed around the dock. “Where…”
+
+_“Are you dropping metal shavings on my divan?”_
+
+“Julia?” he whispers. It’s the first time I’ve heard him say her name since that night.
+
+Then I play Dad’s voice from that night, the part where he’s yelling at Mom.
+
+Dad freezes, his mouth a little open.
+
+“Dad,” I say again. “Celeste is gonna go. This could be the last time you see her. You really want this to be the last conversation you two have?”
+
+There’s this long awkward silent moment where it would be cool of him to say,_You’re right, Vox_, but no. He just gathers Celeste up into a big metal hug. “You’ll always have me,” he says. He’s the first on the barge, then he helps Celeste get on.
+
+“You’ll always have me, too,” I say while hopping onto the barge, though no one hears me, it being such a weepy father-daughter moment, but whatevs.
+
+I’m the only one who hears the last echo, just a whisper, as I’m following my family out of Boiling Bay:
+
+_“Such a shame…”_
+
+\*
+
+There’s all these rumors and tales about how Celeste is gonna challenge the throne of the Storm Queen \(which is still weird for me\), and they’re all epic, about how the Gythians and the Stormguard found out where Dad was hiding her, and they battled it out, and the Gythians took us here to the Halcyon Fold to recruit heroes to her cause, and now she’s dropping stars and taking names. But they leave out all the cool stuff I did. At least now you know the full story… and it’s not the last you’ll hear from me.
+
+# ALTERNATE FATES
+
+#### ‘CAGEFIGHTER’ ARDAN - ‘FIGHT NIGHT’
+
+SUGARVENOM: Hello and welcome to Fight Night on the Halcyon Fold! I’m here with Playoffbeard live at the final matchup of the evening, the one you’ve all been waiting for: ‘One Punch’ Ardan is all set to defend his title from Meat Truck, the up-and-comer who’s been running over his opponents.
+
+PLAYOFFBEARD: The smack talk has been brutal over the last several weeks. Meat Truck is notorious for getting into opponents’ heads on social media, but Ardan maintained that he respects all of his opponents and just wanted a good clean fight …
+
+SUGARVENOM: … that is, until Meat Truck posted, and I quote: “MAYBE IF ARDAN BETTER FIGHTER, JULIA STILL BE ALIVE.”
+
+PLAYOFFBEARD:_Yikes_.
+
+SUGARVENOM: That’s when the drama started. Now there’s no love lost between these two.
+
+PLAYOFFBEARD: Ardan is pacing the cage, maintaining eye contact with Meat Truck while the ref gives instructions. SugarVenom, do you think Ardan is feeling the pressure?
+
+SUGARVENOM: If he is, he isn’t showing it. Ardan is the most focused fighter to have competed in this cage, but he’ll still have to use every advantage to secure a K.O. tonight.
+
+PLAYOFFBEARD: Meat Truck will be looking for one big hit to end the fight early, but we’re going to see a clear dexterity advantage from Ardan.
+
+SUGARVENOM: Dexterity won’t help when Meat Truck decides to charge – but he might eat Ardan’s power gauntlet on contact.
+
+PLAYOFFBEARD: Of course, we all know what the fans are excited to see …
+
+SUGARVENOM: … Ardan’s flying elbow drop.
+
+PLAYOFFBEARD: It’s such a deadly finisher. If Ardan can pull it off early, I’d bet that Meat Truck won’t leave many tire tracks in this cage.
+
+SUGARVENOM: And there’s the bell. Round one has begun!
+
+#### ‘STORMLORD’ ARDAN - ‘THE RISE OF THE STAR QUEEN - THE GLASS CHAMBER’
+
+_Featuring ‘Stormlord’ Ardan Tier I_
+
+White-uniformed guards melted into shadows without so much as a cry to halt as Ardan stomped toward the queen’s chambers. The door gave way to his armored kick too easily; it hadn’t been bolted.
+
+“I am glad you have come.”
+
+The Storm Queen stood at the far end of the stark white room, a raven perched on her shoulder, drawing a fingertip along a glass case. The room, unlike the rest of her palace, was freezing cold; Ardan’s breath fogged as he took a heavy, cautious step forward. “Because you want to die?”
+
+“I want what you want.” The Storm Queen stepped aside in a swirl of obsidian robes, turning her scarred, sightless face toward Ardan, revealing the glass chamber in which the body of Julia laid. “Revenge.”
+
+The raven’s eyes twitched as Ardan’s power fist dropped. He crossed the distance and glared through the glass into his wife’s frozen face. The fingers of his bare hand spread over the glass.
+
+“I did not give the order. Catherine acted on her own,” the queen whispered. “Join me. Punish the deserter who murdered my sister.”
+
+#### ‘STORMLORD’ ARDAN - ‘THE RISE OF THE STAR QUEEN - THE KEY’
+
+_Featuring ‘Stormlord’ Ardan Tier II_
+
+The Stormlords held high office and presided over proceedings at court; they made laws and bickered with one another over the Storm Queen’s small favors, and they were discarded at the first sign of dissent or disloyalty. Only one Stormlord differed from the others. Rather than wear the lavish robes and jewels indicative of the Stormlords, Ardan wore power armor. He refused the offered apartment in the queen’s palace and instead kept a constant vigil outside of the queen’s chamber. For his devotion he was given some magic to keep him always awake, and the queen strung the key to her door around his neck with a silver chain. After that, he was called The Key, and the court forgot that he had been called anything else.
+
+He had been a normal man, some whispered, a soldier, a father even. The magic twisted his mind, some said. Aged him from the core outward. There was gossip that the battery connected to his breastplate jolted power into his heart to keep him alive. He spoke to no one and cared for nothing, but they said he had once been capable of humanity. Capable of love. Handsome, the Queen’s Shield once said, her knuckles grazing his withered cheek. He knocked her to the ground for it and had to be restrained. His gray mouth opened to scream, but the effort produced only gasps and choking. That night he was fitted with a helmet to force breath into his decaying lungs, so if he despised the queen for forgiving the woman who had killed his wife, his expression gave away nothing. From that day until the end, the Queen’s Shield allowed him a wide berth.
+
+For love he remained, for the few moments the queen granted him with Julia, frozen as he’d known her behind glass. It was Julia, and not the queen, whom he guarded without slumber. For those brief moments, The Key kept his grim vigil in silence.
+
+#### ‘STORMLORD’ ARDAN - ‘THE RISE OF THE STAR QUEEN - STAY WITH ME’
+
+_Featuring ‘Stormlord’ Ardan Tier III_
+
+On the night of revolution, The Key stood on the Storm Queen’s balcony watching the crowd escort the royal party up the mountain. He had managed to keep the looters from the queen’s chamber, but he would not be able to stop a rebel party of soldiers and mages.
+
+When the masses reached the palace gate, The Key returned to the queen’s chamber. Unlike the rest of the palace, it was plain, white and cold, like a hospital room. In the cryogenic coffin, his wife wore white too, a beaded and embroidered gown that made her look like a strange, perfect doll. He removed his helmet along with its breathing apparatus, yanked out the battery over his heart. He slammed his fist into the coffin’s lock, then again, again and again until the glass splintered and the coffin’s lid sprang open and the frozen air flooded out in a harsh blast that made him cough, gasp, and cough again.
+
+Julia was lighter than he remembered, the way a leaf is lighter after it has fallen and dried. She rested in his arms as she had so many nights, her face in his neck.
+
+He spent the next hours dying, his feeble breaths fogging. He thought he should say something more. Remind her about how they’d met, or apologize, but he’d only be comforting himself, and he didn’t deserve comfort. He had abandoned his daughter in the hot rage of revenge; he had broken his promises. His eyes closed and he let go.
+
+_“He is a Stormlord, your highness.”_
+
+_“Is he dead?”_
+
+_“Lemme listen. … He’s breathing, but he’s checking out.”_
+
+_“Who is this woman?”_
+
+_“It looks like…”_
+
+_“It’s her, Vox. It’s Mother. Is she …”_
+
+_“I don’t hear her heartbeat.”_
+
+_“Preserved in death all these years in her sister’s own room? This is sickening.”_
+
+_“Celeste, look. It’s Dad. Dad! Dad, talk to me.”_
+
+_“Dad?”_
+
+“Dad!”
+
+Torchlight flashed before his eyes as he opened them a sliver and groaned.
+
+“Hey Dad! Talk to me! Wake up!”
+
+Ardan forced his eyes open. “Ju…” he muttered. “Jul…”
+
+“It’s me, Dad. It’s Celeste. Hold on, we’re going to help you.” She wrapped her arms around him, kissed his gray cheek. “Our mother’s gift is keeping him alive. Quick, get that apparatus. That mask, there, get it over his mouth.”
+
+“He will not last the night, your highness. The battery in his armor that kept his heart beating is dead.” The War Mage held up the battery Ardan had removed, its broken wires dangling.
+
+“Look, Dad.” She held up her hand and smiled as a purple orb appeared on her palm, small as a marble and glowing. “You saved me. Now I can save you. Watch this.” She placed it over the hole where his battery had been and his insides jolted to life. Blood rushed through his heart; his head cleared as air flooded his lungs. “She’s gone, Dad, but we are here, and we still need you. We are together again, Dad. Stay with me. Stay …”
+
+#### ‘GLADIATOR’ ARDAN - 
 
 
 
