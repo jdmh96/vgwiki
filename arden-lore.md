@@ -416,7 +416,145 @@ Ardan forced his eyes open. “Ju…” he muttered. “Jul…”
 
 “Look, Dad.” She held up her hand and smiled as a purple orb appeared on her palm, small as a marble and glowing. “You saved me. Now I can save you. Watch this.” She placed it over the hole where his battery had been and his insides jolted to life. Blood rushed through his heart; his head cleared as air flooded his lungs. “She’s gone, Dad, but we are here, and we still need you. We are together again, Dad. Stay with me. Stay …”
 
-#### ‘GLADIATOR’ ARDAN -
+#### ‘GLADIATOR’ ARDAN - ‘**THE REUNION**’
+
+Thunder rumbled outside the pitch dark holding cell, shaking the bench. He tried to remember how to fight in the mud. Just outside the heavy steel door he heard the wagering of guards and attendants tending to his kilt and armor and most of all to the powerful gem that jolted power to his dragon-tooth caestus. In the nearby cells he heard the other fighters weeping, praying, pacing, growling, and the slapping sounds of a lunatic toughening up his own flesh. From other cells came the whimpering and roaring of animals.
+
+The thunder began to sing, and he thought he must be a lunatic as well until he realized the thunder was the fans stomping to their places in the stands, and the song was for him:
+
+_Armed Wolf!_  
+_We are marching!_  
+_Wolf! Wolf! Wolf!_
+
+The heavy steel door opened and light flooded into the cell, blinding him. Another fighter was shoved in with him and the door clanged shut again.  
+“Who is it?” he hissed.
+
+“No one,” whispered the other.
+
+_Sanguis! Violentia!  
+We are the pack of wolves!_
+
+“A woman,” he stated, his voice flat. “One of the queen’s guard?”
+
+“No one,” she repeated.
+
+“Why did they put you here?”
+
+“We are going to fight.”
+
+“Together or against one another?”
+
+“Who can know?”
+
+There was silence between them, two doomed fighters wearing simple under-armor shifts in a cell made of rock and steel, surrounded by the thundering song that bled through the rock and carried for miles: Sanguis! Violentia! The son of Gythia! He felt the woman beside him shaking, from cold or anger or fright he could not tell. He should perhaps have feared her; only the fiercest warriors amused this crowd. But he had not been so close to a woman in many years, and in the claustrophobic dark he could not help but think of his wife, so long dead, and his daughter, out in the world without him since he’d been captured and forced to fight.
+
+Soon he would curse himself for gathering the other gladiator into his arm, for patting her shoulder. “Your first time? No use worrying,” he said. “In the sand, it comes down to luck. Are you lucky?”
+
+_Ardan! Ardan! Ardan!_
+
+She gasped, then choked on a laugh. “Never.”
+
+“Then I hope we are opponents.”
+
+“Ardan -”
+
+Light flooded in again as the door opened. Ardan blinked, looked past the guard to the men turning the capstan, the elevator rising with something hungry inside pacing and turning circles.
+
+“Time to armor up,” said the guard.
+
+“Good fortune to you, Ardan,” said the woman, and the guard yanked her away, and their eyes met for the first time in over ten years. Her long dark hair hung in tangles over her face, and without her uniform she seemed small, but it was she: the woman who had slid a blade into his wife’s heart.
+
+It took five guards to hold Ardan down while he struggled and howled. “Save it for the sands,” they grunted, forcing him to his knees as his ancestor’s mask was forced over his face.
+
+_To be continued…_
+
+#### ‘GLADIATOR’ ARDAN - ‘**THE** CHAMPION’
+
+The fighters stepped through separate doors into the arena. Catherine blinked against the glare reflected off of the metal masks worn by the crowd. Before she could clear her vision, Ardan was upon her, his caestus slamming all of his rage and pain into her raised shield. The blow knocked her off her feet. She spat sand and blood. With something like childish glee he struck again, expecting her ribcage to splinter and sever her heart, but instead the force of his punch echoed back through his body and he screamed, falling away from Catherine and her pulsing bubble.
+
+“You don’t know the truth of that night.” She stood and squared her shoulders, shivering as a healing green glow enveloped Ardan. “Julia …”
+
+“Don’t you dare say her name,” growled Ardan, but there was a commotion at the other end of the arena. Horns blew, the crowd roared, and a gate opened with painful creaking slowness. From the dark tunnel a third gladiator entered. Ardan and Catherine stepped back, their eyes twitching between one another and the new contender.
+
+“It is the Champion,” whispered Catherine, her shield dropping.
+
+To survive one’s first fight in the arena was rare. To win was a miracle. To continue winning was unheard of. Ardan had had some recent luck, had won by the skin of his teeth and been stitched up in time to be torn apart in a half-dozen subsequent fights, but Lance, the Archelion, had won every bout for a year. He was not Gythian by birth, but the people had adopted him. His spiked black armguard rose, displaying a heavy bladed pilum to the roaring crowd; from his black helmet burst the red horsehair brush of the warriors. Into his armor was sculpted the faces of monsters he had beaten in the sands. His crimson shield bore the face of Caius, the fabled first warrior of Gythia. The crowd erupted in songs for the champion in red and black; some threw their masks into the sand.
+
+Ardan’s heart sank. He had abandoned Gythia long ago, in his youth, to join the Technologist rebels, and he had in turn abandoned them to protect his children, but he had been raised among the warriors. To bear the face of Caius would have made his father proud. As the Champion took his time striding across the sand toward them, Ardan forced himself to breathe through the throat-crushing weight of his failures. His fans called him a Son of Gythia, but this Archelion, Lance, was more Gythian than he.
+
+Despite his heavy armor, The Champion somersaulted like a nimble dancer to the delight of the crowd. He lunged at the other gladiators with a battle cry, the eyes of Caius on his shield glowing, his pilum speeding toward Ardan’s masked face.
+
+Before he could use his Vanguard, Ardan saw Catherine speed into the path of the pilum, following the blades of her shield, and slammed full force into the Champion. Energy crackled around the black armor, stunning the Champion long enough for Catherine to grasp Ardan by his one bare arm. In the noise, he only saw her lips moving, saying,_“Join me now, or you will not survive long enough to kill me.”_
+
+The Champion shook off the effects of the stun. A blood-red energy came off of his shield as he bashed Catherine away. She tumbled backward, her shield sliding out of reach. Scrambling on her knees, grasping at nothing, the great tall shadow of the Champion stretched over her.
+
+But Ardan’s caestus landed first, cracking into the Champion’s solar plexus. While he stumbled, Ardan kicked the arcshield to Catherine; she grabbed it and rolled, slicing the shield at the Champion’s knees. He jumped clear, but Ardan was on him again, punching at his exposed belly while Catherine found her feet and flanked around to the back. But the Champion rolled away again, lithe and quick, and sprinted to the barbed wire-encased edge of the arena. The crowd pushed forward, crushing, reaching, risking their lives for the chance to brush their fingertips against greatness. Catherine walked ahead, shield before her, no rush, and the closest row of fans tumbled into the arena as the Champion raised his pilum.
+
+“No!” bellowed Ardan. “Her head is mine!”
+
+And then the ground shifted.
+
+There was a rumbling, and the floor split apart. The crowd went quiet, so that the great metal wheels cranking to pull away the arena floor could be heard. The gladiators had to jump to one side or another, their eyes darting left and right, crouched in defensive postures. Dark water appeared from under the floor; the sand fell in and sank. The fans who had fallen into the arena scrambled and grasped for handholds wherever they could. One fell in with a splash, and the floor continued to roll away, separating the fighters farther and farther while the man in the water screamed for help. And then he disappeared, fast as if pulled under, and screamed no more.
+
+Three small boats were lowered down from the stands and pushed through the dark water toward the gladiators.
+
+#### ‘GLADIATOR’ ARDAN - ‘THE SECOND AND THE THIRD’
+
+_There was a rumbling, and the floor split apart. The crowd went quiet, so that the great metal wheels cranking to pull away the arena floor could be heard. The gladiators had to jump to one side or another, their eyes darting left and right, crouched in defensive postures. Dark water appeared from under the floor; the sand fell in and sank. The fans who had fallen into the arena scrambled and grasped for handholds wherever they could. One fell in with a splash, and the floor continued to roll away, separating the fighters farther and farther while the man in the water screamed for help. And then he disappeared, fast as if pulled under, and screamed no more._
+
+_Three small boats were lowered down from the stands and pushed through the dark water toward the gladiators…_
+
+Out of the water rose a long-tailed sea beast, its jagged curved teeth overlapping, its fat head as wide as a man was tall. An appendage grown from its forehead dangled a single glowing orb. The gladiators stepped into their boats, no larger than canoes, and struggled for balance as the beast slithered through the water toward The Champion’s boat.
+
+The massive jaw opened and water rushed inside, pulling the boat close. The Champion leaned back, shield high, shoulder back, and sank his weapon into the beast’s horrid face. He yanked it out with one eye attached; the beast screamed and dove and the people’s stomps and shouts shook the arena. The Champion raised the dead eye toward the podium where the young emperor, Samuel, stood to cheer his favorite fighter.
+
+While the beast hid underwater, Catherine scanned the crowd under an eagle-faced helm, her eyes narrowing on the podium. The public death of the Stormguard captain would be the emperor’s wedding gift to his bride. But the empress’ passionless expression betrayed the farce: she was as much a captive as her father, whose murderous eyes Catherine was glad she could not see beyond his ancestor’s mask.
+
+Celeste was the very image of her mother. For one dangerous moment, Catherine’s eyes filled with tears.
+
+The impatient crowd booed, so that guards rushed to thrust long pikes into the depths to antagonize the beast. With a grand splash that soaked the lower seats the beast surfaced, whipping its wide head side to side. The crowd screamed with horror and pleasure when three of the guards were snapped up, torn apart and swallowed.
+
+The Champion marked his opportunity and took it, shaking the detached eye free of his weapon and aiming toward Ardan’s boat.
+
+“Help me keep my promise, Julia,” Catherine whispered. “It is all I have left.”
+
+She rode the wave that the beast made, gripping her shield with her bare arm, leaning forward for speed, and collided with The Champion’s boat, bashing her shield into his chest. The stun froze him in place, the bloody point of his weapon an arm’s length away from Ardan’s exposed back. Knocked off balance, The Champion fell, rigid, into the murky water.
+
+Catherine twisted to turn the boat toward the sea beast; it loomed over Ardan, the crowd’s streamers plastering to its glistening black scales. The teeth clamped together a hair to the right of Ardan’s shoulder as he wound up and punched his caestus through the top row of the beast’s curved teeth, leaving them dangling and spraying oily black blood.
+
+The crowd erupted with appreciation, the entire arena singing as the beast screeched and arched away.
+
+_Sanguis!_
+
+Ardan pointed his caestus at Catherine. “May pain follow you into the Nether!” he cried.
+
+_Violentia!_
+
+“Blood for blood!” he screamed, his voice breaking.
+
+And he jumped, caestus first.
+
+Catherine caught the strike on her shield. Her shield arm went numb, her neck snapped back, and the two enemies fell together into the water, sinking under the weight of their heavy armor.
+
+Her feet hit the floor of the arena. She felt around in the dark and caught Ardan by the hair; he struggled and she flanked, forcing her eyes open, refusing to panic from the pressure tightening her chest and throat. He struck again and she took the hit in her belly, forcing the last of the air out of her lungs.
+
+In the distance, she saw the light. It grew larger, and it was beautiful, glowing, mesmerizing in the deep dark, ever larger, and she thought it must be light from the last door through which all must step, and beyond it, Julia would be there, or it would be as Ardan had cursed her: full of pain, and she thought even that would be better than life as she had known it…
+
+And then, with the last of her wits, she recognized the light.
+
+Her eyes rolled up and the power flowed downward from the sky, through the cursed water, into her, making her shiver, into her shield, and in slow motion she raised her shield and slammed it into the arena floor.
+
+The tremor blasted the water away, and with one breath Catherine crouched and leaped, planting her feet on Ardan’s shoulders, burying the blade of her shield into the sea beast’s brain as it glided up behind him.
+
+The waves hit the edges of the arena and rolled back, hard and fast, tumbling Catherine and Ardan back under, and for many endless seconds they spun in water and blood without knowing which way was up.
+
+It was The Champion who pulled them onto the arena floor as it closed. Dripping, coughing, they struggled to their feet. Ardan lurched toward Catherine, but Lance held him still.
+
+“Do not dishonor yourself,” he growled. “She saved your life two times.”
+
+“Three times,” whispered Catherine, but no one heard.
+
+All eyes in the arena turned to the podium where the emperor stood, fuming, as the roaring crowd awaited his decision.
 
 
 
