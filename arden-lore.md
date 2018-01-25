@@ -344,7 +344,7 @@ PLAYOFFBEARD: It’s such a deadly finisher. If Ardan can pull it off early, I�
 
 SUGARVENOM: And there’s the bell. Round one has begun!
 
-#### ‘STORMLORD’ ARDAN - ‘THE RISE OF THE STAR QUEEN - THE GLASS CHAMBER’
+#### ‘STORMLORD’ ARDAN - ‘THE RISE OF THE STAR QUEEN - THE GLASS CHAMBER’
 
 _Featuring ‘Stormlord’ Ardan Tier I_
 
@@ -354,13 +354,13 @@ White-uniformed guards melted into shadows without so much as a cry to halt as A
 
 The Storm Queen stood at the far end of the stark white room, a raven perched on her shoulder, drawing a fingertip along a glass case. The room, unlike the rest of her palace, was freezing cold; Ardan’s breath fogged as he took a heavy, cautious step forward. “Because you want to die?”
 
-“I want what you want.” The Storm Queen stepped aside in a swirl of obsidian robes, turning her scarred, sightless face toward Ardan, revealing the glass chamber in which the body of Julia laid. “Revenge.”
+“I want what you want.” The Storm Queen stepped aside in a swirl of obsidian robes, turning her scarred, sightless face toward Ardan, revealing the glass chamber in which the body of Julia laid. “Revenge.”
 
 The raven’s eyes twitched as Ardan’s power fist dropped. He crossed the distance and glared through the glass into his wife’s frozen face. The fingers of his bare hand spread over the glass.
 
 “I did not give the order. Catherine acted on her own,” the queen whispered. “Join me. Punish the deserter who murdered my sister.”
 
-#### ‘STORMLORD’ ARDAN - ‘THE RISE OF THE STAR QUEEN - THE KEY’
+#### ‘STORMLORD’ ARDAN - ‘THE RISE OF THE STAR QUEEN - THE KEY’
 
 _Featuring ‘Stormlord’ Ardan Tier II_
 
@@ -370,7 +370,7 @@ He had been a normal man, some whispered, a soldier, a father even. The magic tw
 
 For love he remained, for the few moments the queen granted him with Julia, frozen as he’d known her behind glass. It was Julia, and not the queen, whom he guarded without slumber. For those brief moments, The Key kept his grim vigil in silence.
 
-#### ‘STORMLORD’ ARDAN - ‘THE RISE OF THE STAR QUEEN - STAY WITH ME’
+#### ‘STORMLORD’ ARDAN - ‘THE RISE OF THE STAR QUEEN - STAY WITH ME’
 
 _Featuring ‘Stormlord’ Ardan Tier III_
 
@@ -416,7 +416,7 @@ Ardan forced his eyes open. “Ju…” he muttered. “Jul…”
 
 “Look, Dad.” She held up her hand and smiled as a purple orb appeared on her palm, small as a marble and glowing. “You saved me. Now I can save you. Watch this.” She placed it over the hole where his battery had been and his insides jolted to life. Blood rushed through his heart; his head cleared as air flooded his lungs. “She’s gone, Dad, but we are here, and we still need you. We are together again, Dad. Stay with me. Stay …”
 
-#### ‘GLADIATOR’ ARDAN - 
+#### ‘GLADIATOR’ ARDAN -
 
 
 
