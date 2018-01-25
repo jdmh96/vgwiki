@@ -50,13 +50,11 @@ She did not cry, and she did not choose.
 
 The next day, two_blancorojos_ came to her home. Kestrel escaped out the back and climbed a walnut tree, armed with a slingshot and enough underripe ammo to make a grand nuisance should her father seek to punish her for failing the test of the boxes. Instead, her parents coaxed her down with tears and kisses, for she had been called to continue her education in Mont Lille. Her parents had one hour to say goodbye.
 
-# Alpha Lore: The Stormguard Saga Part Two - 
+# Alpha Lore: The Stormguard Saga Part Two -
 
 # ‘CATHERINE’S MISSION’
 
 The Storm Queen sat sideways on Catherine’s lounge chair, her legs slung over one arm, cloaked and hooded, a raven perched on her shoulder. With no lamps lit, the intruder was invisible in the windowless living quarters. Catherine was not a fan of extra entryways, yet the queen had made her way past the reinforced and locked front door. The queen swung her legs forward and lit the nearest lamp. The raven adjusted its feet but remained in place. “They are nearby. I assume this room is secure?”
-
-
 
 “I thought so, yet here you are.”
 
@@ -98,13 +96,11 @@ Catherine resisted the urge to shrug away the bird. “Yes, my queen.”
 
 “I expect obedience.”
 
-# Alpha Lore: The Stormguard Saga Part Three - 
+# Alpha Lore: The Stormguard Saga Part Three -
 
 # ‘WHAT MUST BE DONE’
 
 A single candle on the table at the back of the tavern flickered a light too weak to penetrate the heavy hood of a woman sitting alone, staring at the leaves swirling in her steaming cup of tea. She’d been sheltered all her young life from the roving bands of people whose old women wore clattering bangles up their arms and read the futures of gullible customers in tea leaves.
-
-
 
 Despite her thorough education, Julia would have paid well, in that moment, for such a service.
 
@@ -132,7 +128,7 @@ Catherine shook her head. “Perhaps. Someday, if the time were right. But the S
 
 Julia jerked her hand away and looked up at a cobwebby corner of the tavern. “No.”
 
-Catherine’s spine straightened. “You know I would have it any other way if it could be. But you do not have a choice in this. I give my word, Lia, I will watch overthem.”
+Catherine’s spine straightened. “You know I would have it any other way if it could be. But you do not have a choice in this. I give my word, Lia, I will watch overthem.”
 
 “No!” Julia insisted. “My sister would make a tyrant of Celeste in her image, and you could not stop her.”
 
@@ -172,11 +168,11 @@ Catherine smiled and touched her hand to Julia’s cheek.
 
 Catherine’s back straightened, her eyes cleared, and her hand returned to her side. She nodded once at Julia, grabbed her cloak, and stepped through her own spilled blood, past the silent patrons and their tracking stares, out the tavern door into the waiting night.
 
-# Alpha Lore: The Stormguard Saga Part Four - 
+# Alpha Lore: The Stormguard Saga Part Four -
 
 # ‘THE RIGHT TOOL FOR THE JOB’
 
-“It really _is _her.”
+“It really \_is \_her.”
 
 Kestrel shot a withering glare down at the swordswoman who’d whispered it from the brush below. A soldier of the Stormguard knew better than to speak after positions were taken. Still, every woman hiding outside the indistinct farmhouse that evening had stood watch over the burial of the blonde woman who now struggled to unload a goat from a battered old cart outside the farmhouse. Julia should have been a ghost.
 
@@ -208,15 +204,13 @@ Kestrel pulled back, knuckles resting on the place where her jaw met her skull, 
 
 By the time the front window shattered, Kestrel had swung down from the tree. Ignoring the burning pins and needles in her legs, she ducked low and closed in on the farmhouse.
 
-Hanging from the windowsill by one hand, her bow slung over one shoulder, she glanced back at the storm of magic and steel following behind. Catherine stood behind the attack, tears in her eyes, a raven’s neck broken in her fist, another landing on her shoulder with an enraged scream.
+Hanging from the windowsill by one hand, her bow slung over one shoulder, she glanced back at the storm of magic and steel following behind. Catherine stood behind the attack, tears in her eyes, a raven’s neck broken in her fist, another landing on her shoulder with an enraged scream.
 
-# Alpha Lore: The Stormguard Saga Part Five - 
+# Alpha Lore: The Stormguard Saga Part Five -
 
 # ‘IMPOSSIBLE DECISION’
 
 “I do not need your permission to buy a goat,” Julia said. “Goat milk is delicious, and we can make cheese.”
-
-
 
 They’d been arguing all evening. Ardan was hunched over his power gauntlet, sanding down the edges of a grill he’d removed to improve air flow. Outside in the yard, a goat shrieked into the moonless dark. “Goats stink and scream like fiends,” he grumped. “It hasn’t stopped for an hour. How will the twins sleep?”
 
@@ -314,23 +308,21 @@ He fled from the house into the dark, past the poor dead goat, whose screams had
 
 “Do it!” roars the undead monster at the round metal eye of the turret, half grown over with brambles and rattan. “Put a hole in me! Blow me apart!”
 
+If only it would work.
 
-
-If only it would work.  
-  
 The turret remains silent, but he can smell recent explosions. Someone is keeping it loaded. Someone is summoning the minions that come through the choke point beyond the turret, past the shambles of what must have once been a rock fortress, in waves. And beyond that someone may be what he seeks.
 
 So close…
 
 Krul drags his left leg, nursing a nagging sting of magic in his thigh where some spell hit him earlier. Another_someone_, now lost to the world. The smell of summoning drifts over the rock face and he grimaces, grinds his teeth. More minions coming. Ugly bastards, no necks, no language, nothing in them but fight. He punches his leg to get the sting out and takes an unnecessary deep breath. A habit from a former existence. The air leaks out through the sucking wound in his chest, fogging up the cold steel trapped there.
 
-Every step is pain, and he runs hard. Catches the biggest of the idiot minions by surprise, flattens him fast,_ignore_the pain, ignore the pain, ignore the… Tearing into the minion’s belly is good, the only good thing. A distraction from the misery that threatens, in every moment, to lay him flat. The minion’s dark insides are slippery in his hands; their bellies come apart like cobwebs, their legs detach easy as fly wings. He screams into their faces, spewing spittle. His insane laughter echoes through the battleground. Their souls suck away from their dying carcasses and feed him. It is his only satiation.
+Every step is pain, and he runs hard. Catches the biggest of the idiot minions by surprise, flattens him fast,\_ignore\_the pain, ignore the pain, ignore the… Tearing into the minion’s belly is good, the only good thing. A distraction from the misery that threatens, in every moment, to lay him flat. The minion’s dark insides are slippery in his hands; their bellies come apart like cobwebs, their legs detach easy as fly wings. He screams into their faces, spewing spittle. His insane laughter echoes through the battleground. Their souls suck away from their dying carcasses and feed him. It is his only satiation.
 
 There is blood, there are limbs, there are gurgling death-screams, there are pieces of once-living creatures clinging to Krul’s teeth and nails when he sees her standing atop the ruins of the fort. Human from the look of her, tall and still as morning, a sword buried between cracks in the rock, eyes impassive. His face, or what is left of it, cracks open into a grin.
 
 “Hullo, beauty!” he calls.
 
-Her response is the slow pulling of her weapon from the rocks, that_shing_of steel.
+Her response is the slow pulling of her weapon from the rocks, that\_shing\_of steel.
 
 “You cannot protect it from me,” he growls. “Best run now and let me at it, before I destroy your best assets.”
 
@@ -346,11 +338,11 @@ To the dead well.
 
 Perhaps once, the well had charged crystal; perhaps heroes had once guarded it. Perhaps he would once have found salvation here. But there is nothing now, nothing stirring in the well, only shards of broken crystal lying about, hardly anything worth defending.
 
-Hope lost, the world comes back to him. The rhythmic_bzzt bzzt_of insects. Birds complaining. Cold coming on, sinking into his muscle, cramping him up all around his eternal wound, whatever is living about him trying to reject the foreign thing rammed through him. Pain and hatred.
+Hope lost, the world comes back to him. The rhythmic\_bzzt bzzt\_of insects. Birds complaining. Cold coming on, sinking into his muscle, cramping him up all around his eternal wound, whatever is living about him trying to reject the foreign thing rammed through him. Pain and hatred.
 
 He allows himself one agonized scream before stalking back into the bush. There is another road there, to the Halcyon Fold, that he must now take.
 
-# Alpha Lore: The Stormguard Saga Part Seven - 
+# Alpha Lore: The Stormguard Saga Part Seven -
 
 # ‘THE SHIELD AND THE BOW’
 
@@ -420,7 +412,7 @@ In the moment before the chaos, a breeze swirls light snowflakes around the tent
 
 Then, she spins on her back foot and looses the arrow through the flames.
 
-# Alpha Lore: The Stormguard Saga Part Eight - 
+# Alpha Lore: The Stormguard Saga Part Eight -
 
 # ‘THE COUP D’ÉTAT’
 
@@ -454,7 +446,7 @@ Catherine shoots a glare at the daggerwoman. “There are no cowards in the Stor
 
 Catherine’s breath catches. “Then we can waste no more time. Make your choice, ladies, and make it before the queen’s ravens find you.”
 
-# Alpha Lore: The Stormguard Saga Part Nine - 
+# Alpha Lore: The Stormguard Saga Part Nine -
 
 # ‘CROSSING THE BRIDGE’
 
@@ -482,7 +474,7 @@ When she heard the rush of fast water, Kestrel climbed a tree on a steep hill an
 
 At the edge of the forest, Kestrel disappeared and the others fanned out behind rocks and trees, fighters and mages clumping close to their assigned shieldwomen. Catherine stood alone, her fur cloak waving in the frozen breeze, refusing to shiver, as the guards’ blinding searchlight swung toward her. There was a call in a language Kestrel didn’t understand, then an answer, and Catherine was surrounded by men in heavy wool coats and fur caps, their swords and rifles drawn.
 
-Hidden inside shimmering phosphor, Kestrel slipped past the guards and onto the bridge. The snow beasts were larger than she’d thought from her high vantage point; their steps shook the wooden bridge, and their armor covered all the vital bits, but the plan was in motion and could not be changed. The Stormguard whistled their positions like nocturnal bird calls. Catherine held up her shield, and the first of the giant snow beasts stepped into the phosphorous cloud.
+Hidden inside shimmering phosphor, Kestrel slipped past the guards and onto the bridge. The snow beasts were larger than she’d thought from her high vantage point; their steps shook the wooden bridge, and their armor covered all the vital bits, but the plan was in motion and could not be changed. The Stormguard whistled their positions like nocturnal bird calls. Catherine held up her shield, and the first of the giant snow beasts stepped into the phosphorous cloud.
 
 With all eyes on Catherine, it was a simple thing for Kestrel to put a sizzling, glowing arrow into the beast’s eye. It howled, stuck, and twisted about hard, its great hairy arms striking into the darkness, tossing its rider off the side of the bridge and into the river. By the time the nearby guards had reined their beasts around to face their aggressor, Kestrel and the arrow had disappeared, and the panicked beast clutching at its bleeding face could not be contained.
 
@@ -502,9 +494,7 @@ Something like hope flashed in Catherine’s eyes as the officer called for his 
 
 The dark room rippled with an eerie, surgical-bright glow centered on a glass tank at the center. Inside, a pale woman floated in a bowed shape, belly highest, swaying, her shaved head thrown back as if in laughter. Tubes snaked inside the glass and attached to nodes in her chest and temples. Great wounds in her torso had been stitched and bound together with white bandages. There was a low hum, the sour smell of chemicals and an echoing rhythmic beep that matched the slow beat of her heart.
 
-
-
-In one corner of the room, under a glaring light, a dwarf in thick safety goggles stood on a stool next to a headless robot in the shape of a woman. His power drill revved and died, revved and died, as he worked.  
+In one corner of the room, under a glaring light, a dwarf in thick safety goggles stood on a stool next to a headless robot in the shape of a woman. His power drill revved and died, revved and died, as he worked.
 
 The door opened, startling him. The dwarf cursed and rubbed at a scratch on the white armor, ignoring the blind queen and the two guards who followed her. The queen pressed her fingertips to the tank. The raven on her shoulder glared through the glass.
 
@@ -518,11 +508,11 @@ The two Stormguard women looked at one another, then back at the tank. “We ret
 
 “Yes,” said the queen. She turned from the tank to smile in her terrifying, eyeless way, at the only two Stormguard who had chosen to return. “And you, my loyal girls, will help me test her strength.”
 
-# Alpha Lore: The Stormguard Saga Part Eleven - 
+# Alpha Lore: The Stormguard Saga Part Eleven -
 
 # ‘THE DESTRUCTION’
 
-###### —— Hullo, Beauty… —— Hullo… —— Hullo Beaut-beaut-bee… \#~$ REBOOT INITIATED: STAND BY… … BUFFERING… … TARGET DETECTED –&gt;ENGAGING.
+###### —— Hullo, Beauty… —— Hullo… —— Hullo Beaut-beaut-bee… \#~$ REBOOT INITIATED: STAND BY… … BUFFERING… … TARGET DETECTED –&gt;ENGAGING.
 
 Frankie and the veiled queen stepped along the scuffs, slides and stomp-marks scattered across the packed-dirt training yard. Pools of blood hardened into dusty paste around the bodies of Livia and Elena, the two Stormguard who had chosen to return. Alpha stood at attention, still as death, her mask and armor undented.
 
@@ -534,18 +524,18 @@ Frankie and the veiled queen stepped along the scuffs, slides and stomp-marks sc
 
 “Is she ready?”
 
-“Yeah. Directive is uploaded.”_  
+“Yeah. Directive is uploaded.”_    
 _
 
 ~
 
-###### —— You cannot protect it from me. —— Protect it. From me. Best run now. Destroy. —— Now before I destroy… —— …your best assets. \#~$ REBOOT INITIATED: STAND BY … BUFFERING… –&gt; PATROL MODE ACTIVATED.
+###### —— You cannot protect it from me. —— Protect it. From me. Best run now. Destroy. —— Now before I destroy… —— …your best assets. \#~$ REBOOT INITIATED: STAND BY … BUFFERING… –&gt; PATROL MODE ACTIVATED.
 
-Quick as fire with wind behind it, word spread through the scattered Eventide cities that the_blancorojos_were not to be trusted, that a technological monster stalked the insubordinate Stormguard. The news came too late for two old families, former royalty who sought to conspire against the queen. They, and six mangled former Stormguard, were dragged out of hiding into the streets to be picked at by the ravens.
+Quick as fire with wind behind it, word spread through the scattered Eventide cities that the\_blancorojos\_were not to be trusted, that a technological monster stalked the insubordinate Stormguard. The news came too late for two old families, former royalty who sought to conspire against the queen. They, and six mangled former Stormguard, were dragged out of hiding into the streets to be picked at by the ravens.
 
 ~
 
-###### —— Pretty thing. —— Pretty… —— …thing. Pretty thing. \#~$ REBOOT INITIATED: STAND BY … BUFFERING… … STORMGUARD DETECTED… … FULFILL DIRECTIVE… –&gt; ENGAGING.
+###### —— Pretty thing. —— Pretty… —— …thing. Pretty thing. \#~$ REBOOT INITIATED: STAND BY … BUFFERING… … STORMGUARD DETECTED… … FULFILL DIRECTIVE… –&gt; ENGAGING.
 
 Outside the oldest tea house in Taizen Gate, masked guards with curved swords stood shoulder-to-shoulder, silent. Inside, the Three Bosses knelt by a low table facing six former Stormguard, their palms facing down on the table according to local tradition.
 
@@ -565,7 +555,7 @@ Screams, and the clashing of steel from outside, interrupted. The Stormguard jum
 
 “So much for no weapons allowed,” grumbled one mage, blue sparks exploding from her snapping fingers.
 
-“Not yet,” said Marelde; magic conjuration would be detected all over Taizen Gate.What if your first line of defense is all you have, Catherine? she thought, but Catherine was far away, and she had no shield.
+“Not yet,” said Marelde; magic conjuration would be detected all over Taizen Gate.What if your first line of defense is all you have, Catherine? she thought, but Catherine was far away, and she had no shield.
 
 The screams outside stopped. The outer door slid open, letting in the night’s birdsongs and thick summer air.
 
@@ -573,16 +563,13 @@ The screams outside stopped. The outer door slid open, letting in the night’s 
 
 The room erupted in flashing blue magic and the roars of Second Boss. The machine moved forward without pause, slicing through its former comrades, deflecting the magic bolts, Third Boss’ blades clinking off its armor. Within minutes, Alpha stood in the post-battle silence scanning the room with glowing eyes. Six women lay broken and bleeding at her feet; two bosses shook with terror in a corner. Her sword had cleaved the table, and Marelde with it, in half.
 
-###### \#~$ DIRECTIVE FULFILLED … RECONNAISSANCE MODE ACTIVATED. … DIRECTIVE: FIND STORMGUARD. —— Pretty thing…
+###### \#~$ DIRECTIVE FULFILLED … RECONNAISSANCE MODE ACTIVATED. … DIRECTIVE: FIND STORMGUARD. —— Pretty thing…
 
-  
 _To be continued…_
 
 # Alpha Lore: The Stormguard Saga Part Twelve - ‘DAISY, DAISY’
 
 Daisy squeezes into a corner of the workout room, bare feet sunk into the mat, arms bent, hiding her face behind bruised forearms and thick leather boxing gloves. Kestrel, a year older at fifteen, weaves close and strikes Daisy’s obliques, tight to cramping; when her arms drop, the strikes come at her jaw and temples. Tears slide out of Daisy’s swollen eyes, mixing with blood and snot from her nose. A hit to the belly sucks the air out of her and she crumples, arms over her head.
-
-
 
 Kestrel raises one glove. “Hey! Daisy’s cooked!”
 
@@ -602,7 +589,7 @@ Kestrel shrugs. “Get up and try.”
 
 “Did you hear that?”
 
-Atop an airship tower, the last of the Stormguard waited for death. Kestrel and Catherine stood on the landing pad; four kept watch in the windowed control room below.
+Atop an airship tower, the last of the Stormguard waited for death. Kestrel and Catherine stood on the landing pad; four kept watch in the windowed control room below.
 
 Amie made a cat’s cradle out of stringy blue magic between her fingers, looking out at the winking lights twisting around the towers of the Royal Quarter. “Like a ding?”
 
@@ -620,7 +607,7 @@ A last ding and the elevator doors opened.
 
 “ONE,” it said.
 
-The shieldwoman flew back out of the elevator and slid along the floor to the glass wall, her shield and torso cut open, leaving a thick trail of blood behind.  
+The shieldwoman flew back out of the elevator and slid along the floor to the glass wall, her shield and torso cut open, leaving a thick trail of blood behind.
 
 “I’ll make scrap out of that thing,” said Ivet, charging forward, axe flourishing with blinding fast speed.
 
@@ -676,11 +663,122 @@ Daisy went still. There was a click, and an energy barrier appeared around her. 
 
 “There! Go!” Catherine pointed up, yelling over the sound of the airship that hovered above. A rope ladder fell from the deck and Catherine shoved Kestrel toward it before dropping under her shield. Her eyes squeezed shut as the blast shook the tower.
 
-Kestrel clung for her life to the rope ladder as the explosion blew the ship sideways, the city spread out below, the sea ahead, the Halcyon Fold a dark strip of land in the far distance.
+Kestrel clung for her life to the rope ladder as the explosion blew the ship sideways, the city spread out below, the sea ahead, the Halcyon Fold a dark strip of land in the far distance.
 
 Catherine rose, shaking, to her knees. The arcshield smoldered. She tossed it down and looked up to where she knew the raven would be circling, watching.
 
 ###### \#~$ SYSTEM REBOOT… … IDENTITY: ALPHA, STORMGUARD. … DIRECTIVE: ELIMINATE STORMGUARD. … LOADING COORDINATES: HALCYON FOLD…
 
+# ALTERNATE FATES
 
+#### ‘HEARTLESS’ ALPHA - PART THREE: MELTING DAY
+
+The lion and the scarecrow followed a line of marching minions, each carrying a bowl of ice cream, to the tin castle’s tin courtyard. Tin flowers bloomed all around a tin fountain from which steaming coffee bubbled. At the top of the fountain stood the Tin Queen of the West.
+
+“Look! It is our old friend, and the fountain of wizard’s brew, just like you promised,” said the lion, feeling relieved for the first time in days.
+
+“_Oui_,” said the scarecrow. “It is Melting Day, when everyone in the West celebrates the melting of the Wicked Witch by eating ice cream melted with coff… wizard’s brew. But what is this?”
+
+The crowd stopped abruptly, minions knocking into one another, as three powerful magicians blocked the fountain.
+
+“When the witch ruled the West, minions had a purpose!” cried one magician.  
+The startled minions clutched their little bowls with both hands, looking to their queen whose painted tin face showed, as always, no expression. Her voice rang out: “My darling minions-uns-uns, the Wicked Witch created you to fight. Now you are free to serve your own purpose.”
+
+Another magician sneered. “Without the witch, you have no enemies. Without enemies, you fight one another!”
+
+The minions squabbled over whether to believe the magicians or the queen. Handfuls of ice cream flew as the argument intensified.
+
+“Naughty minions. How quickly you forget your bondage under the rule of the Wicked Witch!” called the queen, but the magicians countered.
+
+“Minions deserve a great leader!” yelled the malicious magician. “You must embrace the principles that made the West great.”
+
+“Build a fire!” cried another magician. “Melt the Tin Queen!”
+
+The minions cheered and built a roaring fire in the tin courtyard. “Melt! Melt! Melt!” cried the minions as one. The queen gripped her axe atop the fountain, tears flooding down her tin face.
+
+“Why does she do nothing?” cried the lion.
+
+“Now that she has a heart, the tin queen has too much compassion to fight the magicians,” sighed the scarecrow.“
+
+“If only I could reach the fountain, I could drink up some courage,” whined the lion, “but the magicians have it surrounded.”
+
+“Oh well,” shrugged the scarecrow. “I suppose the tin queen must be melted.”  
+The queen flicked away her tears:_clink clink clink_, then opened a compartment in her chest. From inside of herself she removed the sawdust-stuffed silk heart that she had received from the wizard. In horror, her friends watched as she dropped her heart into the fire and took up her axe.
+
+“Target: magician one-un-un,” said the queen, and leaped down upon the closest of the magicians.
+
+“Let us help her,” said the scarecrow, taking up his scythe.
+
+Bolts of magic light flew, zapping the queen as she cried out in electric pain.
+
+“I can’t do it,” whimpered the lion. “My heart is beating too fast.”
+
+“Do it for our friend, who has no heart,” said the scarecrow in a gentle way.
+
+The lion’s lip curled up, his teeth bared, and he leaped into the crowd. With a wry smile, the scarecrow followed, careful to avoid sparks. The lion’s commanding roar terrified the minions away and his axe split one surprised magician in two. The scarecrow’s vials exploded, turning a second magician into a poof of black ash. Glinting in the morning sun, the tin queen’s axe whooshed through the third magician. All watched in horror as his head landed in a bed of tin roses.
+
+There was a short silence, then the minions leaped in the air. “Hooray!” they cried, triumphant, for they were a simpleminded lot. They went about extinguishing the fire and collecting up their discarded ice cream bowls while the three monarchs reunited.
+
+“Thank you-oo-oo,” said the tin queen, “but as long as the minions are not given a purpose, they will be swayed by anyone.”
+
+“Then a purpose you shall give them,” said the scarecrow, who had always been the cleverest of them.
+
+Now, people come from the North and South and East to watch the Annual Minion Water Balloon Tournament. The Tin Queen rules with compassion, the Forest King with courage, and the Scarecrow King with intelligence, all of their lands at peace.
+
+#### ‘BROKEN DOLL’ ALPHA - ‘_TIER I _THE LOUD VOICE & THE QUIET VOICE’
+
+She’s going to come back. She always comes back, and at first her mind is fuzzy and she doesn’t remember our names, but then she remembers and she plays with us again. Her mama put us all up in the attic in a box so I set up the teacups here. I took the chipped one like always, the one she threw the first time she had to go away. She never likes to go away but her mama cries and her daddy carries her and we all watch, very still like she taught us until she comes back. When she comes back, she dresses me up like she dressed when she was away, and she plays like the grownups and in a deep-deep voice she asks me questions like
+
+_Why do you think that you can read minds?_
+
+and then she pulls my strings to make me dance and I am her and in her own voice she says
+
+_You have two voices, loud and quiet, and the loud one asks questions and the quiet one says it’s past your break time and your rent is due._
+
+Then in her deep-deep voice she asks
+
+_Do you ever think about hurting people?_
+
+and then she sings
+
+_It’s not my fault the carving knife is so shaaaarp! It’s not my fault the carving knife is so shaaaarp!_
+
+And in her deep-deep voice she says
+
+_Eat the candy; it tastes like cherry and makes the thoughts go away. That’s a good girl, eat it all up._
+
+and she smashes red-hots into my face.
+
+It’s been a long time since she went away, but she’s going to come back because she loves us and there’s no tea where she goes, and there are grownups with loud voices and quiet voices, and we only have quiet voices, very very quiet.  
+
+
+#### ‘BROKEN DOLL’ ALPHA - ‘_TIER II _PRETTY-PRETTY’
+
+You think she’ll come back to us? You’re dumb. She_can’t_come back know why? Because she can hear the quiet inside voices of the grownups and grownups are afraid, so they make her stay in a little room with a little window.
+
+You have just that ugly jacket but I have the pretty-pretty dress and the pretty-pretty hair so I’m the prettiest so I’m in charge and we aren’t going to wait any more. You take your knife and I’ll take this sharp thing I found in Mama’s sewing room and we will go to the Bad Place and save her from the Bad People and if they try to stop us we will put our sharp things into their soft-soft eyes, and she will never have to eat the candy again, and we will play house just her and us dollies forever and ever and…
+
+_To be continued …_
+
+#### ‘BROKEN DOLL’ ALPHA - ‘REAL GIRL’
+
+We poked out the eyes of the Bad Doctors with our sharp scissor points, and we took their keys, and then I colored my shoes pretty red in the mess we made in the hallways. “Look at me; look what I can do!” I said, twirling in the slippy-slidey, but the other dollies said “Come_on_, we have to_find_her.”
+
+We climbed on one another to peek through the keyholes until there she was, all alone in the white room with the white hug-jacket. We tried keys until one turned, creaky-squeaky, and then we were all four together again. We let her out of her jacket and she squeezed us all in a bunch.
+
+“Look at me; look what I can do!” I said, and I showed her my_jeté_and my_plié_, and she hugged me and told me I was the best dancer she’d ever seen.
+
+“Let’s go home,” whined the other dollies.
+
+“I don’t_wanna_go back to the attic and the Mama and the Daddy and the memories,” I said, and I stomped my foot.
+
+“Then you shall have an adventure instead,” said our girl, and she put the key into my back and turned it, and my heart started going ticky-tocky. “You’re a Real Girl now, so you can find a new home for us.”
+
+“Find a home with parties,” said a dolly.
+
+“Find a home with cake,” said another dolly.
+
+“And lots of dancing,” said our girl.
+
+So we ran through the slippy-slidey away from the Bad Place forever, and I went by myself to find a home with parties and dancing and cake where we could all be together again.
 
