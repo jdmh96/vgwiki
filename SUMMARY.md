@@ -42,4 +42,5 @@
   * [Varya](heroes/varya.md)
   * [Vox](heroes/vox.md)
 * [Adagio Lore](lores/adagio-lore.md)
+* [Alpha Lore](alpha-lore.md)
 
