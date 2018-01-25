@@ -41,4 +41,6 @@
   * [Taka](heroes/taka.md)
   * [Varya](heroes/varya.md)
   * [Vox](heroes/vox.md)
+* [Lores](lores.md)
+* [Adagio](adagio.md)
 
