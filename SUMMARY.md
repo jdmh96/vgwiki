@@ -45,4 +45,5 @@
 * [Alpha Lore](alpha-lore.md)
 * [Arden Lore](arden-lore.md)
 * [Baptiste Lore](baptiste-lore.md)
+* [Baron Lore](baron-lore.md)
 
