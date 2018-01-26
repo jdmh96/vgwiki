@@ -2,8 +2,6 @@
 
 “You aren’t supposed to be here today.” The general’s long shadow stretched into the hangar from the rolled-up garage door.
 
-
-
 Skye peeked out from the cockpit of a mech with half its front armor blown out, metal blackened and curling in from the impact point. With a screwdriver between her teeth, she tossed a charred actuator onto the ground and called out, “I’m glad you’re here,Appa. I want to show you my plans for the decommissioned exosuits.”
 
 “You promised your mother.”
@@ -12,7 +10,7 @@ Skye peeked out from the cockpit of a mech with half its front armor blown out, 
 
 “…which means more dependence on the crystal mines, which means more war.” The general’s face was hard-lined, but his eyes and voice softened. “This is not the time for this discussion.”
 
-“The mechs take fire because they’re too slow.” Loosened screws_tink-tink-tinked_to the ground, then Skye kicked at the wrecked armor from the inside. “We’re going about it the wrong way. We need … more… mobility.” A word for every kick with her combat boots, until the front armor crashed to the ground, exposing her in the cockpit. “We should be going lighter on the mechs and heavier on the firepower. I put the 25-millimeter autocannons on this one. With the vectored thrust jet nozzles on an integrated airfoil on the back, it’s light enough for halcyon-tipped rockets. I know it’s a risk, but …”
+“The mechs take fire because they’re too slow.” Loosened screws\_tink-tink-tinked\_to the ground, then Skye kicked at the wrecked armor from the inside. “We’re going about it the wrong way. We need … more… mobility.” A word for every kick with her combat boots, until the front armor crashed to the ground, exposing her in the cockpit. “We should be going lighter on the mechs and heavier on the firepower. I put the 25-millimeter autocannons on this one. With the vectored thrust jet nozzles on an integrated airfoil on the back, it’s light enough for halcyon-tipped rockets. I know it’s a risk, but …”
 
 “Skye. She iscoming.”
 
@@ -54,9 +52,7 @@ Skye went still. “She … she would never choose me. There are many highborn g
 
 Skye strafed her way through the dense crowd of nervous girls surrounding the choosing table where the silver tiles laid, each engraved with a name. The marriageable young men crowded in corners playing Yunnori and howling at the results, seeming to care little for the outcome of the Choosing, but the young ladies ran their fingers over their own names and gossipped about which girl the house mothers would choose for their sons in the ceremony. Skye closed one eye and targeted the smug first daughter of Tiger House, a pretty girl named Nari. Around one delicate wrist, Nari held the velvet leash of a drugged and declawed tiger that blinked with confusion at the guests.
 
-
-
-“I hope you are chosen by a good house, Skye,” she said. “It would disrupt the tedium of these things if a house mother cooked up a surprise.” It was well known that a daughter of Tiger House was a wise diplomatic choice for Baron Silver. Tiger House had been at all-out war with Silver House that year; destroying  much of the Silvers’ cavalry of mechs …
+“I hope you are chosen by a good house, Skye,” she said. “It would disrupt the tedium of these things if a house mother cooked up a surprise.” It was well known that a daughter of Tiger House was a wise diplomatic choice for Baron Silver. Tiger House had been at all-out war with Silver House that year; destroying  much of the Silvers’ cavalry of mechs …
 
 … but with Skye’s renovations …
 
@@ -95,8 +91,6 @@ Skye could not look at his eyes. She stared instead at his hands, at the scars f
 # Baron Lore: Part Three - ‘FOR BARON’
 
 “The Silver family is honored to choose…”
-
-
 
 Skye stepped forward, trying to catch Baron’s eye, as his mother reached toward the tile table.
 
@@ -150,8 +144,6 @@ There was no time to lose. She had to complete her mission before anyone could s
 
 Baron rolled up the door to the hangar’s private garage. The glowing blue of his skin illuminated the Heavy Armor Rapid Deployment armor parked inside. It had been commissioned for his family’s new alliance, with helmet and joints sculpted into roaring tiger heads, power amplification haptic controls and reinforced plating built to withstand heavy kinetic rounds. He pressed his thumb to the lockpad and the exoframe opened with a quiet hum.
 
-
-
 He realized then that he was still holding the silver cage. He lowered it down and swung open the door. The goose lectured him with furious honks before escaping out of the hangar.
 
 ~
@@ -200,8 +192,6 @@ As always there was a moment when he wished he did not have to come back down.
 
 Baron sailed over the orange groves and landed hard on the jagged cliff that overlooked islets surrounded with docked fishing boats. The stone ground split under the weight of his exoframe, sending loose stones tumbling down to the sea. Skye waited there in her renovated mech, guns aimed at the tiger’s mouth framing his helmet.
 
-
-
 He lowered the barrel of his grenade launcher. The HUD on his visor targeted around Skye’s face and identified her by name and rank; the serial number of her decommissioned exosuit threaded along the bottom.
 
 “You humiliated me,” whispered Skye; her canned voice echoed from his radio through his helmet.
@@ -244,7 +234,7 @@ Holding on to one another, their crystal-splintered faces grubby with smoke, the
 
 ## ALTERNATE FATES
 
-#### ‘ELITE FORCE’ BARON - Part One ‘THE VOICES’
+#### ‘ELITE FORCE’ BARON - Part One ‘THE VOICES’
 
 _Idris…_
 
@@ -302,7 +292,7 @@ Above, the commander appeared below the mist.
 
 “Go back!” cried Idris, yanking on the rope, one-two-three-four-five-six; he yanked and yanked and it was too late. The commander dropped down into the cave.
 
-#### ‘ELITE FORCE’ BARON - Part Two ‘DISARM!’
+#### ‘ELITE FORCE’ BARON - Part Two ‘DISARM!’
 
 Twenty meters down the Halcyon Well, Baron’s navigation and communication systems malfunctioned. He watched the HUD on his visor flash with readouts as he descended, his thrusters burning, into the glowing blue crystal cave. “Manual override,” he said, and the rocket launchers, porcupine mortars and ion cannon blinked online.
 
@@ -314,7 +304,7 @@ The HUD flashed warnings, revealing movement everywhere. “Locate scout,” sai
 
 The HUD pinpointed Idris’ location in the center of a mass of what looked like glowing, spiked worms the size of his arm, their heads all mouth. His spear swung and his chakram flew in a whirl of hot glowing blood. “Idris!” Baron called. “Hang on, we’ll get you out!”
 
-“No.” The chakram flew and returned again, but Idris sank into the sand, the Churn worms’ mouths locked onto his armor. “I should not have tempted the Churn. You must leave me and abort the mission.”
+“No.” The chakram flew and returned again, but Idris sank into the sand, the Churn worms’ mouths locked onto his armor. “I should not have tempted the Churn. You must leave me and abort the mission.”
 
 “I don’t leave men behind.” Baron’s jets lowered him onto the soft ground. Churn worms wriggled and writhed, bursting through the sand and slithering out of the hole at the center of the cave. They snapped their jaws and latched onto his exo-armor, spiraling their long spiked bodies up his legs as he trudged toward Idris.
 
@@ -370,7 +360,7 @@ Baron whirled around as Idris jumped off his back. The desert warrior surveyed t
 
 From deep down, far below them, came a roar full of smoke and mist, a sound that froze them both in place.
 
-#### ‘ELITE FORCE’ BARON - Part Three ‘PUCKER FACTOR 10’
+#### ‘ELITE FORCE’ BARON - Part Three ‘PUCKER FACTOR 10’
 
 While the rest of the tech alliance peered at their flashing monitors and beeping accessories, SAW sidestepped, stomped and stretched trying to scratch an itch on his bum. The rope he’d attached to the scout skittered and swayed around the mouth of the Halcyon Well.
 
@@ -419,8 +409,6 @@ The scout and the commander stared at him as he tucked the tomahawk back in plac
 “Yeah, sure.” SAW picked up a Shatterglass from the sand and tossed it to Idris. “Grab up what you came for and let’s move out. I have an itch on my bum.”
 
 #### ‘FLY OR DIE’ BARON - ‘Winning is Winning’
-
-
 
 
 
