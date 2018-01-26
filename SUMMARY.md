@@ -44,5 +44,5 @@
 * [Adagio Lore](lores/adagio-lore.md)
 * [Alpha Lore](alpha-lore.md)
 * [Arden Lore](arden-lore.md)
-* Baptiste Lore
+* [Baptiste Lore](baptiste-lore.md)
 
