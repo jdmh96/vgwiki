@@ -6,7 +6,7 @@
 
 The moon, full as a fat white fruit, dangled just out of reach, just like everything Blackfeather craved. “Ah, Phinneas,” he murmured, whistling through his teeth as he gazed up at the moon beyond the castle balcony, “the best songs are written on nights such as these.”
 
-“Can’t dance to a song about kidnapping,” replied Phinn. He scratched deep into his ear with a single long claw. The two ne’er-do-wells huddled in a dead end of the thorned Hardy Orange maze under the balcony. Phinn towered over the tallest thorny bush.  
+“Can’t dance to a song about kidnapping,” replied Phinn. He scratched deep into his ear with a single long claw. The two ne’er-do-wells huddled in a dead end of the thorned Hardy Orange maze under the balcony. Phinn towered over the tallest thorny bush.
 
 “Danger is our dance partner!” Black clothes camouflaged Blackfeather in the night, but he refused to hide his gleaming golden hair in any circumstance. Beauty, he said always, was its own weapon. “One can’t be a proper adventurer without abducting a princess. It’s what’s done.”
 
@@ -66,7 +66,7 @@ Phinn bit into the fruit, rind and all. “Until we can’t afford it anymore.�
 
 “Of course I have rope. I’m an adventurer.”
 
-“Well, then I suppose I’ll discard this chain.”
+“Well, then I suppose I’ll discard this chain.”
 
 Blackfeather added an exaggerated head tilt to his eye roll so that it would be apparent in the darkness, and within minutes, the chained anchor sailed from Phinn’s hand to the balcony, locking into place with a great, satisfying, safety-inspiring ch-ch-CHOCK.
 
@@ -82,7 +82,7 @@ The balcony gave a disconcerting creak under Phinn’s clawed bulk. Blackfeather
 
 Blackfeather’s rose dropped to the plush carpet. “Aren’t you even going to scream? What kind of princess doesn’t scream?”
 
-The princess swished ’round the room, mussing up bedcovers and papers. “_Obviously_I’ll scream. I’m no amateur. But if I scream too soon, the guards will…_AAAHHmmmmff_!”
+The princess swished ’round the room, mussing up bedcovers and papers. “_Obviously\_I’ll scream. I’m no amateur. But if I scream too soon, the guards will…\_AAAHHmmmmff_!”
 
 With a grand leap, Blackfeather slapped his palm over Princess Malene’s mouth as Phinn bent double to fit himself through the balcony door. “Are we having a giggle or a kidnapping, then?” Phinn grumbled.
 
@@ -130,7 +130,7 @@ Guards pounded at the door and the three made a dash for the balcony, Princess M
 
 “It’s almost as if you have ordered this enterprise done yourself,” complained Blackfeather.
 
-“Of course I did,” huffed Princess Malene. “One can’t be a proper princess without being kidnapped for ransom._All_the best ones are.”
+“Of course I did,” huffed Princess Malene. “One can’t be a proper princess without being kidnapped for ransom.\_All\_the best ones are.”
 
 “Seems fair,” said Phinn as he jerked on the chain, pulling the anchor loose along with much of the balcony railing.
 
@@ -204,7 +204,7 @@ Blackfeather whirled in a panic. “Never fear! I memorized the way… left, lef
 
 Phinn chewed on his pipe while a bobber floated on the still water of a pond. He sat on a rock, half snoozing, jerking awake whenever his fishing pole slipped out of his claws.
 
-On the grass beside him, Blackfeather had surrounded the unconscious princess with plucked flowers. “Look at her,” whispered Blackfeather in awe. “Is she not the most captivating thing you have ever seen? Her hair. Her pale skin. Her delicate fingers, how they clutch her prized mirror! Her eyebrows, arched as if to say… as if to say…”
+On the grass beside him, Blackfeather had surrounded the unconscious princess with plucked flowers. “Look at her,” whispered Blackfeather in awe. “Is she not the most captivating thing you have ever seen? Her hair. Her pale skin. Her delicate fingers, how they clutch her prized mirror! Her eyebrows, arched as if to say… as if to say…”
 
 “…let me sleep,” said Phinn.
 
@@ -212,7 +212,7 @@ On the grass beside him, Blackfeather had surrounded the unconscious princess w
 
 “I meant, let me sleep,” said Phinn with a sharp-toothed yawn. “You kept me up all night with your princess-stealing.”
 
-“How can you think of slumber when such an adventure is about?” Blackfeather dropped with great drama to his knees beside the princess and tucked her hair behind her ears. “When such a beauty needs aid? Never fear, my lady. Blackfeather is here.” With that, he bent and brushed his lips against hers.
+“How can you think of slumber when such an adventure is about?” Blackfeather dropped with great drama to his knees beside the princess and tucked her hair behind her ears. “When such a beauty needs aid? Never fear, my lady. Blackfeather is here.” With that, he bent and brushed his lips against hers.
 
 Phinn snored.
 
@@ -272,7 +272,115 @@ Susie nodded in agreement.
 
 ## ALTERNATE FATES
 
-#### ‘DYNASTIES’ BLACKFEATHER
+#### ‘DYNASTIES’ BLACKFEATHER - ‘The Warlord’s Wife’
 
+_by SugarVenom  
+  
+_Blackfeather waited for a breezy day to climb his beloved’s window nearest to a blooming tree, for he could not risk blowing his chance to woo the Warlord’s Wife on a day when no pink blossoms would drift past his eyes wet with longing. Hanging outside the window by the tips of his fingers, he paused to long for several moments and drummed up some good solid longing. He longed until the proper wetness brimmed over his eyelids, then he swung into the Warlord’s chamber, knowing that the Warlord himself had retired to his sitting room with his cherry-flavored bubbles, blind to the devilry afoot.
 
+Malene, the Warlord’s Wife, spun with magnificent flourish, beautiful almost to translucency, her eyes, Blackfeather decided, also wet with longing at the sight of him. The Warlord’s chamber was choked full of longing.
+
+Blackfeather gathered Malene up in his arms and allowed his voice to break with heartache as he exclaimed, “My potoo bird, how could you marry another?”
+
+Malene lowered her face. “No!” she cried, “do not embrace me. Do not even look at me, my duckling, for I have been defiled by the Warlord’s kiss. I shall throw myself into the pond for the shame of it.”
+
+“Come away with me, and I shall kiss away your shame, my flamingo,” crooned Blackfeather, and turned her chin up with one finger to allow his longing eyes to sink into her own longing eyes, and their lips met, and her fists clenched around what he knew to be his bulging biceps.
+
+“What’s this, then?” Blackfeather’s longing wet eyes opened to see the great Troll Warlord, Phinneas, in the doorway, scratching his butt.
+
+Malene wheeled away from Blackfeather and screamed. “Intruder! Help!” And to Blackfeather’s surprise, she was pointing at_him_, though it was_his_kiss that had been interrupted. He spun away toward the window from which he had come; with pleasure he noted that more blossoms were breezing in so he would escape in a cloud of them, which almost did not happen; he heard the whistling of a weapon flying and its cold wind brushing at his neck as he leaped out of the window and ran for his life.
+
+_…to be continued?_
+
+#### ‘LOVE BITES’ BLACKFEATHER - ‘**NIGHT OF THE FIRST KISS**’
+
+In the mountains, there is an old legend about the day when the brave townspeople defeated a vampire and saved the town.
+
+\(To put a finer point on it, the towns_men_revved themselves up with rage and invaded the home of the monster, for they were sick of failing to protect the virtues of their mothers, daughters, sisters and wives from the vampy seductor. Even grannies long past their childbearing years were on occasion wooed away from their rocking chairs in the night, returning home at dawn with tousled white hair, goofy grins and low-grade anemia.\)
+
+And so the vampire’s castle was raided at lunchtime and the vampire himself was lifted, lifeless, from his velvet-and-satin sheathed canopy bed. Amid cheers and jeers the vampire was toppled into a casket along with enough garlic to season a hundred pots of ragu — garlic being the sworn enemy of kisses everywhere — and the lid was secured with long silver nails. The coffin and its soulless charmer were stashed in a crypt, and the vampire was never seen again.
+
+The town settled, for generations after, into a peaceful calm brought about by heavy legislation. With the embellished legend of the philandering fiend as evidence, kisses were abolished. Hand-holders were ticketed and fined. Marriages were arranged by steady-minded elders. To keep passion at bay, spicy peppers, wine, sugars and sweet confections were outlawed. Honey was rebranded by the town’s marketers as “bee defecation.” Even the princesses were encouraged to be sensible; the castle towers and all of the Hardy Orange bushes were razed to the ground.
+
+One such princess, tugged from within by a primal post-adolescent yearning, formed a clandestine search party of one through the town’s graveyard. Ten centuries worth of dead people congregated in those crypts and under the stone markers, so it took months of exploration to find the mausoleum. The plaque over the door bore no name, only a warning of certain death, and the casket within was sealed with silver nails.
+
+A thousand hummingbirds took flight in her ribcage as she crept into the crypt out of the tower-less castle that night, wearing only her white nightdress, her dark curls tumbling down her back, her feet bare, a princess without a tower, a kisser without a kissee.
+
+With grit, determination and a borrowed hammer she pried the lid loose from the vampire’s prison and pawed her way through the piles of garlic to find the legendary villain himself, pale and still as death but not at all rotted, golden locks spilling over red and black leather, extended canine teeth resting against his lips. Beside him rested his sword: a two-handed, cobra-headed kris.
+
+It was with this curved blade that the princess nicked her own wrist. At the first drip-drop of her blood against the undead’s lips, the fiend reanimated, sat up in his coffin and grasped at the poor girl’s arm with uncommon strength. He drank from the girl’s wound, his gaze boring into hers, until she swooned.
+
+In a flash the vampire leaped from the coffin and caught the princess up in his arms. With his lips brushing hers he whispered, “You have invited danger back into the world.” He wrapped one of her sproingy curls around his finger. “Why have you done this?”
+
+The girl’s eyes fluttered open. “For love,” she replied.
+
+It was a new beginning of lawlessness, the revolution of juicy nocturnal trysts and unabashed giggling. Ever after, this blunder was known as the Night of the First Kiss.
+
+#### ‘CHAMPION’S FATE’ BLACKFEATHER - ‘THE BLADEMASTER’S DAUGHTER’
+
+They say that on the quest for the Blademaster’s Daughter, Diego the goatherd became Blackfeather the Champion. But this is the whole story:
+
+Diego was a weakling who dreamed of adventure. He pretended at swordplay in the fields with sticks, threatening napping goats who paid him no mind. Unlucky in love, he practiced kissing on pumpkins. When word of the imprisoned daughter flew through the village, Diego saw a chance for notoriety. On the back of his favorite goat, he set off toward the home of the Blademaster, the greatest swordsman in the hills.
+
+The Blademaster was but the first of many overprotective fathers that Diego would face, but he was the most formidable. In twenty years, no one had beaten the Blademaster in combat. Diego was weak, but he was no fool. Standing on the back of his goat, he snuck into the Blademaster’s home through the armory window.
+
+On every inch of the armory walls were hung blades of all kinds, but Diego was drawn to a glass case in the center of the room, where stood the Blademaster’s Daughter.
+
+The Blademaster had, by magic means, imprisoned his daughter inside a ringed sword, so that she would always be safe from harm. The hilt rose above her lovely closed eyes. Her waist curved inward and her hips splayed out and down to form the blade itself. All fear melted from Diego as he looked upon this most gorgeous of weapons. His heart broke. He pressed his nose against the glass and fogged it up, in love for the first time.
+
+The sword’s eyes opened.
+
+“Who are you?” she demanded.
+
+“I am …” Diego paused. He could not very well call himself_Diego_. He made something up. “Blackfeather, my lady,” he said, and bowed with a flourish.
+
+The Blademaster’s daughter smiled. “At last. A worthy champion! Kiss me, and I shall turn into a woman again, and be yours forever.”
+
+“Right away!” Blackfeather’s mouth watered with the idea of kissing something other than a pumpkin. He leaned in close, his eyes fluttering closed.
+
+Steps sounded on the stair. “My father,” cried the sword. “You must defeat him before you take me away on your horse.”
+
+A key slid into the armory’s door lock.
+
+Blackfeather grabbed ahold of the Blademaster’s Daughter and almost dropped her, as she was quite heavy. “We should do that horse part first,” he said.
+
+“I hope your horse is very fast,” said the sword, “or my father will catch up to us on his mustang.”
+
+“My horse is a goat,” admitted Blackfeather.
+
+“Then I hope you are a champion fighter.”
+
+The door creaked open.
+
+“I have never fought a person before,” said Blackfeather, “but I have practiced many sweet moves on my own.”
+
+“You will fail,” gasped the sword. “I will help you, and you can free me after.”
+
+“I die every moment that my lips are not upon yours,” crooned Blackfeather.
+
+When the Blademaster lunged into the armory, longsword at the ready, his daughter’s magic power flowed through Blackfeather. Muscle formed where before there had only been weakness. His shirt ripped apart and fell in tatters to the floor. Fancy armor protruded from his shoulders, shins, forearms and head. Black feathers sprouted from his shoulders and swept down like a cape.
+
+“Have at you!” cried the Blademaster, and in Blackfeather’s hands the sword leaped to action and clashed with her father’s blade with a burst of dark feathers.
+
+It is said that no one knows the weaknesses of a man more than his daughter. The Blademaster was lithe and strong for an old man, and would have slashed Blackfeather to bits, but the woman trapped in the sword had spent her life watching her father train and fight. She used his own knowledge against him, matching him blow for blow.
+
+Blackfeather was carried along into the battle, doing nothing more than trying not to trip and fall as the swords clashed and sparked with gold and violet flames. At last, the Blademaster’s Daughter trapped her father’s sword in her jingling rings. He dropped to one knee. “Please,” he whispered, “do not leave me, my daughter.”
+
+“You can no longer imprison me,” said the sword. “Blackfeather and I are in love. He is going to break the spell and take me away on his horse … goat. We will marry and live happily ever after!”
+
+“Actually,” said Blackfeather, holding up one finger.
+
+The Blademaster and his daughter looked at Blackfeather, who turned the sword over to admire it. “It would be a shame to destroy such a beautiful sword.”
+
+“True,” said the Blademaster.
+
+“Beautiful_sword_?” screamed the Blademaster’s daughter. “I’ll have you know I am a beautiful_woman_.”
+
+“I do not doubt that,” said Blackfeather, “but there are many beautiful women, and only one such weapon.”
+
+“If you keep her safe – and well oiled – I shall allow you to take her,” said the Blademaster.
+
+“I promise you that, my friend,” said Blackfeather, and the two men shook hands while the sword screamed with contempt.
+
+And that is how Blackfeather the Champion – or perhaps villain? – learned bladecraft. It is said he no longer wields the Blademaster’s Daughter, but no one knows why. Perhaps he freed her. Perhaps she turned on him, or perhaps Blackfeather grew bored with his first great conquest. The world may never know.
 
