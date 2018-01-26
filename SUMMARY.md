@@ -47,4 +47,5 @@
 * [Baptiste Lore](baptiste-lore.md)
 * [Baron Lore](baron-lore.md)
 * [Blackfeather Lore](blackfeather-lore.md)
+* [Catherine Lore](catherine-lore.md)
 
