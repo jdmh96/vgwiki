@@ -43,7 +43,7 @@
   * [Vox](heroes/vox.md)
 * [Adagio Lore](lores/adagio-lore.md)
 * [Alpha Lore](alpha-lore.md)
-* [Arden Lore](arden-lore.md)
+* [Ardan Lore](arden-lore.md)
 * [Baptiste Lore](baptiste-lore.md)
 * [Baron Lore](baron-lore.md)
 * [Blackfeather Lore](blackfeather-lore.md)
