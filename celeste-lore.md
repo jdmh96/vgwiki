@@ -336,11 +336,255 @@ Celeste set down her watering can and smiled at her twin. “Butterflies are peo
 
 Vox’s eyes widened at a pair of Red Lacewings spiraling through the air together. “Butterflies … used to be people?”
 
-“And now they can be together.” She held out her finger and a big orange butterfly landed on it. “This kind is called an Orange Julia.”
+“And now they can be together.” She held out her finger and a big orange butterfly landed on it. “This kind is called an Orange Julia.”
 
 Vox stepped close, peering at the basking butterfly. “Does … does this one have a sweetheart?”
 
 “Not yet.” Celeste whispered to the Julia, and it fluttered over to rest on Vox’s ear. “But I’ll take care of her until her sweetheart comes.”
+
+#### ‘STAR QUEEN’ CELESTE - ‘THE RISE OF THE STAR QUEEN - NO MORE FEAR!'
+
+_Featuring ‘Star Queen’ Celeste Tier I_
+
+_A holographic image burst out of the top of a small gift box that sat before the rebel future queen and her Gythian advisor. There was no sound, only the image of a battle. There sat the Storm Queen atop her horse; beyond was the queen’s army and her Stormguard flooding a green farmland with the blood of the locals, whose cavalry fell under the magical onslaught. The last image was that of Catherine, her war mask disguising her features._
+
+_“The queen’s army is in Neruda,” whispered the Gythian._
+
+_“They are a week’s ride from Mont Lille,” said the rebel queen. “Now is our chance to attack.”_
+
+“Tell me we didn’t throw this party for nothing,” said Vox, tapping his foot.
+
+Celeste leaned over the spar deck of_The Audacity_, peering down through Vox’s brass telescope at the Storm Queen’s uniformed soldiers positioned behind the fortified gate of Mont Lille. Celeste’s airship navy hovered in formation around them. Her hodgepodge army, made up of the unified fighting people of a half dozen of the Storm Queen’s occupied cities, waited on the road outside the gate.
+
+A handful of Gythians, heavy in their polished armor, blades sharpened, eyes grim, made a half-circle behind Celeste. “It is time, your highness. You must give the command to fire,” said the war mage in his grand, old world accent.
+
+“Look at the front lines,” she said, handing the telescope to Vox.
+
+He held it to his eye and adjusted the focus. His shoulders slumped. “Kids,” he said.
+
+“The Storm Queen’s child army.”
+
+The Gythian struggled to control his tone. “You knew that the Storm Queen takes children at young ages to be trained for war.”
+
+“That was to be our fate,” said Celeste. “I did not know she would go so far as to put them in the front lines of battle.”
+
+“The queen is a pragmatist. She thinks you will not attack children.”
+
+“That’s messed up,” said Vox.
+
+“She is right,” murmured Celeste.
+
+“We have come too far to turn back,” pleaded the war mage. “This plan has been in place since you were born. If you do not take Mont Lille while the queen is away…”
+
+“\_I\_am the queen. Mont Lille is\_my\_city. These are\_my\_people. Shall I begin my reign by killing my own soldiers? By incinerating children? Does Gythia’s stake in this plan fall away at sunrise?” Celeste held the Gythian’s gaze until he backed away, then took the telescope back and squinted through it. “Vox? How loud can you make my voice?”
+
+Vox laughed. “You wanna know if I can make noise?” He made a microphone with his fist and held it in front of her mouth.
+
+Celeste’s mouth opened, then closed. She pushed down Vox’s hand and whispered, “Do good queens know the right thing to say?”
+
+Vox grinned and put his hands back. “Good queens tell the truth.”
+
+She looked over the mountainside city, every twinkling light representing a soul frightened by the enemy at its gate. The Storm Queen’s army buzzed and sparked with magic.
+
+“My loving people!” she cried, and her voice carried over the gate, over the ground troops and the airships, over the city where her mother was born. “To fill the coffers of a dictator, you have engaged in a generation of war. You have sacrificed your liberty. You have surrendered your children to die in battle. I challenge you tonight to end this oppression. I have come to Mont Lille not to conquer, but to live and die as the rightful descendent to the throne, the Star Queen. My honor and my blood belongs to this land and to you all. I am here to fight, not against you, but alongside you against fear! No more fear!”
+
+In the silence that followed, Vox draped an arm around his sister’s shoulder and they both stared down.
+
+Then, there was a solitary shout from behind the gate. The voice of an adolescent boy.
+
+“No more fear!”
+
+“No more fear!” called another voice, and then another, and more, all of them the voices of child soldiers.
+
+“No more fear!” The adults picked up the chant, and then the ragtag army on the ground with nothing in common but a hatred of the Storm Queen took it up, and then even Vox’s goblin crew burbled the words the best they could just to fit in. The handful of Gythians who had prepared for a bloody battle looked at one another, bewildered.
+
+“The woman will overtake a capital city without a drop of blood spilled,” said the war mage, but the propellers picked up speed so that no one heard him. Vox steered\_The Audacity\_over the gate and landed in the city square, and the throngs surrounded the airship to welcome the Star Queen home.
+
+#### ‘STAR QUEEN’ CELESTE - ‘THE RISE OF THE STAR QUEEN - THE MIRRORED COURT'
+
+_Featuring ‘Star Queen’ Celeste Tier II_
+
+The royal party traveled up the winding streets of Mont Lille, torches lighting their way. The going was slow; the crowds pressed into their new monarch, reaching to touch her hair and gown, chanting No more fear! and Liberté, égalité! At the summit of Mont Lille, past grottos and fountains and manicured topiary, they climbed a marble staircase to find the gem-encrusted gate of the Storm Queen’s palace wide open. There, Celeste bade her people to return home and remain vigilant, and the gate closed behind her.
+
+Inside the heavy palace doors all was still; the rumors of révolution had spread through the mountain and those who supported the Storm Queen had made a swift exit along with all they could carry. Celeste, Vox, the Gythians and a ragtag assortment of pirates spilled into the Mirrored Court and stared.
+
+“This was nothing more than a hunting lodge when I was here as a young man,” whispered Elizar the War Mage, turning in place to gape at the carved gilded windows, the black and white marble tile, the chandeliers blazing with hundreds of candles. Paintings portraying violent depictions of the Storm Queen’s triumphant battles spread over the ceiling. Bronze sculptures of faceless Stormguard posed throughout with their weapons. The mirrored walls jutted out at odd angles to give the disconcerting effect of hundreds of fractured reflections, giving the court its famous name.
+
+“This is freaking me out,” said Vox, flinching as his echoed image leaped out and retreated in his periphery.
+
+“It is meant to,” said Celeste, her staff clicking on the marble as she walked through the court. “She is the only one who does not see herself in her court.”
+
+“Dignitaries, knights and nobles staring back at their own guilty eyes while the Storm Queen sits, pure in her blindness, upon the throne,” said Elizar.
+
+Celeste stopped before the monolithic throne, carved from black stone, feeling all at once quite young. Its simplicity was stark in the ornate room; the only decoration on it was a high perch for the Queen’s ravens. “I don’t want to sit on that,” she said.
+
+“Another shall be commissioned for you,” said Elizar, “but sit on one you shall.”
+
+In contrast to the sobriety of the royal twins and the Gythians, Vox’s entourage amused themselves at the mirrors. Loo, the sprite, admired herself by all angles, brushing her hair with her fingers. The pirates pulled at their eyes and lips and giggled at the results. Behind the throne, one goblin argued with his reflection, thinking it a rival, and poked at his enemy’s eyes, activating a hidden switch in the wall that opened a cabinet. Vox investigated, yanking back the goblin by the fluff in its ear.
+
+“Hey, Sis,” he called in his sing-song tone, “you should come look at this.”
+
+Celeste joined him and her eyes grew wide, for displayed in the cabinet was a mage queen’s regalia: a star-shaped breastplate and gauntlets, a crown, and a staff capped with a crescent moon that bore the inscription: “Préserver la Paix.” Celeste ached from the magic pulling at her from the staff.
+
+“Not the Storm Queen’s style, this,” muttered Elizar.
+
+“No,” said Celeste, her fingers caressing the staff’s sharp tip. “This was made for me.”
+
+Vox grabbed a gauntlet and inspected it. “She knew you were coming?”
+
+“She couldn’t have known. We were cautious,” said the Gythian.
+
+“She knew I would succeed her,” said Celeste.
+
+“Under her tutelage,” said Elizar in a dry tone.
+
+“Instead I am under yours,” replied Celeste with equal dryness. She took the staff in her fist and the crescent glowed, illuminating the old War Mage’s frown. “Let’s continue on. But I think …” Her eyes rose to the ceiling paintings. “… I think I shall have a skylight installed.”
+
+#### ‘STAR QUEEN’ CELESTE - ‘THE RISE OF THE STAR QUEEN - THE RISE OF THE STAR QUEEN'
+
+_Featuring ‘Star Queen’ Celeste Tier III_
+
+Outside the palace and all along the continent, the independent kingdoms that had once all been the purview of the Storm Queen raged at war. Nobles took up arms against one another; commonfolk rose up against the nobles whose battles burned their farms. The Captain of the Navy laid in convalescence and the Star Queen remained palace-bound for her safety.
+
+One night, as she pored alone over war maps for the thousandth time, she heard whispers echoing her name. She followed the sounds through twisting hallways to an ornate locked door.
+
+_Try your key_, she heard from the other side of the door, and so she slid the key to the queen’s chambers into the lock, and the door swung open wide.
+
+The aviary was a narrow, tall courtyard around which the rest of the palace had been built. It was open to the sky, and perches covered in ravens’ nests protruded from the walls. She walked out into a garden, her bare feet sinking in wild grass and flowers, her neck craned up as the ravens glided down in wide circles to light on stone fountains and benches and on her shoulders too, and when she held out her fingers one of them curled his talons around them. She should have been afraid but she smiled, delighted at the hefty weight of them, at their majestic size.
+
+_The queen is dead_, came a whisper from one shoulder.
+
+_Long live the queen_, whispered the one on her hand.
+
+“Why can I hear you?” she asked, turning to look at the hundreds of dark birds gathered to greet her.
+
+_The queen can hear us_, said one behind her.
+
+_You are the queen_, reminded another.
+
+“And who are you?” she asked.
+
+_I am Vyn_, said one.
+
+_I am Vyn_, said another.
+
+_We are Vyn_, said a chorus of them.
+
+“Very well, Vyn” she said, running a thumb over the head of the raven on her fingers, soothing his eyes closed. “You beauties are free now.”
+
+_We belong to the queen_, whispered one.
+
+_You are the queen_, repeated another.
+
+_If you wish, you may have our eyes_, came a whisper from her hand._I will show you_. And Celeste’s vision blurred, then went black, and she felt herself flying high over a golden Gythian tower. She saw the glint of it, then the wear in the ancient construction. She circled, her wings spread, weightless atop the warm breeze; it was a dream of flying but better, for she had never seen the world in such vivid, bright color. Into a high window she flew, perching high on the molding near a ceiling fresco. She poked her beak at an itch under her wing until she heard voices far below. A group of people in pretty robes gathered over a map and argued.
+
+“Ah, it is my advisor,” she said in her trance. “Elizar!” But her voice came out in a raspy caw that the people below did not hear.
+
+“… successor has been found in Taizen Gate, and we are sending you, Elizar,” said a woman.
+
+“I’m too old for this, and so is Gythia,” said Elizar. “Let the Storm Queen, or whatever it is Louisa is calling herself these days, deal with her lands as she sees fit.”
+
+“Her ravens’ eyes turn toward us and her army has never been stronger. There is none better than you at raising people to power with Gythia’s best interests at the fore. Advise her to give independence to her neighboring kingdoms. They will turn on one another and collapse, and we shall have a necessary foothold on the continent.”
+
+Celeste snapped herself away from the ravens’ dream. Her lips pursed and the ravens cackled. “Is this vision true?” she asked in a measured tone.
+
+_It is a memory,_said one.
+
+_A story we can tell of what we saw,_said another.
+
+“I trusted him,” she said, her jaw tight. “He lied.”
+
+_Everybody lies._
+
+_But you can know when they lie._
+
+_You can see our colors._
+
+_There is nowhere you cannot fly._
+
+_Pay the price,_hissed one.
+
+_Let us take them, and we will be your eyes._
+
+_Give us your eyes._
+
+“So the queen before me was not so blind after all.” Celeste petted the head of the raven, one long stroke after another. She nodded up at the stars, the last thing she saw with her own eyes. “I must know the truth if I am to rule,” she said. “Take them.”
+
+The ravens descended, screaming.
+
+_The End._
+
+#### ‘BAEWITCHED’ CELESTE_\(SPECIAL EDITION\) - _‘BUT I QUITE LIKE PEANUT BUTTER’
+
+_**By SugarVenom**_
+
+Celeste wandered upon Petal on the Halcyon Fold one night, pulling eyes out of newts and dropping them into a cauldron.
+
+“You look strange,” said Celeste. She was eating a peanut butter and honey sandwich with the crusts cut off. “Did you do something with your hair?”
+
+
+
+Petal stirred up the stuff in the cauldron with a long spoon, then added three frog legs. The brew inside glowed green and farted. “I don’t have hair,” said Petal. “I look weird because you usually see me with Murgle.”
+
+“Oh. Whereisyour fancy bouncy vehicle?”
+
+One of the frog legs leaped out of the cauldron and tried to hop away. Petal grabbed it and tossed it back in. “Closed up, like the rest of the flowers. Haven’t you noticed anything different about the sky?”
+
+Celeste looked up. “All the stars are where I left them.”
+
+“It’s noon. Don’t you don’t find it kind of strange that you canseethe stars right now?”
+
+After a thoughtful bite of her sandwich, Celeste said in a sticky way. “I guess I don’t usually eat my lunch at night.”
+
+“It’s been night forthree days.We’re calling it The Great Eclipse.” Petal unwrapped an itty bitty pouch and upended it over the yawning mouth of the cauldron. Nothing visible came out, but baby laughs echoed from inside the bubbly goop. “The Bleekos did it.”
+
+Celeste peered over the lip of the cauldron and leaped back with a squeak when something inside erupted. She was okay, but her sandwich got toasted. “Bleekos?”
+
+“The Meekos’ mortal enemies. Their king, Gnottingham Catchfly the Third, stopped the world’s spin. Now half of it is always dark.”
+
+“How did he manage that?”
+
+“Magnets. Magic. Or maybe he dug down to the squirrel in the middle of the world who runs on the wheel and fed him a poisoned biscuit. I don’tknowhow, just that he did it, and the Bleekos invaded my home with their moonlight power. My garden is full of dung beetles and mosquitos and super-annoying cricket songs. The flowers are all closed, including Murgle. The munions are hiding underground. And I can’t fight, ’cause all my power comes from the sun.”
+
+“I like when the stars are out, though.”
+
+“You also like honey. Andpeanuts.” Petal pointed at Celeste’s sandwich. “There’s no flowers for the bees to dance in, and they’re all napping in their hives. No flowers, no honey. No sun, no peanut plants. No peanuts, no peanutbutter.”
+
+“But I quite like peanut butter.”
+
+“So make yourself useful.” Petal tossed a turkey baster over at Celeste, then poured in one grinning clam, one angel feather, a spider with nine legs, a first kiss and a can of orange juice concentrate. “Put a drop of that on this.” She set a watermelon down on the ground before Celeste, then fit a protective pumpkin over her own head.
+
+“Um… okay?” Celeste poked the baster into the burpy fizzy concoction and delivered one drop onto the innocent little melon.
+
+B O O M!
+
+The melon exploded outward. When the green smoke cleared, the watermelon had spooky sharp teeth, googly eyes and bounced around all on its own.
+
+“Perfect,” mused Petal, and hopped onto her new ride.
+
+“Exploding stuff could be useful,” mused Celeste. “Let’s make some more.”
+
+#### ‘MOON PRINCESS’ CELESTE_\(SPECIAL EDITION\) - _‘CELESTE SAVES THE MOON BUNNY’
+
+Celeste was walking home after studying late at the Taizen High School library one night when she heard a snivel-y weepy sound coming from the park. She followed the bawling to the swing set, where she found a brown-spotted bunny. The bunny was swinging super high, so high that Celeste was afraid he would go all the way around, then he jumped out of the seat with his four legs and floppy ears spread wide only to faceplant in the grass. With slumped shoulders and hiccup-y sobs he climbed back up into the swing and began again.
+
+“Excuse me, bunny,” said Celeste, “but why are you crying?”
+
+“I fell off the moo-oo-oon,” wailed the bunny, swinging higher and higher.
+
+Celeste looked up and sure enough, there was the moon, big and fat and full and bright. “And you’re trying to jump back up?”
+
+“Ye-e-e-es,” the bunny stutter-whimpered. Again the bunny leaped from the swing, its soft spotted belly open to the moon, but it fell again with a fluffy oof. With its whiskers in the grass he said, “I’m in charge of making all the peanut butter mooncakes for the world, and if I don’t get back soon, there won’t be any peanut butter mooncakes ever again.”
+
+“Bunnies make mooncakes on the moon?”
+
+“All mooncakes are made by bunnies on the moon,” wept the bunny.
+
+“Then I need to get you back up to the moon,” said Celeste. She picked up the bunny and craned her neck to look up, squinted one eye shut to gauge the distance. Sometimes stars came down from the sky to play with her; it made sense that she could go up to play with the moon. It wasn’t so far away as a star, after all. So she stared up at the moon and spun in a circle, spun and spun, faster and faster, her long braids whipping into a whirlwind, and soon her feet weren’t on the ground anymore, and then if she’d looked down she’d have seen the swing set far below, and the tops of roofs, and then Taizen Gate turned into a sprinkling of pretty lights in the distance past the clouds, and then it became very quiet, and then they were on the moon.
+
+They landed at the edge of the sparkling moondust falls where the bunny had tumbled off and were surrounded all at once by rabbits of all colors, even some striped like peppermint sticks, others polka-dotted like party dresses. The spotted bunny leaped from Celeste’s arms into his mother’s paws and the rest led Celeste off to the mooncake village, where all of the buildings were made of different flavors of mooncakes. The bunnies gave her super-tech moonwalking boots and a magical moon staff and made her the princess of the moon. Her most important princess duty was to taste all of the mooncake flavors, and she took to the task with great seriousness.
+
+After a whole night of mooncake eating, she told the rabbits that she had to return home. The rabbits were sad and tried to make her stay. Celeste explained that her brother Vox would get into trouble without her there to care for him, but to show her dedication to her duties, she returned every week thereafter to be Moon Princess, and to teach the rabbits a little magic, and for the official mooncake taste-testing \(even though peanut butter was always her favorite\).
 
 
 
