@@ -21,6 +21,7 @@
   * [Celeste](heroes/celeste.md)
   * [Celeste Lore](celeste-lore.md)
   * [Churnwalker](heroes/churnwalker.md)
+  * [Churnwalker Lore](heroes/churnwalker-lore.md)
   * [Flicker](heroes/flicker.md)
   * [Fortress](heroes/fortress.md)
   * [Glaive](heroes/glaive.md)
