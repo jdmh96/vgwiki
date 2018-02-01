@@ -2,8 +2,6 @@
 
 “I do not need your permission to buy a goat,” Julia said. “Goat milk is delicious, and we can make cheese.”
 
-
-
 They’d been arguing all evening. Ardan was hunched over his power gauntlet, sanding down the edges of a grill he’d removed to improve air flow. Outside in the yard, a goat shrieked into the moonless dark. “Goats stink and scream like fiends,” he grumped. “It hasn’t stopped for an hour. How will the twins sleep?”
 
 “The kids need a pet. Are you dropping metal shavings on my divan?”
@@ -100,8 +98,6 @@ He fled from the house into the dark, past the poor dead goat, whose screams had
 
 “Stop swinging.”
 
-
-
 From the top car of the rusted-out Carnie Wheel in the abandoned amusement park, Celeste gazes down at the mismatched buildings and colorful blinking lights of Taizen Gate. Up there, she can almost forget what it’s like to bump through the crowds, her fingers curled up tight in her brother’s so as not to lose him. How the merchants shove dead fish and live chickens and beeping gadgets in her face in the markets. How she never sleeps well thanks to the MECHANIC sign over her father’s garage that pulses red through her curtains. How the few stars that appear above the bright city call to her.
 
 Vox grins, not even holding on, shifting his weight back and forth hard. “What? Like_this_? Is this what’s scaring you?”
@@ -194,8 +190,6 @@ _Celeste searches among the faces of the Stormguard for the one who killed her m
 
 Ardan slammed his fist into the armor’s control panel.
 
-
-
 “Command?” responded the computer voice.
 
 “Vanguard up!” he screamed.
@@ -208,7 +202,7 @@ Had his rules been so impossible? Don’t draw attention to yourselves. Don’t 
 
 And now, his children were falling.
 
-_Don’t draw attention to yourselves._And they’d put up_posters_.
+_Don’t draw attention to yourselves.\_And they’d put up\_posters_.
 
 \*
 
@@ -266,9 +260,7 @@ _die_
 
 ?”
 
-
-
-We race down this old creaking dock toward the_RAAAAAHHHHHRRR_of these titanbacks that pull the barges. While the soldiers yank on the ropes to float a beast close enough for us to board, the Stormguard march closer, singing a creepy war song. An arrow goes_SHTOOMP_into the spine of the guy next to me. What’s left of the first line of Gythian defense stabs at the shields like_zzzppttt_–_zzppptt_, and Celeste holds my elbow and leans in.
+We race down this old creaking dock toward the_RAAAAAHHHHHRRR\_of these titanbacks that pull the barges. While the soldiers yank on the ropes to float a beast close enough for us to board, the Stormguard march closer, singing a creepy war song. An arrow goes\_SHTOOMP\_into the spine of the guy next to me. What’s left of the first line of Gythian defense stabs at the shields like\_zzzppttt_–_zzppptt_, and Celeste holds my elbow and leans in.
 
 “Do the thing,” she says. Then she smiles at me like everything isn’t chaos, like it’s just us on top of the world again.
 
@@ -276,19 +268,17 @@ So I gather up all the sound I feel. The titanback’s mouth yawns without a sou
 
 I aim it, then I let it go.
 
-It blasts in waves like_WUB-WUB-WUB-WUB_right at the line of Stormguard. Then the Gythians go to town on those dangerous dames, slice-n-dicing, and the Stormguard retreat, Gythians chasing after them.
+It blasts in waves like\_WUB-WUB-WUB-WUB\_right at the line of Stormguard. Then the Gythians go to town on those dangerous dames, slice-n-dicing, and the Stormguard retreat, Gythians chasing after them.
 
-I’m expecting accolades, like at_least_someone could act impressed? But the titanback burps out this big noise and the war mage is already trying to get Celeste onto the barge. Dad isn’t having it. He grabs Celeste back by her wrist. “She isn’t going,” he says.
+I’m expecting accolades, like at\_least\_someone could act impressed? But the titanback burps out this big noise and the war mage is already trying to get Celeste onto the barge. Dad isn’t having it. He grabs Celeste back by her wrist. “She isn’t going,” he says.
 
 The war mage goes on about how Celeste has to fulfill her destiny and take the throne blah blah blah, but Dad is having none of it. He even fakes a punch at the Gythian mage to make him flinch. Dad says the Storm Queen is threatening their dying civilization and they think throwing Sis at the problem will fix it. Celeste and I are like_whoa_. We learned about the tyrant queen in school, how her armies mow down and pillage other cities, killing dissenters and kidnapping talented kids to be raised as Stormguard soldiers.
 
 It gets crazy-tense, and everyone’s talking about what’s best for Celeste. But it feels like my future’s being decided too. And I got a decision to make…
 
-# Celeste Lore: Part Five - ‘ESCAPE TO THE FOLD PART II’
+# Celeste Lore: Part Six - ‘ESCAPE TO THE FOLD PART II’
 
 “If there is a way to end her tyranny, shouldn’t I do it?” Celeste says in that calm way that always winds Dad up even worse.
-
-
 
 “Your mother thought she could supplant the Storm Queen with technologist help, and look what happened to her.”
 
@@ -325,4 +315,32 @@ _“Such a shame…”_
 \*
 
 There’s all these rumors and tales about how Celeste is gonna challenge the throne of the Storm Queen \(which is still weird for me\), and they’re all epic, about how the Gythians and the Stormguard found out where Dad was hiding her, and they battled it out, and the Gythians took us here to the Halcyon Fold to recruit heroes to her cause, and now she’s dropping stars and taking names. But they leave out all the cool stuff I did. At least now you know the full story… and it’s not the last you’ll hear from me.
+
+## ALTERNATE FATES
+
+#### ‘BUTTERFLY’ CELESTE - ‘THE SWEETHEARTS’
+
+“Celeste! Yo, where’d you go?”
+
+“I’m up here, taking care of the sweethearts.”
+
+Vox poked his head out of the window and looked up. Celeste’s long black hair spilled down as she waved at her brother from the roof.
+
+Vox climbed out and swung up to join her. “Sweethearts? Whaddya mean …_whoa_.” On the roof, Celeste was busy watering a crowded garden full of butterflies. Bright orange and pink zinnias shared sunlight with golden sunflowers and purple verbenae. Butterflies socialized on firecracker vines, sipped from milkweeds and dangled from nectar-filled feeders hanging from wooden house-shaped boxes. All different colors and patterns zoomed together in pairs. A Blue Pansy landed on Vox’s nose and combed his eyelashes with its antennae.
+
+“The sweethearts like to drink from the flowers,” said Celeste. “The caterpillars need the dill and violets and clovers.” She pointed to herby-smelling boxes where caterpillars munched and larvae hung out. “I take care of their host plants and nectar plants, and I keep the spiders and ants away.”
+
+“Uh, Sis,” said Vox, swiping away the butterfly on his nose, “this is pretty and everything, but sweethearts are_people_. Bugs aren’t people.”
+
+Celeste set down her watering can and smiled at her twin. “Butterflies are people who were in love but couldn’t be together. Didn’t you know that?”
+
+Vox’s eyes widened at a pair of Red Lacewings spiraling through the air together. “Butterflies … used to be people?”
+
+“And now they can be together.” She held out her finger and a big orange butterfly landed on it. “This kind is called an Orange Julia.”
+
+Vox stepped close, peering at the basking butterfly. “Does … does this one have a sweetheart?”
+
+“Not yet.” Celeste whispered to the Julia, and it fluttered over to rest on Vox’s ear. “But I’ll take care of her until her sweetheart comes.”
+
+
 
