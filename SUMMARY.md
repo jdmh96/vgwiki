@@ -24,7 +24,9 @@
   * [Churnwalker Lore](heroes/churnwalker-lore.md)
   * [Corpus the Nightmare Goat Lore](heroes/corpus-the-nightmare-goat.md)
   * [Flicker](heroes/flicker.md)
+  * [Flicker Lore](heroes/flicker-lore.md)
   * [Fortress](heroes/fortress.md)
+  * Fortress Lore
   * [Glaive](heroes/glaive.md)
   * [Grace](heroes/grace.md)
   * [Grumpjaw](heroes/grumpjaw.md)
