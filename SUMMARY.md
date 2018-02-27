@@ -26,7 +26,7 @@
   * [Flicker](heroes/flicker.md)
   * [Flicker Lore](heroes/flicker-lore.md)
   * [Fortress](heroes/fortress.md)
-  * Fortress Lore
+  * [Fortress Lore](heroes/fortress-lore.md)
   * [Glaive](heroes/glaive.md)
   * [Grace](heroes/grace.md)
   * [Grumpjaw](heroes/grumpjaw.md)
