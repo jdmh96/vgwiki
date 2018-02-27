@@ -4,11 +4,9 @@
 
 The berserker dropped to the ground between the fire and the old druid, axes clinking at her belt, a caribou hock in one fist. Behind them, the others daubed the wattled longhouse walls with dung and straw where freezing wind whistled through.
 
-
-
 “It’s explanation time, old man,” she demanded. She took a big bite of the meat, leaving strips dangling, and pointed the hock at the druid. “That’s the fifth earth tremor in an hour. It’s knocking holes out of the walls now. I know you have some old story for every little thing that happens.”
 
-“There is a_truth_for everything,” he corrected in a low drone. “Beneath us slumbers Gudmund, the giant elder, son of Gunnr the Great Oak, and brother of Gymir, his bitter rival.” His fingers danced like punctuation in the firelight. “The brothers’ war grew so violent that nothing could live among the ruins of their hatred, so Gunnr sang a song to make them dream, then buried them deep underground, one in each hemisphere of the world. Gudmund was banished to the northern half, and Gymir was banished to the south…”
+“There is a\_truth\_for everything,” he corrected in a low drone. “Beneath us slumbers Gudmund, the giant elder, son of Gunnr the Great Oak, and brother of Gymir, his bitter rival.” His fingers danced like punctuation in the firelight. “The brothers’ war grew so violent that nothing could live among the ruins of their hatred, so Gunnr sang a song to make them dream, then buried them deep underground, one in each hemisphere of the world. Gudmund was banished to the northern half, and Gymir was banished to the south…”
 
 “Wait. Gymir was the father?”
 
@@ -44,8 +42,6 @@ The earth shook again, stronger than before, rolling logs away from the fire. Th
 
 In the distance, the howls of wolves sounded through the frozen air.
 
-
-
 # Fortress Lore: PART TWO
 
 ## ‘THE DESTRUCTION OF THE TEMPLE’ {#destruction}
@@ -72,17 +68,13 @@ The guarding of the Halcyon Well had been the alpha’s vocation since the templ
 
 Then, Fortress let loose a wild howl that carried for miles.
 
-
-
-# Fortress Lore: PART THREE
+# Fortress Lore: PART THREE
 
 ## ‘THE GREAT OAK’
 
-_The passageway through the world opens… _
+_The passageway through the world opens… _
 
 The old druid cut a formidable figure, antlers bursting from his headdress, ceremonial furs draping from shoulders to boots. Before him stood the enormous tree, her branches concealing the soupy-gray sky for one-hundred steps, her trunk so wide around that it took 10 men gripping hands to encircle it, the face of the Mother carved into it at eye-level with the druid.
-
-
 
 “My pack has pulled your old bones on the sled through snowdrift these many days,” grumbled Fortress. “Why have you not yet opened the door in the tree? Have you forgotten how?”
 
@@ -110,9 +102,7 @@ A wolf whined, then another. Fortress backed away from his old friend. “Call o
 
 The pack watched as the face of the Mother turned into a wide hollow. A thick, humid scent leaked from it, steaming the freezing air. Fortress moved closer, tentative, sniffing. Inside, a wooden staircase spiraled down into the dark.
 
-
-
-# Fortress Lore: PART FOUR
+# Fortress Lore: PART FOUR
 
 ## ‘RONA VS. SKVADER’
 
@@ -130,7 +120,7 @@ Rona cursed, dropped her pack, unleashed the axes from her belt with practiced t
 
 “Same beasts all the time,” she griped as the others came at her. “And the old man thinks he’s going to the other side of the world without me?” Front, back, side, she whirled, axes slashing, spinning, her vision washed red with her fury. The skvader jumped and flanked, shrieking out their madness; Rona shrugged off her cloak and her skin steamed in the freeze.
 
-“He thinks I’ll run from danger!” she cried. “Hide with the children!” She carved the snow back with her rear foot, shifted her weight low, swung wide with her left axe, hooking up three hares by their horns on the blade. “I never run!” she roared, and jumped into the center of the herd, spinning, axes flying, flinging away hooked skvader, dropping dead hares one after another with soft_foomph_sounds into snowdrifts.
+“He thinks I’ll run from danger!” she cried. “Hide with the children!” She carved the snow back with her rear foot, shifted her weight low, swung wide with her left axe, hooking up three hares by their horns on the blade. “I never run!” she roared, and jumped into the center of the herd, spinning, axes flying, flinging away hooked skvader, dropping dead hares one after another with soft\_foomph\_sounds into snowdrifts.
 
 _“Never!”_
 
@@ -140,9 +130,7 @@ Groaning, she sheathed the axes and reviewed the damage. She’d taken a few scr
 
 The tracks and spoor were fresh; she’d overtake the old druid within the hour.
 
-
-
-# Fortress Lore: PART FIVE
+# Fortress Lore: PART FIVE
 
 ## ‘NORTH IS ALWAYS FORWARD’
 
@@ -177,4 +165,12 @@ War Screech and Whistle dropped loose in her fingers. “And who are you?”
 “I am,” she said, and as if he had reminded her of herself, she squared her shoulders.
 
 “Then come with me,” said Fortress. “There is fighting to be done.”
+
+
+
+ALTERNATE FATES
+
+
+
+
 
