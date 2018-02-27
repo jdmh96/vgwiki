@@ -168,9 +168,181 @@ War Screech and Whistle dropped loose in her fingers. “And who are you?”
 
 
 
-ALTERNATE FATES
+# ALTERNATE FATES
 
 
+
+# ‘DIRE’ FORTRESS Lore
+
+The Old World was cared for by druids until the northmen brought war. As a last compromise, the land was given to the northmen except for the temple, guarded by Fortress’ pack. Read on to get a glimpse of the war-torn alpha, his family, and Corb, his magic green war doll.
+
+#### THE INVASION OF THE NORTHMEN
+
+“Humans were few on this land in the days before the northmen.”
+
+The young druid sat at the mouth of the cave by a cracking, spitting campfire, whittling a little wooden sword. The dark world outside was muted by falling snow. A war-torn dire wolf alpha rested with his head on the druid’s leg, his blind eyes closed, his breathing ragged. Scars striped down his body; mange had thinned his winter coat.
+
+“The Old World had not seen war since the battles of the Elder brothers,” continued the young druid. He blew splinters away from the sword and sewed it to the hand of a little green war doll with yarn hair and button eyes. “We druids who braved these winters concerned ourselves with astronomy, engineering and philosophy. We befriended the wolf, the bear, the owl, the lemming, the stoat, the fox, the reindeer, the stink ox and the skvader. We built the temple that enclosed Elder Gudmund’s well of power.”
+
+Inside the cave, the rest of the injured wolfpack rested, legs twitching with nightmares, stinking of the healing salve glistening on their wounds.
+
+“But the northmen were warmakers.” The young druid fit a red button shield onto the war doll’s hand and sewed it on tight. “They cut down the sacred oak and yew to build their homes. They feared the bear, the wolf and the skvader, and hunted them to prove their strength. They killed the druids for their protests, and much learning was lost.”
+
+He snapped the thread with his teeth. “Much learning was lost,” he whispered, staring at the doll he’d made. “The animals, who were friends of the druid and the oak and yew, went to war against the northmen. Even the reindeer and the stink oxen, who had never tasted flesh, drank the blood of war. But against the axes and fires of the northmen, the druids with their learning and the animals with their teeth and claws and hooves could not win.”
+
+The young druid ran his fingertips down the wolf’s furry snout.
+
+“The druids made an uneasy peace. The villages of the northmen now rise, built of compromise and blood, and we druids live among them, passing on what knowledge we can. But there is one thing on this land that the northmen must not touch: the well of power.”
+
+The young druid petted the places on the alpha wolf not ripped and scarred, and the wolf’s blind eyes opened.
+
+“Northmen axes imbued with the breath of Gudmund would destroy us all,” whispered the wolf.
+
+The young druid paused with his fingers curled in the thick winter fur. “Only your family can protect the temple from the northmen.”
+
+“For you, my friend, we shall.” The wolf stretched; a whine escaped his throat when he yawned.
+
+“When you have healed, my friend.” The young druid offered the doll to the alpha. “Into this war doll, I have sewn a piece of the spirit of Corb, the green warrior of the undersea; he will strengthen you.”
+
+The alpha took the doll from the young druid between his front paws and and settled into anxious sleep.
+
+
+
+# ‘NETHERWORLD FORTRESS’ Lore
+
+_The power of the Halcyon Wells originates deep underground in the boiling dark Netherworld. What lives aboveground survives because Fortress guards the Nether Gate. Past Fortress, none may go._
+
+“Explorer, he’s called,” grumbled one worker on the high scaffold, sweating down the M-shape of his balding forehead. He pointed his hand axe over his opposite shoulder. “All he’s done today is sit in the shade.”
+
+“And pay,” said the other, dusting wood dust away from the split they’d created near the top of the tree, just above the symbols that had been carved into it since a time before memory.
+
+“This tree is cursed,” said the first.
+
+“Nonsense!” The Explorer emerged from the open tent and climbed the scaffold. His fingers traced the letters carved into the stone around the lock.“It is ever true: The life above and the death below are one, and made by the other.”
+
+“Sounds like a curse to… ahh!” cried the first as his axe broke through to the hollow center of the tree. A thick breath of hot air escaped upward.  
+  
+“It is the Nether Gate of legend!” cried the Explorer. In horror, the workers watched as he climbed inside the tree.
+
+“Don’t go, sir!” wailed the second worker, wringing his hands. “What if there are monsters beneath?”
+
+“There are no such things as monsters,” echoed the Explorer’s voice as he lowered himself into the tree. “Only beasts of the Netherworld!”
+
+The Explorer lost his grip and fell, tumbling, for far longer than the tree was tall. In that void he could not tell down from up, nor whether he had landed. In the distance was a whisper of firelight that, rather than illuminating, made the darkness even more so. The darkness pressed into him; he tasted and breathed the darkness until he thought he would choke. A longing loneliness bade him cry for lover or mother.
+
+The blazing light grew and morphed into the shape of a beast. At first, it was a mass of spitting and burning rage, incomprehensible, a terror that scorched the Explorer’s throat. As it drew close, it formed into an enormous, volcanic, burning dire wolf.
+
+“Name yourself, trespasser,” said the wolf.
+
+“I am Walker of the Cartographers. And you… you are Fortress, the Guardian of the Nether Well.”
+
+“What you know, and what you think you know, are leagues apart.” The churning volcanic fire solidified into armor, and the beast growled.
+
+“I have come to see the well,” said the Explorer, drawing up his confidence though his teeth chattered.
+
+“As you wish,” said the wolf, and the blackness echoed with the sounds of howling. “Only those who defeat me may glimpse the Nether Well. Draw your weapons, Walker.” From the wolf’s shoulders, two more vicious heads sprouted into being, growling and snapping, and the rest of the ignited pack emerged from the darkness.
+
+The Explorer turned and ran, ran in no direction, swallowed into the void, begging forgiveness with pathetic sobs. The wolf’s deep laughter echoed from all around him until he woke, gasping for breath, at the base of the sacred tree.
+
+
+
+# LIMITED-EDITION ‘GIFT-WRAPPED’ FORTRESS
+
+_Gather around the fireplace to hear the story of Rona’s favorite present ever: ‘Gift-wrapped’ Fortress! For a limited time only, use ICE to unlock this limited-edition, super cute hero skin in the Market upon update 1.12’s release. By 2016, they’ll be gone … and then only those who unlocked this special skin will have access to play with the fluffiest Fortress ever. _
+
+### **SEASONAL SKIN LORE**
+
+_**By SugarVenom**_
+
+“Can I? Please?” Little Rona danced around a juniper garland-wrapped crate. “I wanna open them now!”
+
+“Patience is the companion of wisdom.” The druid nailed long stockings to the wall of the longhouse.
+
+“But it’s almost midnight.” The fire crackled in the center of the room. Minty smells drifted from the winter holiday candles. It was the eve of the Joy Festival, and the children had all long gone to sleep in hopes of a quick morrow – all except Rona, who at three winters old could not bear to leave her festival gifts unattended.
+
+“One acquires a chicken by hatching the egg, not by smashing it.”
+
+“This one’s moving!” Rona dropped to her knees and pressed her ear to a crate several times her size. “It’s whining!”
+
+“You have had too much maple holiday candy. You are hearing things.”
+
+“I’m not!” The crate rumbled and huffed, then sneezed. “Hear that?”
+
+The druid crouched down beside her and pressed his own ear to the side of the crate. “Ah, so it is. One of your Joy Festival gifts is alive. I suppose opening_just one_ a night early is…”
+
+Before the druid could finish, little Rona had torn away at the garlands that wrapped the crate. She’d lifted the lid just enough to peek inside when a giant four-legged fluffball bounded from inside and shook itself out.
+
+“IT’S A PUPPY!” cried Rona, flinging her arms around its neck.
+
+“Now, Rona, a pet is a big responsib…”
+
+“A PUPPY! JUST LIKE I ASKED!”
+
+“You will have to feed him, and give him water, and take him outside when he needs to…”
+
+“PICKLES!”
+
+“…Pickles?” The druid scratched his head.
+
+“HIS NAME IS PICKLES!”
+
+“Ah. He is a dire wolf, you know, his name could be something far more…”
+
+“Ehhmbuehhh beh,” responsed Rona with her face buried in the puppy’s fluffy side.
+
+“…I was thinking something like Fortress. That’s a good strong name.”
+
+“Pickles,” sighed Rona. The puppy rolled onto its back and Rona rubbed its belly.
+
+The druid shrugged. “Pickles it is, then.”
+
+
+
+# ‘GIFT WRAPPED’ FORTRESS \(SPECIAL EDITION\)
+
+### **‘PICKLES!’**
+
+“Can I? Please?” Little Rona danced around a juniper garland-wrapped crate. “I wanna open them now!”
+
+“Patience is the companion of wisdom.” The druid nailed long stockings to the wall of the longhouse.
+
+“But it’s almost midnight.” The fire crackled in the center of the room. Minty smells drifted from the winter holiday candles. It was the eve of the Joy Festival, and the children had all long gone to sleep in hopes of a quick morrow – all except Rona, who at three winters old could not bear to leave her festival gifts unattended.
+
+“One acquires a chicken by hatching the egg, not by smashing it.”
+
+“This one’s moving!” Rona dropped to her knees and pressed her ear to a crate several times her size. “It’s whining!”
+
+“You have had too much maple holiday candy. You are hearing things.”
+
+“I’m not!” The crate rumbled and huffed, then sneezed. “Hear that?”
+
+The druid crouched down beside her and pressed his own ear to the side of the crate. “Ah, so it is. One of your Joy Festival gifts is alive. I suppose opening just one a night early is…”
+
+Before the druid could finish, little Rona had torn away at the garlands that wrapped the crate. She’d lifted the lid just enough to peek inside when a giant four-legged fluffball bounded from inside and shook itself out.
+
+“IT’S A PUPPY!” cried Rona, flinging her arms around its neck.
+
+“Now, Rona, a pet is a big responsib…”
+
+“A PUPPY! JUST LIKE I ASKED!”
+
+“You will have to feed him, and give him water, and take him outside when he needs to…”
+
+“PICKLES!”
+
+“…Pickles?” The druid scratched his head.
+
+“HIS NAME IS PICKLES!”
+
+“Ah. His name could be something far more…”
+
+“Ehhmbuehhh beh,” responsed Rona with her face buried in the puppy’s fluffy side.
+
+“…I was thinking something like Fortress. That’s a good strong name.”
+
+“Pickles,” sighed Rona. The puppy rolled onto its back and Rona rubbed its belly.
+
+The druid shrugged. “Pickles it is, then.”
 
 
 
