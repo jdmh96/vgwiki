@@ -81,7 +81,7 @@ Joule stops, looking up at the lumpy, camouflaged shape of her new toy. “Um…
 
 # ALTERNATE FATES
 
-#### ‘KILLA-JOULE 9000’ - **‘KILLA-JOULE 9000’ TIER 1**
+#### ‘KILLA-JOULE 9000’ - **‘KILLA-JOULE 9000’ **
 
 The officer looked from the academy admission test results in his hand to the recruit standing before him: the shock of color in her hair, the worn-down boots tapping impatiently, the crossed arms and the elbows ripped out of her leather jacket.
 
@@ -151,9 +151,53 @@ _“Stay in line!” screams the CO._
 
 _“Aw, screw that.” Joule breaks out of line as a claw smashes through another window; she runs through the shattered glass in her slippers, grabbing the CO by his collar. “Let’s go!”_
 
-#### ‘KILLA-JOULE 9000’ -** “I KNOW YOU GOT THE CODE!”**
+#### ‘KILLA-JOULE 9000’ -** “I KNOW YOU GOT THE CODE!”**
 
+_The garage is dark for the night, but this isn’t the first time Joule’s had to get into a locked-down hangar. Emergency lights flash blue and red on Joule’s face as she shoves the CO’s face onto the gate lock._
 
+_“You’ll get the brig for this,” mutters the CO, but with shaking fingers, he pokes the code into the lock and the gate rises._
+
+_“Nah! I’ll just get yelled at. I’ve been yelled at before.” Joule sprints to her mech and climbs up, barefoot, punches the starter. The machine roars to life, its merry lights blinking, as Joule calls down to her CO, “Well? You gonna stand there watchin’, or are you gonna help?”_
+
+_The line of cadets marches after the CO into the hangar. The CO shrugs, helpless, and everyone scatters to mount their mechs. Joule raps her knuckles on a button and the big door rises. The screeching sounds of the giant beast pierce into the hangar, and the cadet mech army clomps outside._
+
+#### ‘KILLA-JOULE 9000’ -** “CRAB LEGS FOR DINNER!”**
+
+_“Whatisthat thing?” screams a cadet as the giant crab pokes its claws through the dormitory windows._
+
+_“Dunno! Let’s kill it and find out!” Joule’s magneto-modulated plasma sword rises, leading the assault of mech cadets. She rocket leaps straight into the crab’s carpus, sinks the blade through the joint and drops the claw to the ground. “Crab legs for dinner!”_
+
+_“Crab legs for dinner!” the cadets call back like a battle cry, and the beast is enveloped by an onslaught of beams, bullets and electricity. Mechanized swords hack at the digging legs while bullets dent the carapace. Another claw hits the ground. Joule leaps up, slices off an eye stalk as long as her leg and lands square underneath the stumbling crustacean._
+
+_“Let’s see what these fancy-wancy machines can really do!” shouts Joule, turning up the dial on the halcyon wave accelerator beam. The mech glows red as Joule aims up at the soft abdomen._
+
+_“No, Joule!” cries the CO. “The H-WAB can’t take that much heat! The manual says…”_
+
+_“Trust me! I’ve been testing overdrives in the field since I was a kiddo!” Joule slams her fist down on the big red button and the night sky explodes with light. The crab staggers, hisses and slams to the ground right over Joule and her mech._
+
+_When the smoke clears, there’s a perfect hole blasted through the middle of the crab, and Joule’s standing in her mech right in the middle of it._
+
+_“So,” she says, cracking her knuckles, “can I graduate now?”_
+
+#### ‘SNOW MONSTER’ JOULE - ORPHAN MONSTER
+
+Joule found the snow monster on toppa the airship tower where sometimes we’d go to set off fireworks. There’d been a ruckus up there the night before; an elevator broke and a bunch of ladies were done for. Whole thing was hush-hush even in the places we eavesdropped, so Joule said we should check it out ourselves. After dark we ducked under the security tape and went up the emergency ladders. Chatter tapped out halfway up, scared of heights, and SBD took longest, but Joule was first. We went right for the chalk outlines in the control room, laid inside them, poked at the buttons on busted equipment, wowed at the big hole in the ceiling. Chester pretended to shove Petey into the yawning broken elevator hole.
+
+Joule climbed up to the landing pad. That’s where she found it: a wiggling military backpack hanging off the edge.
+
+“It’s a cat!” screamed Bell, who was afraid of cats, when Joule pulled out the white ball of fur.
+
+“It ain’t a cat,” said Joule. “It’s a monster.”
+
+Bell had no cause yet to be scared of monsters so she stepped in close, then we all did. For sure it wasn’t a cat or a dog or a hamster or like anything we’d seen before. Also it was hungry, ‘cause first thing, it tried to eat SBD’s fingers.
+
+“Prob’ly has rabies,” said Petey, leaning in close. The monster let out this baby-cute roar, and his breath was so cold that he iced Petey right over, gave him icicle eyelashes and frozen boogers. So none of us insulted the monster again.
+
+“He doesn’t have rabies. He’s an orphan, so we gotta take care of him,” said Joule, and shoved him in the backpack. “His name’s Mac.” She snuck him down the ladder and back home. We fed it bacon and muffins but it liked peppermint candy most of all. Turned out it was a baby when we found it, ‘cause in a coupla weeks, Mac grew curly horns out of its head and pointy tusks out his mouth. He got taller than alla us in a month.
+
+We couldn’t hide him for long. Every time he sneezed, he froze the house, and when he didn’t, the poor guy was sweaty-hot. He stomped holes in the floors. We figured we’d have to shave him or stuff him down in the sewer with the other too-big pets but Joule had this whole other idea. She taught Mac to carry her, and she’d chase alla us around for target practice, tickling Mac’s nose when she wanted him to roar ice. She fed him peppermint candies when he did good, and she used alla us as her target practice, so we had icicle eyelashes and frozen boogers until Joule figured Mac was ready for the big time.
+
+Now, she and Mac run crystal in the Halcyon Fold together. Joule tells us that Mac turned a whole jungle into wintertime with his yawns and roars and sneezes, so after they’ve collected lots of crystal and gold, she tucks him into a fluffy snowdrift and kisses him nighty-night. She makes a hella lotta gold there, which is lucky ‘cause every morning she has to bring him pizzas and pies and candies for breakfast, and that stuff ain’t cheap.
 
 
 
