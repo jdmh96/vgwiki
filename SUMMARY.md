@@ -30,6 +30,7 @@
   * [Glaive](heroes/glaive.md)
   * [Glaive Lore](heroes/glaive-lore.md)
   * [Grace](heroes/grace.md)
+  * [Grace Lore](heroes/grace-lore.md)
   * [Grumpjaw](heroes/grumpjaw.md)
   * [Gwen](heroes/gwen.md)
   * [Idris](heroes/idris.md)
