@@ -32,6 +32,7 @@
   * [Grace](heroes/grace.md)
   * [Grace Lore](heroes/grace-lore.md)
   * [Grumpjaw](heroes/grumpjaw.md)
+  * [Grumpjaw Lore](heroes/grumpjaw-lore.md)
   * [Gwen](heroes/gwen.md)
   * [Idris](heroes/idris.md)
   * [Joule](heroes/joule.md)
