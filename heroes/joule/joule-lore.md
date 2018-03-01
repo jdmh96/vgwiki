@@ -81,23 +81,23 @@ Joule stops, looking up at the lumpy, camouflaged shape of her new toy. “Um…
 
 # ALTERNATE FATES
 
-#### ‘KILLA-JOULE 9000’ - **‘KILLA-JOULE 9000’ TIER 1**
+#### ‘KILLA-JOULE 9000’ - **‘KILLA-JOULE 9000’ TIER 1**
 
-The officer looked from the academy admission test results in his hand to the recruit standing before him: the shock of color in her hair, the worn-down boots tapping impatiently, the crossed arms and the elbows ripped out of her leather jacket.
+The officer looked from the academy admission test results in his hand to the recruit standing before him: the shock of color in her hair, the worn-down boots tapping impatiently, the crossed arms and the elbows ripped out of her leather jacket.
 
-The other hopefuls stared at her, snickering in their starchy prep school uniforms, their high-and-tights and slicked-back sock buns and their shined-up dress shoes.
+The other hopefuls stared at her, snickering in their starchy prep school uniforms, their high-and-tights and slicked-back sock buns and their shined-up dress shoes.
 
 “So you want to be a mech pilot.” The officer stared her down.
 
-See the Killa-Joule 9000 skin in-game during the official dev livestream reveal!
+See the Killa-Joule 9000 skin in-game during the official dev livestream reveal!
 
-“I can take the[8002](http://www.vainglorygame.com/news/2014/8/1/prototype-8002)apart and put it back together again. Can any of these dummies do that?” She jabbed a thumb at the line of hopefuls behind her.
+“I can take the[8002](http://www.vainglorygame.com/news/2014/8/1/prototype-8002)apart and put it back together again. Can any of these dummies do that?” She jabbed a thumb at the line of hopefuls behind her.
 
 “Which begs the question: How have you come by this knowledge?”
 
 Joule shrugged, wiped her nose with the sleeve of her jacket.
 
-“You’re that kid who stole the 8002 a few years back.”
+“You’re that kid who stole the 8002 a few years back.”
 
 “Maybe.”
 
@@ -113,7 +113,47 @@ The officer narrowed his eyes. “Let’s begin with ‘Yes, Sir.’”
 
 Joule grinned and straightened her spine. “Yes, Sir.”
 
-#### ‘KILLA-JOULE 9000’ - **‘KILLA-JOULE 9000’ TIER 2**
+#### ‘KILLA-JOULE 9000’ - THE ACADEMY IS ATTACKED!
+
+_“This is soboooooring.”_
+
+_A week before final exams, all the firsties are buried in books. At three in the morning, Joule’s slumped over her desk, holding up her head with one fist._
+
+_“Shh,” hisses her roommate._
+
+_“You don’t think this is boring? Four years of studying this poop, guard duty, PT, classes… don’t you wannadosomething?”_
+
+_“What do you want to do?”_
+
+_“I wannadrive. We got these next-level mechs with halcyon accelerator cannons, magneto-regulated plasma blades, corvus mark-3 jump jets… and we never even get to blow things up…”_
+
+_The floor beneath them shudders, cutting Joule’s whining short._
+
+_\*CRASH\*_
+
+_The dormitory fills with the screams of the alarms._
+
+#### ‘KILLA-JOULE 9000’ - **ALL CADETS TO BUNKERS!**
+
+\*ALL CADETS TO BUNKERS. ALL CADETS TO BUNKERS. ALL CADETS TO…\*
+
+_Orderly lines of half-asleep cadets in their skivvies form in the dormitory hallways._
+
+_“This isgreat!” cried Joule._
+
+_“Shh!”_
+
+_“Why was I not made aware of tonight’s drill?” bellows the CO. Another slam against the side of the building shakes the cadets off their feet._
+
+_“It’s not a drill.Look!” Joule points at a window right as a giant claw crashes through it, opens and snaps up the nearest cadet._
+
+_“Stay in line!” screams the CO._
+
+_“Aw, screw that.” Joule breaks out of line as a claw smashes through another window; she runs through the shattered glass in her slippers, grabbing the CO by his collar. “Let’s go!”_
+
+#### ‘KILLA-JOULE 9000’ -** “I KNOW YOU GOT THE CODE!”**
+
+
 
 
 
