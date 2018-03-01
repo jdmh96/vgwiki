@@ -37,6 +37,7 @@
   * [Idris](heroes/idris.md)
   * [Idris Lore](heroes/idris-lore.md)
   * [Joule](heroes/joule.md)
+    * [Joule Lore](heroes/joule/joule-lore.md)
   * [Kestrel](heroes/kestrel.md)
   * [Koshka](heroes/koshka.md)
   * [Krul](heroes/krul.md)
