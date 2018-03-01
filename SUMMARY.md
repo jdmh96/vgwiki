@@ -28,6 +28,7 @@
   * [Fortress](heroes/fortress.md)
   * [Fortress Lore](heroes/fortress-lore.md)
   * [Glaive](heroes/glaive.md)
+  * [Glaive Lore](heroes/glaive-lore.md)
   * [Grace](heroes/grace.md)
   * [Grumpjaw](heroes/grumpjaw.md)
   * [Gwen](heroes/gwen.md)
