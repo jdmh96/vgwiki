@@ -6,7 +6,7 @@ _Joule’s got a plan…_
 
 Scratching at her elbows under her ripped up jacket, Joule tells us, “It’ll be the biggest thing we’ve pulled off.” From under the dusty mat she sleeps on, Joule pulls out folded-up papers. “This one,” she says, “this one I got from an army guy, don’t ask how. Okay, go ahead and ask how. Go on. Okay, nevermind. Look.” She spreads out this blue paper and there’s an outline of something we ain’t seen before. Some big machine that walks.
 
-![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/12/Joule-prototype.jpg)
+![Oh! I wonder if this thing comes in red](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/12/Joule-prototype.jpg)
 
 “And we are gonna steal it.” Like it ain’t in a military hangar behind all kindsa guards and cameras and firepower, that’s how Joule says it. She has a plan for that, too. Joule always has a plan for everything. Outta her stocking she yanks out another paper, this one her own creation, a map of the compound, and all our instructions. “We get a buncha smoke bombs. I know Gator is hoarding a bunch. Some flashbangs for distracting. And I know Petey has that anchor he borrowed from the docks. We’ll totally use that like a grappling hook.”
 
@@ -42,7 +42,7 @@ Sure enough, one guard holds onto Chatter while the rest of them go racing off a
 
 Only Joule’s pockets make noise. We all know how to be silent, ‘cept for Chatter, but she’s gone and Chester ran off after her. Whatever; he wouldna fit in the ducts anyways.
 
-![joule-map-2](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/12/Joule-map-2.jpg)
+![Yep, got it](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/12/Joule-map-2.jpg)
 
 Bell goes straight toward the security room. SBD, Petey, and Gator head for the distraction points, moving slow with all their stuff. Joule and Bell stop over the security room grate and get busy, Joule with her screwdriver, Bell with a makeshift blow dart she fashioned for the occasion. The hollow reed fits through the grate, but aiming ain’t easy. Joule loosens the grate screws just enough to keep it in place. Nobody’s breathing. Bell gets a clear shot on the guard inside and tap-tap-taps on the duct wall with her fingernails.
 
@@ -59,6 +59,8 @@ _Payload!_
 “Listen up, ya baldy-heads!” yells Joule. “You all know what this is! Flatulo-virus! All I gotta do is open it and we all drop dead!”
 
 When the smoke clears, Joule’s in front of the mechs in the middle of the hangar, waving a little corked vial around. SBD’s leaning on her, breathing hard. Guards flood in, including the ones holding our friends. Two of ‘em tackle Gator, anchor and all. Echoing in the back we hear Chatter wailing. “It’s ooooover! We’re deeeeead!” Soldiers pour in through the choke point, some of ‘em holding us while we struggle, some of ‘em pointing guns right at Joule, who laughs all crazy.
+
+![No freaking way](../../.gitbook/assets/joule_lore_heistp3.jpg)
 
 “We’ll never surrender! We’ll die first!” she howls, and yanks the cork outta that vial so hard her elbow bashes into SBD’s belly.
 
@@ -80,6 +82,8 @@ We all bail, running like mad for that hole, jumping out and fleeing toward the 
 “Yeah sure,” says Bell, “but what’re you gonna\_do\_with it?”
 
 Joule stops, looking up at the lumpy, camouflaged shape of her new toy. “Um…”
+
+![Well, now that I pulled this off, I gotta start dreaming bigger. Hm.](../../.gitbook/assets/joule_lore_heistbeam%20%281%29.jpg)
 
 ## ALTERNATE FATES
 
