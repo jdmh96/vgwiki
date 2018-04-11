@@ -1,4 +1,14 @@
+---
+description: Welcome To The Official Vainglory Wiki
+---
+
 # Introduction
 
-Welcome To The Official Vainglory Wiki
+{% page-ref page="items/" %}
+
+{% page-ref page="terms-used-in-game.md" %}
+
+{% page-ref page="heroes/" %}
+
+
 

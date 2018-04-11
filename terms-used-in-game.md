@@ -1,4 +1,4 @@
-# Terms used in game
+# Common Terms
 
 When all Heroes on the opposing team are dead within each others regeneration time, allowing additional bonus to the opposition.
 
