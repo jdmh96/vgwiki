@@ -1,5 +1,7 @@
 # Common Terms
 
+## Ace
+
 When all Heroes on the opposing team are dead within each others regeneration time, allowing additional bonus to the opposition.
 
 ## AD
@@ -140,6 +142,10 @@ One of the ‘roads’ on the map.
 
 Allows you to regain part of the damage you dealt as health. For example: If you dealt 100 damage and had 10% lifesteal you would get 10 health back. Lifesteal only applies to auto-attacks and a few abilities.
 
+## Market
+
+The ‘out-of-game’Vainglory Market in which you can buy heroes, chests, ice, skins & talents etc. Not to be confused with the in-game shop.
+
 ## MF
 
 Miss Fortune
@@ -262,10 +268,6 @@ Stands for miss or missing. This is said when an opponent in a certain area is m
 
 This word can be used in many different ways but always involves multiplying the effect of something. There are items that "stack" or "pile up" a certain value for each time you do a certain action \(eg. Catherine's A\), using a skill or killing a hero. There are items that stack values, but you can also stack items yourself \(buying more than one - dependent on the item type\). There are also skills that stack values.
 
-## Market
-
-The ‘out-of-game’Vainglory Market in which you can buy heroes, chests, ice, skins & talents etc. Not to be confused with the in-game shop.
-
 ## Steal
 
 Specific definitions of this vary but always at least refers to getting the last hit on a unit when an ally was already attacking it. Can refer to stealing a hero kill, a minion kill, or a jungle monster.This is usually meant in a negative fashion, as in: you 'stole' from your ally. But stealing is often used as a strategy and so can be used in a positive way.
@@ -281,6 +283,10 @@ Support. This is a hero or player who doesn't take any minion last hits and so u
 ## Sustain
 
 Long-term regeneration. E.g. a hero with a lot of sustain can stay in lane for a long time because they can keep regenerating their HP so they do not have to return to base to regenerate.
+
+## Tilt
+
+Tilt, tilting, and tilted are terms that refer to a negative emotional state caused by repeated losses. It is most often used to refer to a person who begins making poor decisions and/or raging due to the frustrations of losing. The term originated with pin-ball machines, and was made popular in poker. 
 
 ## WP
 
