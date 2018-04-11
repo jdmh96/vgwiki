@@ -242,8 +242,6 @@ The Explorer turned and ran, ran in no direction, swallowed into the void, beggi
 
 ## LIMITED-EDITION ‘GIFT-WRAPPED’ FORTRESS
 
-_Gather around the fireplace to hear the story of Rona’s favorite present ever: ‘Gift-wrapped’ Fortress! For a limited time only, use ICE to unlock this limited-edition, super cute hero skin in the Market upon update 1.12’s release. By 2016, they’ll be gone … and then only those who unlocked this special skin will have access to play with the fluffiest Fortress ever. _
-
 #### **SEASONAL SKIN LORE**
 
 _**By SugarVenom**_
