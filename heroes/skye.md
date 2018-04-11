@@ -2,14 +2,14 @@
 
 Versatile, elusive mech pilot who can flank enemies from any angle.
 
-#### Heroic Perk: Target Lock
+## Heroic Perk: Target Lock
 
 Skye's basic attacks apply Target Lock to the last target.
 
 * Basic attacks & Forward Barrage on that locked target grant her up to +2 move speed for 1.2s, but this boost is much weaker while moving backward.
 * Target Lock lasts 3s & is lost when the target is more than 8.5 meters away.
 
-###### Stats - Level 1-12
+### Stats - Level 1-12
 
 * Health: 668 - 2060
 * Energy: 380 - 732
@@ -20,7 +20,7 @@ Skye's basic attacks apply Target Lock to the last target.
 * Range: 5.5
 * Move Speed: 3.1
 
-#### Ability A: Forward Barrage
+## Ability A: Forward Barrage
 
 Skye fires a continuous stream of bullets while strafing in the selected direction for 3s. Building weapon power makes the barrage slow approaching enemies by up to 40%
 
@@ -36,7 +36,7 @@ Skye fires a continuous stream of bullets while strafing in the selected directi
 | Lock-On    Damage   Bonus | 10% | 10% | 10% | 10% | 10% | 20% |  |
 | Slow | 0% | 0% | 0% | 0% | 0% |  | 20% |
 
-#### Ability B: Suri Strike
+## Ability B: Suri Strike
 
 Skye dashes to a chosen location around her locked target while firing a volley of missiles along a line between her & her target.
 
@@ -75,6 +75,4 @@ Passive: Each ability point in Death from Above increases the range of Target Lo
 | Damage / Sec | 250 | 300 | 350 | 50% |  |
 | Slow | 55% | 60% | 65% |  |  |
 | Range Bonus | 1.5 | 3 | 4.5 |  |  |
-
-
 

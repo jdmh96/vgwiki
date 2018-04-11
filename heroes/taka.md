@@ -2,14 +2,14 @@
 
 Stealthy assassin who can heal while invisible.
 
-#### Heroic Perk: House Kamuha
+## Heroic Perk: House Kamuha
 
 When Taka uses an ability or lands a Mortal Strike, he gains a stack of Ki.
 
 * Every 5s, Taka's next basic attack is replaced with a Mortal Strike. Mortal Strikes deal 40 \(+35% of weapon power\) bonus damage & grant Taka +2 move speed for 2s.
 * Ki speeds up Taka's Mortal Strike timer & grants 25% cooldown speed \(max 5 Ki stacks\).
 
-###### Stats - Level 1-12
+### Stats - Level 1-12
 
 * Health: 702 - 2287
 * Energy: 180 - 422
@@ -20,7 +20,7 @@ When Taka uses an ability or lands a Mortal Strike, he gains a stack of Ki.
 * Range: 2
 * Move Speed: 3.4
 
-#### Ability A: Kaiten
+## Ability A: Kaiten
 
 Taka flips over his target, cutting it with his switchblade. Taka is invulnerable to damage & negetive effects while in mid-air.
 
@@ -30,7 +30,7 @@ Taka flips over his target, cutting it with his switchblade. Taka is invulnerabl
 | Energy       Cost | 55 | 55 | 55 | 55 | 0 |  |  |
 | Damage | 100 | 165 | 230 | 295 | 360 | 80% |  |
 
-#### Ability B: Kaku
+## Ability B: Kaku
 
 Taka throws a smoke bomb at his feet & becomes invisible. While stealthed, Taka moves faster & heals himself.
 
@@ -46,7 +46,7 @@ Taka throws a smoke bomb at his feet & becomes invisible. While stealthed, Taka 
 | Heal / Sec | 25 | 50 | 75 | 100 | 125 | 30% |  |
 |  | 0.7 | 0.7 | 0.7 | 0.7 | 0.7 |  |  |
 
-#### Ultimate: X-Retsu
+## Ultimate: X-Retsu
 
 Taka bursts through his target for massive damage & gains Ki stacks. The target suffers a mortal wound \(reduced healing\) & takes damage per second for the next 3s. The wound's duration is refreshed whenever Taka Mortal Strikes this target.
 
@@ -57,6 +57,4 @@ Taka bursts through his target for massive damage & gains Ki stacks. The target 
 | Damage | 250 | 400 | 550 | 170% |  |
 | Ki Stacks | 1 | 2 | 3 |  |  |
 | Damage / Sec | 40 | 50 | 60 | 70% |  |
-
-
 

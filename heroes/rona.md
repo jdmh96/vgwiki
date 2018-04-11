@@ -2,7 +2,7 @@
 
 Durable berserker who excels in thick of fights.
 
-#### Heroic Perk: Berserkers' Fury
+## Heroic Perk: Berserkers' Fury
 
 Rona attacks faster than most heroes, but she deals 85% damage with each attack.
 
@@ -11,7 +11,7 @@ Rona's abilities use Bloodrage instead of energy, a unique resource that is gene
 * Critical strikes & basic attacks against against targets afflicted by Mortal Wounds will generate additional Bloodrage.
 * This caps at 100 & decays when Rona has been out of combat for 5s.
 
-###### Stats - Level 1-12
+### Stats - Level 1-12
 
 * Health: 778 - 2563
 * Energy: 0
@@ -22,7 +22,7 @@ Rona's abilities use Bloodrage instead of energy, a unique resource that is gene
 * Range: 1.8
 * Move Speed: 3.3
 
-#### Ability A: Into the Fray
+## Ability A: Into the Fray
 
 Rona leaps into battle, gaining Bloodrage for each enemy hero she collides with. After a short delay, the ground ruptures for 3s, dealing damage & slowing enemies who pass over it by 35%.
 
@@ -39,7 +39,7 @@ Rona leaps into battle, gaining Bloodrage for each enemy hero she collides with.
 | Rupture     Damage | 100 | 140 | 180 | 220 | 300 | 200% |  |
 | Rupture     Dmg to    Minions | 40 | 70 | 100 | 130 | 220 | 100% |  |
 
-#### Ability B: Foesplitter
+## Ability B: Foesplitter
 
 A two-part axe attack that can catch up to - then brutalize - an unsuspecting target.
 
@@ -57,7 +57,7 @@ A two-part axe attack that can catch up to - then brutalize - an unsuspecting ta
 | Attack        Speed | 15% | 20% | 25% | 30% | 40% |  |  |
 | Duration | 2s | 2.5s | 3s | 3.5s | 4s |  |  |
 
-#### Ultimate: Red Mist
+## Ultimate: Red Mist
 
 Rona drains her Bloodrage & spins in a whirlwind, dealing weapon damage to nearby enemies. While spinning, Rona moves slower & gains fortified health for each second.
 
@@ -72,6 +72,4 @@ Rona drains her Bloodrage & spins in a whirlwind, dealing weapon damage to nearb
 | Damage/Sec | 225 | 350 | 475 | 100% | 160% |
 | Bloodrage per    Second | 25 | 25 | 25 |  |  |
 | Fortify/Sec | 60 | 95 | 130 |  |  |
-
-
 

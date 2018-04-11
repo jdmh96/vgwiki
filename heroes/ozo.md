@@ -2,13 +2,13 @@
 
 Acrobatic monkey with immense self-healing.
 
-#### Heroic Perk: Carnie Luck
+## Heroic Perk: Carnie Luck
 
 Ozo receives 15%-30% additional healing, barrier & fortified health from all sources.
 
 * This does not affect health regeneration.
 
-###### Stats Lvl 1-12
+### Stats Lvl 1-12
 
 * Health: 769 - 2536
 * Energy: 350 - 650
@@ -19,16 +19,14 @@ Ozo receives 15%-30% additional healing, barrier & fortified health from all sou
 * Range: 1.7
 * Move Speed: 3.3
 
-#### Ability A: Three-Ring Circus
+## Ability A: Three-Ring Circus
 
 Ozo can use this ability three times in a 5s window:
 
 * First hit: Smashes the target & other enemies in front of him.
 * Second hit: Dashes through his target & deals damage.
 * Final hit: Spins & damages all nearby enemies.
-
 * Each hit deals weapon damage, can crit & triggers basic-attack effects on the primary target.
-
 * Ozo heals for each enemy damaged by any of these hits \(30% against non-heroes\).
 
 | Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
@@ -40,7 +38,7 @@ Ozo can use this ability three times in a 5s window:
 | 3rd Hit       Damage | 10 | 20 | 30 | 40 | 50 | 75% |  |
 | Healing vs. Heroes | 20 | 40 | 60 | 80 | 100 | 15% |  |
 
-#### Ability B: Acrobounce
+## Ability B: Acrobounce
 
 Ozo jumps onto a target, damaging & slowing it if it is an enemy. While airborne, quickly tap another target to bounce to it. Three hops maximum.
 
@@ -60,7 +58,7 @@ Ozo jumps onto a target, damaging & slowing it if it is an enemy. While airborne
 | Bonus        Speed       Duration | 2s | 2s | 2s | 2s | 2s |  | 0.25% |
 | Fortified    Health | 25 | 50 | 75 | 100 | 125 | 15% |  |
 
-#### Ultimate: Bangarang
+## Ultimate: Bangarang
 
 Ozo charges up, then rolls toward a targeted enemy hero. Upon arrival, Ozo damages, stuns for 0.8s & flips the target over him.
 
@@ -73,6 +71,4 @@ Ozo charges up, then rolls toward a targeted enemy hero. Upon arrival, Ozo damag
 | Energy Cost | 120 | 120 | 120 |  |  |
 | Primary Target   Damage | 250 | 400 | 550 | 150% |  |
 | Secondary          Target Damage | 125 | 200 | 275 | 75% |  |
-
-
 

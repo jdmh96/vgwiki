@@ -2,7 +2,7 @@
 
 Resilient ice mage who dominates close-quarter battles.
 
-#### Heroic Perk: Frostguard
+## Heroic Perk: Frostguard
 
 When Reim damages opponents with his basic attack or Winter Spire, he is granted fortified health up to a cap of 25% of Reim's maximum health.
 
@@ -10,7 +10,7 @@ When Reim damages opponents with his basic attack or Winter Spire, he is granted
 * Reim's basic attack deal 15-54 \(level 1-12\) \(+80% crystal power\) crystal damage over 2s & grant 30% of the damage dealt with this effect as fortified health.
 * Basic attacks against targets that are already chilled apply a 60% slow that decays over 0.6s.
 
-###### Stats Lvl 1-12
+### Stats Lvl 1-12
 
 * Health: 746 - 2499
 * Energy: 220 - 462
@@ -21,7 +21,7 @@ When Reim damages opponents with his basic attack or Winter Spire, he is granted
 * Range: 1.9
 * Move Speed: 3.2
 
-#### Ability A: Winter Spire
+## Ability A: Winter Spire
 
 Reim summons a spire of ice at a nearby location, dealing crystal damage to surrounding enemies. After a short delay, the spire shatters, dealing heavy crystal damage.
 
@@ -38,7 +38,7 @@ Reim summons a spire of ice at a nearby location, dealing crystal damage to surr
 | 1st Hit       Damage | 60 | 90 | 120 | 150 | 180 | 70% |  |
 | 2nd Hit      Damage | 60 | 90 | 120 | 150 | 180 | 100% |  |
 
-#### Ability B: Chill Winds
+## Ability B: Chill Winds
 
 Reim deals a burst of crystal damage to all surrounding enemies, rooting enemies who are chilled. A rooted enemy cannot move or dash, but the enemy can still attack.
 
@@ -51,7 +51,7 @@ Reim deals a burst of crystal damage to all surrounding enemies, rooting enemies
 | Damage | 80 | 120 | 160 | 200 | 280 | 40% |  |
 | Root           Duration | 0.6s | 0.8s | 1s | 1.2s | 1.4s |  |  |
 
-#### Ultimate: Valkyrie
+## Ultimate: Valkyrie
 
 Reim summons an ancient Valkyrie, devastating enemies in the area & applying a heavy decaying slow.
 
@@ -67,6 +67,4 @@ Reim summons an ancient Valkyrie, devastating enemies in the area & applying a h
 | Edge Slow          Duration | 2s | 3s | 4s |  |  |
 | Slow | 60% | 70% | 80% |  |  |
 | Stun Duration | 0.8s | 1s | 1.2s |  |  |
-
-
 

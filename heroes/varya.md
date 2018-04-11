@@ -2,11 +2,11 @@
 
 Shocking valkyrie who chains massive damage across enemy teams.
 
-#### Heroic Perk: Chain Lightning
+## Heroic Perk: Chain Lightning
 
 Varya's attacks deal 55-132 \(level 1-12\) \(+45% crystal power\) crystal damage. If Varya holds her ground after attacking, she will strike her target & up to 3 additional enemies with a bolt of Chain Lightning. This bolt deals the same damage & consumes 170 energy.
 
-###### Stats - Level 1-12
+### Stats - Level 1-12
 
 * Health: 642 - 2127
 * Energy: 950 - 1500
@@ -17,7 +17,7 @@ Varya's attacks deal 55-132 \(level 1-12\) \(+45% crystal power\) crystal damage
 * Range: 6.1
 * Move Speed: 3.1
 
-#### Ability A: Stormforged Spear
+## Ability A: Stormforged Spear
 
 Varya throws a spear at lightning speed, striking the first enemy in its path. This deals a burst of damage to the target & chains additional damage to nearby targets.
 
@@ -32,7 +32,7 @@ Varya throws a spear at lightning speed, striking the first enemy in its path. T
 | Spear         Damage | 75 | 120 | 165 | 210 | 255 | 220% |  |
 | Chain         Lightning  Damage | 60 | 90 | 120 | 150 | 180 | 110% |  |
 
-#### Ability B: Arc Recursion
+## Ability B: Arc Recursion
 
 After gathering power for 0.9s, Varya's next two move commands will instantly dash in the chosen direction, striking the 3 nearest enemies at the end of each dash. For each enemy struck, Varya recovers 5% of her energy & gains a barrier equal to 3% of her health \(bonuses doubled on heroes\).
 
@@ -47,7 +47,7 @@ After gathering power for 0.9s, Varya's next two move commands will instantly da
 | Energy       Cost | 200 | 200 | 200 | 200 | 200 |  |  |
 | Damage | 45 | 105 | 165 | 225 | 345 | 60% |  |
 
-#### Ultimate: Anvil's Hammer
+## Ultimate: Anvil's Hammer
 
 After channeling for 2.4s, Varya unleashes the fury of the storm, calling a series of lightning strikes on every enemy hero, regardless of distance. Passively, each rank of the ultimate permanently increases her attack speed & the number of enemies her Chain Lightning & Stormforged Spear will hit.
 
@@ -64,6 +64,4 @@ After channeling for 2.4s, Varya unleashes the fury of the storm, calling a seri
 | Strike Impact     Radius | 1.6 | 1.8 | 2 |  |  |
 | Bonus Chain       Lightning | 1 | 2 | 3 |  |  |
 | Bonus Attack     Speed | 10% | 25% | 40% |  |  |
-
-
 

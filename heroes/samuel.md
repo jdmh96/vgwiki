@@ -2,7 +2,7 @@
 
 Dark zone-control mage who can put enemies to sleep.
 
-#### Heroic Perk: Corrupted Genius
+## Heroic Perk: Corrupted Genius
 
 Every 6s, Samuel's next basic attack fires a bolt of dark power that deals bonus crystal damage & draws health & energy back to Samuel.
 
@@ -11,7 +11,7 @@ Every 6s, Samuel's next basic attack fires a bolt of dark power that deals bonus
 * Recharge: 50-200 \(level 1-12\) energy
 * The restorative powers are only 25% as effective against non-heroes.
 
-###### Stats - Level 1-12
+### Stats - Level 1-12
 
 * Health: 652 - 2040
 * Energy: 290 - 620
@@ -22,7 +22,7 @@ Every 6s, Samuel's next basic attack fires a bolt of dark power that deals bonus
 * Range: 6
 * Move Speed: 3.2
 
-#### Ability A: Malice & Verdict
+## Ability A: Malice & Verdict
 
 Samuel fires two bolts from his wands at a target location, impacting the first enemy hit. Samuel can move between the shots.
 
@@ -38,7 +38,7 @@ If Samuel is standing inside the energy field from Drifting Dark, these bolts mo
 | Damage | 60 | 90 | 120 | 150 | 210 | 105% |  |
 | Empowered Damage | 75 | 105 | 135 | 165 | 225 | 120% |  |
 
-#### Ability B: Drifting Dark
+## Ability B: Drifting Dark
 
 Samuel creates a large field of darkness that slowly drifts forward, damaging enemies who stand inside it. If Samuel also stands inside, Malice & Verdict is greatly empowered & he heals for a small amount for each affected target.
 
@@ -55,7 +55,7 @@ Samuel creates a large field of darkness that slowly drifts forward, damaging en
 | Heal/ Sec  Per Target | 4 | 6 | 8 | 10 | 12 | 12% |  |
 | Heal/ Sec  Per Minion | 1 | 2 | 3 | 4 | 5 | 5% |  |
 
-#### Ultimate: Oblivion
+## Ultimate: Oblivion
 
 After a short delay, Samuel summons a phantasm at the target location, which puts nearby enemies to sleep. Enemies inflicted are unable to move or act.
 
@@ -67,6 +67,4 @@ After a short delay, Samuel summons a phantasm at the target location, which put
 | Energy Cost | 100 | 130 | 160 |  |  |
 | Damage | 200 | 325 | 450 | 100% |  |
 | Duration | 2s | 2.5s | 3s |  |  |
-
-
 

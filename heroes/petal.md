@@ -2,11 +2,11 @@
 
 Commands 3 pets who tear apart enemies & block incoming skillshots.
 
-#### Heroic Perk: Munions
+## Heroic Perk: Munions
 
 A few moments after petal plants a Brambleboom Seed, it will automatically sprout into a Munion pet, which will fight alongside Petal up to a maximum of 3 Munions.
 
-###### Stats Lvl 1-12
+### Stats Lvl 1-12
 
 * Health: 636 - 1983
 * Energy: 410 - 718
@@ -17,7 +17,7 @@ A few moments after petal plants a Brambleboom Seed, it will automatically sprou
 * Range: 5.8
 * Move Speed: 3.2
 
-#### Ability A: Brambleboom Seeds
+## Ability A: Brambleboom Seeds
 
 Petal plants a Brambleboom Seed directly in front of her.
 
@@ -34,7 +34,7 @@ Petal plants a Brambleboom Seed directly in front of her.
 | Seed          Health | 50 | 80 | 110 | 140 | 200 | 15% |  |
 | Damage | 75 | 125 | 175 | 225 | 275 | 100% |  |
 
-#### Ability B: Trampoline!
+## Ability B: Trampoline!
 
 Petal leaps in the target direction, leaving a Brambleboom Seed behind at her original location. Using this ability will increase Petal's basic-attack range & amplify her weapon & crystal power for 4s.
 
@@ -46,7 +46,7 @@ Petal leaps in the target direction, leaving a Brambleboom Seed behind at her or
 | Crystal       Amp | 15% | 15% | 15% | 15% | 15% |  |  |
 | Weapon     Amp | 15% | 15% | 15% | 15% | 15% |  |  |
 
-#### Ultimate: Spontaneous Combustion
+## Ultimate: Spontaneous Combustion
 
 Petal commands a munion to explode, slowing & dealing splash damage to nearby enemies while healing nearby allies.
 
@@ -60,6 +60,4 @@ Petal commands a munion to explode, slowing & dealing splash damage to nearby en
 | Damage | 180 | 240 | 300 | 70% |  |
 | Cooldown | 0.4s | 0.4s | 0.4s |  |  |
 | Heal | 75 | 125 | 175 | 30% |  |
-
-
 

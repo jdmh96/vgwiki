@@ -2,7 +2,7 @@
 
 Disruptive knight who stops enemies in their tracks.
 
-#### Heroic Perk: Partisan's Technique
+## Heroic Perk: Partisan's Technique
 
 Lance's basic attacks damage every target along their path. However, his attacks are slow to land & attack speed is less effective on him.
 
@@ -11,7 +11,7 @@ Instead of energy, Lance uses stamina to activate his abilities. Purchasing item
 * Max Stamina: 100 + 20% Max Energy
 * Stamina Regen: 15 + 50% Energy Regen
 
-###### Stats Lvl 1-12
+### Stats Lvl 1-12
 
 * Health: 742 - 2487
 * Energy: 0
@@ -22,7 +22,7 @@ Instead of energy, Lance uses stamina to activate his abilities. Purchasing item
 * Range: 4.5
 * Move Speed: 3.3
 
-#### Ability A: Impale
+## Ability A: Impale
 
 Lance lunges forward & strikes through his opponents, dealing weapon damage & rooting them in place \(max 1.6s\).
 
@@ -38,7 +38,7 @@ Lance lunges forward & strikes through his opponents, dealing weapon damage & ro
 | Damage | 120 | 240 | 360 | 480 | 600 | 80% | 140% |
 | Root           Duration | 1s | 1s | 1s | 1s | 1.2s | 0.2% |  |
 
-#### Ability B: Gythian Wall
+## Ability B: Gythian Wall
 
 Lance smashes enemies back with his shield, dealing weapon damage & also stunning them if they collide with a wall or structure \(max 1.4s\). Afterward, he holds his shield steadfast, greatly reducing incoming damage from the target direction by up to 90%.
 
@@ -56,7 +56,7 @@ Lance smashes enemies back with his shield, dealing weapon damage & also stunnin
 | Passive     Damage   Reduction | 8% | 10% | 12% | 14% | 18% | 15% |  |
 | Active        Damage   Reduction | 20% | 24% | 28% | 32% | 36% | 15% |  |
 
-#### Ultimate: Combat Roll
+## Ultimate: Combat Roll
 
 Lance rolls in the target direction. His next basic attack within 2s will strike quickly, dealing bonus crystal damage.
 
@@ -66,6 +66,4 @@ Lance rolls in the target direction. His next basic attack within 2s will strike
 | Energy Cost | 0 | 0 | 0 |  |  |
 | Stamina Cost | 30 | 25 | 20 |  |  |
 | Damage | 150 | 250 | 350 | 60% |  |
-
-
 

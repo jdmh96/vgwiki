@@ -2,11 +2,11 @@
 
 The king of duels with massive lifesteal & self-healing.
 
-#### Heroic Perk: Shadows Empower Me
+## Heroic Perk: Shadows Empower Me
 
 Krul is empowered by the shadows after standing still in brush for 1.5s. While empowered, Krul briefly gains 2 move speed & his basic attack will slow his target by 40% for 2.5s.
 
-###### Stats Lvl 1-12
+### Stats Lvl 1-12
 
 * Health: 748 - 2394
 * Energy: 220 - 506
@@ -17,7 +17,7 @@ Krul is empowered by the shadows after standing still in brush for 1.5s. While e
 * Range: 1.5
 * Move Speed: 3.4
 
-#### Ability A: Dead Man's Rush
+## Ability A: Dead Man's Rush
 
 Krul dashes to the target & deals damage.
 
@@ -33,7 +33,7 @@ Activating Dead Man's Rush grants Krul a temporary health barrier.
 | Barrier | 80 | 180 | 280 | 380 | 480 | 125% |  |
 | Duration | 3s | 3s | 3s | 3s | 3s | 3s |  |
 
-#### Ability B: Spectral Smite
+## Ability B: Spectral Smite
 
 Krul detonates the Weakness stacks built up on a single target, regaining health based on the number of stacks consumed.
 
@@ -50,7 +50,7 @@ Krul detonates the Weakness stacks built up on a single target, regaining health
 | Lifesteal/  Stack | 10% | 10% | 10% | 10% | 10% |  |  |
 | Weakness Duration | 4s | 4s | 4s | 4s | 4s | 0.5% |  |
 
-#### Ultimate: From Hell's Heart
+## Ultimate: From Hell's Heart
 
 Krul pulls Hellrazor from his chest & hurls it in the targeted direction. The sword will boomarang back to Krul. If the sword hits an enemy hero, it deals damage & stuns, then slows the target.
 
@@ -67,6 +67,4 @@ Damage & stun duration scales with the distance the sword travelled before hitti
 | Damage | 350 | 500 | 650 | 100% |  |
 | Slow Duration | 3s | 3.5s | 4s |  |  |
 | Stun Duration | 1.8s | 2s | 2.2s |  |  |
-
-
 

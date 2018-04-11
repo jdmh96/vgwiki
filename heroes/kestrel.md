@@ -2,11 +2,11 @@
 
 Stealthy archer with devastating skillshots & traps.
 
-#### Heroic Perk: Adrenaline
+## Heroic Perk: Adrenaline
 
 Whenever Kestrel lands a basic attack, she reduces the energy cost of her abilities by 10%. This stacks up to 5 times & wears off after 6s.
 
-###### Stats Lvl 1-12
+### Stats Lvl 1-12
 
 * Health: 647 - 2020
 * Energy: 404 - 492
@@ -17,7 +17,7 @@ Whenever Kestrel lands a basic attack, she reduces the energy cost of her abilit
 * Range: 6
 * Move Speed: 3.1
 
-#### Ability A: Glimmershot
+## Ability A: Glimmershot
 
 Kestrel fires an arrow that hits the first target in its path. The arrow then explodes, splashing crystal damage in a line beyond the point of impact.
 
@@ -35,7 +35,7 @@ Kestrel fires an arrow that hits the first target in its path. The arrow then ex
 | Armor        Piercing | 0% | 3% | 6% | 9% | 15% |  |  |
 | Splash       Damage | 30 | 60 | 90 | 120 | 150 | 140% |  |
 
-#### Ability B: Active Camo
+## Ability B: Active Camo
 
 Kestrel instantly stealths & gains bonus move speed. She leaves behind an invisible mist trap that explodes when she damages an enemy hero inside it, damaging & stunning them for 0.8s.
 
@@ -55,7 +55,7 @@ Kestrel instantly stealths & gains bonus move speed. She leaves behind an invisi
 | Mist           Duration | 4s | 5s | 6s | 7s | 8s | 1% |  |
 | Damage | 100 | 150 | 200 | 250 | 300 | 270% |  |
 
-#### Ultimate: One Shot, One Kill
+## Ultimate: One Shot, One Kill
 
 Kestrel charges up & fires a single powerful arrow across the fold, impacting on the first enemy hero, large creature or structure in its path.
 
@@ -70,6 +70,4 @@ Kestrel charges up & fires a single powerful arrow across the fold, impacting on
 | Damage | 450 | 625 | 800 | 260% | 120% |
 | Armor Piercing | 10% | 20% | 30% |  |  |
 | Reveal Duration | 2s | 4s | 6s |  |  |
-
-
 

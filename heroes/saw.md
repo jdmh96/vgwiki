@@ -2,7 +2,7 @@
 
 Heavy machine gunner who sacrifices move speed for damage.
 
-#### Heroic Perk: Spin Up
+## Heroic Perk: Spin Up
 
 Every basic attack give SAW increased attack speed, but it also significantly decreases his move speed.
 
@@ -11,7 +11,7 @@ Every basic attack give SAW increased attack speed, but it also significantly de
 * Max 12 stacks.
 * After 3.5s without basic attacking, SAW rapidly spins down.
 
-###### Stats - Level 1-12
+### Stats - Level 1-12
 
 * Health: 683 - 2078
 * Energy: 150 - 315
@@ -22,7 +22,7 @@ Every basic attack give SAW increased attack speed, but it also significantly de
 * Range: 6.5
 * Move Speed: 3.1
 
-#### Ability A: Roadie Run
+## Ability A: Roadie Run
 
 SAW sprints & switches to a melee combat knife. If SAW stabs someone, he will deal bonus damage based on the target's missing health & roll backward.
 
@@ -37,7 +37,7 @@ SAW sprints & switches to a melee combat knife. If SAW stabs someone, he will de
 | Missing     Health % | 15% | 20% | 25% | 30% | 40% |  |  |
 | Speed        Boost | 2.5 | 2.5 | 2.5 | 2.5 | 2.5 | 1.5% |  |
 
-#### Ability B: Suppressing Fire
+## Ability B: Suppressing Fire
 
 SAW fires a hurricane of bullets in a set direction for 2s, damaging & slowing enemies in its path.
 
@@ -51,7 +51,7 @@ SAW fires a hurricane of bullets in a set direction for 2s, damaging & slowing e
 | Slow          Duration | 2s | 2s | 2s | 2s | 2.5s |  |  |
 | Slow | 45% | 45% | 45% | 45% | 45% | 45% |  |
 
-#### Ultimate: Mad Cannon
+## Ultimate: Mad Cannon
 
 SAW loads explosive shells into his gun that deal additional damage based on the target's missing health. The shells also deal splash damage based on the amount of crystal power SAW has.
 
@@ -64,6 +64,4 @@ SAW loads explosive shells into his gun that deal additional damage based on the
 | Crystal Damage | 40 | 60 | 80 | 140% |  |
 | Missing Health % | 12% | 12% | 12% |  |  |
 | \# Shells | 5 | 7 | 9 |  |  |
-
-
 

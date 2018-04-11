@@ -2,13 +2,13 @@
 
 Extremely tanky & can pull in enemies from across the screen.
 
-#### Heroic Perk: Unstoppable
+## Heroic Perk: Unstoppable
 
 Phinn cannot be stopped or stunned. All movement-impairing effects are instead reduced to moderate slows, & stuns are converted to silences.
 
 * He even shrugs off attempts on his life, passively gaining 18% additional armor, shield & max health from items & effects.
 
-###### Stats Lvl 1-12
+### Stats Lvl 1-12
 
 * Health: 892 - 2781
 * Energy: 220 - 440
@@ -19,7 +19,7 @@ Phinn cannot be stopped or stunned. All movement-impairing effects are instead r
 * Range: 1.9
 * Move Speed: 2.8
 
-#### Ability A: Quibble
+## Ability A: Quibble
 
 Phinn slams his anchor down on the targeted location, heavily slowing enemies for 0.9s.
 
@@ -33,7 +33,7 @@ Phinn slams his anchor down on the targeted location, heavily slowing enemies fo
 | Damage | 160 | 270 | 380 | 490 | 600 | 170% |  |
 | Slow | 55% | 60% | 65% | 70% | 0% |  |  |
 
-#### Ability B: Polite Company
+## Ability B: Polite Company
 
 Phinn stomps the earth, damaging all enemies in a wide area & nudging them toward him. The effect reverberates around allies, temporarily granting them fortified health.
 
@@ -47,7 +47,7 @@ Phinn stomps the earth, damaging all enemies in a wide area & nudging them towar
 | Duration | 3s | 3s | 3s | 3s | 4s |  |  |
 | Fortified    Health | 140 | 170 | 200 | 230 | 290 |  |  |
 
-#### Ultimate: Forced Accord
+## Ultimate: Forced Accord
 
 Phinn throws his anchor in a direction. After the anchor reaches its destination, Phinn yanks it back, damaging all enemies in its path & pulling them back to him.
 
@@ -56,6 +56,4 @@ Phinn throws his anchor in a direction. After the anchor reaches its destination
 | Cooldown | 75s | 60s | 45s |  |  |
 | Energy Cost | 60 | 60 | 60 |  |  |
 | Damage | 100 | 300 | 500 | 150% |  |
-
-
 

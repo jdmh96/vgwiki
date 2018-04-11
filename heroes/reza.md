@@ -2,14 +2,14 @@
 
 A fast, devastating fire mage with a demon netherform.
 
-#### Heroic Perk: Firestarter
+## Heroic Perk: Firestarter
 
 Scorcher & Netherform Detonator apply Firestarter to enemy targets.
 
 * Reza's basic attack consume Firestarter, dealing crystal damage.
 * Crystal Damage: 20-185 \(level 1-12\) \(+120% crystal power\).
 
-###### Stats - Level 1-12
+### Stats - Level 1-12
 
 * Health: 718 - 2306
 * Energy: 380 - 732
@@ -20,7 +20,7 @@ Scorcher & Netherform Detonator apply Firestarter to enemy targets.
 * Range: 3
 * Move Speed: 3.5
 
-#### Ability A: Scorcher
+## Ability A: Scorcher
 
 Reza smashes the ground, creating a fiery shockwave in front of him. This deals crystal damage to anything it passes through & collides with the first enemy hero or jungle monster hit.
 
@@ -34,7 +34,7 @@ Reza smashes the ground, creating a fiery shockwave in front of him. This deals 
 | Range | 7 | 7 | 7 | 7 | 9 |  |  |
 | Damage | 80 | 130 | 180 | 230 | 280 | 90% |  |
 
-#### Ability B: Troublemaker
+## Ability B: Troublemaker
 
 Reza dashes to the target location, dealing crystal damage to enemies he passes through.
 
@@ -49,7 +49,7 @@ Reza dashes to the target location, dealing crystal damage to enemies he passes 
 | Bonus        Damage | 25 | 50 | 75 | 100 | 125 | 80% |  |
 | Damage | 70 | 100 | 130 | 160 | 190 | 60% |  |
 
-#### Ultimate: Netherform Detonator
+## Ultimate: Netherform Detonator
 
 Reza vanishes removing from himself any negative movement-impairing effects, then reappears at the target location in empowered demon form.
 
@@ -64,6 +64,4 @@ Reza vanishes removing from himself any negative movement-impairing effects, the
 | Damage | 250 | 250 | 450 | 50% |  |
 | Duration | 6s | 7s | 8s |  |  |
 | Fortified Health | 120 | 220 | 320 | 10% |  |
-
-
 

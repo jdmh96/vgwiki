@@ -1,4 +1,6 @@
-# Joule Lore: ‘THE HEIST, PART I’
+# Joule Lore
+
+## Joule Lore: ‘THE HEIST, PART I’
 
 _Joule’s got a plan…_
 
@@ -16,7 +18,7 @@ By now, all the hungry kids are milling around Joule’s corner of the floor, ru
 
 Nobody’s dumb enough to believe her, but nobody wants to be the one who chickens out. Once volunteers start raising hands, Joule has herself a gang.
 
-# Joule Lore: ‘THE HEIST, PART II’
+## Joule Lore: ‘THE HEIST, PART II’
 
 _Everything’s going according to plan, no matter how it seems…_
 
@@ -40,7 +42,7 @@ Sure enough, one guard holds onto Chatter while the rest of them go racing off a
 
 Only Joule’s pockets make noise. We all know how to be silent, ‘cept for Chatter, but she’s gone and Chester ran off after her. Whatever; he wouldna fit in the ducts anyways.
 
-![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/12/Joule-map-2.jpg "joule-map-2")
+![joule-map-2](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/12/Joule-map-2.jpg)
 
 Bell goes straight toward the security room. SBD, Petey, and Gator head for the distraction points, moving slow with all their stuff. Joule and Bell stop over the security room grate and get busy, Joule with her screwdriver, Bell with a makeshift blow dart she fashioned for the occasion. The hollow reed fits through the grate, but aiming ain’t easy. Joule loosens the grate screws just enough to keep it in place. Nobody’s breathing. Bell gets a clear shot on the guard inside and tap-tap-taps on the duct wall with her fingernails.
 
@@ -50,7 +52,7 @@ Bell looks down, and the guard is looking back up at ‘er. Bell curses and exha
 
 The outer halls fill with the boys’ stink bombs. Guards are shouting and coughing; they grab Petey and haul him outta the duct howling. Bell gets nabbed too, but Joule’s already sprinting toward the hangar door with the KO’d guard’s key card in her fist and a screwdriver in her teeth.
 
-# Joule Lore: ‘THE HEIST, PART III’
+## Joule Lore: ‘THE HEIST, PART III’
 
 _Payload!_
 
@@ -79,9 +81,9 @@ We all bail, running like mad for that hole, jumping out and fleeing toward the 
 
 Joule stops, looking up at the lumpy, camouflaged shape of her new toy. “Um…”
 
-# ALTERNATE FATES
+## ALTERNATE FATES
 
-#### ‘KILLA-JOULE 9000’ - **‘KILLA-JOULE 9000’ **
+### ‘KILLA-JOULE 9000’ - **‘KILLA-JOULE 9000’ **
 
 The officer looked from the academy admission test results in his hand to the recruit standing before him: the shock of color in her hair, the worn-down boots tapping impatiently, the crossed arms and the elbows ripped out of her leather jacket.
 
@@ -113,7 +115,7 @@ The officer narrowed his eyes. “Let’s begin with ‘Yes, Sir.’”
 
 Joule grinned and straightened her spine. “Yes, Sir.”
 
-#### ‘KILLA-JOULE 9000’ - THE ACADEMY IS ATTACKED!
+### ‘KILLA-JOULE 9000’ - THE ACADEMY IS ATTACKED!
 
 _“This is soboooooring.”_
 
@@ -133,7 +135,7 @@ _\*CRASH\*_
 
 _The dormitory fills with the screams of the alarms._
 
-#### ‘KILLA-JOULE 9000’ - **ALL CADETS TO BUNKERS!**
+### ‘KILLA-JOULE 9000’ - **ALL CADETS TO BUNKERS!**
 
 \*ALL CADETS TO BUNKERS. ALL CADETS TO BUNKERS. ALL CADETS TO…\*
 
@@ -151,7 +153,7 @@ _“Stay in line!” screams the CO._
 
 _“Aw, screw that.” Joule breaks out of line as a claw smashes through another window; she runs through the shattered glass in her slippers, grabbing the CO by his collar. “Let’s go!”_
 
-#### ‘KILLA-JOULE 9000’ -** “I KNOW YOU GOT THE CODE!”**
+### ‘KILLA-JOULE 9000’ -** “I KNOW YOU GOT THE CODE!”**
 
 _The garage is dark for the night, but this isn’t the first time Joule’s had to get into a locked-down hangar. Emergency lights flash blue and red on Joule’s face as she shoves the CO’s face onto the gate lock._
 
@@ -161,7 +163,7 @@ _“Nah! I’ll just get yelled at. I’ve been yelled at before.” Joule sprin
 
 _The line of cadets marches after the CO into the hangar. The CO shrugs, helpless, and everyone scatters to mount their mechs. Joule raps her knuckles on a button and the big door rises. The screeching sounds of the giant beast pierce into the hangar, and the cadet mech army clomps outside._
 
-#### ‘KILLA-JOULE 9000’ -** “CRAB LEGS FOR DINNER!”**
+### ‘KILLA-JOULE 9000’ -** “CRAB LEGS FOR DINNER!”**
 
 _“Whatisthat thing?” screams a cadet as the giant crab pokes its claws through the dormitory windows._
 
@@ -179,7 +181,7 @@ _When the smoke clears, there’s a perfect hole blasted through the middle of t
 
 _“So,” she says, cracking her knuckles, “can I graduate now?”_
 
-#### ‘SNOW MONSTER’ JOULE - ORPHAN MONSTER
+### ‘SNOW MONSTER’ JOULE - ORPHAN MONSTER
 
 Joule found the snow monster on toppa the airship tower where sometimes we’d go to set off fireworks. There’d been a ruckus up there the night before; an elevator broke and a bunch of ladies were done for. Whole thing was hush-hush even in the places we eavesdropped, so Joule said we should check it out ourselves. After dark we ducked under the security tape and went up the emergency ladders. Chatter tapped out halfway up, scared of heights, and SBD took longest, but Joule was first. We went right for the chalk outlines in the control room, laid inside them, poked at the buttons on busted equipment, wowed at the big hole in the ceiling. Chester pretended to shove Petey into the yawning broken elevator hole.
 
@@ -198,6 +200,4 @@ Bell had no cause yet to be scared of monsters so she stepped in close, then we 
 We couldn’t hide him for long. Every time he sneezed, he froze the house, and when he didn’t, the poor guy was sweaty-hot. He stomped holes in the floors. We figured we’d have to shave him or stuff him down in the sewer with the other too-big pets but Joule had this whole other idea. She taught Mac to carry her, and she’d chase alla us around for target practice, tickling Mac’s nose when she wanted him to roar ice. She fed him peppermint candies when he did good, and she used alla us as her target practice, so we had icicle eyelashes and frozen boogers until Joule figured Mac was ready for the big time.
 
 Now, she and Mac run crystal in the Halcyon Fold together. Joule tells us that Mac turned a whole jungle into wintertime with his yawns and roars and sneezes, so after they’ve collected lots of crystal and gold, she tucks him into a fluffy snowdrift and kisses him nighty-night. She makes a hella lotta gold there, which is lucky ‘cause every morning she has to bring him pizzas and pies and candies for breakfast, and that stuff ain’t cheap.
-
-
 

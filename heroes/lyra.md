@@ -2,7 +2,7 @@
 
 Healer & zone mage who can create teleportation portals.
 
-#### Heroic Perk: Principle Arcanum
+## Heroic Perk: Principle Arcanum
 
 Lyra's attacks are arcane missiles that deal crystal damage. If she holds her ground after releasing an attack, she automatically follows up with a heavy attack that also slows the target.
 
@@ -11,7 +11,7 @@ Lyra's attacks are arcane missiles that deal crystal damage. If she holds her gr
 * Heavy attack damage: 60-170 \(level 1-12\) \(+70% crystal damage\).
 * Heavy attack slow: 35% \(+0.01% of bonus max health\).
 
-###### Stats Lvl 1-12
+### Stats Lvl 1-12
 
 * Health: 674 - 2153
 * Energy: 248 - 908
@@ -22,7 +22,7 @@ Lyra's attacks are arcane missiles that deal crystal damage. If she holds her gr
 * Range: 5.6
 * Move Speed: 3.3
 
-#### Ability A: Imperial Sigil
+## Ability A: Imperial Sigil
 
 Lyra creates a sigil that heals nearby allied heroes & damages nearby enemy heroes. Reactivate this ability to detonate the sigil, dealing heavy damage to enemies while providing a move speed boost to allies inside & immediately consuming the remaining duration to heal at 50% effectiveness.
 
@@ -40,7 +40,7 @@ Lyra creates a sigil that heals nearby allied heroes & damages nearby enemy hero
 | Heal/Sec | 40 | 65 | 90 | 115 | 190 |  |  |
 | Detonate   Damage | 75 | 125 | 175 | 225 | 325 | 120% |  |
 
-#### Ability B: Bright Bulwark
+## Ability B: Bright Bulwark
 
 Lyra creates a walled zone around her, damaging & applying a slow to surrounding enemies.
 
@@ -56,7 +56,7 @@ Lyra creates a walled zone around her, damaging & applying a slow to surrounding
 | Damage | 50 | 125 | 200 | 275 | 350 | 50% |  |
 | Slow | 20% | 20% | 20% | 20% | 20% |  |  |
 
-#### Ultimate: Arcane Passage
+## Ultimate: Arcane Passage
 
 Lyra teleports to the target location, creating portals at both ends that allow anyone to teleport across.
 
@@ -71,6 +71,4 @@ Lyra teleports to the target location, creating portals at both ends that allow 
 | Energy Cost | 100 | 100 | 100 |  |  |
 | Range | 9 | 11 | 13 |  |  |
 | Bonus Attack     Range | 0.5 | 1 | 1.5 |  |  |
-
-
 

@@ -2,7 +2,7 @@
 
 Backline support, excelling at zone control & team utility.
 
-#### Heroic Perk: That's Swell
+## Heroic Perk: That's Swell
 
 Lorelai's abilities leave pools of water on the ground. While on a pool, Lorelai becomes empowered. Using an ability while empowered consumes the pool she's on & affects the ability used. Additionally, Lorelai's basic attacks are torrents of water that deal crystal damage.
 
@@ -13,7 +13,7 @@ Lorelai's abilities leave pools of water on the ground. While on a pool, Lorelai
 * Empowered Splashdown: Reduced delay before impact.
 * Empowered Waterwall: Stronger barrier.
 
-###### Stats Lvl 1-12
+### Stats Lvl 1-12
 
 * Health: 691 - 2252
 * Energy: 360 - 690
@@ -24,7 +24,7 @@ Lorelai's abilities leave pools of water on the ground. While on a pool, Lorelai
 * Range: 6
 * Move Speed: 3.3
 
-#### Ability A: Fish Food
+## Ability A: Fish Food
 
 Lorelai calls upon her aquatic friends at the target location.
 
@@ -41,7 +41,7 @@ Lorelai calls upon her aquatic friends at the target location.
 | Damage/   Sec | 55 | 95 | 135 | 175 | 255 | 110% |  |
 | Range | 7 | 7 | 7 | 7 | 9 |  |  |
 
-#### Ability B: Splashdown
+## Ability B: Splashdown
 
 Lorelai throws a sphere of water at the target location.
 
@@ -57,7 +57,7 @@ Lorelai throws a sphere of water at the target location.
 | Speed        Boost | 1 | 1.2 | 1.4 | 1.6 | 2 |  |  |
 | Slow | 25% | 25% | 25% | 25% | 25% |  |  |
 
-#### Ultimate: Waterwall
+## Ultimate: Waterwall
 
 Lorelai forms a protective veil of water around the target allied hero.
 
@@ -71,6 +71,4 @@ Lorelai forms a protective veil of water around the target allied hero.
 | Cooldown | 50s | 40s | 30s |  |  |
 | Energy Cost | 90 | 105 | 120 |  |  |
 | Barrier Strength | 400 | 600 | 800 | 100% |  |
-
-
 
