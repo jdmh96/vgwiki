@@ -55,15 +55,37 @@
 {% endtab %}
 
 {% tab title="Defense" %}
-
+| Image | Name | Cost \(upgrade cost\) | Description | Builds into | Builds from | Tip |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
 {% endtab %}
 
 {% tab title="Utility" %}
-
+| Image | Name | Cost \(upgrade cost\) | Description | Builds into | Builds from | Tip |
+| --- | --- |
+|  |  |  |  |  |  |  |
 {% endtab %}
 
 {% tab title="Other" %}
-Your content goes here.
+| Image | Name | Cost \(upgrade cost\) | Description | Builds into | Builds from | Tip |
+| --- | --- |
+|  |  |  |  |  |  |  |
 {% endtab %}
 {% endtabs %}
 
