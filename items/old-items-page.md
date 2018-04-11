@@ -1,46 +1,4 @@
-# Items
-
-{% tabs %}
-{% tab title="Weapon" %}
-| Image | Name | Tier | Cost \(upgrade cost\) | Description | Builds Into | Builds From | Tip |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![](.gitbook/assets/image%20%2827%29.png) | Weapon Blade | 1 | 300 | +15 Weapon Power | Heavy Steel, Six Sins, Piercing Spear | N/A | Weapon power increases the damage of basic attacks. |
-| ![](.gitbook/assets/image%20%2822%29.png) | Book of Eulogies | 1 | 300 | +5 Weapon power, Passive: Restores 25 health whenever you kill a minion or monster \(60 if using a melee default attack\). _**Vampirism**_: +4% lifesteal \(does not stack with other _**Vampirism**_\) | Barbed Needle | N/A  | Helps you stay healthy while last-hitting in lane. |
-| ![](.gitbook/assets/image%20%2817%29.png) | Swift Shooter | 1 | 300 | +10% attack speed | Blazing Salvo | N/A | N/A |
-| ![](.gitbook/assets/image%20%2814%29.png) | Minion's Foot | 1 | 300 | +10% Critical Chance, +5% Critical Damage, Passive: After buying this item, your very first attack on an enemy hero will crit. | Lucky Strike | N/A | You can sell and re-buy this item to refresh the passive. |
-| ![](.gitbook/assets/image%20%2818%29.png) |  Heavy Steel | 2 | 1150\(850\) | +55 Weapon power | Sorrowblade, Serpent mask, Spellsword, Breaking Point | Weapon Blade | Weapon power increases the damage of basic attacks. |
-| ![](.gitbook/assets/image%20%2823%29.png) |  SixSins | 2 | 650\(350\) | +30 Weapon power | Sorrowblade, Tension bow, Tyrants Monocle | Weapon Blade | Weapon power increases the damage of basic attacks. |
-| ![](.gitbook/assets/image%20%286%29.png) | Barbed Needle | 2 | 800\(500\) | +12 Weapon power, Passive: Book of Eulogies _**Vampirism**_: +8% lifesteal \(does not stack with other _**Vampirism**_\) | Serpent Mask, Poisoned Shiv | Book of Eulogies |  Helps you stay healthy while last-hitting in lane. |
-| ![](.gitbook/assets/image%20%2829%29.png) | Piercing Spear | 2 | 900\(600\) | +15 Weapon power, _**Armorbreaker**_: +10% armor pierce \(does not stack with orher _**Armorbreaker**_\) | Tension Bow, Bonesaw | Weapon Blade |  Armor pierce makes a % of your weapon damage bypass armor. |
-| ![](.gitbook/assets/image%20%287%29.png) | Blazing Salvo | 2 | 700\(400\) | +20% Attack speed | Poisoned Shiv, Breaking Point, BoneSaw, Tornado Trigger | Swift Shooter | N/A |
-| ![](.gitbook/assets/image%20%2812%29.png) | Lucky Strike | 2 | 900\(600\) | +20% Critical Chance, +8% Critical Damage | Tornado Trigger, Tyrant's Monocle | Minion's Foot |  Critical strikes deal 50% more damage than usual. |
-| ![](.gitbook/assets/image%20%2819%29.png) | Sorrowblade | 3 | 3100\(1300\) | +150 Weapon power | Heavy Steel, Six Sins | N/A | Weapon power increases the damage of basic attacks. |
-| ![](.gitbook/assets/image%20%2826%29.png) | Serpent Mask | 3 | 2800\(850\) |  +100 Weapon power, Passive: Book of Eulogies _**Vampirism**_: +10% lifesteal \(does not stack with other _**Vampirism**_\) | Heavy Steel, Barbed Needle | N/A | Dealing high amounts of weapon damage to enemies will rapidly restore your health. |
-| ![](.gitbook/assets/image%20%285%29.png) | SpellSword | 3 | 2700\(750\) | +100 Weapon power, +35% Cooldown speed, +3 Energy recharge | HeavySteel, **Chronograph** |  N/A | Particularly useful on heroes who run into energy problems. |
-| ![](.gitbook/assets/image%20%2824%29.png) | Poisoned Shiv | 3 | 2250\(750\) | +40 Weapon power, +30% Attack speed, Passive: Book of Eulogies _**Vampirism**_: +8% lifesteal \(does not stack with other _**Vampirism**_\) | Barbed Needle, Blazing Salvo |  N/A |  Buy this against high sustain targets. |
-| ![](.gitbook/assets/image%20%284%29.png) | Breaking Point | 3 | 2600\(750\) | +20% Attack Speed, +55 Weapon Power, Passive: Gain 10 weapon power for every 160 weapon damage done to enemy heroes +5/10 \(Melee/Ranged\) damage needed for each stack thereafter. 25 stacks max. Decays 3 stacks per second after you've stopped stacking for 2.5s. | Heavy Steel, Blazing Salvo |  N/A |  Very weak at first, but becomes extremely powerful over the course of long battles. |
-| ![](.gitbook/assets/image%20%2821%29.png) | Tension Bow | 3 | 2150\(600\) | +50 Weapon Power, Passive: Every 6s, your next basic attack will deal 240 bonus damage.  _**Armorbreaker**_: +10% armor pierce \(does not stack with orher _**Armorbreaker**_\) | Six Sins, Piercing Spear |  N/A |  An effective way to surprise enemies with a sudden burst of damage. |
-| ![](.gitbook/assets/image%20%2825%29.png) | Bonesaw | 3 | 2700\(1100\) | +15 Weapon Power, +25% Attack Speed, Passive: Your basic attacks shred 5% of the target's armor for 3s. Max 8 stacks.  _**Armorbreaker**_: +18% armor pierce \(does not stack with orher _**Armorbreaker**_\) | Piercing Spear, Blazing Salvo |  N/A |  Effective against turrets and enemies with high armor. Best if you or your team are already dealing lots of weapon damage. |
-| ![](.gitbook/assets/image%20%2813%29.png) | Tornado Trigger | 3 | 2600\(1000\) | +45% Attack Speed, +35% Critical Chance, +10% Critical Damage | Blazing Salvo, Lucky Strike |  N/A |  Use this if you already have lots of weapon power but little attack speed, or if you wish to apply on-hit effects faster. |
-| ![](.gitbook/assets/image%20%2820%29.png) | Tyrant's Monocle | 3 | 2750\(1200\) | +35% Critical Chance, +10% Critical Damage, +70 Weapon Power | Six Sins, Lucky Strike |  N/A |  Most effective when combined with more weapon power & attack speed. |
-{% endtab %}
-
-{% tab title="Crystal" %}
-Your content goes here.
-{% endtab %}
-
-{% tab title="Defense" %}
-
-{% endtab %}
-
-{% tab title="Utility" %}
-
-{% endtab %}
-
-{% tab title="Other" %}
-Your content goes here.
-{% endtab %}
-{% endtabs %}
+# old Items page
 
 ## Aegis
 

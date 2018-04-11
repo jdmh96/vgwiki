@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Items](items.md)
+* [Items](items/README.md)
+  * [old Items page](items/old-items-page.md)
 * [Terms used in game](terms-used-in-game.md)
 * [Heroes](heroes/README.md)
   * [Adagio](heroes/adagio/README.md)
