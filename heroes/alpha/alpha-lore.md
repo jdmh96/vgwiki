@@ -1,6 +1,6 @@
 # Alpha Lore
 
-## Alpha Lore: The Stormguard Saga Part One - ‘KESTREL’S TEST’
+## ‘KESTREL’S TEST’
 
 No one has ever rebuilt the overgrown Old Quarter, where the stink of magic lingers in the destroyed buildings. The children dare one another to touch those still-crackling buildings for the shock. That shock was Kestrel’s first memory.
 
