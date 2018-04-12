@@ -2,7 +2,9 @@
 
 ## 'THE COIN TOSS'
 
- The big tent was a smorgasbord of boondogglery. Mechanically winged men fought mid-air with flashing swords. Collared fire and ice elementals danced, trying not to kill one another, to the tune of instruments that appeared to play themselves. The mermaid that townies had gawked all evening in the geek tent rose out of her aquarium prison in a globule of water that floated, intact, over the crowd. Acrobats made a bridge, gripping one another’s shoulders, muscles twitching, for the sabertooth that walked across, pursuing her nightly dripping ration of meat, on a platform at the other side.
+![I can hit that thing, and that other thing, at the same time from here.](../../.gitbook/assets/img37.jpg)
+
+The big tent was a smorgasbord of boondogglery. Mechanically winged men fought mid-air with flashing swords. Collared fire and ice elementals danced, trying not to kill one another, to the tune of instruments that appeared to play themselves. The mermaid that townies had gawked all evening in the geek tent rose out of her aquarium prison in a globule of water that floated, intact, over the crowd. Acrobats made a bridge, gripping one another’s shoulders, muscles twitching, for the sabertooth that walked across, pursuing her nightly dripping ration of meat, on a platform at the other side.
 
  Ringo swaggered on stage, carrying twin single-action revolvers named Faith and Reason. His thrower, a long-legged juggler dressed in top hat and a short flouncy clown skirt, strutted to the center after him. She set plates spinning on batons, then tossed them up high. Ringo, twirling the revolvers ‘round his trigger fingers, wasn’t much of a show in comparison to the thrower until the first plate exploded mid-air into tiny ceramic shards.
 
@@ -55,6 +57,16 @@ Then, Pavel’d claim I cheated, and people started crowding around. Pavel’d p
  And you’d best not cheat. I can smell every move.
 
 ![Image by ForTheVainglorius](../../.gitbook/assets/tumblr_onz5pfugge1urxtd9o1_1280.jpg)
+
+## ALTERNATE FATES
+
+### 'SHOGUN RINGO'
+
+_It is said there was once a shogun named Ringo who hunted the golden jungle dragon. He spied it in the distance, took careful aim and shot the dragon straight through its heart. However, when he crept forward to confirm his kill, gun drawn, he discovered that what he had shot was not a dragon, but a golden rock._
+
+_Carnies near and far spoke of his legendary shooting — for Ringo’s bullets could pierce solid stone. But when he tried to repeat his feat, Ringo’s bullets bounced off the golden rock again and again. Ringo’s beliefs shaped his reality, and once he knew a new “truth,” the golden target became impenetrable._
+
+![I can&apos;t understand why everyone says I should put on shoes for this?](../../.gitbook/assets/download-1.jpg)
 
 
 
