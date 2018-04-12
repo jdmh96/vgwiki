@@ -4,19 +4,19 @@
 
  Staying in shape while out in the field is a simple matter of discipline. Here’s how SAW stays shredded even while deployed out in the jungle.
 
-### DO YOU EVEN LIFT?
+#### DO YOU EVEN LIFT?
 
  Fill ammo cans with sand to get your curls, rows, and bench press. Do pullups off the turret guns. Military press your weapon.
 
  Living in the field is no excuse for skipping leg day. Carry the ammo cans during walking lunges and step-ups. Knock down jungle trees, sit beautiful women on both ends, hold on shoulders and squat.
 
-### TURRET DRAG AND PUSH
+#### TURRET DRAG AND PUSH
 
  Tie a rope around the base of a turret. Tie the rope around your waist and drag the turret. Drag it forward for 50 meters, then untie the rope from your waist, turn around, and drag the turret backward with your hands for another 50 meters. Move to the other side of the turret and push forward the last 50 meters. Turn around and repeat.
 
  \(Note: if you’re a wimp beginner, start with a large tire.\)
 
-### MINION CATCH, CARRY SLAM AND TOSS
+#### MINION CATCH, CARRY SLAM AND TOSS
 
  Just holding these squirrely buggers is a core workout! Catch one big minion or two small ones; for High Intensity Interval Training, farmer-carry them back to HQ. Press overhead, keeping elbows out, knees slightly bent, then use the whole body to slam them onto the ground at your feet.
 
