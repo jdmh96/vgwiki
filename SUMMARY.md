@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Items](items/README.md)
   * [old Items page](items/old-items-page.md)
+  * [Weapon Item Details](items/weapon-item-details.md)
 * [Common Terms](terms-used-in-game.md)
 * [Heroes](heroes/README.md)
   * [Adagio](heroes/adagio/README.md)
