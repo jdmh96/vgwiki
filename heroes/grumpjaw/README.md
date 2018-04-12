@@ -1,6 +1,6 @@
 # Grumpjaw
 
-A hungry beast who can swallow a hero whole.
+> A hungry beast who can swallow a hero whole.
 
 ## Heroic Perk: Living Armor
 
