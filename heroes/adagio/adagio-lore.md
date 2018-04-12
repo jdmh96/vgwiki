@@ -206,7 +206,7 @@ Idris clenched his fists. “I will go with you, then. But I swear I will return
 
  And so Lorelai dove again and brought up another egg, and another, and another, until the queen’s guards were overburdened with eggs of all colors. 
 
-![This is so fun.](../../.gitbook/assets/1000px_lorolei_lore.jpg)
+![This is so fun.](../../.gitbook/assets/1000px_lorolei_lore%20%281%29.jpg)
 
 At last she brought up an egg so deep black that it made Lorelai uneasy just to look at it. She was glad to hand it over.
 

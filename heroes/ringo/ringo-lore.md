@@ -68,5 +68,79 @@ _Carnies near and far spoke of his legendary shooting — for Ringo’s bullets 
 
 ![I can&apos;t understand why everyone says I should put on shoes for this?](../../.gitbook/assets/download-1.jpg)
 
+### 'VAQUERO RINGO'
 
+**THE HORNSWOGGLE**
+
+![Six through the bulls-eye.](../../.gitbook/assets/painting_ringo_black_edit.jpg)
+
+One late autumn, Rowdy Ringo surfaced in town after years away. We’d figured him for dead, limb removal injuries being the fatal kind, and those who hoped he was alive were sure he’d never show his face again. But he wandered into the tavern one day just as casual as you please, what he’d lost hidden up under his poncho, winking at the ladies like he wasn’t three-quarters of a man.
+
+ Took about thirty seconds for Rowdy Ringo to have three different gun barrels against his head.
+
+ “Whoa whoa whoa there, boys,” said Ringo, his one hand up nice and peaceful. “Your bullets are going to go straight through my skull and catch one another. Wouldn’t want you upstanding gentlemen to die over a dumb mistake like that.”
+
+ “Lemme take the shot,” whined Bookie Barry. “This man walked out on a hundred-gold debt.”
+
+ “I’m a vaquero now. Only thing I hustle are cattle,” said Ringo. “I’ll set you up with one of my good dairy cows; should be worth a hundred plus interest.”
+
+ “I should get ‘im,” said the Lawman Larry. “He’s been jailed for robbery three times and his friends always broke him out!”
+
+ “I never did stand trial in front of a jury of my peers,” said Ringo.
+
+ “Justice is mine, says me,” cried Reverend Ronald. “This man has committed the sin of drunkenness and, most important, he ran off with my daughter!”
+
+ “I don’t drink anymore. This is just agave juice,” said Ringo. He wiggled his elbow and his wicker jug sloshed. “And to be fair, reverend, your daughter ran off with _me_.”
+
+ For a few awkward seconds the gunmen eyed one another, then the bookie holstered his weapon. “I always wanted a cow,” he said.
+
+ “Barry’s a smart man,” said Ringo. “Anyone else want to be smart like him?”
+
+ “No,” said Lawman Larry.
+
+ “No,” said Reverend Ronald.
+
+ “Let’s be fair, then. Barry, you got a coin over there?”
+
+ “I ain’t giving you no –”
+
+ “No, Barry, I don’t want your coin. Focus, now, or you’re gonna make one of these two trigger fingers nervous. You got a coin?”
+
+ “Yeah I gotta coin,” said Barry, digging in his pockets.
+
+ “Alright now, here’s what you do: you flip that coin and catch it. If it lands heads-up, the lawman gets to shoot me. If it lands tails-up, the reverend gets the honor. That sound fair?”
+
+ The lawman and the reverend shifted their weight from foot to foot. “Feels like a hornswoggling,” muttered Larry.
+
+ “Nothing’s more fair than a coin flip,” urged Ringo.
+
+ “Alright,” said Larry.
+
+ “No funny business,” said Ronald.
+
+ All eyes turned to Barry’s shiny coin as it flipped through the air, so no one saw Ringo draw his .50 caliber rimfire revolver. They only heard the shots – _BAM-BAM!_ and the sound of the lawman crumpling to the ground. The bookie scrambled for his gun while the gold coin hit the floor, a smoking hole through its center.
+
+ “Don’t be doing that,” said Ringo, pointing his weapon at the bookie.
+
+ Barry held up both hands with a manly pout. “But I want a cow,” he muttered.
+
+ “You’ll get your cow. I am a gentleman of my word,” said Ringo.
+
+ Barry smiled and backed off, mumbling something about cheese.
+
+ “Now you and I,” said Ringo, aiming at the reverend, “we are gonna come to an understanding. You’re gonna put your gun away and you’re gonna forgive your daughter for running off.”
+
+ “Hi Daddy!” A girl behind the bar waved with one hand as she scooped coins out of the cash register with the other. No one had seen her come in, what with the hullabaloo.
+
+ “I’m not gonna be able to sleep tonight if I don’t make a little peace here,” said Ringo, his aim true. “So go on; put that away and say you forgive her.”
+
+ Reverend Ronald shoved his piece back in its holster and grimaced at the sack full of cash jingling over his daughter’s shoulder.
+
+ “Evil setup you have going,” the reverend grumbled. “But of course I forgive her.”
+
+ “Thanks, Daddy.” The girl gave her father a peck on the cheek on her way out of the tavern. Ringo followed close behind, keeping his revolver leveled on the reverend.
+
+ “Isn’t this nice? All this familial tranquility. It warms my heart.” Ringo tipped his sombrero with the muzzle of his revolver and disappeared out the door.
+
+ The bookie stepped over the bleeding lawman and stuck his head out the door, purple with rage. “I want my cow, Ringo!” he yelled after the horses galloping away.
 
