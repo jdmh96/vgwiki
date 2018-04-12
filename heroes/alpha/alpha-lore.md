@@ -448,7 +448,7 @@ Catherine shoots a glare at the daggerwoman. “There are no cowards in the Stor
 
 Catherine’s breath catches. “Then we can waste no more time. Make your choice, ladies, and make it before the queen’s ravens find you.”
 
-## Alpha Lore: The Stormguard Saga Part Nine -
+
 
 ## ‘CROSSING THE BRIDGE’
 
@@ -492,7 +492,7 @@ The officer stuttered in his own language, then said in an accent, “Stormguard
 
 Something like hope flashed in Catherine’s eyes as the officer called for his troops to stand down. The Stormguard filed through the enemy’s line while the cavalry struggled to gain control of their wounded beasts. Kestrel walked backward, her bow pulled, until the last of the women had disappeared into friendly territory.
 
-## Alpha Lore: The Stormguard Saga Part Ten - ‘ALPHA’
+## ‘ALPHA’
 
 The dark room rippled with an eerie, surgical-bright glow centered on a glass tank at the center. Inside, a pale woman floated in a bowed shape, belly highest, swaying, her shaved head thrown back as if in laughter. Tubes snaked inside the glass and attached to nodes in her chest and temples. Great wounds in her torso had been stitched and bound together with white bandages. There was a low hum, the sour smell of chemicals and an echoing rhythmic beep that matched the slow beat of her heart.
 
@@ -509,8 +509,6 @@ The two Stormguard women looked at one another, then back at the tank. “We ret
 “Does that mean I have your permission to put her together?” called Frankie without turning around. “I can get her head off and have her configured by tomorrow.”
 
 “Yes,” said the queen. She turned from the tank to smile in her terrifying, eyeless way, at the only two Stormguard who had chosen to return. “And you, my loyal girls, will help me test her strength.”
-
-## Alpha Lore: The Stormguard Saga Part Eleven -
 
 ## ‘THE DESTRUCTION’
 
@@ -567,9 +565,9 @@ The room erupted in flashing blue magic and the roars of Second Boss. The machin
 
 #### \#~$ DIRECTIVE FULFILLED … RECONNAISSANCE MODE ACTIVATED. … DIRECTIVE: FIND STORMGUARD. —— Pretty thing…
 
-_To be continued…_
 
-## Alpha Lore: The Stormguard Saga Part Twelve - ‘DAISY, DAISY’
+
+##  ‘DAISY, DAISY’
 
 Daisy squeezes into a corner of the workout room, bare feet sunk into the mat, arms bent, hiding her face behind bruised forearms and thick leather boxing gloves. Kestrel, a year older at fifteen, weaves close and strikes Daisy’s obliques, tight to cramping; when her arms drop, the strikes come at her jaw and temples. Tears slide out of Daisy’s swollen eyes, mixing with blood and snot from her nose. A hit to the belly sucks the air out of her and she crumples, arms over her head.
 
