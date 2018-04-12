@@ -144,3 +144,51 @@ One late autumn, Rowdy Ringo surfaced in town after years away. We’d figured h
 
  The bookie stepped over the bleeding lawman and stuck his head out the door, purple with rage. “I want my cow, Ringo!” he yelled after the horses galloping away.
 
+### 'BAKUTO RINGO'
+
+![Hurry! I gotta get back to the Undersprawl.](../../.gitbook/assets/ringo_skin_se_splashart_final_cropped.jpg)
+
+Twelve of Second Boss’ guards escorted the gambler from the docks to a silk-covered litter, then through the multi-leveled streets to a glass-walled skyscraper. The guards took up positions around the lobby. The elevator stood open. A lady with white gloves and a smart hat bowed low and gestured him inside, then pushed the button for the penthouse. As the doors closed, she snuck a glance at the bright koi and chrysanthemums tattooed on the skin that showed under the gambler’s jade dragon-emblazoned kimono, her eyes darting back to the floor when she saw his provocative smirk.
+
+ The elevator doors opened to an elegant room lit by two large wood scented candles. The gambler passed by the shoe rack and stepped onto the _tatami_ mats with his _tabi_ boots; the elevator lady gasped at his insolence as the doors closed.
+
+ Around the room the gambler walked, admiring the paintings on the walls and ceilings, past the silk screens and the low table upon which rested a dice bowl. He paused at a lacquered cabinet to help himself to glug from a silver flask of sake. He peeked past a sliding paper wall only to catch a face full of downy feline chest fur. The gambler gazed up, up, up at the blind Grangor, took one giant step back, and raised the flask. “You look familiar,” he said.
+
+ The Grangor growled.
+
+ From behind the ferocious guard emerged the notorious pot-bellied, four-armed bear hybrid known as Second Boss in Taizen Gate, wearing an ornate golden kimono. His eyes flicked to the sake flask but he said nothing, only glanced at his Grangor guard before settling on a large cushion in front of the alcove.
+
+ “Ringo,” said Second Boss, gesturing to the cushion across from him, “The luckiest bakuto in the world, they say.”
+
+ “Every dog has his day in luck.” Ringo bowed and stepped back, settled into the indicated cushion.
+
+ “This bear has not had his day,” said Second Boss. He shrugged off his kimono, revealing his furry chest. “Perhaps it is time I took a dog as a pet.”
+
+ “What luck is mine will be yours,” said the gambler. He, too, stripped down to his hakama, displaying the red monster mask tattooed on his back.
+
+ “I make my own luck,” replied Second Boss. He plucked up the dice bowl and the dice inside, held them up to the gambler. “Objections?”
+
+ “None.”
+
+ The Grangor at the sliding door turned his unseeing face toward the table.
+
+ Second Boss deposited the dice into the bowl, shook it and slammed it down onto the table. “What is your bet?”
+
+ The gambler stared into Second Boss’s fierce eyes. “I bet the dice are weighted.”
+
+ “I do not take chances with my money,” replied Second Boss.
+
+ “And I,” said the gambler, “do not cheat.”
+
+ Before Second Boss could reply, the gambler had pulled his automatic pistol and fired two shots, one through each candle flame. In the pitch dark there was the sound of thick paper tearing, the crash of the table breaking and the deep bellows of furry beasts locked in combat – then: silence.
+
+ A thin line of light fled from the opening elevator doors. The attendant’s curious eyes crossed to stare at the pistol that rested against her brow. The gambler walked forward, forcing her to stumble back into the elevator, his kimono hanging loose from his shoulders, the sake flask tied into his hakama. The Grangor followed and stood against the far wall.
+
+ “Down, love,” murmured the gambler as he holstered his pistol.
+
+ “You didn’t wait for the signal,” growled the Grangor.
+
+ “I never do, old friend,” said the gambler.
+
+ The attendant’s gloved hands shook as she pressed the button. Before the elevator doors closed, she caught sight of Second Boss, tied motionless with his own golden kimono, the dice cup resting on his head like a jaunty cap.
+
