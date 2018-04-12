@@ -1,8 +1,6 @@
 # Fortress Lore
 
-## Fortress Lore: PART ONE
-
-### ‘A STORY FOR EVERYTHING’
+## ‘A STORY FOR EVERYTHING’
 
 The berserker dropped to the ground between the fire and the old druid, axes clinking at her belt, a caribou hock in one fist. Behind them, the others daubed the wattled longhouse walls with dung and straw where freezing wind whistled through.
 
@@ -44,9 +42,7 @@ The earth shook again, stronger than before, rolling logs away from the fire. Th
 
 In the distance, the howls of wolves sounded through the frozen air.
 
-## Fortress Lore: PART TWO
-
-### ‘THE DESTRUCTION OF THE TEMPLE’ {#destruction}
+## ‘THE DESTRUCTION OF THE TEMPLE’ {#destruction}
 
 _Halcyon energy seeps out of an old well…_
 
@@ -70,9 +66,7 @@ The guarding of the Halcyon Well had been the alpha’s vocation since the templ
 
 Then, Fortress let loose a wild howl that carried for miles.
 
-## Fortress Lore: PART THREE
-
-### ‘THE GREAT OAK’
+## ‘THE GREAT OAK’
 
 _The passageway through the world opens… _
 
@@ -104,9 +98,7 @@ A wolf whined, then another. Fortress backed away from his old friend. “Call o
 
 The pack watched as the face of the Mother turned into a wide hollow. A thick, humid scent leaked from it, steaming the freezing air. Fortress moved closer, tentative, sniffing. Inside, a wooden staircase spiraled down into the dark.
 
-## Fortress Lore: PART FOUR
-
-### ‘RONA VS. SKVADER’
+## ‘RONA VS. SKVADER’
 
 _Skvader attack!_
 
@@ -132,9 +124,7 @@ Groaning, she sheathed the axes and reviewed the damage. She’d taken a few scr
 
 The tracks and spoor were fresh; she’d overtake the old druid within the hour.
 
-## Fortress Lore: PART FIVE
-
-### ‘NORTH IS ALWAYS FORWARD’
+## ‘NORTH IS ALWAYS FORWARD’
 
 _Rona follows Fortress into the Great Oak…_
 
@@ -170,11 +160,11 @@ War Screech and Whistle dropped loose in her fingers. “And who are you?”
 
 ## ALTERNATE FATES
 
-## ‘DIRE’ FORTRESS Lore
+### ‘DIRE FORTRESS'
 
 The Old World was cared for by druids until the northmen brought war. As a last compromise, the land was given to the northmen except for the temple, guarded by Fortress’ pack. Read on to get a glimpse of the war-torn alpha, his family, and Corb, his magic green war doll.
 
-**THE INVASION OF THE NORTHMEN**
+#### THE INVASION OF THE NORTHMEN
 
 “Humans were few on this land in the days before the northmen.”
 
@@ -204,7 +194,7 @@ The young druid paused with his fingers curled in the thick winter fur. “Only 
 
 The alpha took the doll from the young druid between his front paws and and settled into anxious sleep.
 
-## ‘NETHERWORLD FORTRESS’ Lore
+### ‘NETHERWORLD FORTRESS’ 
 
 _The power of the Halcyon Wells originates deep underground in the boiling dark Netherworld. What lives aboveground survives because Fortress guards the Nether Gate. Past Fortress, none may go._
 
@@ -240,11 +230,7 @@ The blazing light grew and morphed into the shape of a beast. At first, it was a
 
 The Explorer turned and ran, ran in no direction, swallowed into the void, begging forgiveness with pathetic sobs. The wolf’s deep laughter echoed from all around him until he woke, gasping for breath, at the base of the sacred tree.
 
-## LIMITED-EDITION ‘GIFT-WRAPPED’ FORTRESS
-
-#### **SEASONAL SKIN LORE**
-
-_**By SugarVenom**_
+### ‘GIFT-WRAPPED FORTRESS'
 
 “Can I? Please?” Little Rona danced around a juniper garland-wrapped crate. “I wanna open them now!”
 
@@ -288,49 +274,5 @@ Before the druid could finish, little Rona had torn away at the garlands that wr
 
 The druid shrugged. “Pickles it is, then.”
 
-## ‘GIFT WRAPPED’ FORTRESS \(SPECIAL EDITION\)
 
-#### **‘PICKLES!’**
-
-“Can I? Please?” Little Rona danced around a juniper garland-wrapped crate. “I wanna open them now!”
-
-“Patience is the companion of wisdom.” The druid nailed long stockings to the wall of the longhouse.
-
-“But it’s almost midnight.” The fire crackled in the center of the room. Minty smells drifted from the winter holiday candles. It was the eve of the Joy Festival, and the children had all long gone to sleep in hopes of a quick morrow – all except Rona, who at three winters old could not bear to leave her festival gifts unattended.
-
-“One acquires a chicken by hatching the egg, not by smashing it.”
-
-“This one’s moving!” Rona dropped to her knees and pressed her ear to a crate several times her size. “It’s whining!”
-
-“You have had too much maple holiday candy. You are hearing things.”
-
-“I’m not!” The crate rumbled and huffed, then sneezed. “Hear that?”
-
-The druid crouched down beside her and pressed his own ear to the side of the crate. “Ah, so it is. One of your Joy Festival gifts is alive. I suppose opening just one a night early is…”
-
-Before the druid could finish, little Rona had torn away at the garlands that wrapped the crate. She’d lifted the lid just enough to peek inside when a giant four-legged fluffball bounded from inside and shook itself out.
-
-“IT’S A PUPPY!” cried Rona, flinging her arms around its neck.
-
-“Now, Rona, a pet is a big responsib…”
-
-“A PUPPY! JUST LIKE I ASKED!”
-
-“You will have to feed him, and give him water, and take him outside when he needs to…”
-
-“PICKLES!”
-
-“…Pickles?” The druid scratched his head.
-
-“HIS NAME IS PICKLES!”
-
-“Ah. His name could be something far more…”
-
-“Ehhmbuehhh beh,” responsed Rona with her face buried in the puppy’s fluffy side.
-
-“…I was thinking something like Fortress. That’s a good strong name.”
-
-“Pickles,” sighed Rona. The puppy rolled onto its back and Rona rubbed its belly.
-
-The druid shrugged. “Pickles it is, then.”
 
