@@ -121,39 +121,19 @@
 * Builds from:
   * Swift Shooter 
 
+## Lucky Strike 
 
+*  Cost: 900\(600\) gold
+* Stats:
+  * +20% Critical Chance
+  * +8% Critical Damage 
+* Builds into:
+  * Tornado Trigger, Tyrant's Monocle 
+* Builds from:
+  * Minion's Foot 
+* Tip: Critical strikes deal 50% more damage than usual. 
 
-
-
-Lucky Strike 
-
-900\(600\) 
-
-+20% Critical Chance, +8% Critical Damage 
-
-Tornado Trigger, Tyrant's Monocle 
-
-Minion's Foot 
-
-Critical strikes deal 50% more damage than usual. 
-
-
-
-Tier 3 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Tier 3 
 
 Sorrowblade 
 
