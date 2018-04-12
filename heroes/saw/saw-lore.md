@@ -86,7 +86,7 @@ He laughed. So the world wasn’t done with him yet. SAW rested his new weapon o
 
 ## ALTERNATE FATES
 
-### SAWBORG
+### 'SAWBORG'
 
 ![Got&apos;em.](../../.gitbook/assets/download.jpg)
 
@@ -153,7 +153,7 @@ Applying updated identity: S.A.W
 
 ![There&apos;s no other choice.](../../.gitbook/assets/2593f7eca0c5fa84e4ba297a0a5c69ca.jpg)
 
-### Elite Force SAW
+### 'Elite Force SAW'
 
 #### PUCKER FACTOR 10
 
@@ -204,4 +204,18 @@ Applying updated identity: S.A.W
  “Yeah, sure.” SAW picked up a Shatterglass from the sand and tossed it to Idris. “Grab up what you came for and let’s move out. I have an itch on my bum.”
 
 ![Bloody fast mover.](../../.gitbook/assets/saw_eliteforce_splash1000px.jpg)
+
+### 'SUMMER PARTY SAW'
+
+#### **SHARKS DON’T HAVE BICEPS**
+
+ I saw the whole thing from shore while I was overhead pressing beach volleyball players. Someone yelled “Shark!” and I snapped to attention. Was a megalodon, sixty footer. Know how you can tell that? You look from the dorsal to the tail. What I didn’t know was, the lifeguards ran. Didn’t even send up a distress signal. So I yelled, “Hold up now!” and everything went real quiet, the people being more scared of me than the shark. All I’m saying is, sharks don’t have biceps.
+
+ When that shark came up teeth first for lunch, it looked right at me. Right into my eyes. Had lifeless eyes. Black eyes, like a doll’s eyes, that rolled over white, and then came that high-pitched screaming.
+
+ I dropped the ladies and grabbed up Gracie, planted her square on my shoulder and took aim for those dolly eyes. Right at the moment when they rolled over white, I fired right into them, gave that shark some serious irritation. It clamped down on some surfer dude’s board. There was an unnecessary tussle between them while I ran into the surf and slammed water balloons into its fin.
+
+ It was dollar taco day. That’s why I remember so well.
+
+![How does it feel, love?](../../.gitbook/assets/image-1.jpg)
 
