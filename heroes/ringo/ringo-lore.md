@@ -42,5 +42,19 @@ Then, Pavel’d claim I cheated, and people started crowding around. Pavel’d p
 
 ## 'GLAIVE MEETS RINGO'
 
+ You thought you could call me beast from across the cantina. If you whispered it, you thought I wouldn’t hear. You thought that distance would give you a running start. And now you are at my feet, drunk little carnie fool. That’s why you lose at the dice tables, and why you return to lose again: You are only good from range.
+
+ But now my axe has knocked you close, so while you’re at my feet clutching at that nasty bruise, why don’t you insult me again? Ah, good, good. There’s some courage in you. I can respect a man who spits in the face of a beast.
+
+ Perhaps, though, you should think on what you consider beastly. True, my kind lives in the treetops and mountain caves. The patterns in our fur hide us in the vines, brush and thorns. Weaker creatures feed us. But you pockmark our mountains with your mines, draw out the crystal and the gold, then fight over the wells while the mountains crumble. The avalanches draw the beasts, as you call us, closer and closer. Which path is truly less civilized?
+
+ Shh, stop shaking, little carnie. This is not the end. There’s still a trophy to claim.
+
+ Get up off the ground, you cowardly shivering leaf, and let’s have a roll of dice to prove we can play nice. You can have all my gold if you win. But if you lose, I’m taking that side arm. Oh, it’s special to you, little Ringo? Then you’d best not lose.
+
+ And you’d best not cheat. I can smell every move.
+
+![Image by ForTheVainglorius](../../.gitbook/assets/tumblr_onz5pfugge1urxtd9o1_1280.jpg)
+
 
 
