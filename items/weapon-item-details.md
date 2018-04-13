@@ -178,19 +178,16 @@
   * Barbed Needle, Blazing Salvo  
 * Tip: Buy this against high sustain targets. 
 
+## Breaking Point
 
-
-Breaking Point 
-
-2600\(750\) 
-
-+20% Attack Speed, +55 Weapon Power, Passive: Gain 10 weapon power for every 160 weapon damage done to enemy heroes +5/10 \(Melee/Ranged\) damage needed for each stack thereafter. 25 stacks max. Decays 3 stacks per second after you've stopped stacking for 2.5s. 
-
-Heavy Steel, Blazing Salvo 
-
-N/A 
-
-Very weak at first, but becomes extremely powerful over the course of long battles. 
+* Cost: 2600\(750\)   gold
+* Stats:
+  * +20% Attack Speed
+  * +55 Weapon Power
+  * Passive: Gain 10 weapon power for every 160 weapon damage done to enemy heroes +5/10 \(Melee/Ranged\) damage needed for each stack thereafter. 25 stacks max. Decays 3 stacks per second after you've stopped stacking for 2.5s. 
+* Builds from:
+  * Heavy Steel, Blazing Salvo 
+* Tip:Very weak at first, but becomes extremely powerful over the course of long battles. 
 
 
 
