@@ -4,7 +4,7 @@
 
 ## Weapon Blade
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2865%29.png)
 
 * Cost: 300 gold 
 * Stats:
