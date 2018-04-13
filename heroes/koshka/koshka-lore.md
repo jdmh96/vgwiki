@@ -10,9 +10,13 @@
 
  Her curiosity caused her to leave me. Perhaps she seeks her own kind. I see her seldom now, though stories of her travel into the mountains. They make me laugh: psychotic jungle cat fighting for one side and then the other at random. Truly, she has no foes: In her world, everything is play. Beware, stranger: She is ruthless with her toys.
 
+![You can&apos;t catch me, I&apos;m made of gingerbread.](../../.gitbook/assets/koshka_lore1_1000px.jpg)
+
 ## 'KOSHKA FINDS A SCOUT TRAP'
 
- This is mine! I found it. I don’t know what it is, but finders keepers. It is very round. Round is a clue.
+![Uuuu, shiny!](../../.gitbook/assets/koshka_lore_1000px.jpg)
+
+This is mine! I found it. I don’t know what it is, but finders keepers. It is very round. Round is a clue.
 
  You, in the flower! Your pets are cute! Do they like candy? This candy is for the minions but maybe your pets would like it. Hey! Do you know what this thing is? I found it over… hey, come back! Are we playing chase? Ha, caught you! I’m much faster than everyone, all the everyones. While I have you here on the ground, what do you think this thing is? Ow! Oof! Hey! That burns! Stoppit! Okay, okay, fine, I’ll ask someone else.
 
