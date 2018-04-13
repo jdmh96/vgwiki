@@ -163,26 +163,20 @@
   * +100 Weapon power,
   * +35% Cooldown speed
   * +3 Energy recharge 
+  * HeavySteel, Chronograph 
+* Tip:Particularly useful on heroes who run into energy problems. 
 
-HeavySteel, Chronograph 
+## Poisoned Shiv 
 
-N/A 
-
-Particularly useful on heroes who run into energy problems. 
-
-
-
-Poisoned Shiv 
-
-2250\(750\) 
-
-+40 Weapon power, +30% Attack speed, Passive: Book of Eulogies Vampirism: +8% lifesteal \(does not stack with other Vampirism\) 
-
-Barbed Needle, Blazing Salvo 
-
-N/A 
-
-Buy this against high sustain targets. 
+* Cost: 2250\(750\)   gold
+* Stats:
+  * +40 Weapon power,
+  * 30% Attack speed
+  * Passive: Book of Eulogies
+  * Vampirism: +8% lifesteal \(does not stack with other Vampirism\)
+* Builds from:
+  * Barbed Needle, Blazing Salvo  
+* Tip: Buy this against high sustain targets. 
 
 
 
