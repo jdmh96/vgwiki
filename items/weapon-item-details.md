@@ -10,9 +10,9 @@
 * Stats:
   * +15 Weapon Power 
 * Builds into:
-  *  Heavy Steel
-  * Six Sins
-  * Percing Spear 
+  * [    Heavy Steel](weapon-item-details.md#heavy-steel)
+  * [Six Sins](weapon-item-details.md#sixsins)
+  * [Piercing Spear ](weapon-item-details.md#piercing-spear)
 * Tip: Weapon power increases the damage of basic attacks. 
 
 
@@ -29,7 +29,7 @@
   * Passive: Restores 25 health whenever you kill a minion or monster \(60 if using a melee default attack\).
   * Vampirism: +4% lifesteal \(does not stack with other Vampirism\) 
 * Builds into:
-  * Barbed Needle 
+  * [Barbed Needle ](weapon-item-details.md#barbed-needle)
 * Tip: Helps you stay healthy while last-hitting in lane. 
 
 ## Swift Shooter 
@@ -40,7 +40,7 @@
 * Stats:
   * +10% attack speed 
 * Builds into:
-  * Blazing Salvo 
+  * [Blazing Salvo     ](weapon-item-details.md#blazing-salvo)
 
 ## Minion's Foot 
 
@@ -52,7 +52,7 @@
   * +5% Critical Damage
   * Passive: After buying this item, your very first attack on an enemy hero will crit. 
 * Builds into:
-  * Lucky Strike
+  * [Lucky Strike](weapon-item-details.md#lucky-strike)
 * You can sell and re-buy this item to refresh the passive. 
 
 
@@ -67,12 +67,12 @@
 * Stats:
   * +55 Weapon power
 * Builds into:
-  * Sorrowblade
-  * Serpent mask
-  * Spellsword
-  * Breaking Point 
+  * [Sorrowblade](weapon-item-details.md#sorrowblade)
+  * [Serpent Mask](weapon-item-details.md#serpent-mask)
+  * [Spellsword](weapon-item-details.md#spellsword)
+  * [Breaking Point ](weapon-item-details.md#breaking-point)
 * Builds From
-  * Weapon Blade
+  * [Weapon Blade](weapon-item-details.md#weapon-blade)
 * Tip: Weapon power increases the damage of basic attacks. 
 
 ## SixSins 
@@ -83,11 +83,11 @@
 * Stats:
   * +30 Weapon power 
 * Builds into:
-  * Sorrowblade
-  * Tension bow
-  * Tyrants Monocle
+  * [Sorrowblade](weapon-item-details.md#sorrowblade)
+  * [Tension Bow](weapon-item-details.md#tension-bow)
+  * [Tyrants Monocle](weapon-item-details.md#tyrant's-monocle)
 * Builds from:
-  * Weapon Blade 
+  * [Weapon Blade     ](weapon-item-details.md#weapon-blade)
 * Tip: Weapon power increases the damage of basic attacks. 
 * 800\(500\) 
 
@@ -101,9 +101,10 @@
   * Passive: Book of Eulogies
   * Vampirism: +8% lifesteal \(does not stack with other Vampirism\)
 * Builds into:
-  * Serpent Mask, Poisoned Shiv 
+  * [Serpent Mask](weapon-item-details.md#serpent-mask)
+  * [Poisoned Shiv     ](weapon-item-details.md#poisoned-shiv)
 * Builds from:
-  * Book of Eulogies 
+  * [Book of Eulogies     ](weapon-item-details.md#book-of-eulogies)
 * Tip: Helps you stay healthy while last-hitting in lane. 
 
 ## Piercing Spear 
@@ -115,9 +116,10 @@
   * +15 Weapon power
   * Armorbreaker: +10% armor pierce \(does not stack with orher Armorbreaker\) 
 * Builds into:
-  * Tension Bow, Bonesaw 
+  * [Tension Bow](weapon-item-details.md#tension-bow)
+  * [Bonesaw     ](weapon-item-details.md#bonesaw)
 * Builds from:
-  * Weapon Blade 
+  * [Weapon Blade     ](weapon-item-details.md#weapon-blade)
 * Tip:Armor pierce makes a % of your weapon damage bypass armor. 
 
 ## Blazing Salvo 
@@ -128,10 +130,10 @@
 * Stats:
   * +20% Attack speed 
 * Builds into:
-  * Poisoned Shiv
-  * Breaking Point
-  * Bonesaw
-  * Tornado Trigger
+  * [Poisoned Shiv](weapon-item-details.md#poisoned-shiv)
+  * [Breaking Point](weapon-item-details.md#breaking-point)
+  * [Bonesaw](weapon-item-details.md#bonesaw)
+  * [Tornado Trigger](weapon-item-details.md#tornado-trigger)
   * Alternating Current
   * Shiversteel 
 * Builds from:
@@ -146,9 +148,10 @@
   * +20% Critical Chance
   * +8% Critical Damage 
 * Builds into:
-  * Tornado Trigger, Tyrant's Monocle 
+  * [Tornado Trigger](weapon-item-details.md#tornado-trigger)
+  * [Tyrant's Monocle     ](weapon-item-details.md#tyrant's-monocle)
 * Builds from:
-  * Minion's Foot 
+  * [Minion's Foot     ](weapon-item-details.md#minion's-foot)
 * Tip: Critical strikes deal 50% more damage than usual. 
 
 ## Tier 3 
@@ -161,8 +164,8 @@
 * Stats:
   * +150 Weapon power 
 * Builds from:
-  * Heavy Steel,
-  * Six Sins 
+  * [Heavy Steel](weapon-item-details.md#heavy-steel)
+  * [Six Sins     ](weapon-item-details.md#sixsins)
 * Tip: Weapon power increases the damage of basic attacks. 
 
 ## Serpent Mask
@@ -175,7 +178,8 @@
   * Passive: Book of Eulogies 
   * Vampirism: +10% lifesteal \(does not stack with other Vampirism\)
 * Builds from:
-  * Heavy Steel, Barbed Needle 
+  * [Heavy Steel](weapon-item-details.md#heavy-steel)
+  * [Barbed Needle ](weapon-item-details.md#barbed-needle)
 * Tip: Dealing high amounts of weapon damage to enemies will rapidly restore your health. 
 
 ## Spellsword 
@@ -187,7 +191,9 @@
   * +100 Weapon power,
   * +35% Cooldown speed
   * +3 Energy recharge 
-  * HeavySteel, Chronograph 
+* Builds from:
+  * [Heavy Steel](weapon-item-details.md#heavy-steel)
+  * Chronograph 
 * Tip:Particularly useful on heroes who run into energy problems. 
 
 ## Poisoned Shiv 
@@ -201,7 +207,8 @@
   * Passive: Book of Eulogies
   * Vampirism: +8% lifesteal \(does not stack with other Vampirism\)
 * Builds from:
-  * Barbed Needle, Blazing Salvo  
+  * [Barbed Needle](weapon-item-details.md#barbed-needle)
+  * [Blazing Salvo  ](weapon-item-details.md#blazing-salvo)
 * Tip: Buy this against high sustain targets. 
 
 ## Breaking Point
@@ -214,7 +221,8 @@
   * +55 Weapon Power
   * Passive: Gain 10 weapon power for every 160 weapon damage done to enemy heroes +5/10 \(Melee/Ranged\) damage needed for each stack thereafter. 25 stacks max. Decays 3 stacks per second after you've stopped stacking for 2.5s. 
 * Builds from:
-  * Heavy Steel, Blazing Salvo 
+  * [Heavy Steel](weapon-item-details.md#heavy-steel)
+  * [Blazing Salvo ](weapon-item-details.md#blazing-salvo)
 * Tip:Very weak at first, but becomes extremely powerful over the course of long battles. 
 
 ## Tension Bow
@@ -227,10 +235,9 @@
   * Passive: Every 6s, your next basic attack will deal 240 bonus damage.
   * Armorbreaker: +10% armor pierce \(does not stack with orher Armorbreaker\) 
 * Builds from: 
-  * Six Sins
-  * Piercing Spear 
-  * Tip:
-  * An effective way to surprise enemies with a sudden burst of damage. 
+  * [Six Sins](weapon-item-details.md#sixsins)
+  * [Piercing Spear     ](weapon-item-details.md#piercing-spear)
+* Tip: An effective way to surprise enemies with a sudden burst of damage. 
 
 ## Bonesaw
 
@@ -243,7 +250,8 @@
   * Passive: Your basic attacks shred 5% of the target's armor for 3s. Max 8 stacks
   * Armorbreaker: +18% armor pierce \(does not stack with orher Armorbreaker\) 
 * Builds from: 
-  * Piercing Spear, Blazing Salvo
+  * [Piercing Spear](weapon-item-details.md#piercing-spear)
+  * [Blazing Salvo    ](weapon-item-details.md#blazing-salvo)
 * Effective against turrets and enemies with high armor. Best if you or your team are already dealing lots of weapon damage. 
 
 ## Tornado Trigger 
@@ -256,8 +264,8 @@
   * +35% Critical Chance 
   * +10% Critical Damage 
 * Builds from:
-  *  Blazing Salvo
-  * Lucky Strike
+  * [Blazing Salvo](weapon-item-details.md#blazing-salvo)
+  * [Lucky Strike](weapon-item-details.md#lucky-strike)
 *  Tip: Use this if you already have lots of weapon power but little attack speed, or if you wish to apply on-hit effects faster.
 
 ## Tyrant's Monocle 
@@ -270,8 +278,9 @@
   * +10% Critical Damage
   * +70 Weapon Power 
 * Builds from:
-  * Six Sins, Lucky Strike 
-  * Tip: Most effective when combined with more weapon power & attack speed.Your content goes here. 
+  * [Six Sins](weapon-item-details.md#sixsins)
+  * [Lucky Strike     ](weapon-item-details.md#lucky-strike)
+* Tip: Most effective when combined with more weapon power & attack speed.Your content goes here. 
 
 
 
