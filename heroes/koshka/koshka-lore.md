@@ -10,7 +10,7 @@
 
  Her curiosity caused her to leave me. Perhaps she seeks her own kind. I see her seldom now, though stories of her travel into the mountains. They make me laugh: psychotic jungle cat fighting for one side and then the other at random. Truly, she has no foes: In her world, everything is play. Beware, stranger: She is ruthless with her toys.
 
-![You can&apos;t catch me, I&apos;m made of gingerbread.](../../.gitbook/assets/koshka_lore1_1000px.jpg)
+![Oh, I think I broke my new toy.](../../.gitbook/assets/koshka_lore1_1000px.jpg)
 
 ## 'KOSHKA FINDS A SCOUT TRAP'
 
@@ -33,6 +33,8 @@ This is mine! I found it. I don’t know what it is, but finders keepers. It is 
 ## ALTERNATE FATES
 
 ### 'KANDI TWIRL' KOSHKA
+
+![You can&apos;t catch me, I&apos;m made of gingerbread.](../../.gitbook/assets/download%20%281%29.jpg)
 
 Soooo! There’s me at this super-awesome-yay party, everyone was groovy shaking and smile happy, totally the best. And then I saw these two humans hanging out way up there! One was making like, all the oontz oontz sounds, and I could feel all his wub-wubs shaking in my bones, and the other was making shooting stars join the party! And they’re up on top of this big ol metal wheel thing that’s taller than me, like taller than like, ten me’s standing on top of me … woo there’s Justine! Hallo Justine!
 
