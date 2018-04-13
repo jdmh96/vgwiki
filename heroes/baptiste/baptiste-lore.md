@@ -1,5 +1,7 @@
 # Baptiste Lore
 
+## ‘THE PASSING OF THE GENDARME’
+
 The gendarme whistled through his teeth as he patrolled the Crescent City on the shortest night of the year, enjoying the scent of sweet olive and jasmine flowers as he traveled the well-maintained streets of the wealthy neighborhoods. The lights dimmed and yellowed as the crescent curved toward the port, dripping at last into murky lapping seawater. The fresh-faced young soldier felt impervious to harm in his smart uniform and cap, on his well-bred horse with its echoing clips and clops, but most of all with the smart, sharp sword strapped to his belt. The sword glowed with imbued blue magic energy, a rare sight in Crescent City. He enjoyed the way the locals melted into the alleyways in fear as he rode deeper into Islander territory. His nose wrinkled with distaste at the stink of old wood, coffee and fried meat there.
 
 Near the end of his patrol, not far from the back of town, he heard singing. He sighed, clucked his tongue and dismounted. He’d arrived none too soon: A band of Islanders in bright holiday dress crowded the neighborhood square. A batterie drummed and rattled out an increasing tempo as the Islanders sang and danced.
@@ -22,21 +24,21 @@ _Rejoins nous, Papa Baptiste!_
 
 The gendarme turned back to the festivities in time to see the widow thrust both her hands into the boiling pot. She did not cry out in pain, and when she brought out fistfuls of rice and black-eyed peas, her skin did not appear burned. The rest of the Islanders crowded around to eat from her palms.
 
-\_“Ils sont tarés,”\_whispered the gendarme, shaking his head. “Crazy people!”
+“Ils sont tarés,” whispered the gendarme, shaking his head. “Crazy people!”
 
 “Their queen feeds her children,” whispered the voice, except this time it was right over the gendarme’s shoulder. He spun again, releasing his glowing sword from its sheath. Again there was no one.
 
-“\_Your\_queen feeds no one.”
+“Your queen feeds no one.”
 
 This time, the voice came from the direction of the square. Beads of sweat spilled into one another down the young gendarme’s spine. He gathered up his courage and sauntered out into the open square, glowing sword at the ready. “I will have order!” he cried.
 
 He was pleased when the chaos silenced all at once. The batterie stopped, and with it the dancing and chanting and the whirl of bright-colored robes and skirts. The Islanders turned to stare at him as he moved through the milieu. “The party is over. It is time to go home.”
 
-“We\_are\_home.”
+“We are home.”
 
 The gendarme pointed his sword toward the voice and saw only the queen’s statue at the center of the square. It had been erected the year prior and, despite the graffiti defacing it, looked strange and new in comparison to the centuries-old square.
 
-“It is\_you\_who has found himself too far from home.”
+“It is you who has found himself too far from home.”
 
 The ground at the base of the statue rumbled and broke apart. Monstrous hands clawed their way out from the earth, and then the arms and skulls and wide-open horrifying mouths of_the shade_.
 
@@ -48,7 +50,7 @@ With these words Papa Baptiste appeared, dapper in his top hat and waistcoat, an
 
 “We are uninterested in peace,” said Baptiste. His lip curled up into a terrifying smile at the poor young gendarme who backed away in horror.
 
-“What\_are\_you?” whispered the gendarme.
+“What are you?” whispered the gendarme.
 
 “A story,” said Baptiste, taking a goblet of wine from one of the spectres. “A story made real by a thousand tellings.”
 
@@ -63,6 +65,8 @@ The gendarme wept and tried to crawl, dirtying his beloved uniform, but found he
 The shade fled from the feet of Baptiste, and the young gendarme could do nothing as the dead tore the sword away from his hands. At their touch the blue glow diminished, and they set upon him, clawing at him until he gasped his last breaths.
 
 At last, Baptiste deigned to stand over him. “Shhh,” he said, and with a last swing of his scythe, he clipped away the gendarme’s soul. With death came, as Papa Baptiste had promised, relief.
+
+![I came from the city of the dead. Nothing here frightens me.](../../.gitbook/assets/baptiste.jpg)
 
 ## ALTERNATE FATES
 
