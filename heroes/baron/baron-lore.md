@@ -234,9 +234,9 @@ Holding on to one another, their crystal-splintered faces grubby with smoke, the
 
 “I’ll fix that too,” said Skye, and pressed her tile back into his hand.
 
-### ALTERNATE FATES
+## ALTERNATE FATES
 
-#### ‘ELITE FORCE’ BARON - Part One ‘THE VOICES’
+### ‘ELITE FORCE’ BARON - Part One ‘THE VOICES’
 
 _Idris…_
 
