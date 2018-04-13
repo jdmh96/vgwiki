@@ -4,7 +4,7 @@
 
 ## Weapon Blade
 
-![](../.gitbook/assets/image%20%2865%29.png)
+![](../.gitbook/assets/weapon-blade%20%281%29.png)
 
 * Cost: 300 gold 
 * Stats:
@@ -21,6 +21,8 @@
 
 ## Book of Eulogies 
 
+![](../.gitbook/assets/book-of-eulogies%20%281%29.png)
+
 * Cost : 300    gold
 * Stats:
   * +5 Weapon power
@@ -32,6 +34,8 @@
 
 ## Swift Shooter 
 
+![](../.gitbook/assets/swift-shooter.png)
+
 * Cost: 300    gold
 * Stats:
   * +10% attack speed 
@@ -39,6 +43,8 @@
   * Blazing Salvo 
 
 ## Minion's Foot 
+
+![](../.gitbook/assets/minions-foot.png)
 
 * Cost: 300   gold
 * Stats:
@@ -55,6 +61,8 @@
 
 ## Heavy Steel 
 
+![](../.gitbook/assets/heavy-steel.png)
+
 * Cost: 1150\(850\)   gold
 * Stats:
   * +55 Weapon power
@@ -68,6 +76,8 @@
 * Tip: Weapon power increases the damage of basic attacks. 
 
 ## SixSins 
+
+![](../.gitbook/assets/six-sins.png)
 
 * Cost: 650\(350\)  gold
 * Stats:
@@ -83,6 +93,8 @@
 
 ## Barbed Needle 
 
+![](../.gitbook/assets/barbed-needle%20%281%29.png)
+
 * Cost: Cost: 800\(500\) gold
 * Stats:
   * +12 Weapon power
@@ -96,6 +108,8 @@
 
 ## Piercing Spear 
 
+![](../.gitbook/assets/piercing-spear.png)
+
 *  Cost: 900\(600\)   gold
 * Stats:
   * +15 Weapon power
@@ -107,6 +121,8 @@
 * Tip:Armor pierce makes a % of your weapon damage bypass armor. 
 
 ## Blazing Salvo 
+
+![](../.gitbook/assets/blazing-salvo.png)
 
 * Cost: 700\(400\)   gold
 * Stats:
@@ -123,6 +139,8 @@
 
 ## Lucky Strike 
 
+![](../.gitbook/assets/lucky-strike%20%281%29.png)
+
 *  Cost: 900\(600\) gold
 * Stats:
   * +20% Critical Chance
@@ -137,6 +155,8 @@
 
 ## Sorrowblade 
 
+![](../.gitbook/assets/sorrowblade.png)
+
 * Cost: 3100\(1300\)   gold
 * Stats:
   * +150 Weapon power 
@@ -147,6 +167,8 @@
 
 ## Serpent Mask
 
+![](../.gitbook/assets/serpent-mask%20%281%29.png)
+
 * Cost: 2800\(850\) gold
 * Stats:
   * +100 Weapon power
@@ -156,7 +178,9 @@
   * Heavy Steel, Barbed Needle 
 * Tip: Dealing high amounts of weapon damage to enemies will rapidly restore your health. 
 
-## SpellSword 
+## Spellsword 
+
+![](../.gitbook/assets/image%20%2857%29.png)
 
 * Cost: 2700\(750\)    gold
 * Stats:
@@ -167,6 +191,8 @@
 * Tip:Particularly useful on heroes who run into energy problems. 
 
 ## Poisoned Shiv 
+
+![](../.gitbook/assets/poisoned-shiv.png)
 
 * Cost: 2250\(750\)   gold
 * Stats:
@@ -180,6 +206,8 @@
 
 ## Breaking Point
 
+![](../.gitbook/assets/breaking-point%20%281%29.png)
+
 * Cost: 2600\(750\)   gold
 * Stats:
   * +20% Attack Speed
@@ -190,6 +218,8 @@
 * Tip:Very weak at first, but becomes extremely powerful over the course of long battles. 
 
 ## Tension Bow
+
+![](../.gitbook/assets/tension-bow.png)
 
 * Cost: 2150\(600\) 
 * Stats:
@@ -204,6 +234,8 @@
 
 ## Bonesaw
 
+![](../.gitbook/assets/bonesaw%20%281%29.png)
+
 * Cost: 2700\(1100\)   gold
 * Stats:
   * +15 Weapon Power
@@ -216,6 +248,8 @@
 
 ## Tornado Trigger 
 
+![](../.gitbook/assets/tornado-trigger.png)
+
 * Cost: 2600\(1000\) gold
 * Stats
   * +45% Attack Speed
@@ -227,6 +261,8 @@
 *  Tip: Use this if you already have lots of weapon power but little attack speed, or if you wish to apply on-hit effects faster.
 
 ## Tyrant's Monocle 
+
+![](../.gitbook/assets/tyrants-monocle.png)
 
 * Cost: 2750\(1200\) 
 * Stats:
