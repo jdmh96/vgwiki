@@ -135,39 +135,34 @@
 
 ## Tier 3 
 
-Sorrowblade 
+## Sorrowblade 
 
-3100\(1300\) 
+* Cost: 3100\(1300\)   gold
+* Stats:
+  * +150 Weapon power 
+* Builds from:
+  * Heavy Steel,
+  * Six Sins 
+* Tip: Weapon power increases the damage of basic attacks. 
 
-+150 Weapon power 
+## Serpent Mask
 
-Heavy Steel, Six Sins 
+* Cost: 2800\(850\) gold
+* Stats:
+  * +100 Weapon power
+  * Passive: Book of Eulogies 
+  * Vampirism: +10% lifesteal \(does not stack with other Vampirism\)
+* Builds from:
+  * Heavy Steel, Barbed Needle 
+* Tip: Dealing high amounts of weapon damage to enemies will rapidly restore your health. 
 
-N/A 
+## SpellSword 
 
-Weapon power increases the damage of basic attacks. 
-
-
-
-Serpent Mask 
-
-2800\(850\) 
-
-+100 Weapon power, Passive: Book of Eulogies Vampirism: +10% lifesteal \(does not stack with other Vampirism\) 
-
-Heavy Steel, Barbed Needle 
-
-N/A 
-
-Dealing high amounts of weapon damage to enemies will rapidly restore your health. 
-
-
-
-SpellSword 
-
-2700\(750\) 
-
-+100 Weapon power, +35% Cooldown speed, +3 Energy recharge 
+* Cost: 2700\(750\)    gold
+* Stats:
+  * +100 Weapon power,
+  * +35% Cooldown speed
+  * +3 Energy recharge 
 
 HeavySteel, Chronograph 
 
