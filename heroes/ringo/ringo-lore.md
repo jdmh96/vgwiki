@@ -68,7 +68,7 @@ _Carnies near and far spoke of his legendary shooting — for Ringo’s bullets 
 
 ![I can&apos;t understand why everyone says I should put on shoes for this?](../../.gitbook/assets/download-1.jpg)
 
-### 'VAQUERO RINGO'
+### 'VAQUERO' RINGO
 
 **THE HORNSWOGGLE**
 
@@ -144,7 +144,7 @@ One late autumn, Rowdy Ringo surfaced in town after years away. We’d figured h
 
  The bookie stepped over the bleeding lawman and stuck his head out the door, purple with rage. “I want my cow, Ringo!” he yelled after the horses galloping away.
 
-### 'BAKUTO RINGO'
+### 'BAKUTO' RINGO
 
 ![Hurry! I gotta get back to the Undersprawl.](../../.gitbook/assets/ringo_skin_se_splashart_final_cropped.jpg)
 

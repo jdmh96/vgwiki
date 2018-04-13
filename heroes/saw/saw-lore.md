@@ -153,7 +153,7 @@ Applying updated identity: S.A.W
 
 ![There&apos;s no other choice.](../../.gitbook/assets/2593f7eca0c5fa84e4ba297a0a5c69ca.jpg)
 
-### 'Elite Force SAW'
+### 'Elite Force' SAW
 
 #### PUCKER FACTOR 10
 
@@ -205,7 +205,7 @@ Applying updated identity: S.A.W
 
 ![Bloody fast mover.](../../.gitbook/assets/saw_eliteforce_splash1000px.jpg)
 
-### 'SUMMER PARTY SAW'
+### 'SUMMER PARTY' SAW
 
 #### **SHARKS DON’T HAVE BICEPS**
 

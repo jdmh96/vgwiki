@@ -228,7 +228,7 @@ At last she brought up an egg so deep black that it made Lorelai uneasy just to 
 
 ## ALTERNATE FATES
 
-### 'RA’DAGIO'
+### 'RA’ DAGIO'
 
 #### THE SUN GOD AWAKENS
 
@@ -272,7 +272,7 @@ He was interrupted by a rumbling growl from the tombs.
 
 The Horus King drew his spear. Without answering, he left the bright obelisk and followed the terrifying noise into the dark tomb.
 
-### 'DARK PARADE ADAGIO'
+### 'DARK PARADE' ADAGIO
 
 #### **THE DARK PARADE**
 
@@ -328,7 +328,7 @@ The Dark Parade reversed in panic. The guests, their blood coursing anew, trampl
 
 Above the roaring chaos, Adagio’s laughter echoed into the night.
 
-### 'SERAPHIM ADAGIO'
+### 'SERAPHIM' ADAGIO
 
 #### THE DEATH OF THE ELDER DRAGONS
 
