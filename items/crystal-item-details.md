@@ -57,149 +57,81 @@
 
 
 
-
-
-Eclipse Prism
-
-
-
-630\(350\)
-
-
-
-+35 Crystal Power
-
-
-
-Shatterglass, Spellfire, Frostburn, Dragon's Eye, AfterShock
-
-
-
-Crystal Bit
-
-
-
-Crystal power increases the strength of abilities.
-
-
-
-
-
-Piercing Shard
-
-
-
-900\(600\)
-
-
-
-+20 Crystal power, Shieldbreaker: 18% shield pierce \(does not stack with other Shieldbreaker\)
-
-
-
-Broken Myth
-
-
-
-Crystal Bit
-
-
-
-Shield pierce cuts through a percentage of your target's shield
-
-
-
-
-
-Void Battery
-
-
-
-700\(450\)
-
-
-
-+350 Max Energy, +6 Energy Recharge
-
-
-
-Clockwork, Eve of Harvest, Echo
-
-
-
-Energy Battery
-
-
-
-Energy is needed to use your abilities.
-
-
-
-
-
-Chronograph
-
-
-
-800\(550\)
-
-
-
-+20% Cooldown Speed, +2.5 Energy Recharge
-
-
-
-Clockwork, Aftershock, Spellsword, Contraption, Stormcrown, Nullwave Gauntlet
-
-
-
-Hourglass
-
-
-
-Cooldown speed increases the speed at which your abilities come off the timer.
-
-
-
-Tier 3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Shatterglass
-
-
-
-3000\(1300\)
-
-
-
-+150 Crystal power
-
-
-
-N/A
-
-
-
-Heavy Prism, Eclipse Prism
-
-
-
-Crystal power increases the strength of abilities.
+## Eclipse Prism
+
+* Cost: 630\(350\)   gold
+* Stats:
+  * +35 Crystal Power
+* Builds into:
+  * Shatterglass
+  * Spellfire
+  * Frostburn
+  * Dragon's Eye
+  * AfterShock
+* Builds from:
+  * Crystal Bit
+* Tip: Crystal power increases the strength of abilities.
+
+
+
+## Piercing Shard
+
+* Cost: 900\(600\)   gold
+* Stats: 
+  * +20 Crystal power
+  * Shieldbreaker: 18% shield pierce \(does not stack with other Shieldbreaker\)
+* Builds into:
+  * Broken Myth
+* Builds from:
+  * Crystal Bit
+* Tip: Shield pierce cuts through a percentage of your target's shield
+
+
+
+## Void Battery
+
+* Cost: 700\(450\)   gold
+* Stats:
+  * +350 Max Energy
+  * +6 Energy Recharge
+* Builds into:
+  * Clockwork
+  * Eve of Harvest
+  * Echo
+* Builds from:
+  * Energy Battery
+* Tip: Energy is needed to use your abilities.
+
+
+
+## Chronograph
+
+* Cost: 800\(550\)   gold
+* Stats:
+  * +20% Cooldown Speed
+  * +2.5 Energy Recharge
+* Builds into:
+  * Clockwork
+  * Aftershock
+  * Spellsword
+  * Contraption
+  * Stormcrown
+  * Nullwave Gauntlet
+* Builds from:
+  * Hourglass
+* Tip: Cooldown speed increases the speed at which your abilities come off the timer.
+
+## Tier 3
+
+## Shatterglass
+
+* Cost: 3000\(1300\)  gold
+* Stats:
+  * +150 Crystal power
+* Builds from:
+  * Heavy Prism
+  * Eclipse Prism
+* Tip:Crystal power increases the strength of abilities.
 
 
 

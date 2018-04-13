@@ -2,12 +2,12 @@
 
 * [Introduction](README.md)
 * [Items](items/README.md)
-  * [old Items page](items/old-items-page.md)
   * [Weapon Item Details](items/weapon-item-details.md)
   * [Crystal Item Details](items/crystal-item-details.md)
   * [Defense Item Details](items/untitled.md)
   * Utility Item Details
   * Other Item Details
+  * [old Items page](items/old-items-page.md)
 * [Common Terms](terms-used-in-game.md)
 * [Heroes](heroes/README.md)
   * [Adagio](heroes/adagio/README.md)
