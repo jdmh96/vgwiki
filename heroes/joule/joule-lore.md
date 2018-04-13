@@ -1,6 +1,6 @@
 # Joule Lore
 
-## ‘THE HEIST'
+## ‘JOULE'S RESOLVE'
 
 Scratching at her elbows under her ripped up jacket, Joule tells us, “It’ll be the biggest thing we’ve pulled off.” From under the dusty mat she sleeps on, Joule pulls out folded-up papers. “This one,” she says, “this one I got from an army guy, don’t ask how. Okay, go ahead and ask how. Go on. Okay, nevermind. Look.” She spreads out this blue paper and there’s an outline of something we ain’t seen before. Some big machine that walks.
 
@@ -85,7 +85,7 @@ Joule stops, looking up at the lumpy, camouflaged shape of her new toy. “Um…
 
 ## ALTERNATE FATES
 
-### ‘KILLA-JOULE 9000’ - **‘KILLA-JOULE 9000’ **
+### ‘KILLA-JOULE 9000’ ** **
 
 The officer looked from the academy admission test results in his hand to the recruit standing before him: the shock of color in her hair, the worn-down boots tapping impatiently, the crossed arms and the elbows ripped out of her leather jacket.
 
@@ -93,9 +93,7 @@ The other hopefuls stared at her, snickering in their starchy prep school unifor
 
 “So you want to be a mech pilot.” The officer stared her down.
 
-See the Killa-Joule 9000 skin in-game during the official dev livestream reveal!
-
-“I can take the[8002](http://www.vainglorygame.com/news/2014/8/1/prototype-8002)apart and put it back together again. Can any of these dummies do that?” She jabbed a thumb at the line of hopefuls behind her.
+“I can take the 8002 apart and put it back together again. Can any of these dummies do that?” She jabbed a thumb at the line of hopefuls behind her.
 
 “Which begs the question: How have you come by this knowledge?”
 
@@ -117,7 +115,11 @@ The officer narrowed his eyes. “Let’s begin with ‘Yes, Sir.’”
 
 Joule grinned and straightened her spine. “Yes, Sir.”
 
-### ‘KILLA-JOULE 9000’ - THE ACADEMY IS ATTACKED!
+![So far, so good.](../../.gitbook/assets/download-1%20%281%29.jpg)
+
+### ‘SCHOOL DAYS JOULE’ 
+
+#### 'THE ACADEMY IS ATTACKED!'
 
 _“This is soboooooring.”_
 
@@ -137,7 +139,7 @@ _\*CRASH\*_
 
 _The dormitory fills with the screams of the alarms._
 
-### ‘KILLA-JOULE 9000’ - **ALL CADETS TO BUNKERS!**
+### '**ALL CADETS TO BUNKERS!'**
 
 \*ALL CADETS TO BUNKERS. ALL CADETS TO BUNKERS. ALL CADETS TO…\*
 
@@ -155,7 +157,7 @@ _“Stay in line!” screams the CO._
 
 _“Aw, screw that.” Joule breaks out of line as a claw smashes through another window; she runs through the shattered glass in her slippers, grabbing the CO by his collar. “Let’s go!”_
 
-### ‘KILLA-JOULE 9000’ -** “I KNOW YOU GOT THE CODE!”**
+#### **“I KNOW YOU GOT THE CODE!”**
 
 _The garage is dark for the night, but this isn’t the first time Joule’s had to get into a locked-down hangar. Emergency lights flash blue and red on Joule’s face as she shoves the CO’s face onto the gate lock._
 
@@ -165,7 +167,9 @@ _“Nah! I’ll just get yelled at. I’ve been yelled at before.” Joule sprin
 
 _The line of cadets marches after the CO into the hangar. The CO shrugs, helpless, and everyone scatters to mount their mechs. Joule raps her knuckles on a button and the big door rises. The screeching sounds of the giant beast pierce into the hangar, and the cadet mech army clomps outside._
 
-### ‘KILLA-JOULE 9000’ -** “CRAB LEGS FOR DINNER!”**
+![Walk command, entered.](../../.gitbook/assets/1000-joule-skin-2%20%281%29.jpg)
+
+#### **“CRAB LEGS FOR DINNER!”**
 
 _“Whatisthat thing?” screams a cadet as the giant crab pokes its claws through the dormitory windows._
 
@@ -183,7 +187,11 @@ _When the smoke clears, there’s a perfect hole blasted through the middle of t
 
 _“So,” she says, cracking her knuckles, “can I graduate now?”_
 
-### ‘SNOW MONSTER’ JOULE - ORPHAN MONSTER
+![](../../.gitbook/assets/maxresdefault.jpg)
+
+### ‘SNOW MONSTER’ JOULE  
+
+#### 'ORPHAN MONSTER'
 
 Joule found the snow monster on toppa the airship tower where sometimes we’d go to set off fireworks. There’d been a ruckus up there the night before; an elevator broke and a bunch of ladies were done for. Whole thing was hush-hush even in the places we eavesdropped, so Joule said we should check it out ourselves. After dark we ducked under the security tape and went up the emergency ladders. Chatter tapped out halfway up, scared of heights, and SBD took longest, but Joule was first. We went right for the chalk outlines in the control room, laid inside them, poked at the buttons on busted equipment, wowed at the big hole in the ceiling. Chester pretended to shove Petey into the yawning broken elevator hole.
 
@@ -202,4 +210,6 @@ Bell had no cause yet to be scared of monsters so she stepped in close, then we 
 We couldn’t hide him for long. Every time he sneezed, he froze the house, and when he didn’t, the poor guy was sweaty-hot. He stomped holes in the floors. We figured we’d have to shave him or stuff him down in the sewer with the other too-big pets but Joule had this whole other idea. She taught Mac to carry her, and she’d chase alla us around for target practice, tickling Mac’s nose when she wanted him to roar ice. She fed him peppermint candies when he did good, and she used alla us as her target practice, so we had icicle eyelashes and frozen boogers until Joule figured Mac was ready for the big time.
 
 Now, she and Mac run crystal in the Halcyon Fold together. Joule tells us that Mac turned a whole jungle into wintertime with his yawns and roars and sneezes, so after they’ve collected lots of crystal and gold, she tucks him into a fluffy snowdrift and kisses him nighty-night. She makes a hella lotta gold there, which is lucky ‘cause every morning she has to bring him pizzas and pies and candies for breakfast, and that stuff ain’t cheap.
+
+![Easier than walking.](../../.gitbook/assets/joule_skin_se_splashart_final1000px.jpg)
 
