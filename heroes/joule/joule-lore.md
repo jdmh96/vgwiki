@@ -30,6 +30,8 @@ Joule’s standing on a toilet, wiggling at the grate to the air ducts with a sc
 
 We all peek out the door just in time to see the floodlights snap on, and Chatter right in the middle of all that light, yanking at the knob to the wrong door. It’s not even seconds before she’s got guards all over her, barking in her taped-up face.
 
+![Hm, better watch my step.](../../.gitbook/assets/joule_lore_heistp2.jpg)
+
 “She’s gonna squeal,” whines SBD.
 
 “Sure she is,” whispers Joule. “And I told her we were going a whole other direction, so that oughta buy us a few minutes. Boost me up!”
@@ -50,9 +52,7 @@ Bell looks down, and the guard is looking back up at ‘er. Bell curses and exha
 
 The outer halls fill with the boys’ stink bombs. Guards are shouting and coughing; they grab Petey and haul him outta the duct howling. Bell gets nabbed too, but Joule’s already sprinting toward the hangar door with the KO’d guard’s key card in her fist and a screwdriver in her teeth.
 
-## Joule Lore: ‘THE HEIST, PART III’
-
-_Payload!_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 “Listen up, ya baldy-heads!” yells Joule. “You all know what this is! Flatulo-virus! All I gotta do is open it and we all drop dead!”
 
