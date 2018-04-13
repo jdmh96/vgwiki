@@ -189,61 +189,53 @@
   * Heavy Steel, Blazing Salvo 
 * Tip:Very weak at first, but becomes extremely powerful over the course of long battles. 
 
+## Tension Bow
 
+* Cost: 2150\(600\) 
+* Stats:
+  * +50 Weapon Power
+  * Passive: Every 6s, your next basic attack will deal 240 bonus damage.
+  * Armorbreaker: +10% armor pierce \(does not stack with orher Armorbreaker\) 
+* Builds from: 
+  * Six Sins
+  * Piercing Spear 
+  * Tip:
+  * An effective way to surprise enemies with a sudden burst of damage. 
 
-Tension Bow 
+## Bonesaw
 
-2150\(600\) 
+* Cost: 2700\(1100\)   gold
+* Stats:
+  * +15 Weapon Power
+  * +25% Attack Speed
+  * Passive: Your basic attacks shred 5% of the target's armor for 3s. Max 8 stacks
+  * Armorbreaker: +18% armor pierce \(does not stack with orher Armorbreaker\) 
+* Builds from: 
+  * Piercing Spear, Blazing Salvo
+* Effective against turrets and enemies with high armor. Best if you or your team are already dealing lots of weapon damage. 
 
-+50 Weapon Power, Passive: Every 6s, your next basic attack will deal 240 bonus damage. Armorbreaker: +10% armor pierce \(does not stack with orher Armorbreaker\) 
+## Tornado Trigger 
 
-Six Sins, Piercing Spear 
+* Cost: 2600\(1000\) gold
+* Stats
+  * +45% Attack Speed
+  * +35% Critical Chance 
+  * +10% Critical Damage 
+* Builds from:
+  *  Blazing Salvo
+  * Lucky Strike
+*  Tip: Use this if you already have lots of weapon power but little attack speed, or if you wish to apply on-hit effects faster.
 
-N/A 
+## Tyrant's Monocle 
 
-An effective way to surprise enemies with a sudden burst of damage. 
-
-
-
-Bonesaw 
-
-2700\(1100\) 
-
-+15 Weapon Power, +25% Attack Speed, Passive: Your basic attacks shred 5% of the target's armor for 3s. Max 8 stacks. Armorbreaker: +18% armor pierce \(does not stack with orher Armorbreaker\) 
-
-Piercing Spear, Blazing Salvo 
-
-N/A 
-
-Effective against turrets and enemies with high armor. Best if you or your team are already dealing lots of weapon damage. 
-
-
-
-Tornado Trigger 
-
-2600\(1000\) 
-
-+45% Attack Speed, +35% Critical Chance, +10% Critical Damage 
-
-Blazing Salvo, Lucky Strike 
-
-N/A 
-
-Use this if you already have lots of weapon power but little attack speed, or if you wish to apply on-hit effects faster. 
-
-
-
-Tyrant's Monocle 
-
-2750\(1200\) 
-
-+35% Critical Chance, +10% Critical Damage, +70 Weapon Power 
-
-Six Sins, Lucky Strike 
-
-N/A 
-
-Most effective when combined with more weapon power & attack speed.Your content goes here. 
+* Cost: 2750\(1200\) 
+* Stats:
+  * +35% Critical Chance
+  * +10% Critical Damage
+  * +70 Weapon Power 
+* Builds from:
+  * Six Sins, Lucky Strike 
+  * Tip: Most effective when combined with more weapon power & attack speed.Your content goes here. 
 
 
 
