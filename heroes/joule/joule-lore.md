@@ -1,8 +1,6 @@
 # Joule Lore
 
-## Joule Lore: ‘THE HEIST, PART I’
-
-_Joule’s got a plan…_
+## ‘THE HEIST'
 
 Scratching at her elbows under her ripped up jacket, Joule tells us, “It’ll be the biggest thing we’ve pulled off.” From under the dusty mat she sleeps on, Joule pulls out folded-up papers. “This one,” she says, “this one I got from an army guy, don’t ask how. Okay, go ahead and ask how. Go on. Okay, nevermind. Look.” She spreads out this blue paper and there’s an outline of something we ain’t seen before. Some big machine that walks.
 
@@ -18,9 +16,9 @@ By now, all the hungry kids are milling around Joule’s corner of the floor, ru
 
 Nobody’s dumb enough to believe her, but nobody wants to be the one who chickens out. Once volunteers start raising hands, Joule has herself a gang.
 
-## Joule Lore: ‘THE HEIST, PART II’
+![I’m getting the hang of this, I think.](../../.gitbook/assets/joules_story.jpg)
 
-_Everything’s going according to plan, no matter how it seems…_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nobody wants to be a chicken but still, after Chester cuts open the fence, no one goes through. We’re all staring at one another: Chester with his wire cutters, his sis Chatter with her mouth X-taped shut ‘cause she talks too much, Gator with his bulging backpack, SBD and Petey oofing under the anchor, Bell the only one of us with a weapon. Only Joule, hunkered down like a frog, is looking at the compound a short sprint away.
 
