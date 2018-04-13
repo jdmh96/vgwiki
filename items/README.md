@@ -19,17 +19,17 @@ description: List of all Items by category ad tier (click on the name for detail
 | ![](../.gitbook/assets/image%20%2812%29.png) |  [Barbed Needle](weapon-item-details.md#barbed-needle) \| Cost:  800\(500\) \| Tier2 |
 | ![](../.gitbook/assets/image%20%2884%29.png) |  [Piercing Spear](weapon-item-details.md#piercing-spear) \| Cost:  900\(600\) \| Tier2 |
 | ![](../.gitbook/assets/image%20%2814%29.png) | [Blazing Salvo](weapon-item-details.md#blazing-salvo) \| Cost:  700\(400\) \| Tier2 |
-| ![](../.gitbook/assets/image%20%2832%29.png) | Lucky Strike \| Cost:  900\(600\) \| Tier2 |
-| **Tier 3** |  |
-| ![](../.gitbook/assets/image%20%2847%29.png) | Sorrowblade \| Cost:  3100\(1300\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%2869%29.png) | Serpent Mask \| Cost:  2800\(850\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%287%29.png) | SpellSword \| Cost:  2700\(750\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%2866%29.png) | Poisoned Shiv \| Cost:  2250\(750\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%286%29.png) | Breaking Point \| Cost:  2600\(750\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%2855%29.png) | Tension Bow \| Cost:  2150\(600\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%2868%29.png) | Bonesaw \| Cost:  2700\(1100\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%2834%29.png) | Tornado Trigger \| Cost:  2600\(1000\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%2851%29.png) | Tyrant's Monocle \| Cost: 2750\(1200\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%2832%29.png) | [Lucky Strike](weapon-item-details.md#lucky-strike) \| Cost:  900\(600\) \| Tier2 |
+| [**Tier 3**](weapon-item-details.md#tier-3) |  |
+| ![](../.gitbook/assets/image%20%2847%29.png) | [Sorrowblade](weapon-item-details.md#sorrowblade) \| Cost:  3100\(1300\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%2869%29.png) | [Serpent Mask](weapon-item-details.md#serpent-mask) \| Cost:  2800\(850\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%287%29.png) | [SpellSword](weapon-item-details.md#spellsword) \| Cost:  2700\(750\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%2866%29.png) | [Poisoned Shiv](weapon-item-details.md#poisoned-shiv) \| Cost:  2250\(750\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%286%29.png) | [Breaking Point](weapon-item-details.md#breaking-point) \| Cost:  2600\(750\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%2855%29.png) | [Tension Bow](weapon-item-details.md#tension-bow) \| Cost:  2150\(600\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%2868%29.png) | [Bonesaw](weapon-item-details.md#bonesaw) \| Cost:  2700\(1100\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%2834%29.png) | [Tornado Trigger](weapon-item-details.md#tornado-trigger) \| Cost:  2600\(1000\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%2851%29.png) | [Tyrant's Monocle](weapon-item-details.md#tyrant's-monocle) \| Cost: 2750\(1200\) \| Tier3 |
 {% endtab %}
 
 {% tab title="Crystal" %}
