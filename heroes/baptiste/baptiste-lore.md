@@ -70,7 +70,11 @@ At last, Baptiste deigned to stand over him. “Shhh,” he said, and with a las
 
 ## ALTERNATE FATES
 
-### ‘SCARECROW’ BAPTISTE - ‘THE TRUE CONSPIRACY’
+### ‘SCARECROW’ BAPTISTE  
+
+#### ‘THE TRUE CONSPIRACY’
+
+![Why run? Everyone finds me... eventually...](../../.gitbook/assets/baptiste_scarecrow_painting1000px.jpg)
 
 In a grand green courtyard at the center of the City of Emeralds, the Scarecrow King played croquet with the blade of a scythe. His advisor, a little woman of striking beauty, read off that day’s conspiracies.
 
@@ -101,4 +105,38 @@ The scarecrow knew that, even if there were some drops left of the wizard’s br
 “There is a fountain of wizard’s brew in the West,” the scarecrow lied, pulling the ribbons from the lion’s mane. “Let us go together to visit our friend, the Queen of the West, and collect that brew for you.”
 
 And so the pair set off toward the West.
+
+### ‘ANUBIS’ BAPTISTE
+
+#### '**PERMISSION TO PASS'**
+
+ The sealed tombs opened in glowing clouds of ancient, choking sand, skittering with scarabs. The Horus King and the Sun God raced through the mastaba toward the thin light of the temple’s entrance as the growls grew ever louder behind them. The temple door blazed into view, then darkened with the shape of the Guardian. A terrifying laugh echoed around them.
+
+ “You have entered the obelisk of the Temple of Ra,” called a mocking voice. “Now you must find your rest.”
+
+ The shape of the Guardian, Anubis, emerged. His mouth stretched into a smile under his wolf’s skull headdress.
+
+![Many dead lie beneath us here.](../../.gitbook/assets/1000px_anubis_baptiste_splash_final-1000x486.jpg)
+
+“I am Ra himself,” said the Sun God. “I give permission for the Horus King to pass.”
+
+ “Permission is not yours to give,” hissed Anubis. “The king’s ancestors await.”
+
+ A growling horde of the mummified remains of the king’s fathers and grandfathers had overtaken them, pulling themselves along the floor with their glowing death-claws. The king sliced through them with his spear but more and more came. Anubis approached as the Sun God burned the mummies with arcane fire.
+
+ The king whirled, but before his spear could strike Anubis, the guardian’s claws dug into the king’s chest and wrapped around his heart. The king’s blood poured down as Anubis murmured, “Are you worthy of the Netherworld, Horus King? I will take the measure of your heart.”
+
+ The Horus King’s eyes rolled up into his head. As he sighed his last, he heard the melodic Verse of Ra’s Judgement guiding him into a blinding light.
+
+ And then, silence.
+
+ The king blinked awake. He laid in the warm sand outside of the temple. His body glowed with otherworldly fire. His people knelt before the radiant Sun God, whose palm laid over the king’s heart.
+
+ "I have healed you,” said the Sun God, “but you will carry Death inside of you for the rest of your life.”
+
+ “The guardian…” coughed the king. “Anubis…”
+
+ “He was tested by my judgement, and he failed. Now: take me to the Glass City.” The Sun God lifted the king onto his camel. “Together we will fight the Churn.”
+
+ The caravan moved on as the eerie laughter of Anubis was again swallowed by colorful dunes.
 
