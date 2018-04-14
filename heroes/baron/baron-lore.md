@@ -1,56 +1,10 @@
 # Baron Lore
 
-## Baron Lore: Part One - ‘SKYE’S PROMISE’
+## ‘THE CHOOSING’
 
-“You aren’t supposed to be here today.” The general’s long shadow stretched into the hangar from the rolled-up garage door.
 
-Skye peeked out from the cockpit of a mech with half its front armor blown out, metal blackened and curling in from the impact point. With a screwdriver between her teeth, she tossed a charred actuator onto the ground and called out, “I’m glad you’re here,Appa. I want to show you my plans for the decommissioned exosuits.”
 
-“You promised your mother.”
-
-“The engines are okay. The shields cause all the issues.” She hunched down behind what was left of the front armor, only slices of her showing in the blasted-out hole. “Every new generation of these machines, we add more armor, which means more weight, which means bigger engines and more crystal power …”
-
-“…which means more dependence on the crystal mines, which means more war.” The general’s face was hard-lined, but his eyes and voice softened. “This is not the time for this discussion.”
-
-“The mechs take fire because they’re too slow.” Loosened screws\_tink-tink-tinked\_to the ground, then Skye kicked at the wrecked armor from the inside. “We’re going about it the wrong way. We need … more… mobility.” A word for every kick with her combat boots, until the front armor crashed to the ground, exposing her in the cockpit. “We should be going lighter on the mechs and heavier on the firepower. I put the 25-millimeter autocannons on this one. With the vectored thrust jet nozzles on an integrated airfoil on the back, it’s light enough for halcyon-tipped rockets. I know it’s a risk, but …”
-
-“Skye. She iscoming.”
-
-“Where?Here?”
-
-“Ah. Here she is. Go to work, people.” A dozen clattering footsteps accompanied a shrill voice from the garage door. Two men dragged a full-length mirror to a workbench. A dressmaker and his assistants, pins poking from their pressed lips, set up a mannequin. The manicurist, hairstylist and makeup bot took over the workbench. The voice followed behind, barking out orders; it belonged to a small woman with tall, upknotted hair and black eyes. “Mind the grease. That silk cost more than your monthly wages.”
-
-“Umma, what are you doing here?” Skye whined, slumping in the cockpit.
-
-“Your namewillbe chosen from the tiles tonight. Get out of that thing.” Skye’s mother stood next to her husband at a stern parade rest.
-
-“I don’t want to be chosen. There’s awarhappening.” But Skye obeyed, climbing down to join the crowd, casting a betrayed glance at her father.
-
-He shrugged. “There is always war. You cannot be a soldier forever.”
-
-“I’m apilot, Appa. And I’m the best pilot you’ve…ow!” She winced as the makeup bot attacked her eyebrows with tweezers. The manicurist sat on a stool beside her and clucked under her breath at the broken nails and calluses. The hairstylist pulled Skye’s hair out of its knot and yanked through the tangles with a comb.
-
-“No black around her eyes,” Skye’s mother said to the makeup bot. “It makes them small. And overdraw her lips; they are too thin.”
-
-The makeup bot bowed and rummaged through its box of powders and creams while Skye scowled. “What happens if you’re lucky tonight, and some high-placed family chooses me for their son? What will he say when he sees me without all this stuff on my face?”
-
-“A fish is not kept the same way it is caught.”
-
-“Great,” grumbled Skye. “So men are fish.”
-
-“Gold rings and orchids for her hair,” mused Skye’s mother, peering down at a velvet-lined box of decorations. “You know, Skye,Baron’s motherwill choose a tile tonight.”
-
-Skye went still. “She … she would never choose me. There are many highborn girls in the tiles this year.” The hairstylist stood on a stool behind her and pulled Skye’s hair into braids, weaving in the rings.
-
-“The politics of the choosing are complex. A choice for the general’s daughter would send a message,” replied her mother.
-
-“It would be an overt act of war not tojoin Baron with oneof the marriageable girls of Silk or Tiger House.” The general’s brow wrinkled with worry.
-
-“If it is war they want, my new mech design will win it.” Skye’s flight jacket was removed, and the dress draped around her. The dressmakers knelt, pins sticking out from their mouths, to correct the hem.
-
-“Stand up straight,” barked her mother. “Your overcoat will be hemmed too short.”
-
-## Baron Lore: Part Two - ‘THE CHOOSING’
+![Yes. I wear my sunglasses at night. So?](../../.gitbook/assets/1450x596_skye_lore2.jpg)
 
 Skye strafed her way through the dense crowd of nervous girls surrounding the choosing table where the silver tiles laid, each engraved with a name. The marriageable young men crowded in corners playing Yunnori and howling at the results, seeming to care little for the outcome of the Choosing, but the young ladies ran their fingers over their own names and gossipped about which girl the house mothers would choose for their sons in the ceremony. Skye closed one eye and targeted the smug first daughter of Tiger House, a pretty girl named Nari. Around one delicate wrist, Nari held the velvet leash of a drugged and declawed tiger that blinked with confusion at the guests.
 
@@ -90,7 +44,7 @@ Skye could not look at his eyes. She stared instead at his hands, at the scars f
 
 “Yes.” Baron turned his hand under hers and opened it. In his palm, a shining silver tile nestled. Skye inhaled the honey from his breath as she drew her fingertips over the tile, over the deep groove of her own name on it. “One day, the army will be mine, and I will need you to be my general.” He curled his fingers around the tile, gripping it, as Skye shivered. “Sometimes, despite everything, a man must choose for himself.”
 
-## Baron Lore: Part Three - ‘FOR BARON’
+## ‘FOR BARON’
 
 “The Silver family is honored to choose…”
 
@@ -142,7 +96,11 @@ The explosion rocked the ground and blasted out millions of tiny crystal shards.
 
 There was no time to lose. She had to complete her mission before anyone could stop her. She strafed and fired, let loose salvo after salvo of missiles, rained death from above into the mines, destroying the crystals that had powered a civilization for generations. The halcyon power that so many had fought and died to possess bloomed into the night sky, then dispersed into the night air.
 
-## Baron Lore: Part Four - ‘SIERRA KILO YANKEE ECHO’
+
+
+![I’d look amazing in slow-mo.](../../.gitbook/assets/skyestory31.jpg)
+
+## ‘SIERRA KILO YANKEE ECHO’
 
 Baron rolled up the door to the hangar’s private garage. The glowing blue of his skin illuminated the Heavy Armor Rapid Deployment armor parked inside. It had been commissioned for his family’s new alliance, with helmet and joints sculpted into roaring tiger heads, power amplification haptic controls and reinforced plating built to withstand heavy kinetic rounds. He pressed his thumb to the lockpad and the exoframe opened with a quiet hum.
 
@@ -190,7 +148,11 @@ As always there was a moment when he wished he did not have to come back down.
 
 “Sierra Kilo Yankee Echo,” he said, “do you copy?”
 
-## Baron Lore: Part Five - ‘BARON’S CHOICE’
+
+
+![Apex of modern engineering and I can&apos;t play Vainglory on this visor.](../../.gitbook/assets/crwr50_xeaabgwx.jpg)
+
+## ‘BARON’S CHOICE’
 
 Baron sailed over the orange groves and landed hard on the jagged cliff that overlooked islets surrounded with docked fishing boats. The stone ground split under the weight of his exoframe, sending loose stones tumbling down to the sea. Skye waited there in her renovated mech, guns aimed at the tiger’s mouth framing his helmet.
 
@@ -234,69 +196,21 @@ Holding on to one another, their crystal-splintered faces grubby with smoke, the
 
 “I’ll fix that too,” said Skye, and pressed her tile back into his hand.
 
+
+
+![You’re writing checks your body can&apos;t cash.](../../.gitbook/assets/skye_baron_lore2_1000px.jpg)
+
 ## ALTERNATE FATES
 
-### ‘ELITE FORCE’ BARON - Part One ‘THE VOICES’
+### ‘ELITE FORCE’ BARON 
 
-_Idris…_
-
-The tech alliance gathered at the Halcyon Well, their somber faces hidden behind masks. Idris climbed onto the lip of the well and stared through his own tactical mask into the well’s swirling mist, shaking his head to remove the voices from his mind.
-
-_Come down to us._
-
-A mercenary clipped a rope to his waist and gave instructions. “I’ll hold onto you. Pull once for stop. Two pulls for all’s well. Three for more slack. Four or more for emergency.”
-
-Idris climbed inside the well without a word and dangled as the rope lowered him into the mist, leaving the alliance behind. In the fog he could not see his gloved hands by his face. His helmet mount displayed only fog, and he was glad for his sealed armor.
-
-He expected darkness, but instead a faint blue glow shone through the mist, and the whispers grew louder:
-
-_We have waited so long for you_.
-
-The mist dispersed as the well opened into a large cave, stalagmites and stalactites jutting down and up from the floor and ceiling, all pure blue crystal, glowing with the power that flowed upward from a hole blasted in the center.
-
-He swung to land on a jagged stalagmite, then switched on his multi-spectrum optical helmet camera. The rope slackened; he pulled on it once and it stopped.
-
-Nothing but tendrils of mist moved on the helmet display. He climbed down to the floor, yanked three times for more slack on the rope, and scouted around the crystal teeth of the cave. The voices echoed off of the walls, coming from every direction:
-
-_You left us too long. Never leave us again._
-
-At the edge of the hole in the ground, blasted open millennia ago by the seraphim, Idris stared down into the foggy, roiling abyss of the Churn. There, half-buried in sand, he saw what he had come to find, what would power their tech for far longer than the shards mined from the surface: a crystal worn into smoothness from constant pressure of the Churn at its origin, infused with so much energy that it shone like a beacon.
-
-The Shatterglass.
-
-Idris plucked up the Shatterglass and then, a step closer to the hole, found another. Then another.
-
-He yanked twice on the rope for All’s Well, and the commander’s jets stirred the glowing fog as he descended into the well.
-
-The voices danced with his mind, beckoning.
-
-_You’re so close._
-
-The closer he came to the edge of the hole, the more Shatterglass he found. His foot slid and one of the precious crystals slid into the hole and disappeared. Idris gathered his wits and stepped back.
-
-_Don’t go._
-
-The sand quivered under his feet.
-
-Movement played in his peripheral vision. He spun around and something broke free of the sand by his foot, then another, and then more burst from cracks in the cave walls and fell from the ceiling onto his shoulders: a mass of wide-mouthed worms, pulsing with blue energy, their spiny bodies as long as he was tall.
-
-The voices.
-
-They opened their greedy, toothless mouths and clamped onto his feet, pulling him down.
-
-_We’re bringing you home, home…_
-
-Clearing his mind, he willed himself_there_, traveling in a blink toward a stalactite with handholds, but there was not enough slack in the rope and he was yanked back. He landed just shy of the sharp point of a stalagmite below and fell onto his back, the worms threading up through the sandy surface and whipping their glowing spiked tails. His breath came fast and hard as he pulled his chakram from his back and swung. The worms on his feet split in halves and the blade returned to him covered in blue goo, but hundreds more replaced them as he yanked the dead monsters from his armor, bursting from every surface to hiss and sing:
-
-_You belong with us, with us…_
-
-Above, the commander appeared below the mist.
-
-“Go back!” cried Idris, yanking on the rope, one-two-three-four-five-six; he yanked and yanked and it was too late. The commander dropped down into the cave.
-
-#### ‘ELITE FORCE’ BARON - Part Two ‘DISARM!’
+#### ‘DISARM!’
 
 Twenty meters down the Halcyon Well, Baron’s navigation and communication systems malfunctioned. He watched the HUD on his visor flash with readouts as he descended, his thrusters burning, into the glowing blue crystal cave. “Manual override,” he said, and the rocket launchers, porcupine mortars and ion cannon blinked online.
+
+
+
+![This battleground is peaceful-from thirty thousand feet up.](../../.gitbook/assets/eliteforcebaron_splash_final_1000px.jpg)
 
 “Surface scan,” he said.
 
@@ -362,53 +276,11 @@ Baron whirled around as Idris jumped off his back. The desert warrior surveyed t
 
 From deep down, far below them, came a roar full of smoke and mist, a sound that froze them both in place.
 
-#### ‘ELITE FORCE’ BARON - Part Three ‘PUCKER FACTOR 10’
+### ‘FLY OR DIE’ BARON 
 
-While the rest of the tech alliance peered at their flashing monitors and beeping accessories, SAW sidestepped, stomped and stretched trying to scratch an itch on his bum. The rope he’d attached to the scout skittered and swayed around the mouth of the Halcyon Well.
+#### ‘Winning is Winning’
 
-“Do you have a malfunction?” The commander’s visor opened to reveal his stern scowl.
 
-“New armor’s working as intended, sir.” He punched his fist into the overlapping metal of his back armor to no avail; the itch only burned worse.
 
-“Watch the rope.” The commander’s visor locked back down.
-
-“Yeah, alright.” SAW cranked the winch according to the rope signals. By the time the rope pulled twice, the itch had traveled up his spine. “All’s well,” he said. “Guess that’s your cue.” While the others watched the commander descend into the well, SAW wedged the handle of his tomahawk between his backplate and hip, trying to scratch, the rope forgotten as it yanked and yanked.
-
-“Hey, merc,” called one of the techies, “isn’t that one of the signals?”
-
-“I’ll tell you when there’s a …” began SAW, but then the ground shook. The techies stumbled and fell. Fog blasted high out of the well. With the tomahawk sticking out at an awkward angle from his hip, SAW lunged at the winch and cranked hard and fast.
-
-The scorched hook emerged from the well without the scout attached.
-
-“Well,” said SAW, hooking the rope to his own waist and grabbing his coilgun, “I’m going to go shoot at whatever they’re shooting at.”
-
-It took three techies working the winch to lower him and his artillery into the blind foggy well. He descended fast, breaking through the fog and getting only a glimpse of the crystal cave before falling straight into the gummy, toothless jaw of the Churn worms’ giant roaring mother.
-
-The worm gulped, and everything went dark.
-
-His coilgun was stuck, wedged tight between the undulating muscles of the beast’s throat. The itch on his bum came back with a vengeance.
-
-“Commander!” he screamed into his radio. “What’s your position!” He punched the beast’s inner flesh as it lunged and spat. “Commander, I need to lay down some fire and if you don’t clear out, you could catch it. Do you copy?”
-
-Only static answered.
-
-“Alright,” he grumbled, yanking the tomahawk free of his hip. He hacked at the squishy fleshy folds, worm blood spattering, holding his position with all his strength as the beast twisted and struggled, until crystal blue light leaked through. He put his head through the hole just in time to almost get it cut off by the chakram flying past.
-
-“Clear out!” he yelled, and pulled back inside, sliding the muzzle of the coilgun through the hole and aiming upward.
-
-The explosive shells burst from the rotary coilgun accelerator. He braced himself against the beast’s contracting muscle, shooting blind, one after another rocking the screaming worm, until he was out of shells.
-
-The beast whined, yawned, and fell with a sickening thump.
-
-He hacked his way out of the dead animal and caught his breath, dripping with goo. He kicked at the worm’s blown-open head, then surveyed the baby worms laying in coiled, bloody death on the sand. He cracked his neck.
-
-The scout and the commander stared at him as he tucked the tomahawk back in place. “Bloody hell! Pucker factor of ten, this,” he said.
-
-“Well done, mercenary,” said the commander.
-
-“Indeed,” said the scout. “That was astounding.”
-
-“Yeah, sure.” SAW picked up a Shatterglass from the sand and tossed it to Idris. “Grab up what you came for and let’s move out. I have an itch on my bum.”
-
-#### ‘FLY OR DIE’ BARON - ‘Winning is Winning’
+![Nuke it from orbit.](../../.gitbook/assets/fullhd_hor_fodbarion.jpg)
 
