@@ -18,11 +18,15 @@ There is blood, there are limbs, there are gurgling death-screams, there are pie
 
 “Hullo, beauty!” he calls.
 
-Her response is the slow pulling of her weapon from the rocks, that\_shing\_of steel.
+Her response is the slow pulling of her weapon from the rocks, that shing of steel.
 
 “You cannot protect it from me,” he growls. “Best run now and let me at it, before I destroy your best assets.”
 
 She leaps, falling hard onto him, sword front, magic buzzing around her like bees. She is good with her weapon, well trained. He might have respected her, once. She gets a few slashes into him, his half-dead flesh sagging apart where she aims. He swings at her, hits only air, circling, snorting like a devil, dodging as best he can until she turns the sword over her shoulder and pounds him good in the brow with the hilt. He lunges, closes the gap between them, roaring his dead breath onto her, then her valiant cry is cut short by his fist round her throat.
+
+
+
+![I can feel it. I&apos;m afraid.](../../.gitbook/assets/krul-lore2.jpg)
 
 “Pretty thing.” He licks her cheek while she squirms; her sword clatters on the stones between them and he kicks it away. He’s had enough of swords. A squeeze, and her neck breaks in his grip. Her life flows away from her and into him and she collapses, forgotten the moment he steps over her, toward the turret.
 
@@ -39,6 +43,10 @@ Hope lost, the world comes back to him. The rhythmic\_bzzt bzzt\_of insects. Bir
 He allows himself one agonized scream before stalking back into the bush. There is another road there, to the Halcyon Fold, that he must now take.
 
 ## ‘ALPHA’
+
+
+
+![I can&apos;t stop! HELP!! System rebooting. Standby](../../.gitbook/assets/alpha_tease.jpg)
 
 The dark room rippled with an eerie, surgical-bright glow centered on a glass tank at the center. Inside, a pale woman floated in a bowed shape, belly highest, swaying, her shaved head thrown back as if in laughter. Tubes snaked inside the glass and attached to nodes in her chest and temples. Great wounds in her torso had been stitched and bound together with white bandages. There was a low hum, the sour smell of chemicals and an echoing rhythmic beep that matched the slow beat of her heart.
 
@@ -107,6 +115,10 @@ The screams outside stopped. The outer door slid open, letting in the night’s 
 
 “Now,” ordered Marelde, and the room filled with the snap and buzz of magic as a heavy sword split apart the room’s paper wall from ceiling to floor and a machine stepped inside.
 
+
+
+![Target scan. Organic material. Risk, low](../../.gitbook/assets/alpha1.jpg)
+
 The room erupted in flashing blue magic and the roars of Second Boss. The machine moved forward without pause, slicing through its former comrades, deflecting the magic bolts, Third Boss’ blades clinking off its armor. Within minutes, Alpha stood in the post-battle silence scanning the room with glowing eyes. Six women lay broken and bleeding at her feet; two bosses shook with terror in a corner. Her sword had cleaved the table, and Marelde with it, in half.
 
 #### \#~$ DIRECTIVE FULFILLED … RECONNAISSANCE MODE ACTIVATED. … DIRECTIVE: FIND STORMGUARD. —— Pretty thing…
@@ -114,6 +126,10 @@ The room erupted in flashing blue magic and the roars of Second Boss. The machin
 
 
 ##  ‘DAISY, DAISY’
+
+
+
+![Mission: fiifiiiififind corn, yarn, garden. Storm guard.](../../.gitbook/assets/alpha000_86-e1481587231232.jpg)
 
 Daisy squeezes into a corner of the workout room, bare feet sunk into the mat, arms bent, hiding her face behind bruised forearms and thick leather boxing gloves. Kestrel, a year older at fifteen, weaves close and strikes Daisy’s obliques, tight to cramping; when her arms drop, the strikes come at her jaw and temples. Tears slide out of Daisy’s swollen eyes, mixing with blood and snot from her nose. A hit to the belly sucks the air out of her and she crumples, arms over her head.
 
@@ -221,6 +237,10 @@ Catherine rose, shaking, to her knees. The arcshield smoldered. She tossed it do
 
 #### 'MELTING DAY'
 
+
+
+![Locating position. Location position. Locating, butter.](../../.gitbook/assets/alpha_tinman_splash.jpg)
+
 The lion and the scarecrow followed a line of marching minions, each carrying a bowl of ice cream, to the tin castle’s tin courtyard. Tin flowers bloomed all around a tin fountain from which steaming coffee bubbled. At the top of the fountain stood the Tin Queen of the West.
 
 “Look! It is our old friend, and the fountain of wizard’s brew, just like you promised,” said the lion, feeling relieved for the first time in days.
@@ -277,6 +297,10 @@ Now, people come from the North and South and East to watch the Annual Minion Wa
 
 #### THE LOUD VOICE & THE QUIET VOICE’
 
+
+
+![I won&apos;t! Please!! No more!!! Rebooting. Standby.](../../.gitbook/assets/alpha_horror.jpg)
+
 She’s going to come back. She always comes back, and at first her mind is fuzzy and she doesn’t remember our names, but then she remembers and she plays with us again. Her mama put us all up in the attic in a box so I set up the teacups here. I took the chipped one like always, the one she threw the first time she had to go away. She never likes to go away but her mama cries and her daddy carries her and we all watch, very still like she taught us until she comes back. When she comes back, she dresses me up like she dressed when she was away, and she plays like the grownups and in a deep-deep voice she asks me questions like
 
 _Why do you think that you can read minds?_
@@ -305,6 +329,10 @@ It’s been a long time since she went away, but she’s going to come back beca
 
 #### ‘PRETTY-PRETTY’
 
+
+
+![Internal compass warped. Retrying.](../../.gitbook/assets/horror-alphat2.jpg)
+
 You think she’ll come back to us? You’re dumb. She\_can’t\_come back know why? Because she can hear the quiet inside voices of the grownups and grownups are afraid, so they make her stay in a little room with a little window.
 
 You have just that ugly jacket but I have the pretty-pretty dress and the pretty-pretty hair so I’m the prettiest so I’m in charge and we aren’t going to wait any more. You take your knife and I’ll take this sharp thing I found in Mama’s sewing room and we will go to the Bad Place and save her from the Bad People and if they try to stop us we will put our sharp things into their soft-soft eyes, and she will never have to eat the candy again, and we will play house just her and us dollies forever and ever and…
@@ -313,15 +341,19 @@ You have just that ugly jacket but I have the pretty-pretty dress and the pretty
 
 #### ‘REAL GIRL’
 
-We poked out the eyes of the Bad Doctors with our sharp scissor points, and we took their keys, and then I colored my shoes pretty red in the mess we made in the hallways. “Look at me; look what I can do!” I said, twirling in the slippy-slidey, but the other dollies said “Come_on_, we have to\_find\_her.”
+
+
+![I&apos;m a monster.](../../.gitbook/assets/fullhd_hor-1.jpg)
+
+We poked out the eyes of the Bad Doctors with our sharp scissor points, and we took their keys, and then I colored my shoes pretty red in the mess we made in the hallways. “Look at me; look what I can do!” I said, twirling in the slippy-slidey, but the other dollies said “Come_on_, we have to find her.”
 
 We climbed on one another to peek through the keyholes until there she was, all alone in the white room with the white hug-jacket. We tried keys until one turned, creaky-squeaky, and then we were all four together again. We let her out of her jacket and she squeezed us all in a bunch.
 
-“Look at me; look what I can do!” I said, and I showed her my_jeté\_and my\_plié_, and she hugged me and told me I was the best dancer she’d ever seen.
+“Look at me; look what I can do!” I said, and I showed her my _jeté and my plié_, and she hugged me and told me I was the best dancer she’d ever seen.
 
 “Let’s go home,” whined the other dollies.
 
-“I don’t\_wanna\_go back to the attic and the Mama and the Daddy and the memories,” I said, and I stomped my foot.
+“I don’t wanna go back to the attic and the Mama and the Daddy and the memories,” I said, and I stomped my foot.
 
 “Then you shall have an adventure instead,” said our girl, and she put the key into my back and turned it, and my heart started going ticky-tocky. “You’re a Real Girl now, so you can find a new home for us.”
 
