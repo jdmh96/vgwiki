@@ -120,7 +120,9 @@ Catherine’s back straightened, her eyes cleared, and her hand returned to her 
 
 ## ‘THE SHIELD AND THE BOW’
 
-#### 
+
+
+![By your direction.](../../.gitbook/assets/catherine_ice.png)
 
 Who am I?”
 
