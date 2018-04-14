@@ -86,6 +86,10 @@ Ardan’s heart pounded out one beat. Another. Air filled his lungs and he cough
 
 To his left, Julia stared into Catherine’s eyes.
 
+
+
+![Get behind me!](../../.gitbook/assets/img11.jpg)
+
 His heart beat a third time.
 
 In another heartbeat, his children or his wife would be dead, depending on which way he ran.
@@ -131,6 +135,10 @@ The amusement car creaks and moans as it swings. “Do you think they’ve found
 “Safe is no fun.” Vox takes up the swinging with renewed violence. Celeste’s annoyed protests resound below the smog.
 
 ## ‘THE MASKER RAGE’
+
+
+
+![Nothing comes between me, and my children.](../../.gitbook/assets/img7%20%281%29.jpg)
 
 00:00.05
 
@@ -226,6 +234,10 @@ Ardan squinted up through the falling starlight at the shadows plummeting toward
 
 “Vanguard confirmed,” the control panel responded.
 
+
+
+![I go where I’m needed.](../../.gitbook/assets/4_vanguard-up.jpg)
+
 “Please, be enough,” whispered Ardan, as the holographic barriers crackled to life a few feet from the ground.
 
 The barriers bent but held fast as the twins slammed into them.
@@ -243,6 +255,10 @@ Ardan cursed, but Vox was running after his sister. Close behind, the Stormguard
 A single raven circled above them, camouflaged against the now-dark sky, watching.
 
 ## ‘ESCAPE TO THE FOLD’
+
+
+
+![Get off my lawn.](../../.gitbook/assets/5_escape1.jpg)
 
 So we’re headed out of Boiling Bay at top speed, right? Carnie Wheel cars are coming unbolted and like
 
@@ -322,6 +338,10 @@ There’s all these rumors and tales about how Celeste is gonna challenge the th
 
 #### ‘FIGHT NIGHT’
 
+
+
+![This fist, your face.](../../.gitbook/assets/fullhd_hor_cagefighter_ardan.jpg)
+
 SUGARVENOM: Hello and welcome to Fight Night on the Halcyon Fold! I’m here with Playoffbeard live at the final matchup of the evening, the one you’ve all been waiting for: ‘One Punch’ Ardan is all set to defend his title from Meat Truck, the up-and-comer who’s been running over his opponents.
 
 PLAYOFFBEARD: The smack talk has been brutal over the last several weeks. Meat Truck is notorious for getting into opponents’ heads on social media, but Ardan maintained that he respects all of his opponents and just wanted a good clean fight …
@@ -352,6 +372,10 @@ SUGARVENOM: And there’s the bell. Round one has begun!
 
 #### 'THE GLASS CHAMBER’
 
+
+
+![You’re not going anywhere.](../../.gitbook/assets/download%20%282%29.jpg)
+
 White-uniformed guards melted into shadows without so much as a cry to halt as Ardan stomped toward the queen’s chambers. The door gave way to his armored kick too easily; it hadn’t been bolted.
 
 “I am glad you have come.”
@@ -374,9 +398,17 @@ He had been a normal man, some whispered, a soldier, a father even. The magic tw
 
 For love he remained, for the few moments the queen granted him with Julia, frozen as he’d known her behind glass. It was Julia, and not the queen, whom he guarded without slumber. For those brief moments, The Key kept his grim vigil in silence.
 
+
+
+![Default settings are for amateurs.](../../.gitbook/assets/ardan_tier2.jpg)
+
 ### 'REDEMPTION ARDAN'  
 
 #### 'STAY WITH ME’
+
+
+
+![No mercy.](../../.gitbook/assets/ardan_splash_t3.jpg)
 
 On the night of revolution, The Key stood on the Storm Queen’s balcony watching the crowd escort the royal party up the mountain. He had managed to keep the looters from the queen’s chamber, but he would not be able to stop a rebel party of soldiers and mages.
 
@@ -471,6 +503,10 @@ Light flooded in again as the door opened. Ardan blinked, looked past the guard 
 “Good fortune to you, Ardan,” said the woman, and the guard yanked her away, and their eyes met for the first time in over ten years. Her long dark hair hung in tangles over her face, and without her uniform she seemed small, but it was she: the woman who had slid a blade into his wife’s heart.
 
 It took five guards to hold Ardan down while he struggled and howled. “Save it for the sands,” they grunted, forcing him to his knees as his ancestor’s mask was forced over his face.
+
+
+
+![You don’t want to be on my bad side.](../../.gitbook/assets/ardan_gladiator_e.jpg)
 
 
 
