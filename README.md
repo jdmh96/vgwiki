@@ -130,11 +130,11 @@ description: Welcome To The Official Vainglory Wiki
   * [x] SAW
     * [ ] abilities
     * [ ] lore
-  * [x] Skarf
-    * [ ] abilities
-    * [ ] lore
-  * [ ] skye
+  * [ ] Skaarf
     * [x] abilities
+    * [ ] lore
+  * [x] skye
+    * [ ] abilities
     * [ ] lore
   * [x] taka
     * [ ] abilities
