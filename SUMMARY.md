@@ -52,6 +52,8 @@
   * [Lorelai](heroes/lorelai/README.md)
     * [Lorelai Lore](heroes/lorelai/lorelai-lore.md)
   * [Lyra](heroes/lyra.md)
+  * Malene
+    * [Malene Lore](heroes/malene/malene-lore.md)
   * [Ozo](heroes/ozo.md)
   * [Petal](heroes/petal.md)
   * [Phinn](heroes/phinn/README.md)
@@ -68,6 +70,8 @@
     * Skaarf Lore
   * [Skye](heroes/skye.md)
   * [Taka](heroes/taka.md)
+  * Tony
+    * Tony Lore
   * [Varya](heroes/varya.md)
   * [Vox](heroes/vox.md)
 
