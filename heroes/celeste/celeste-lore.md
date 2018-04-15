@@ -1,6 +1,6 @@
 # Celeste Lore
 
-## Celeste Lore: Part One - ‘IMPOSSIBLE DECISION’
+## ‘IMPOSSIBLE DECISION’
 
 “I do not need your permission to buy a goat,” Julia said. “Goat milk is delicious, and we can make cheese.”
 
@@ -86,6 +86,10 @@ Ardan’s heart pounded out one beat. Another. Air filled his lungs and he cough
 
 To his left, Julia stared into Catherine’s eyes.
 
+
+
+![ Just here to overthrow a powerful queen to avenge my Mother!](../../.gitbook/assets/img11.jpg)
+
 His heart beat a third time.
 
 In another heartbeat, his children or his wife would be dead, depending on which way he ran.
@@ -96,7 +100,11 @@ The general’s sword, turned sideways, slid easily between Julia’s ribs. Her 
 
 He fled from the house into the dark, past the poor dead goat, whose screams had been silenced by one well-placed arrow through the throat. The children remained silent, in some lucky instinct, leaving the questions to the night owls in the trees.
 
-## Celeste Lore: Part Two - ‘ABOVE BOILING BAY’
+## ‘ABOVE BOILING BAY’
+
+
+
+![It&apos;s peaceful without Vox around.](../../.gitbook/assets/img7-1.jpg)
 
 “Stop swinging.”
 
@@ -130,7 +138,11 @@ The amusement car creaks and moans as it swings. “Do you think they’ve found
 
 “Safe is no fun.” Vox takes up the swinging with renewed violence. Celeste’s annoyed protests resound below the smog.
 
-## Celeste Lore: Part Three - ‘THE MASKER RAGE’
+## ‘THE MASKER RAGE’
+
+
+
+![Yes, it hurt when I fell.](../../.gitbook/assets/3_masker_rage-768x2227%20%281%29.jpg)
 
 00:00.05
 
@@ -188,7 +200,7 @@ _Celeste searches among the faces of the Stormguard for the one who killed her m
 
 00:00:00
 
-## Celeste Lore: Part Four - ‘VANGUARD UP!’
+## ‘VANGUARD UP!’
 
 Ardan slammed his fist into the armor’s control panel.
 
@@ -226,6 +238,10 @@ Ardan squinted up through the falling starlight at the shadows plummeting toward
 
 “Vanguard confirmed,” the control panel responded.
 
+
+
+![I seem to have dropped a little, thermo nuclear reactor.](../../.gitbook/assets/4_vanguard-up%20%281%29.jpg)
+
 “Please, be enough,” whispered Ardan, as the holographic barriers crackled to life a few feet from the ground.
 
 The barriers bent but held fast as the twins slammed into them.
@@ -242,7 +258,11 @@ Ardan cursed, but Vox was running after his sister. Close behind, the Stormguard
 
 A single raven circled above them, camouflaged against the now-dark sky, watching.
 
-## Celeste Lore: Part Five - ‘ESCAPE TO THE FOLD PART I’
+## ‘ESCAPE TO THE FOLD’
+
+
+
+![Yeah, the speed of light should be just fast enough.](../../.gitbook/assets/5_escape1.jpg)
 
 So we’re headed out of Boiling Bay at top speed, right? Carnie Wheel cars are coming unbolted and like
 
@@ -258,9 +278,7 @@ _WHOOMSHHHHH_
 
 through us and creates this freaking puddle of flame that we have to jump over. Dad’s armor is overheating, and this old Gythian war mage who’s doing all the talking is like, “We must escape to the barge!” and Dad’s like, “My daughter will have nothing to do with your old-world politics!” and I’m like, “Can we discuss this later when we aren’t, you know, about to
 
-_die_
-
-?”
+_die_?”
 
 We race down this old creaking dock toward the_RAAAAAHHHHHRRR\_of these titanbacks that pull the barges. While the soldiers yank on the ropes to float a beast close enough for us to board, the Stormguard march closer, singing a creepy war song. An arrow goes\_SHTOOMP\_into the spine of the guy next to me. What’s left of the first line of Gythian defense stabs at the shields like\_zzzppttt_–_zzppptt_, and Celeste holds my elbow and leans in.
 
@@ -278,7 +296,7 @@ The war mage goes on about how Celeste has to fulfill her destiny and take the t
 
 It gets crazy-tense, and everyone’s talking about what’s best for Celeste. But it feels like my future’s being decided too. And I got a decision to make…
 
-## Celeste Lore: Part Six - ‘ESCAPE TO THE FOLD PART II’
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 “If there is a way to end her tyranny, shouldn’t I do it?” Celeste says in that calm way that always winds Dad up even worse.
 
@@ -318,9 +336,11 @@ _“Such a shame…”_
 
 There’s all these rumors and tales about how Celeste is gonna challenge the throne of the Storm Queen \(which is still weird for me\), and they’re all epic, about how the Gythians and the Stormguard found out where Dad was hiding her, and they battled it out, and the Gythians took us here to the Halcyon Fold to recruit heroes to her cause, and now she’s dropping stars and taking names. But they leave out all the cool stuff I did. At least now you know the full story… and it’s not the last you’ll hear from me.
 
-### ALTERNATE FATES
+## ALTERNATE FATES
 
-#### ‘BUTTERFLY’ CELESTE - ‘THE SWEETHEARTS’
+### ‘BUTTERFLY’ CELESTE  
+
+#### ‘THE SWEETHEARTS’
 
 “Celeste! Yo, where’d you go?”
 
@@ -344,9 +364,9 @@ Vox stepped close, peering at the basking butterfly. “Does … does this one h
 
 “Not yet.” Celeste whispered to the Julia, and it fluttered over to rest on Vox’s ear. “But I’ll take care of her until her sweetheart comes.”
 
-#### ‘STAR QUEEN’ CELESTE - ‘THE RISE OF THE STAR QUEEN - NO MORE FEAR!'
+### ‘STAR QUEEN’ CELESTE  
 
-_Featuring ‘Star Queen’ Celeste Tier I_
+#### 'NO MORE FEAR!
 
 _A holographic image burst out of the top of a small gift box that sat before the rebel future queen and her Gythian advisor. There was no sound, only the image of a battle. There sat the Storm Queen atop her horse; beyond was the queen’s army and her Stormguard flooding a green farmland with the blood of the locals, whose cavalry fell under the magical onslaught. The last image was that of Catherine, her war mask disguising her features._
 
@@ -402,9 +422,9 @@ Then, there was a solitary shout from behind the gate. The voice of an adolescen
 
 “The woman will overtake a capital city without a drop of blood spilled,” said the war mage, but the propellers picked up speed so that no one heard him. Vox steered\_The Audacity\_over the gate and landed in the city square, and the throngs surrounded the airship to welcome the Star Queen home.
 
-#### ‘STAR QUEEN’ CELESTE - ‘THE RISE OF THE STAR QUEEN - THE MIRRORED COURT'
+### ‘STAR QUEEN’ CELESTE 
 
-_Featuring ‘Star Queen’ Celeste Tier II_
+#### 'THE MIRRORED COURT'
 
 The royal party traveled up the winding streets of Mont Lille, torches lighting their way. The going was slow; the crowds pressed into their new monarch, reaching to touch her hair and gown, chanting No more fear! and Liberté, égalité! At the summit of Mont Lille, past grottos and fountains and manicured topiary, they climbed a marble staircase to find the gem-encrusted gate of the Storm Queen’s palace wide open. There, Celeste bade her people to return home and remain vigilant, and the gate closed behind her.
 
@@ -442,9 +462,9 @@ Vox grabbed a gauntlet and inspected it. “She knew you were coming?”
 
 “Instead I am under yours,” replied Celeste with equal dryness. She took the staff in her fist and the crescent glowed, illuminating the old War Mage’s frown. “Let’s continue on. But I think …” Her eyes rose to the ceiling paintings. “… I think I shall have a skylight installed.”
 
-#### ‘STAR QUEEN’ CELESTE - ‘THE RISE OF THE STAR QUEEN - THE RISE OF THE STAR QUEEN'
+### ‘STAR QUEEN’ CELESTE 
 
-_Featuring ‘Star Queen’ Celeste Tier III_
+### 'THE RISE OF THE STAR QUEEN'
 
 Outside the palace and all along the continent, the independent kingdoms that had once all been the purview of the Storm Queen raged at war. Nobles took up arms against one another; commonfolk rose up against the nobles whose battles burned their farms. The Captain of the Navy laid in convalescence and the Star Queen remained palace-bound for her safety.
 
@@ -516,7 +536,9 @@ The ravens descended, screaming.
 
 _The End._
 
-#### ‘BAEWITCHED’ CELESTE_\(SPECIAL EDITION\) - _‘BUT I QUITE LIKE PEANUT BUTTER’
+### ‘BAEWITCHED’ CELESTE‘ 
+
+#### 'BUT I QUITE LIKE PEANUT BUTTER’
 
 _**By SugarVenom**_
 
@@ -564,7 +586,9 @@ The melon exploded outward. When the green smoke cleared, the watermelon had spo
 
 “Exploding stuff could be useful,” mused Celeste. “Let’s make some more.”
 
-#### ‘MOON PRINCESS’ CELESTE_\(SPECIAL EDITION\) - _‘CELESTE SAVES THE MOON BUNNY’
+### ‘MOON PRINCESS’ CELESTE 
+
+#### ‘CELESTE SAVES THE MOON BUNNY’
 
 Celeste was walking home after studying late at the Taizen High School library one night when she heard a snivel-y weepy sound coming from the park. She followed the bawling to the swing set, where she found a brown-spotted bunny. The bunny was swinging super high, so high that Celeste was afraid he would go all the way around, then he jumped out of the seat with his four legs and floppy ears spread wide only to faceplant in the grass. With slumped shoulders and hiccup-y sobs he climbed back up into the swing and began again.
 
