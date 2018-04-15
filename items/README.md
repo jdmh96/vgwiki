@@ -6,7 +6,7 @@ description: List of all Items by category ad tier (click on the name for detail
 
 {% tabs %}
 {% tab title="Weapon" %}
-| Image | Name |
+| Image | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [**Tier 1**](weapon-item-details.md#tier-1) |  |
 | ![](../.gitbook/assets/weapon-blade.png) | [Weapon Blade](weapon-item-details.md#weapon-blade) \| Cost: 300 \| Tier1 |
@@ -33,28 +33,28 @@ description: List of all Items by category ad tier (click on the name for detail
 {% endtab %}
 
 {% tab title="Crystal" %}
-| Image | Name | Cost \(upgrade cost\) | Description | Builds into | Builds from | Tip |
+| Image | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Tier 1** |  |  |  |  |  |  |
-| ![](../.gitbook/assets/image%20%2861%29.png) | Crystal bit | 300 |  +20 Crystal Power | Heavy Prism, Eclipse Prisme | N/A | Crystal power increases the strength of abilities. |
-| ![](../.gitbook/assets/image%20%2827%29.png) | Energy Battery | 300 | 200 Max Energy, +4 Energy Recharge | Void Battery |  N/A | Energy is needed to use your abilities. |
-| ![](../.gitbook/assets/image%20%2849%29.png) | Hourglass | 250 | +10% Cooldown Speed, +1.5 Energy Recharge | Chronograph |  N/A | Cooldown speed increases the speed at which your abilities come off the timer. |
-| **Tier 2** |  |  |  |  |  |  |
-| ![](../.gitbook/assets/image%20%2829%29.png) | Heavy Prism | 1050\(750\) |  +50 Crystal Power | Shatterglass, Spellfire, Frostburn, Dragon's Eye, Broken Myth, Eve of Harvest, Alternating Current | Crystal Bit | Crystal power increases the strength of abilities. |
-| ![](../.gitbook/assets/image%20%2867%29.png) | Eclipse Prism | 630\(350\) |  +35 Crystal Power | Shatterglass, Spellfire, Frostburn, Dragon's Eye, AfterShock | Crystal Bit |  Crystal power increases the strength of abilities. |
-| ![](../.gitbook/assets/image%20%2883%29.png) | Piercing Shard | 900\(600\) | +20 Crystal power, _**Shieldbreaker**_: 18% shield pierce \(does not stack with other _**Shieldbreaker**_\) | Broken Myth | Crystal Bit | Shield pierce cuts through a percentage of your target's shield |
-| ![](../.gitbook/assets/image%20%2854%29.png) | Void Battery | 700\(450\) | +350 Max Energy, +6 Energy Recharge | Clockwork, Eve of Harvest, **Echo** | Energy Battery | Energy is needed to use your abilities. |
-| ![](../.gitbook/assets/image%20%2835%29.png) | Chronograph | 800\(550\) | +20% Cooldown Speed, +2.5 Energy Recharge | Clockwork, Aftershock, Spellsword, **Contraption**, **Stormcrown**, **Nullwave Gauntlet** | Hourglass | Cooldown speed increases the speed at which your abilities come off the timer. |
-| **Tier 3** |  |  |  |  |  |  |
-| ![](../.gitbook/assets/image%20%2881%29.png) | Shatterglass | 3000\(1300\) | +150 Crystal power |  N/A | Heavy Prism, Eclipse Prism | Crystal power increases the strength of abilities. |
-| ![](../.gitbook/assets/image%20%2875%29.png) | Spellfire | 2700\(1000\) | +90 Crystal power, Passive: Abilities dealing crystal damage to enemies \(excluding lane minions\) deal 15-50 \(level 1-12\) + 100% of your crystal power as bonus crystal damage over 3s and apply Mortal Wounds for the duration. |  N/A | Heavy Prism, Eclipse Prism | Buy this item to augment poke abilities or hinder high sustain targets.  |
-| ![](../.gitbook/assets/image%20%2830%29.png) | Frostburn | 2600\(900\) | +85 Crystal power. Passive: Crystal damage abilities slow enemy heroes by 30% for 1 second. |  N/A | Heavy Prism, Eclipse Prism | Slow down your opponents to make it easier to land abilities |
-| ![](../.gitbook/assets/image%20%2859%29.png) | Dragon's Eye | 3000\(1300\) | +85 Crystal power, Passive: Gain 12 crystal power for each second you are damaging enemy heroes. After 4s, lose 1 stack per second. 18 stacks max. |  N/A | Heavy Prism, Eclipse Prism | Abilities strengthen the longer you stay in a fight. |
-| ![](../.gitbook/assets/image%20%2877%29.png) | Clockwork | 2400\(900\) | +40 Crystal power, +35% Cooldown speed, +600 Max energy, +10 Energy recharge, Passive: Upon damaging an enemy hero with an ability, reduce all cooldowns by 6%. This can only occur once every 2 seconds. |  N/A | Chronograph, Void Battery | Agressive use of abilities will allow you to cast more frequently. |
-| ![](../.gitbook/assets/image%20%2848%29.png) | Broken Myth | 2700\(750\) | +80 Crystal power, _**Shieldbreaker**_: 30% shield pierce \(does not stack with other _**Shieldbreaker**_\) |  N/A | Heavy Prism, Piercing Shard | Improves crystal damage, especially against heavily shielded enemies |
-| ![](../.gitbook/assets/image%20%2823%29.png) | Eve of Harvest | 2600\(850\) | +55 Crystal power, +400 Max energy, +7 Energy recharge,  _**Vampirism**_: +10% lifesteal \(does not stack with other _**Vampirism**_\) |  N/A | Heavy Prism, Void Battery | Dealing high amounts of crystal damage to enemies will rapidly restore your health. |
-| ![](../.gitbook/assets/image%20%2850%29.png) | Aftershock | 2400\(950\) | +25% Cooldown Speed, +2.5 Energy Recharge. +35 Crystal Power, Passive: After using an ability, your next basic attack deals 14% of target's max health as damage with +50% lifesteal. Max 400 damage vs non-heroes. 1.5s cooldown. |  N/A | Eclipse Prism, Chronograph | Very effective against enemies with high health. |
-| ![](../.gitbook/assets/image%20%2815%29.png) | Alternating Current | 2800\(1050\) | +60 Crystal Power, +35% Attack Speed, Passive: Every other basic attack deals 70% of your crystal power as bonus damage. |  N/A | Heavy Prism, **Blazing Salvo** | Helps you deal consistent damage after you've built enough crystal power. |
+| [**Tier 1**](crystal-item-details.md#tier-1) |  |
+| ![](../.gitbook/assets/image%20%2861%29.png) | [Crystal bit](crystal-item-details.md#crystal-bit) \| Cost: 300 \| Tier1 |
+| ![](../.gitbook/assets/image%20%2827%29.png) | [Energy Battery](crystal-item-details.md#energy-battery) \| Cost: 300 \| Tier1 |
+| ![](../.gitbook/assets/image%20%2849%29.png) | [Hourglass](crystal-item-details.md#hourglass) \| Cost: 250 \| Tier1 |
+| [**Tier 2**](crystal-item-details.md#tier-2) |  |
+| ![](../.gitbook/assets/image%20%2829%29.png) | [Heavy Prism](crystal-item-details.md#heavy-prism) \| Cost:  1050\(750\) \| Tier2 |
+| ![](../.gitbook/assets/image%20%2867%29.png) | [Eclipse Prism](crystal-item-details.md#eclipse-prism) \| Cost:  630\(350\) \| Tier2 |
+| ![](../.gitbook/assets/image%20%2883%29.png) | [Piercing Shard](crystal-item-details.md#piercing-shard) \| Cost:  900\(600\) \| Tier2 |
+| ![](../.gitbook/assets/image%20%2854%29.png) | [Void Battery](crystal-item-details.md#void-battery) \| Cost:  700\(450\) \| Tier2 |
+| ![](../.gitbook/assets/image%20%2835%29.png) | [Chronograph ](crystal-item-details.md#chronograph)\| Cost:  800\(550\)\| Tier2 |
+| [**Tier 3**](crystal-item-details.md#tier-3) |  |
+| ![](../.gitbook/assets/image%20%2881%29.png) | Shatterglass \| Cost:  3000\(1300\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%2875%29.png) | [Spellfire](crystal-item-details.md#spellfire) \| Cost:  2700\(1000\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%2830%29.png) | [Frostburn](crystal-item-details.md#frostburn) \| Cost:  2600\(900\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%2859%29.png) | [Dragon's Eye](crystal-item-details.md#dragon's-eye) \| Cost:  3000\(1300\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%2877%29.png) | [Clockwork](crystal-item-details.md#clockwork) \| Cost: 300 \| Tier3 |
+| ![](../.gitbook/assets/image%20%2848%29.png) | [Broken Myth](crystal-item-details.md#broken-myth) \| Cost:  2700\(750\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%2823%29.png) | [Eve of Harvest](crystal-item-details.md#eve-of-harvest) \| Cost:  2600\(850\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%2850%29.png) | [Aftershock](crystal-item-details.md#aftershock) \| Cost:  2400\(950\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%2815%29.png) | [Alternating Current](crystal-item-details.md#alternating-current) \| Cost:  2800\(1050\) \| Tier3 |
 {% endtab %}
 
 {% tab title="Defense" %}
