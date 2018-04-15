@@ -5,8 +5,8 @@
   * [Weapon Item Details](items/weapon-item-details.md)
   * [Crystal Item Details](items/crystal-item-details.md)
   * [Defense Item Details](items/untitled.md)
-  * Utility Item Details
-  * Other Item Details
+  * [Utility Item Details](items/utility-item-details.md)
+  * [Other Item Details](items/untitled-1.md)
   * [old Items page](items/old-items-page.md)
 * [Common Terms](terms-used-in-game.md)
 * [Heroes](heroes/README.md)
