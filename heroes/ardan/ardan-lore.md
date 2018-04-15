@@ -236,7 +236,7 @@ Ardan squinted up through the falling starlight at the shadows plummeting toward
 
 
 
-![I go where I’m needed.](../../.gitbook/assets/4_vanguard-up.jpg)
+![I go where I’m needed.](../../.gitbook/assets/4_vanguard-up%20%281%29.jpg)
 
 “Please, be enough,” whispered Ardan, as the holographic barriers crackled to life a few feet from the ground.
 
