@@ -73,5 +73,6 @@
   * Tony
     * Tony Lore
   * [Varya](heroes/varya.md)
-  * [Vox](heroes/vox.md)
+  * [Vox](heroes/vox/README.md)
+    * [Vox Lore](heroes/vox/vox-lore.md)
 
