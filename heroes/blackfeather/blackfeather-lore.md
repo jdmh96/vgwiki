@@ -1,10 +1,14 @@
 # Blackfeather Lore
 
-## Blackfeather Lore: Part One - ‘PRINCESS KIDNAPPED!’
+## ‘PRINCESS KIDNAPPED!’
 
-![1000tease](../../.gitbook/assets/1000tease.jpg)
+![Stand and deliver!](../../.gitbook/assets/1000tease.jpg)
 
-## Blackfeather Lore: Part Two - ‘SOCIAL CLIMBERS’
+## ‘SOCIAL CLIMBERS’
+
+
+
+![Near is better than far, but it still isn&apos;t there.](../../.gitbook/assets/phinn_social_climbers.jpg)
 
 The moon, full as a fat white fruit, dangled just out of reach, just like everything Blackfeather craved. “Ah, Phinneas,” he murmured, whistling through his teeth as he gazed up at the moon beyond the castle balcony, “the best songs are written on nights such as these.”
 
@@ -74,7 +78,7 @@ Blackfeather added an exaggerated head tilt to his eye roll so that it would be 
 
 Phinn and Blackfeather began their ascent.
 
-## Blackfeather Lore: Part Three - ‘NO USE RESISTING!’
+## ‘NO USE RESISTING!’
 
 The balcony gave a disconcerting creak under Phinn’s clawed bulk. Blackfeather drew his sword before bursting through the door to Princess Malene’s silken-pillowed, antique-furnished, monogrammed-everything room. The princess sat on a mahogany curule chair, her gown poofed over its sides, peering at her pretty young face in a silver mirror. The mirror reflected no shock when her abductor entered, though one of her eyebrows rose to a judgmental point when Blackfeather tore the rose from his teeth.
 
@@ -84,7 +88,7 @@ The balcony gave a disconcerting creak under Phinn’s clawed bulk. Blackfeather
 
 Blackfeather’s rose dropped to the plush carpet. “Aren’t you even going to scream? What kind of princess doesn’t scream?”
 
-The princess swished ’round the room, mussing up bedcovers and papers. “_Obviously\_I’ll scream. I’m no amateur. But if I scream too soon, the guards will…\_AAAHHmmmmff_!”
+The princess swished ’round the room, mussing up bedcovers and papers. “_Obviously\_I’ll scream. I’m no amateur. But if I scream too soon, the guards will…AAAHHmmmmff_!”
 
 With a grand leap, Blackfeather slapped his palm over Princess Malene’s mouth as Phinn bent double to fit himself through the balcony door. “Are we having a giggle or a kidnapping, then?” Phinn grumbled.
 
@@ -99,6 +103,10 @@ The princess wrenched her face away from Blackfeather’s grasp. “What is_that
 Phinn stomped in his slow way to a gilded birdcage, inside of which perched a small white bird. “That’s a rare bird. Is it a Trostanian White?” he said, then whistled through the fork in his tongue.
 
 Princess Malene bopped Blackfeather over the head with her mirror and, while he wailed, sashayed over to a ring box by her bed. “Obviously. One of fifty left in the world.”
+
+
+
+![No use resisting!](../../.gitbook/assets/lore-painting3_1000px.jpg)
 
 “Pretty thing. Shouldn’t be in a cage. What’s its name?” Phinn unlatched the cage door with surprising dexterity and the bird hopped onto his head.
 
@@ -132,13 +140,17 @@ Guards pounded at the door and the three made a dash for the balcony, Princess M
 
 “It’s almost as if you have ordered this enterprise done yourself,” complained Blackfeather.
 
-“Of course I did,” huffed Princess Malene. “One can’t be a proper princess without being kidnapped for ransom.\_All\_the best ones are.”
+“Of course I did,” huffed Princess Malene. “One can’t be a proper princess without being kidnapped for ransom.All the best ones are.”
 
 “Seems fair,” said Phinn as he jerked on the chain, pulling the anchor loose along with much of the balcony railing.
 
 The roar of engines and barking dogs in the near distance sent the three running through the maze without further conversation.
 
-## Blackfeather Lore: Part Four - ‘RUFFIANS!’
+## ‘RUFFIANS!’
+
+
+
+![My blade is fast, but I never make it quick.](../../.gitbook/assets/bf_lore1000.jpg)
 
 “Beware, Princess! Ruffians are about!” Blackfeather posed in a deep lunge, his hand on his sword hilt, as a trio of cagey foes in tattered black cloaks emerged from the dead-end shadows of the thorny maze.
 
@@ -156,7 +168,7 @@ The princess crossed her arms and drummed her fingers. “Could whoever is kidna
 
 “Yer guards aren’t feeling well.” The second-largest enemy spat on the ground, then jabbed a thumb over his shoulder. “We bopped their heads together and now they’re napping. We’ll do the same to you if you can’t otherwise keep quiet.”
 
-“I shall acquaint you with my blade for threatening royalty in that fashion, you boor.” Blackfeather drew his sword with a satisfyingshhhiinnnggg. “Uncouth louts, meet my sword,Blackfeather.”
+“I shall acquaint you with my blade for threatening royalty in that fashion, you boor.” Blackfeather drew his sword with a satisfying shhhiinnnggg. “Uncouth louts, meet my sword, Blackfeather.”
 
 The Princess paused her dramatic despair. “You named your sword afteryourself? Of all the egomaniacal …”
 
@@ -202,7 +214,11 @@ Blackfeather whirled in a panic. “Never fear! I memorized the way… left, lef
 
 “No time for puzzles, I’d say,” said Phinn, and he lumbered straight into the Hardy Orange maze wall, stomping it down into a crumble-squish of finger-long thorns and half-ripe fruits.
 
-## Blackfeather Lore: Part Five - ‘LOVE’S FAILED KISS’
+## ‘LOVE’S FAILED KISS’
+
+
+
+![Impossible!](../../.gitbook/assets/blackfeather-lore2_1000px.jpg)
 
 Phinn chewed on his pipe while a bobber floated on the still water of a pond. He sat on a rock, half snoozing, jerking awake whenever his fishing pole slipped out of his claws.
 
@@ -272,13 +288,201 @@ Susie nodded in agreement.
 
 “I shall be the one to tickle you awake, your highness,” he whispered. “I care not where the adventure takes me.”
 
-### ALTERNATE FATES
+## **‘THE FOREST WITCH’**
 
-#### ‘DYNASTIES’ BLACKFEATHER - ‘The Warlord’s Wife’
+ Through the forest Blackfeather, Susie and Phinn journeyed, the slumbering Princess Malene draped over the troll’s shoulders, until they reached a cottage, roundish and squat, with vines overtaking the stones and pleasant-smelling smoke coming from the chimney.
 
-\_by SugarVenom
+ Blackfeather flourished one arm. “At last! We have found the old witch’s cottage!”
 
-\_Blackfeather waited for a breezy day to climb his beloved’s window nearest to a blooming tree, for he could not risk blowing his chance to woo the Warlord’s Wife on a day when no pink blossoms would drift past his eyes wet with longing. Hanging outside the window by the tips of his fingers, he paused to long for several moments and drummed up some good solid longing. He longed until the proper wetness brimmed over his eyelids, then he swung into the Warlord’s chamber, knowing that the Warlord himself had retired to his sitting room with his cherry-flavored bubbles, blind to the devilry afoot.
+ “Which witch?” asked Phinn.
+
+ “Whichever witch witches in this forest.”
+
+ Phinn flung one of the princess’ flopped arms, the mirror clutched in her grasp, back over his shoulder. “Maybe we should leave a forest witch alone.”
+
+ “Normally I would, Phinneas, but witches collect magic items. Unless _you_ have the address of a generous seraphim?”
+
+ Phinn shrugged, toppling Malene into Blackfeather’s arms. Blackfeather oofed, then rang the doorbell with his nose.
+
+ A gray-haired woman dressed in gray answered, drying her hands on her skirt.
+
+ “Greetings, old witch!” cried Blackfeather. “I am in dire need of -”
+
+ “No,” she said.
+
+ “But, dear old witch, I have not yet made my enquiry.”
+
+ “Go on then,” she said.
+
+ “I am in dire need of an azure plume from the wing of a seraphim,” said Blackfeather.
+
+ “No,” she said.
+
+ Blackfeather, who had not been told no often enough in his life, wavered. “But I… I have carried this princess across all of the forest…”
+
+ “_I_ carried her mostly,” muttered Phinn.
+
+ “I figured,” said the witch.
+
+ “What reason could you possibly have for refusing us?” asked Blackfeather, flabbergasted.
+
+ “You called me old.”
+
+ "I didn’t mean _old_ so much as _ugly_,” whined Blackfeather. “Of course you understand.”
+
+ “I do,” said the witch. “Handsome men like you only keep company with beauties.”
+
+ “Precisely,” said Blackfeather.
+
+ “Like the dead one there,” said the woman.
+
+ "Yes… I mean no!” cried Blackfeather. “She is only _partly_ dead. She was poisoned by…”
+
+ “…a Hardy Orange thorn,” sighed the witch. “Those moronic mazes.”
+
+ “You must help me.” Blackfeather’s eyes filled with tears. “I have never loved as deeply as this.”
+
+ “Then don’t wake her up,” said the witch. “Nothing kills a good love story like a conscious woman.”
+
+ “You know _nothing_ about love,” said Blackfeather.
+
+ “You know nothing of _women_.” The witch bent to sniff at the princess’ thin exhales, then lifted one limp royal wrist to peer into the mirror. “Within every beautiful princess sleeps a powerful shadow.”
+
+ “There is no shadow inside _this_ girl,” said Blackfeather.
+
+ “You’re right, but you don’t know why,” said the witch with a wry smile. “Give me the mirror, and I’ll give you the feather.”
+
+ “The mirror isn’t ours to give,” said Phinn.
+
+ Susie agreed.
+
+ Malene snored.
+
+ “Done!” oofed Blackfeather with the desperation of a man whose arms are buckling under the dead weight of a princess.
+
+ “Come in,” said the witch.
+
+## ‘HAPPILY EVER AFTER’
+
+ Malene felt a feather-soft tickle on her nose and opened her eyes.
+
+ “Phinn! She’s awake!”
+
+She laid on a kitchen counter in a witch’s cottage, made evident by the shelves of stoppered jars, the dried herbs hung on the walls, and the witch sitting by the fire.
+
+A golden-haired man holding a shining seraphim’s feather bowed. After a blink or two, Malene recognized him, fuzzily, as her recent captor. “My lady,” he crooned, “I have carried you across a vast forest to find the feather that would tickle you awake.”
+
+_“I_ carried you mostly,” said a troll at the door. He was too big to fit inside, so only his head was stuck through. Coocoo D’Etat preened herself on his head.
+
+Malene, satisfied at having been awakened in suitable fashion, rounded out the adventure by falling in love. “My hero,” she gasped, touching her rescuer’s cheek with the back of her hand while trying to remember his name. “How can I ever thank you?”
+
+The feather floated to the floor as the man gathered her into his arms. “I ask only for a kiss, my love.”
+
+The princess melted into his arms and they kissed. It was a fantastic kiss, pulled off with nary a tooth bump and minimal halitosis, the kind of kiss that kicks off a proper happily ever after.
+
+“Be sure to invite me to the wedding,” said the witch.
+
+“The what?” asked Malene’s true love with his mouth still full of kiss.
+
+“The wedding,” repeated Phinn helpfully.
+
+“The _wedding!”_ squealed Malene.
+
+“Now now…” The lover boy backed up a step, his palms outward. “Marriage is… it is such a big _leap_ from the first kiss, is it not?”
+
+“Not in these stories,” said the witch.
+
+“Oh, we shall have a _huge_ royal wedding, much bigger than my sister’s, and the train on my dress will be a mile long,” cried Malene.
+
+“However,” mused the witch, “you do need _two_ royals to have a royal wedding.”
+
+“Indeed,” said the man. “Though I am courageous and fierce and the best kisser on the continent, I am not of royal blood, and so our love must always be the forbidden kind… which is anyway my favorite.”
+
+Malene wept. “But I _want_ a royal wedding.”
+
+“A queen can promote a rogue to a royal,” suggested the witch.
+
+“A pauper to a prince,” said Phinn.
+
+“A bandit to a baron,” said Coocoo in bird language.
+
+“A degenerate to a duke?” said Malene, sniffing away tears.
+
+“A loser to…”
+
+“That’s enough,” said the man.
+
+“Then again,” mused the witch, _“you_ are just petty royalty. If only you were, say, Queen of the Eventides.”
+
+_“Then_ I could marry whomever I please!” cried Malene. “So all we must do is defeat the Storm Queen.”
+
+“Unlikely,” said the witch.
+
+“We have a troll, and my lover’s blade,” said Malene.
+
+“You’ll need a powerful mage,” mused the witch, gazing into her new mirror. “And a dragon or two.”
+
+Malene shrugged. “Then I shall have a dragon or two.”
+
+“Can’t just pick up a dragon from the market,” said Phinn.
+
+“A mage, though, is very near,” said the witch.
+
+“Wait.” Malene pointed at the witch. “Is that _my_ mirror?”
+
+“A price had to be paid for the feather,” said Malene’s nervous fiancé.
+
+The witch twirled the mirror in her hand. “He didn’t know the mirror’s purpose, I assume.”
+
+Malene leaped to her feet – then stumbled from the painful poking-pin sensation of her limbs waking. “You _will_ return it.”
+
+“No,” said the witch. “But I will return _this_.” She rapped her knuckles on the mirror’s back, and out of the glass swirled a dark shadow that collected itself into the shape of Malene.
+
+
+
+![I may be a frog, but I have a very sexy ribbit.](../../.gitbook/assets/1000px_malene_lore.jpg)
+
+The rescuer clamped his fist around the hilt of his sword, but Malene stopped him with one raised finger. The shadowy mirror-Malene’s finger raised, too. Their fingertips touched.
+
+“Once upon a time,” said the witch, “a king and a queen had a baby.”
+
+The two Malenes pressed their palms together, and their hands became one.
+
+“The princess was beautiful, but if she didn’t get her way, she became a tantruming horror. And this princess, having been born with some… not insignificant magical ability, made an obvious mess when angry. And obvious Mageborn children go straight to the Storm Queen’s army.”
+
+The shadow and Malene moved closer until they stood nose-to-nose.
+
+“I would tell most parents to deal with their own brats, but the king and queen were quite generous. So I trapped their daughter’s shadow in this mirror, and ever after, she behaved like a useless, spoiled princess. But now…”
+
+The two princesses enveloped one another, the shadow hidden completely away. “Now,” said Malene, “it is time to be queen.”
+
+“I don’t think it’ll work,” said Phinn.
+
+Malene spun to face the troll and the swordsman, and in a flash of long-dormant magic transformed into the shadow once trapped within the mirror. “I _will_ have a dragon!” she announced. “I will have a dragon in every color! And I _will_ be Queen of the Eventides, and we will live happily ever after, and that is final!”
+
+As quickly as it had appeared, the shadow faded, and the lovely princess remained. With a flouncing of skirts and a charming smile, Malene squeezed through the door past Phinn.
+
+The adventurers stumbled from the cottage in shock. “So, Blackfeather,” said Phinn, “We’ll be going the other way, right?”
+
+“That’s it! _Blackfeather!”_ cried Malene from the garden. “I had _completely_ forgotten his name.” And with that, she skipped away down the forest path.
+
+_“Look_ at her, Phinneas,” sighed Blackfeather. “Such pluck. Such moxie!”
+
+“So we’re going _with_ her, then,” said Phinn. “Toward dragons.”
+
+The witch scooped up the feather from the floor. “Have fun storming the Storm Queen,” she called, then slammed the door behind them.
+
+## ALTERNATE FATES
+
+### ‘DYNASTIES’ BLACKFEATHER 
+
+#### 'The Warlord’s Wife’
+
+
+
+![I never claimed to be a gentleman.](../../.gitbook/assets/blackfeather_splash_tier1_1000w.jpg)
+
+Blackfeather waited for a breezy day to climb his beloved’s window nearest to a blooming tree, for he could not risk blowing his chance to woo the Warlord’s Wife on a day when no pink blossoms would drift past his eyes wet with longing. Hanging outside the window by the tips of his fingers, he paused to long for several moments and drummed up some good solid longing. He longed until the proper wetness brimmed over his eyelids, then he swung into the Warlord’s chamber, knowing that the Warlord himself had retired to his sitting room with his cherry-flavored bubbles, blind to the devilry afoot.
 
 Malene, the Warlord’s Wife, spun with magnificent flourish, beautiful almost to translucency, her eyes, Blackfeather decided, also wet with longing at the sight of him. The Warlord’s chamber was choked full of longing.
 
@@ -292,9 +496,13 @@ Malene lowered her face. “No!” she cried, “do not embrace me. Do not even 
 
 Malene wheeled away from Blackfeather and screamed. “Intruder! Help!” And to Blackfeather’s surprise, she was pointing at_him_, though it was\_his\_kiss that had been interrupted. He spun away toward the window from which he had come; with pleasure he noted that more blossoms were breezing in so he would escape in a cloud of them, which almost did not happen; he heard the whistling of a weapon flying and its cold wind brushing at his neck as he leaped out of the window and ran for his life.
 
-_…to be continued?_
+### ‘LOVE BITES’ BLACKFEATHER  
 
-#### ‘LOVE BITES’ BLACKFEATHER - ‘**NIGHT OF THE FIRST KISS**’
+#### ‘**NIGHT OF THE FIRST KISS**’
+
+
+
+![Mystery is my weapon, beauty is my shield.](../../.gitbook/assets/1000x500_love_bites_blackfeather-2.jpg)
 
 In the mountains, there is an old legend about the day when the brave townspeople defeated a vampire and saved the town.
 
@@ -318,7 +526,13 @@ The girl’s eyes fluttered open. “For love,” she replied.
 
 It was a new beginning of lawlessness, the revolution of juicy nocturnal trysts and unabashed giggling. Ever after, this blunder was known as the Night of the First Kiss.
 
-#### ‘CHAMPION’S FATE’ BLACKFEATHER - ‘THE BLADEMASTER’S DAUGHTER’
+### ‘CHAMPION’ BLACKFEATHER  
+
+#### ‘THE BLADEMASTER’S DAUGHTER’
+
+
+
+![I am three moves ahead.](../../.gitbook/assets/blackfeather_splash_legendary1000px.jpg)
 
 They say that on the quest for the Blademaster’s Daughter, Diego the goatherd became Blackfeather the Champion. But this is the whole story:
 
