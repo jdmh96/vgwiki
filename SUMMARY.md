@@ -68,7 +68,8 @@
     * [SAW Lore](heroes/saw/saw-lore.md)
   * [Skaarf](heroes/skaarf/README.md)
     * Skaarf Lore
-  * [Skye](heroes/skye.md)
+  * [Skye](heroes/skye/README.md)
+    * [Skye Lore](heroes/skye/skye-lore.md)
   * [Taka](heroes/taka/README.md)
     * [Taka Lore](heroes/taka/taka-lore.md)
   * Tony

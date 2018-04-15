@@ -16,9 +16,9 @@ description: Welcome To The Official Vainglory Wiki
   * [x] weapon
     * [x] chart
     * [x] details
-  * [ ] crystal
+  * [x] crystal
     * [x] chart
-    * [ ] details
+    * [x] details
   * [ ] defense
     * [x] chart
     * [ ] details
@@ -31,121 +31,121 @@ description: Welcome To The Official Vainglory Wiki
 * [x] Terminology
   * [ ] Terminology review and update
 * [ ] Heroes
-  * [ ] Adagio
+  * [x] Adagio
     * [ ] abilities
     * [ ] lore
-  * [ ] alpha
+  * [x] alpha
     * [ ] abilities
     * [ ] lore
-  * [ ] Ardan
+  * [x] Ardan
     * [ ] abilities
     * [ ] lore
-  * [ ] baptiste
+  * [x] baptiste
     * [ ] abilities
     * [ ] lore
-  * [ ] baron
+  * [x] baron
     * [ ] abilities
     * [ ] lore
-  * [ ] blackfeather
+  * [x] blackfeather
     * [ ] abilities
     * [ ] lore
-  * [ ] catherine
+  * [x] catherine
     * [ ] abilities
     * [ ] lore
-  * [ ] celeste
+  * [x] celeste
     * [ ] abilities
     * [ ] lore
-  * [ ] churnwalker
+  * [x] churnwalker
     * [ ] abilities
     * [ ] lore
-  * [ ] flicker
+  * [x] flicker
     * [ ] abilities
     * [ ] lore
-  * [ ] fortress
+  * [x] fortress
     * [ ] abilities
     * [ ] lore
-  * [ ] glaive
+  * [x] glaive
     * [ ] abilities
     * [ ] lore
-  * [ ] grace
+  * [x] grace
     * [ ] abilities
     * [ ] lore
-  * [ ] grupmjaw
+  * [x] grupmjaw
     * [ ] abilities
     * [ ] lore
-  * [ ] Gwen
+  * [x] Gwen
     * [ ] abilities
     * [ ] lore
-  * [ ] idris
+  * [x] idris
     * [ ] abilities
     * [ ] lore
-  * [ ] joule
+  * [x] joule
     * [ ] abilities
     * [ ] lore
   * [ ] kestrel
-    * [ ] abilities
+    * [x] abilities
     * [ ] lore
-  * [ ] koshka
+  * [x] koshka
     * [ ] abilities
     * [ ] lore
   * [ ] krul
-    * [ ] abilities
+    * [x] abilities
     * [ ] lore
   * [ ] lance
-    * [ ] abilities
+    * [x] abilities
     * [ ] lore
-  * [ ] loreli
+  * [x] loreli
     * [ ] abilities
     * [ ] lore
   * [ ] lyra
-    * [ ] abilities
+    * [x] abilities
     * [ ] lore
-  * [ ] Malene
+  * [x] Malene
     * [ ] abilities
     * [ ] lore
   * [ ] ozo
-    * [ ] abilities
+    * [x] abilities
     * [ ] lore
   * [ ] petal
-    * [ ] abilities
+    * [x] abilities
     * [ ] lore
-  * [ ] phinn
+  * [x] phinn
     * [ ] abilities
     * [ ] lore
   * [ ] reim
-    * [ ] abilities
+    * [x] abilities
     * [ ] lore
   * [ ] reza
-    * [ ] abilities
+    * [x] abilities
     * [ ] lore
   * [ ] ringo
-    * [ ] abilities
+    * [x] abilities
     * [ ] lore
   * [ ] rona
-    * [ ] abilities
+    * [x] abilities
     * [ ] lore
   * [ ] samuel
+    * [x] abilities
+    * [ ] lore
+  * [x] SAW
     * [ ] abilities
     * [ ] lore
-  * [ ] SAW
-    * [ ] abilities
-    * [ ] lore
-  * [ ] Skarf
+  * [x] Skarf
     * [ ] abilities
     * [ ] lore
   * [ ] skye
+    * [x] abilities
+    * [ ] lore
+  * [x] taka
     * [ ] abilities
     * [ ] lore
-  * [ ] taka
+  * [x] tony
     * [ ] abilities
     * [ ] lore
-  * [ ] tony
-    * [ ] abilities
-    * [ ] lore
-  * [ ] varya
-    * [ ] abilities
-    * [ ] lore
-  * [ ] vox
-    * [ ] abilities
-    * [ ] lore
+  * [x] varya
+    * [x] abilities
+    * [x] lore
+  * [x] vox
+    * [x] abilities
+    * [x] lore
 
