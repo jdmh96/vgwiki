@@ -1,136 +1,54 @@
 # Defense Item Details
 
-Tier 1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Oakheart
-
-
-
-300
-
-
-
-+250 Max Health
-
-
-
-Oakheart, Lifespring, Reflex Block, Flare Gun, Stormguard Banner
-
-
-
-N/A
-
-
-
-
-
-
-
-Light Shield
-
-
-
-250
-
-
-
-+30 Shield, +5 Armor
-
-
-
-Kenetic Shield
-
-
-
-N/A
-
-
-
-Shield reduces damage from abilities.
-
-
-
-
-
-Light Armor
-
-
-
-250
-
-
-
-+30 Armor, +5 Shield
-
-
-
-Coat of plates
-
-
-
-N/A
-
-
-
-Armor reduces damage from basic attacks.
-
-
-
-Tier 2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Dragonheart
-
-
-
-650\(350\)
-
-
-
-+450 Max Health
-
-
-
-Slumbering Husk, Crucible, War Treads, Nullwave Gauntlet, Shiversteel
-
-
-
-Oakheart
-
-
-
-
+## Tier 1
+
+## Oakheart
+
+* Cost: 300   gold
+* Stats: 
+  * +250 Max Health
+* Builds into:
+  * Dragonheart
+  * Lifespring
+  * Reflex Block
+  * Flare Gun
+  * Stormguard Banner
+
+## Light Shield
+
+* Cost: 250   gold
+* Stats:
+  * +30 Shield
+  * +5 Armor
+* Builds into:
+  * Kenetic Shield
+* Tip: Shield reduces damage from abilities.
+
+## Light Armor
+
+* Cost: 250   gold
+* Stats:
+  * +30 Armor
+  * +5 Shield
+* Builds into:
+  * Coat of plates
+* Tip: Armor reduces damage from basic attacks.
+
+## Tier 2
+
+## Dragonheart
+
+* Cost: 650\(350\)   gold
+* Stats:
+  * +450 Max Health
+* Builds into:
+  * Slumbering Husk
+  * Crucible
+  * War Treads
+  * Nullwave Gauntlet
+  * Shiversteel
+* Builds from:
+  * Oakheart
 
 
 
