@@ -193,7 +193,7 @@
   * +3 Energy recharge 
 * Builds from:
   * [Heavy Steel](weapon-item-details.md#heavy-steel)
-  * Chronograph 
+  * [Chronograph](crystal-item-details.md#chronograph) 
 * Tip:Particularly useful on heroes who run into energy problems. 
 
 ## Poisoned Shiv 
