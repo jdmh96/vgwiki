@@ -2,6 +2,10 @@
 
 ## 'IMPOSSIBLE DECISION'
 
+
+
+![](../../.gitbook/assets/impossible-decision-768x316.jpg)
+
 “I do not need your permission to buy a goat,” Julia said. “Goat milk is delicious, and we can make cheese.”
 
 They’d been arguing all evening. Ardan was hunched over his power gauntlet, sanding down the edges of a grill he’d removed to improve air flow. Outside in the yard, a goat shrieked into the moonless dark. “Goats stink and scream like fiends,” he grumped. “It hasn’t stopped for an hour. How will the twins sleep?”
@@ -98,6 +102,8 @@ He fled from the house into the dark, past the poor dead goat, whose screams had
 
 ## 'ABOVE BOILING BAY'
 
+![](../../.gitbook/assets/above-boiling-bay-768x316.jpg)
+
 “Stop swinging.”
 
 From the top car of the rusted-out Carnie Wheel in the abandoned amusement park, Celeste gazes down at the mismatched buildings and colorful blinking lights of Taizen Gate. Up there, she can almost forget what it’s like to bump through the crowds, her fingers curled up tight in her brother’s so as not to lose him. How the merchants shove dead fish and live chickens and beeping gadgets in her face in the markets. How she never sleeps well thanks to the MECHANIC sign over her father’s garage that pulses red through her curtains. How the few stars that appear above the bright city call to her.
@@ -131,6 +137,8 @@ The amusement car creaks and moans as it swings. “Do you think they’ve found
 “Safe is no fun.” Vox takes up the swinging with renewed violence. Celeste’s annoyed protests resound below the smog.
 
 ## 'THE MASKER RAGE'
+
+![](../../.gitbook/assets/3_masker_rage-768x2227.jpg)
 
 00:00.05
 
@@ -190,6 +198,8 @@ _Celeste searches among the faces of the Stormguard for the one who killed her m
 
 ## ‘VANGUARD UP!’
 
+![](../../.gitbook/assets/4_vanguard-up-768x539.jpg)
+
 Ardan slammed his fist into the armor’s control panel.
 
 “Command?” responded the computer voice.
@@ -244,6 +254,8 @@ A single raven circled above them, camouflaged against the now-dark sky, watchin
 
 ## ‘ESCAPE TO THE FOLD PART I’
 
+![](../../.gitbook/assets/5_escape1-768x432.jpg)
+
 So we’re headed out of Boiling Bay at top speed, right? Carnie Wheel cars are coming unbolted and like
 
 _BAM-CRUSH_
@@ -279,6 +291,8 @@ The war mage goes on about how Celeste has to fulfill her destiny and take the t
 It gets crazy-tense, and everyone’s talking about what’s best for Celeste. But it feels like my future’s being decided too. And I got a decision to make…
 
 ## ‘ESCAPE TO THE FOLD PART II’
+
+![](../../.gitbook/assets/6_escape2-743x1024.jpg)
 
 “If there is a way to end her tyranny, shouldn’t I do it?” Celeste says in that calm way that always winds Dad up even worse.
 
@@ -324,6 +338,8 @@ There’s all these rumors and tales about how Celeste is gonna challenge the th
 
 #### THE RISE OF THE STAR QUEEN
 
+![](../../.gitbook/assets/1450x596_voxt1splash-1024x421.jpg)
+
 A sprite named Loo stole Vox while the others slept. Celeste, being the girl, was the only one with any privacy; Vox was stuffed in a barracks with the Gythians and his snoring father. Ultimately it was a case of mistaken identity, for the sprite was nearsighted and panicky on account of The Audacity’s captain was missing. So she sped in through the high window and tugged at Vox’s nose with both her tiny hands and shouted her squeaks into his ear, which was half her size. “Captain, Captain! There’s a fight about!”
 
 Vox swatted her away in his sleep as if she were a giant mosquito, which enraged her, so she yanked up his eyelid with a fistful of his lashes and poked his eyeball. Of course then she had to pinch his lips shut so he wouldn’t wake the others in the room with his howls, and when he resisted jumping out of the high window with her, she sneezed sprite dust on him to make him float and towed him along after her like a big ship after a tugboat.
@@ -340,6 +356,8 @@ The next morning, The Audacity soared over the Halcyon Fold and hovered over Cel
 
 #### LEADER OF THE BAND
 
+![](../../.gitbook/assets/vox_schooldays_splash-1-768x432.jpg)
+
 If you’re in this game to be liked, back out now. No one is going to like you; what you want is their _fear_. But every tyrant needs a sweetheart who will say things like, _She’s super nice when you get to know her._ A charming, front-facing party guy.
 
 Vox is that guy. Straight A’s, big grin, great style, hair flopped over one eye, one fist dug deep in his pocket, starts every conversation with “Huh?” while pulling headphones away from his ears, has no idea how good looking he is, always has the coolest tech, _the_ best dancer. Head of the DJ Club and band leader. Kids like him. Teachers like him. Pets like him. _Everyone_ likes him.
@@ -349,6 +367,8 @@ He turns streamers, a school gym and a punch bowl into a mindblowing homecoming 
 ### 'VOX ON ICE'
 
 #### THE WORLD'S MOST ELUSIVE CHAMPION
+
+![](../../.gitbook/assets/1000px_vox_ice-768x432%20%281%29.jpg)
 
 “You gonna eat that?”
 
