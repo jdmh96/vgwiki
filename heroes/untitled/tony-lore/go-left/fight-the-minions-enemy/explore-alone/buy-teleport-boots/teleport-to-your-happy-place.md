@@ -1,5 +1,7 @@
 # Teleport to your happy place
 
+#### 'THE HAPPY PLACE'
+
 Your eyes close. Your mind clears. The world around you falls away as you think of your happy place. After a long moment, you realize it’s quiet and warm.
 
 You open one eye.

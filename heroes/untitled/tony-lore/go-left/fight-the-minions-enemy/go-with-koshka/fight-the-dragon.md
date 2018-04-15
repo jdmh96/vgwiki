@@ -1,5 +1,9 @@
 # Fight the dragon
 
+#### 'FIGHT BLACKCLAW!'
+
+![](../../../../../../.gitbook/assets/tony-with-blackclaw.png)
+
 You give chase, avoiding turrets and another pair of scary raven statues, these ones holding shields. By the time you catch up with Koshka, you’re heaving for breath a short distance from Blackclaw, who looks even bigger on the ground.
 
 “Look, I’m just a demolition guy,” you whine.

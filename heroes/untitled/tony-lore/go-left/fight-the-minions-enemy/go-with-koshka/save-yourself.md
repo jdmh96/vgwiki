@@ -1,5 +1,11 @@
 # Save yourself
 
+#### 'SAVE YOURSELF!'
+
+
+
+![](../../../../../../.gitbook/assets/flowers-e1519441960175%20%281%29.jpg)
+
 “I’m paid to dig holes, not clobber dragons,” you say, backing up. You race as fast as your short legs will take you all the way back down the mountain.
 
 Back underground, you tell the others about the dragon. Saw it with your own eyes, you did, the _real thing.  

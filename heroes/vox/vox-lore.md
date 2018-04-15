@@ -334,9 +334,9 @@ There’s all these rumors and tales about how Celeste is gonna challenge the th
 
 ## ALTERNATE FATES
 
-### 'CLOUD RAIDER' VOX
+### 'SKY CAPTAIN' VOX
 
-#### THE RISE OF THE STAR QUEEN
+#### 'THE STAR QUEEN'S NAVY'
 
 ![](../../.gitbook/assets/1450x596_voxt1splash-1024x421.jpg)
 
@@ -351,6 +351,68 @@ Since it had not been the first time that Vox’s life had gone topsily-turvily,
 Life was so fun in the world of flying corsairs and pixie dust that Vox forgot to miss his family for a long time, but one night, Loo demanded a bedtime story. Vox told her the tale of Celeste and her own very important adventure, and the telling made him ache.
 
 The next morning, The Audacity soared over the Halcyon Fold and hovered over Celeste’s little party of rebels. Vox straddled the gangplank and grinned like a rogue as the fleet he’d won sank through the clouds, a hundred airships at least, from schooners to coracles, all flying Celeste’s flag. “I’ve brought you a navy!” he sang out. And the rebellion began.
+
+### 'CLOUD RAIDER' VOX
+
+#### 'LIONNE'S REVENGE'
+
+![](../../.gitbook/assets/cr-vox-ii-768x432.jpeg)
+
+With a roar of engines and propellers and the snap of sails, the Star Queen’s navy of airships rose like dark moons over the gates of Mont Lille. Captain Vox stood on the deck of _The Audacity_, a grin spread under his posh mustache. Loo the sprite stood atop his head in an epic battle pose, holding a lock of his hair in one little fist, a tiny saber in the other. Goblins manned the sound cannons. The Bloodless Revolution night had been a bore for the war-wild pirates, but Lionne’s Revenge against the capital city had proved quite the romp. The same people who had marched against the Storm Queen had, once given their independence, marched against her successor, demanding retribution for their fallen city in destruction and blood.
+
+In the deep dark, splashes of fire erupting from the long throats of cannons cast strobe lighting on the enemy trenches. The gate slammed with great metallic crashes from a battering ram shouldered by beefy soldiers. Behind the trenches, soldiers and villagers alike waited with burning torches, cursing the old and new queen alike, demanding vengeance for the destruction of Lionne years before.
+
+“_Now_ it’s a party!” cried Vox. Loo squeaked a string of profanities and the goblins cheered as _The Audacity’s_ cannons roared out sonic pulses that blew the Lionnais gunners back into their trenches and shattered the ram into splinters. Pulses met cannonballs midair, dissolving them into shrapnel that hailed down onto their gunners. The night air blistered with heat and gunpowder and pounded with discordant sounds. An ultrasonic wave burst from Vox’s palms, rupturing the enemy cannons just as a last chain shot blasted home in _The Audacity’s_ engine room.
+
+Aground, the Stormlord turned to watch _The Audacity_ blow.
+
+_Damnit, Vox!_
+
+Dodging the huge jagged pieces of the great airship as they slammed down, he ran to where what was left of his son floated down, meandering as a feather, ensconced in a cloud of sprite dust.
+
+### 'EVOLUTION' VOX
+
+#### 'I MADE THESE FOR YOU'
+
+![](../../.gitbook/assets/cloudraider_t3_1000w-1-768x432.jpg)
+
+_…your mother and I when we were young. I should not have done it. I live with the regret of it to this day, not that my guilt could bring her back. I don’t know if you can hear this; perhaps it’s better if you don’t. All I can do now is protect Celeste, as well as she will allow…_
+
+Vox woke in a white room with two chairs. His father sat opposite him, elbows on his knees, hands clasped. Ardan looked nothing like the Stormlord he’d become. He looked like he had before the Masker Rage, before the Gythians and the Halcyon Fold, before Loo the sprite and the goblin pirates, before _The Audacity_, before the Bloodless Revolution, before … before …
+
+“You’re dreaming,” said Ardan, his voice gentle. “You were hurt in an accident. You’ve been unconscious for months. It would be too much of a shock for your mind to wake up right away. I have simulated this dream to guide you.” The room around them changed top to bottom, the ceiling, then the walls, then the floors and furniture becoming Vox’s old bedroom in Taizen Gate.
+
+Vox clapped his hands over his chest, rubbed his head, peered down at himself. “Hurt how? Where?”
+
+“In this dream, you are as you were before.”
+
+“So I can be whatever in this dream?”
+
+“The simulation can be edited how…”
+
+“Can I be a dragon?”
+
+“Focus, Vox.” A smile twitched at Ardan’s mouth as his son slumped down in his chair. “_The Audacity_ was shot down. You lost a leg and both of your arms, but we had the technology to rebuild you.” The simulation changed again, but this time it was Vox who morphed, head to toes, his arms and one leg becoming twisting, molded, jointed steel.
+
+“Whoa,” whispered Vox. He leapt to his feet, closing and opening his fists, bending his mechanical knee.
+
+“The doctors say that you should take some time to mourn the loss of your…”
+
+“I look … _so cool!_” Vox twisted to look at himself in a mirror. “I bet I’m _hella_ fast now!”
+
+“Listen to me, Vox. The sound-magic. You used to use your hands.”
+
+Vox looked down at his palms, realization draining the color from his face. “Did I … did I lose it?”
+
+“The magic current does not flow down the mechanical arms. I made these for you.” Technological equipment materialized on Vox’s back, head and hips: halos that throbbed to life with a thrumming beat.
+
+“Wow!” Vox plucked up a disc of sound from his hip holster and spun it around a mechanical finger. “Can I try it out?”
+
+“Are you sure you wouldn’t like to process your feelings about…” But Ardan was interrupted when, with a pro wrist flick, Vox sent the disc flying into the wall. The simulated room exploded into pixels that scattered and fell away.
+
+“Oh man, Dad, this is the most awesome thing that’s ever happened to me.” Vox jumped at Ardan, squeezing him into a hug. “Thank you.”
+
+Ardan swallowed hard and patted Vox on the back. “I guess… ah, we can wake you. In a minute.” Before he returned to the real world, where he lived inside power armor with the help of his daughter’s star, where his daughter ruled a tumultuous continent, where Vox would go off on more adventures with his sprite and goblin crew, Ardan took a moment to hold his son.
 
 ### 'SCHOOL DAYS' VOX
 

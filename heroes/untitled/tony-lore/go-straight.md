@@ -1,5 +1,11 @@
 # Go straight
 
+#### 'BACK AND A LITTLE TO THE LEFT'
+
+
+
+![](../../../.gitbook/assets/sword-767x1024.jpg)
+
 No better direction than forward, so you take the middle path. Birds tweet, clouds lazily by, flowers open, a Grumpjaw gnaws on a femur…
 
 A _Grumpjaw_?

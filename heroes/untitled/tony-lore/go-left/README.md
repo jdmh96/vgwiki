@@ -1,5 +1,9 @@
 # Go left
 
+
+
+![](../../../../.gitbook/assets/orb-767x1024.jpg)
+
 Off to the left, you rush between two creepy statues of stern-eyed ravens, each holding orbs. Little figures appear in the thick morning mist: a mass of fuzzy, flappy-eared creatures with guns, marching past a shiny turret.
 
 You’re bumped in the back by the belly of one of the creatures. This one is _husky_, and he’s carrying a _big_ gun, the business end of which is pointed at your face.

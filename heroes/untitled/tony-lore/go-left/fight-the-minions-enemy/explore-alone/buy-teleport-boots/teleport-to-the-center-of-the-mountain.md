@@ -1,5 +1,9 @@
 # Teleport to the center of the mountain
 
+#### 'THE TRUTH'
+
+![](../../../../../../../.gitbook/assets/tony-and-queen.png)
+
 You close your eyes and whisper, “I want to know what’s really going on inside this mountain.”
 
 The Teleport Boots buzz, your stomach turns inside-out… and you’re in a narrow courtyard with tall walls and a zillion raven perches. “Wait. What?” you whisper. You meant to go inside the mountain. “Why…”

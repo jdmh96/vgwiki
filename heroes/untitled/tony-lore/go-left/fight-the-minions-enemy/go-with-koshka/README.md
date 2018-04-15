@@ -1,5 +1,11 @@
 # Go with Koshka
 
+#### 'GO WITH KOSHKA'
+
+
+
+![](../../../../../../.gitbook/assets/flowers-e1519441960175.jpg)
+
 “There haven’t been dragons for a thousand years,” you tell Koshka.
 
 “There’s _totally_ a dragon, and we’re gonna be his friend,” she says. “I just need help bopping it on the head.”

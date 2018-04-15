@@ -1,5 +1,9 @@
 # Punch your way out of the pipe
 
+
+
+![](../../../../../../../.gitbook/assets/tony-pollutes-the-water.png)
+
 Nope, nope, nope. Crystal shards aren’t worth finding out what’s down there, especially since that scent is familiar. This pipe, you realize, is a siphon. That stink is Churn smog. And you’re sitting in an enclosed space with it.
 
 A demolition dwarf is never in too tight a spot. You slam the side of one big metal power fist into the pipe. You can’t pull back to hit with any real power, but you’ve made a decent dent. You punch again and again until the pipe bursts outward. The Churn smog escapes with a little hiss.

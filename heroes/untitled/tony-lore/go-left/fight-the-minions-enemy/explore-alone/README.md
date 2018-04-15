@@ -1,5 +1,9 @@
 # Explore alone
 
+#### 'EXPLORE ALONE'
+
+![](../../../../../../.gitbook/assets/crystal_2-1-e1519441715276.jpg)
+
 “Look, Koshka.” You peel the girl from your back and she crouches, claws on the ground, just like a kitty. “Dragons went extinct a long time ago.”
 
 “But…” she whines.

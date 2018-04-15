@@ -1,5 +1,7 @@
 # Fight the minions' enemy
 
+#### 'FIGHT!'
+
 Whoever this dude is, his flying blades are getting way too close to your hair. _No one_ messes with your hair. “Screw this guy!” you yell, and charge past the minions. Your right power puncher smashes into the enemy’s face. The guy crumbles like a dry cookie, his fancy helmet clattering to the cobbles.
 
 You’d think the minions would pause to _thank_ you, but instead they start popping off shots at the turret. The turret responds with regular bursts that take out minion after minion.
