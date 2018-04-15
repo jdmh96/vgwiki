@@ -99,7 +99,8 @@
             * [Take an egg for yourself](heroes/untitled/tony-lore/untitled/steer-clear-of-the-charged-crystals/stow-away-in-secret/take-an-egg-for-yourself.md)
             * [Get away as fast as possible](heroes/untitled/tony-lore/untitled/steer-clear-of-the-charged-crystals/stow-away-in-secret/get-away-as-fast-as-possible.md)
           * [Commandeer the airship](heroes/untitled/tony-lore/untitled/steer-clear-of-the-charged-crystals/commandeer-the-airship.md)
-  * [Varya](heroes/varya.md)
+  * [Varya](heroes/varya/README.md)
+    * [Varya Lore](heroes/varya/varya-lore.md)
   * [Vox](heroes/vox/README.md)
     * [Vox Lore](heroes/vox/vox-lore.md)
 
