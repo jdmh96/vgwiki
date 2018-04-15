@@ -118,11 +118,11 @@ description: Welcome To The Official Vainglory Wiki
   * [ ] reza
     * [x] abilities
     * [ ] lore
-  * [ ] ringo
-    * [x] abilities
+  * [x] ringo
+    * [ ] abilities
     * [ ] lore
-  * [ ] rona
-    * [x] abilities
+  * [x] rona
+    * [ ] abilities
     * [ ] lore
   * [ ] samuel
     * [x] abilities
@@ -130,8 +130,8 @@ description: Welcome To The Official Vainglory Wiki
   * [x] SAW
     * [ ] abilities
     * [ ] lore
-  * [ ] Skaarf
-    * [x] abilities
+  * [x] Skaarf
+    * [ ] abilities
     * [ ] lore
   * [x] skye
     * [ ] abilities
@@ -143,9 +143,9 @@ description: Welcome To The Official Vainglory Wiki
     * [ ] abilities
     * [ ] lore
   * [x] varya
-    * [x] abilities
-    * [x] lore
+    * [ ] abilities
+    * [ ] lore
   * [x] vox
-    * [x] abilities
-    * [x] lore
+    * [ ] abilities
+    * [ ] lore
 
