@@ -92,7 +92,7 @@ Idris whirled around and the display whirled too, so that what was behind him sh
 
 In the year of nightly battles he had seen many kinds of Churnbeasts, horrific evolutions of animals and plants, but what slithered through the door was another thing altogether, a thing fashioned after a giant serpent but made of steel and the conjoined bodies of two women, their fingers mutated to resemble viper fangs, tubes and wires grafted into their flesh as if grown there, a single glowing eye separating their torsos. It was a sickening amalgam of wildlife, humanity and technology. The serpent slithered in a spiral so that one and then the other of the sisters faced up, and Idris could see that they had been beautiful once.
 
-![They will flee before me.](../../.gitbook/assets/idris-lore2.jpg)
+![They will flee before me.](../../.gitbook/assets/idris-lore2%20%281%29.jpg)
 
 ## ‘RANA AND AYAH’
 

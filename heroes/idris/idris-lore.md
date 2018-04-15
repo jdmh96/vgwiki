@@ -1,10 +1,6 @@
 # Idris Lore
 
-## Idris Lore: PART ONE
-
-### ‘THE ADVICE NOT GIVEN’
-
-_On the other side of the world, the Churn has overtaken a city and forced its people into the surrounding desert …_
+## ‘THE ADVICE NOT GIVEN’
 
 Ages ago, the desert people learned to heat the pink, blue and white crystal sand of the desert to make glass, and from it they created a city so strong, glittering and beautiful that even the seraphim took notice.
 
@@ -24,7 +20,7 @@ In the blood-soaked no-man’s land between the camp and the city, he went to wo
 
 Again he gazed toward the dune. The azure-winged man had not disappeared.
 
-Idris closed his eyes, set the dune where the_djinn\_stood in his mind, then willed himself\_there_.
+Idris closed his eyes, set the dune where the _djinn stood in his mind, then willed himself there_.
 
 ~
 
@@ -66,9 +62,11 @@ Adagio’s expression, for a moment, softened. “What the Churn does not kill, 
 
 “I gave no…” But before Adagio could finish his thought, the ground beneath Idris crumbled and the sand rose in a spectacular swirl. Then the young man was gone from the dune, and Adagio could only look after him, his arms crossed, shaking his head. “Once an eon or so,” he murmured, “a mortal casts an interesting shadow.”
 
-## Idris Lore: PART TWO
 
-### ‘THE HOUSE OF INSIGHT’
+
+![The true battle is waged with-in.](../../.gitbook/assets/idris_orientalist_lore1_1000%20%281%29.jpg)
+
+## ‘THE HOUSE OF INSIGHT’
 
 _Idris travels through the Churn in search of his people’s salvation …_
 
@@ -82,9 +80,7 @@ It felt like a dream of breathing underwater. His vision cleared, and he saw tha
 
 Idris dropped his turban and gripped his chakram again. He drew his spear, raised himself up and walked toward a door worked with colorful, geometric glass tiles, now broken and jagged. The sign above it remained:
 
-GOOD CANNOT BE BROUGHT FORTH  
-NOR EVIL AVOIDED  
-EXCEPT BY KNOWLEDGE
+#### GOOD CANNOT BE BROUGHT FORTH NOR EVIL AVOIDED EXCEPT BY KNOWLEDGE
 
 He had arrived at the House of Insight, inside which the engineer sisters Rana and Ayah had written their book.
 
@@ -100,9 +96,11 @@ Idris whirled around and the display whirled too, so that what was behind him sh
 
 In the year of nightly battles he had seen many kinds of Churnbeasts, horrific evolutions of animals and plants, but what slithered through the door was another thing altogether, a thing fashioned after a giant serpent but made of steel and the conjoined bodies of two women, their fingers mutated to resemble viper fangs, tubes and wires grafted into their flesh as if grown there, a single glowing eye separating their torsos. It was a sickening amalgam of wildlife, humanity and technology. The serpent slithered in a spiral so that one and then the other of the sisters faced up, and Idris could see that they had been beautiful once.
 
-## Idris Lore:PART THREE
 
-### ‘RANA AND AYAH’
+
+![What a waste it is to fight against one another.](../../.gitbook/assets/idris-lore2.jpg)
+
+## ‘RANA AND AYAH’
 
 _A different kind of Churnbeast slithers between Idris and the book he seeks …_
 
@@ -144,6 +142,10 @@ The man who stumbled to the shimmering sand before Adagio was not the same man w
 
 Adagio sighed. How annoying it was to care for humans. From his hands burst the gift of fire; it flooded into the dying man, radiating beneath his skin. “This will revive you, but not even I can draw the poison from your blood. The Churn will always call to you.”
 
+
+
+![You talk, I will listen.](../../.gitbook/assets/idrisadagio3%20%281%29.jpg)
+
 Idris’ shining eyes opened and he grasped for the book in the sand. “But I have this. Now we can win.”
 
 “Oh dear, no.” Adagio laughed, but then he met Idris’ steady, glowing gaze. His tone softened. “Your people are brave, but how will they engineer the devices in this book? With spears and goats and campfires? No; this book must go to those around the world who can use it. I suppose I can take you to the Technologists.”
@@ -156,11 +158,15 @@ Idris clenched his fists. “I will go with you, then. But I swear I will return
 
 “You are… almost impressive in your naivetè,” said Adagio. He drew up the reviving warrior into his arms, spread his great wings, and took flight.
 
-## ‘ELITE FORCE’ IDRIS
+## ALTERNATE FATES
 
-The Churn whispers to ‘Elite Force’ Idris as he scouts inside the most mysterious place on the Fold: the Halcyon Well. Will he succumb to the evil that lives within him?
+### ‘ELITE FORCE’ IDRIS
 
-#### THE VOICES
+#### 'THE VOICES'
+
+
+
+![Truth goes unarmed, but I shall carry a spear.](../../.gitbook/assets/idris_elite_splash_1000px.jpg)
 
 _Idris…_
 
@@ -218,129 +224,15 @@ Above, the commander appeared below the mist.
 
 “Go back!” cried Idris, yanking on the rope, one-two-three-four-five-six; he yanked and yanked and it was too late. The commander dropped down into the cave.
 
-#### DISARM!
+### ‘HORUS’ IDRIS
 
-Twenty meters down the Halcyon Well, Baron’s navigation and communication systems malfunctioned. He watched the HUD on his visor flash with readouts as he descended, his thrusters burning, into the glowing blue crystal cave. “Manual override,” he said, and the rocket launchers, porcupine mortars and ion cannon blinked online.
+#### ' THE LOST TEMPLE OF RA'
 
-“Surface scan,” he said.
 
-The HUD flashed warnings, revealing movement everywhere. “Locate scout,” said Baron.
 
-“Go back!”
+![Follow your fear to the honorable fight.](../../.gitbook/assets/horus_edit_1000px.jpg)
 
-The HUD pinpointed Idris’ location in the center of a mass of what looked like glowing, spiked worms the size of his arm, their heads all mouth. His spear swung and his chakram flew in a whirl of hot glowing blood. “Idris!” Baron called. “Hang on, we’ll get you out!”
-
-“No.” The chakram flew and returned again, but Idris sank into the sand, the Churn worms’ mouths locked onto his armor. “I should not have tempted the Churn. You must leave me and abort the mission.”
-
-“I don’t leave men behind.” Baron’s jets lowered him onto the soft ground. Churn worms wriggled and writhed, bursting through the sand and slithering out of the hole at the center of the cave. They snapped their jaws and latched onto his exo-armor, spiraling their long spiked bodies up his legs as he trudged toward Idris.
-
-“It is too late,” Idris said, his calm voice eerie and alien through his mask. He sheathed his spear and chakram and allowed himself to be pulled down.
-
-A Churn worm snapped at Baron’s visor, its mouth stretched wide, so that his vision was blocked by the beast’s glistening maw. He peeled the worm off and threw it.
-
-Idris mumbled to himself as the Churn worms encircled him.
-
-Baron dug through the sand and found the rope secured to Idris’ waist. In the reflection of his visor his mouth was set in a grim line, marred by glistening worm mucus. “Listen to me, buddy. You with me?” He leaned back and pulled. “I can obliterate everything in here, but you need to get behind me. I can’t pull you out unless you fight your way up.”
-
-Idris shook his head with violence, as if waking from a dream.
-
-“Arm Ion Cannon,” said Baron. The HUD flashed:
-
-CANNON ARMED.
-
-“Lock target,” he said, and a countdown blinked on the HUD.
-
-Baron pulled the rope fist over fist, but Idris was too deep. “Fifteen seconds!” Worms wrapped around his armored hands and the rope fell. “Don’t give up on me!”
-
-“I cannot fight.” Idris unclipped the rope from his waist and tossed it aside. He unwound a worm from his neck, stared at it face to face, then pulled it apart with a spray of shimmering blue blood.
-
-“Disarm Ion Cannon!” called Baron. The HUD flashed, scrambled, turned to static.
-
-The countdown continued.
-
-“Disarm all weapons!”
-
-The HUD flashed:
-
-CANNON ARMED.
-
-MULTI-ORDINANCE LAUNCHER ARMED.
-
-“Disarm!_Disarm!_” But the countdown continued to blink down.
-
-3… 2… 1…
-
-The cannon’s recoil knocked Baron back. The sand where Idris had been lit up with the power of the orbital strike. Rockets launched and porcupine mortars arced high, falling with deafening power. Crystal stalagmites burst into shards; stalactites cracked and fell from the ceiling. Worms, blasted to death, rained down from the cave walls with sickening splats.
-
-Baron found his feet and cursed, scanning the killzone for life. Smoke escaped down the hole in the cave’s center as if inhaled.
-
-“That was close.”
-
-Baron whirled around as Idris jumped off his back. The desert warrior surveyed the damage, kicking away a pile of dead worms, unearthing a Shatterglass.
-
-“I thought… how did you…?” Baron stuttered.
-
-“We should not linger here. I will take however many of these I can carry.”
-
-“The Churn is creating an electromagnetic field that is disrupting my armor functions.” Baron stomped into a gruesome mess of dead Churn worms. “If my jets function, I can -”
-
-From deep down, far below them, came a roar full of smoke and mist, a sound that froze them both in place.
-
-#### PUCKER FACTOR 10
-
-While the rest of the tech alliance peered at their flashing monitors and beeping accessories, SAW sidestepped, stomped and stretched trying to scratch an itch on his bum. The rope he’d attached to the scout skittered and swayed around the mouth of the Halcyon Well.
-
-“Do you have a malfunction?” The commander’s visor opened to reveal his stern scowl.
-
-“New armor’s working as intended, sir.” He punched his fist into the overlapping metal of his back armor to no avail; the itch only burned worse.
-
-“Watch the rope.” The commander’s visor locked back down.
-
-“Yeah, alright.” SAW cranked the winch according to the rope signals. By the time the rope pulled twice, the itch had traveled up his spine. “All’s well,” he said. “Guess that’s your cue.” While the others watched the commander descend into the well, SAW wedged the handle of his tomahawk between his backplate and hip, trying to scratch, the rope forgotten as it yanked and yanked.
-
-“Hey, merc,” called one of the techies, “isn’t that one of the signals?”
-
-“I’ll tell you when there’s a …” began SAW, but then the ground shook. The techies stumbled and fell. Fog blasted high out of the well. With the tomahawk sticking out at an awkward angle from his hip, SAW lunged at the winch and cranked hard and fast.
-
-The scorched hook emerged from the well without the scout attached.
-
-“Well,” said SAW, hooking the rope to his own waist and grabbing his coilgun, “I’m going to go shoot at whatever they’re shooting at.”
-
-It took three techies working the winch to lower him and his artillery into the blind foggy well. He descended fast, breaking through the fog and getting only a glimpse of the crystal cave before falling straight into the gummy, toothless jaw of the Churn worms’ giant roaring mother.
-
-The worm gulped, and everything went dark.
-
-His coilgun was stuck, wedged tight between the undulating muscles of the beast’s throat. The itch on his bum came back with a vengeance.
-
-“Commander!” he screamed into his radio. “What’s your position!” He punched the beast’s inner flesh as it lunged and spat. “Commander, I need to lay down some fire and if you don’t clear out, you could catch it. Do you copy?”
-
-Only static answered.
-
-“Alright,” he grumbled, yanking the tomahawk free of his hip. He hacked at the squishy fleshy folds, worm blood spattering, holding his position with all his strength as the beast twisted and struggled, until crystal blue light leaked through. He put his head through the hole just in time to almost get it cut off by the chakram flying past.
-
-“Clear out!” he yelled, and pulled back inside, sliding the muzzle of the coilgun through the hole and aiming upward.
-
-The explosive shells burst from the rotary coilgun accelerator. He braced himself against the beast’s contracting muscle, shooting blind, one after another rocking the screaming worm, until he was out of shells.
-
-The beast whined, yawned, and fell with a sickening thump.
-
-He hacked his way out of the dead animal and caught his breath, dripping with goo. He kicked at the worm’s blown-open head, then surveyed the baby worms laying in coiled, bloody death on the sand. He cracked his neck.
-
-The scout and the commander stared at him as he tucked the tomahawk back in place. “Bloody hell! Pucker factor of ten, this,” he said.
-
-“Well done, mercenary,” said the commander.
-
-“Indeed,” said the scout. “That was astounding.”
-
-“Yeah, sure.” SAW picked up a Shatterglass from the sand and tossed it to Idris. “Grab up what you came for and let’s move out. I have an itch on my bum.”
-
-## ‘HORUS’ IDRIS
-
-_The Horus King believes that Ra is his people’s one hope against the onslaught of the Churn, but Ra’s temple has disappeared. Read on to discover the alternate fate of ‘Horus’ Idris, the pharaoh. _
-
-THE LOST TEMPLE OF RA
-
-After seven nights on camelback, the Horus King of the Great House found nothing at the site of the Temple of Ra but endless green, pink and blue sand dunes whirling in the wind. The disciples who had accompanied him consulted the star charts, but they were not lost. Still, the temple was nowhere to be found.
+After seven nights on camel back, the Horus King of the Great House found nothing at the site of the Temple of Ra but endless green, pink and blue sand dunes whirling in the wind. The disciples who had accompanied him consulted the star charts, but they were not lost. Still, the temple was nowhere to be found.
 
 “The temple has been lifted from the world,” surmised a disciple.
 
