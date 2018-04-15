@@ -67,7 +67,7 @@
   * [SAW](heroes/saw/README.md)
     * [SAW Lore](heroes/saw/saw-lore.md)
   * [Skaarf](heroes/skaarf/README.md)
-    * Skaarf Lore
+    * [Skaarf Lore](heroes/skaarf/skaarf-lore.md)
   * [Skye](heroes/skye/README.md)
     * [Skye Lore](heroes/skye/skye-lore.md)
   * [Taka](heroes/taka/README.md)
