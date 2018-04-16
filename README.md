@@ -108,11 +108,11 @@ description: Welcome To The Official Vainglory Wiki
   * [x] Malene
     * [ ] abilities
     * [ ] lore
-  * [ ] ozo
-    * [x] abilities
+  * [x] ozo
+    * [ ] abilities
     * [ ] lore
-  * [ ] petal
-    * [x] abilities
+  * [x] petal
+    * [ ] abilities
     * [ ] lore
   * [x] phinn
     * [ ] abilities

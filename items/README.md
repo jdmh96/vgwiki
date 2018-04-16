@@ -83,21 +83,21 @@ description: List of all Items by category ad tier (click on the name for detail
 | Image | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Tier 1](utility-item-details.md#tier-1) |  |
-|  | [Sprint boots](utility-item-details.md#sprint-boots)[ ](untitled.md#oakheart)\| Cost: 300 \| Tier1 |
+| ![](../.gitbook/assets/sprint-boots%20%282%29.png) | [Sprint boots](utility-item-details.md#sprint-boots)[ ](untitled.md#oakheart)\| Cost: 300 \| Tier1 |
 | [Tier 2](utility-item-details.md#tier-2) |  |
-|  | [Travel boots](utility-item-details.md#travel-boots)[ ](untitled.md#oakheart)\| Cost:  800\(500\) \| Tier2 |
-|  | [Flare gun](utility-item-details.md#flare-gun)[ ](untitled.md#oakheart)\| Cost:  600\(300\) \| Tier2 |
-|  | [Stormguard Banner](utility-item-details.md#stormguard-banner)[ ](untitled.md#oakheart)\|  600\(300\) \| Tier2 |
+| ![](../.gitbook/assets/travel-boots%20%282%29.png) | [Travel boots](utility-item-details.md#travel-boots)[ ](untitled.md#oakheart)\| Cost:  800\(500\) \| Tier2 |
+| ![](../.gitbook/assets/flare-gun%20%282%29.png) | [Flare gun](utility-item-details.md#flare-gun)[ ](untitled.md#oakheart)\| Cost:  600\(300\) \| Tier2 |
+| ![](../.gitbook/assets/stormguard-banner.png) | [Stormguard Banner](utility-item-details.md#stormguard-banner)[ ](untitled.md#oakheart)\|  600\(300\) \| Tier2 |
 | [Tier 3](utility-item-details.md#tier-3) |  |
 |  | [Teleport boots](utility-item-details.md#teleport-boots)[ ](untitled.md#oakheart)\| Cost:  1600\(800\) \| Tier3 |
-|  | [Journey boots](utility-item-details.md#journey-boots)[ ](untitled.md#oakheart)\| Cost:  1700\(900\) \| Tier3 |
-|  | [War treads](utility-item-details.md#war-treads)[ ](untitled.md#oakheart)\| Cost: 1900\(450\) \| Tier3 |
-|  | [Halcyon chargers](utility-item-details.md#war-treads)[ ](untitled.md#oakheart)\| Cost: 1700\(200\) \| Tier3 |
-|  | [Echo](utility-item-details.md#echo)[ ](untitled.md#oakheart)\| Cost: 2200\(1500\)\| Tier3 |
-|  | [Contraption](utility-item-details.md#contraption)[ ](untitled.md#oakheart)\| Cost: 2100\(700\) \| Tier3 |
-|  | [Stormcrown](utility-item-details.md#stormcrown)[ ](untitled.md#oakheart)\| Cost: 300\(600\) \| Tier3 |
-|  | [Nullwave gauntlet](utility-item-details.md#nullwave-gauntlet)[ ](untitled.md#oakheart)\| Cost: 2200\(750\)\| Tier3 |
-|  | [Shiversteel](utility-item-details.md#shiversteel)[ ](untitled.md#oakheart)\| Cost: 1950\(600\) \| Tier3 |
+| ![](../.gitbook/assets/journey-boots%20%281%29.png) | [Journey boots](utility-item-details.md#journey-boots)[ ](untitled.md#oakheart)\| Cost:  1700\(900\) \| Tier3 |
+| ![](../.gitbook/assets/war-treads.png) | [War treads](utility-item-details.md#war-treads)[ ](untitled.md#oakheart)\| Cost: 1900\(450\) \| Tier3 |
+| ![](../.gitbook/assets/halcyon-chargers%20%282%29.png) | [Halcyon chargers](utility-item-details.md#war-treads)[ ](untitled.md#oakheart)\| Cost: 1700\(200\) \| Tier3 |
+| ![](../.gitbook/assets/echo%20%281%29.png) | [Echo](utility-item-details.md#echo)[ ](untitled.md#oakheart)\| Cost: 2200\(1500\)\| Tier3 |
+| ![](../.gitbook/assets/contraption.png) | [Contraption](utility-item-details.md#contraption)[ ](untitled.md#oakheart)\| Cost: 2100\(700\) \| Tier3 |
+| ![](../.gitbook/assets/stormcrown.png) | [Stormcrown](utility-item-details.md#stormcrown)[ ](untitled.md#oakheart)\| Cost: 300\(600\) \| Tier3 |
+| ![](../.gitbook/assets/nullwave-gauntlet%20%281%29.png) | [Nullwave gauntlet](utility-item-details.md#nullwave-gauntlet)[ ](untitled.md#oakheart)\| Cost: 2200\(750\)\| Tier3 |
+| ![](../.gitbook/assets/shiversteel.png) | [Shiversteel](utility-item-details.md#shiversteel)[ ](untitled.md#oakheart)\| Cost: 1950\(600\) \| Tier3 |
 {% endtab %}
 
 {% tab title="Other" %}

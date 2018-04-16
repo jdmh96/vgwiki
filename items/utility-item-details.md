@@ -51,7 +51,7 @@ Cost: 300 gold
 
 ## Stormguard Banner
 
-![](../.gitbook/assets/stormguard-banner.png)
+![](../.gitbook/assets/stormguard-banner%20%281%29.png)
 
 * Cost: 600\(300\) gold
 * Stats:
@@ -96,7 +96,7 @@ Cost: 300 gold
 
 ## War treads
 
-![](../.gitbook/assets/war-treads.png)
+![](../.gitbook/assets/war-treads%20%281%29.png)
 
 * Cost: 1900\(450\) gold
 * Stats:
@@ -142,7 +142,7 @@ Cost: 300 gold
 
 ## Contraption
 
-![](../.gitbook/assets/contraption.png)
+![](../.gitbook/assets/contraption%20%281%29.png)
 
 * Cost: 2100\(700\) gold
 * Stats:
@@ -158,7 +158,7 @@ Cost: 300 gold
 
 ## Stormcrown
 
-![](../.gitbook/assets/stormcrown.png)
+![](../.gitbook/assets/stormcrown%20%281%29.png)
 
 * Cost: 2000\(600\) gold
 * Stats:
@@ -188,7 +188,7 @@ Cost: 300 gold
 
 ## Shiversteel
 
-![](../.gitbook/assets/shiversteel.png)
+![](../.gitbook/assets/shiversteel%20%281%29.png)
 
 * Cost: 1950\(600\) gold
 * Stats:
