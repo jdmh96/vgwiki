@@ -16,18 +16,23 @@ description: Welcome To The Official Vainglory Wiki
   * [x] weapon
     * [x] chart
     * [x] details
+    * [x] images
   * [x] crystal
     * [x] chart
     * [x] details
-  * [ ] defense
+    * [x] images
+  * [x] defense
     * [x] chart
-    * [ ] details
-  * [ ] utility
-    * [ ] chart
-    * [ ] details
-  * [ ] other
-    * [ ] chart
-    * [ ] details
+    * [x] details
+    * [ ] images
+  * [x] utility
+    * [x] chart
+    * [x] details
+    * [ ] images
+  * [x] other
+    * [x] chart
+    * [x] details
+    * [ ] images
 * [x] Terminology
   * [ ] Terminology review and update
 * [ ] Heroes
