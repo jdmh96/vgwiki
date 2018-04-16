@@ -8,11 +8,11 @@
 * Stats: 
   * +250 Max Health
 * Builds into:
-  * Dragonheart
-  * Lifespring
-  * Reflex Block
-  * Flare Gun
-  * Stormguard Banner
+  * [Dragonheart](untitled.md#dragonheart)
+  * [Lifespring](untitled.md#lifespring)
+  * [Reflex Block](untitled.md#reflex-block)
+  * [Flare Gun](utility-item-details.md#flare-gun)
+  * [Stormguard Banner    ](utility-item-details.md#stormguard-banner)
 
 ## Light Shield
 
@@ -21,7 +21,7 @@
   * +30 Shield
   * +5 Armor
 * Builds into:
-  * Kenetic Shield
+  * [Kenetic Shield    ](untitled.md#kenetic-shield)
 * Tip: Shield reduces damage from abilities.
 
 ## Light Armor
@@ -31,7 +31,7 @@
   * +30 Armor
   * +5 Shield
 * Builds into:
-  * Coat of plates
+  * [Coat of plates    ](untitled.md#coat-of-plates)
 * Tip: Armor reduces damage from basic attacks.
 
 ## Tier 2
@@ -42,13 +42,13 @@
 * Stats:
   * +450 Max Health
 * Builds into:
-  * Slumbering Husk
-  * Crucible
-  * War Treads
-  * Nullwave Gauntlet
-  * Shiversteel
+  * [Slumbering Husk](untitled.md#slumbering-husk)
+  * [Crucible](untitled.md#crucible)
+  * [War Treads](utility-item-details.md#war-treads)
+  * [Nullwave Gauntlet](utility-item-details.md#nullwave-gauntlet)
+  * [Shiversteel    ](utility-item-details.md#shiversteel)
 * Builds from:
-  * Oakheart
+  * [Oakheart    ](untitled.md#oakheart)
 
 ## Lifespring
 
@@ -57,9 +57,9 @@
   * +300 Max Health
   * Passive: Regenerate 1.5% of your missing health per second whenever you are out of combat with enemy heroes for 5s.
 * Builds into:
-  * Fountain of Renewal
+  * [Fountain of Renewal    ](untitled.md#fountain-of-renewal)
 * Builds from:
-  * Oakheart
+  * [Oakheart    ](untitled.md#oakheart)
 * Tip: Helps you stay healthy in between battles.
 
 ## Reflex Block
@@ -69,9 +69,10 @@
   * +250 Max Health
   * Activate: Gain a barrier worth 25% of your missing health and block all debuffs for 1.5s. \(45s cooldown\) Can activate while stunned.
 * Builds into:
-  * Crucible, Aegis
+  * [Crucible](untitled.md#crucible)
+  * [Aegis    ](untitled.md#aegis)
 * Builds from:
-  * Oakheart
+  * [Oakheart    ](untitled.md#oakheart)
 * Tip: Block dangerous but predictable abilities with your fast reflexes.
 
 ## Kenetic Shield
@@ -81,10 +82,10 @@
   * +65 Shield
   * +20 Armor
 * Builds into:
-  * Fountain of Renewal
-  * Aegis
+  * [Fountain of Renewal](untitled.md#fountain-of-renewal)
+  * [Aegis    ](untitled.md#aegis)
 * Builds from:
-  * Light Shield
+  * [Light Shield    ](untitled.md#light-shield)
 * Tip: Shield reduces damage from abilities.
 
 ## Coat of Plates
@@ -94,10 +95,10 @@
   * +65 Armor
   * +20 Shield
 * Builds into:
-  * Metal Jacket
-  * Atlas Pauldron
+  * [Metal Jacket](untitled.md#metal-jacket)
+  * [Atlas Pauldron    ](untitled.md#atlas-pauldron)
 * Builds from:
-  * Light Armor
+  * [Light Armor    ](untitled.md#light-armor)
 * Tip: Armor reduces damage from basic attacks.
 
 ## Tier 3
@@ -109,7 +110,7 @@
   * +650 Max Health
   * Passive: Taking 25% of your max health in damage over 1.5s fortifies your remaining health for 2.0s \(25s cooldown\).
 * Builds from:
-  * Dragonheart
+  * [Dragonheart    ](untitled.md#dragonheart)
 * Tip: Buy this to survive against opponents with high burst damage.
 
 ## Crucible
@@ -117,10 +118,10 @@
 * Cost: 1850\(500\)   gold
 * Stats:
   * +700 Max Health
-  * Activate: Trigger Reflex Block for you and nearby teammates. \(45s cooldown\)
+  * Activate: Trigger [Reflex Block](untitled.md#reflex-block) for you and nearby teammates. \(45s cooldown\)
 * Builds from:
-  * Dragonheart
-  * Reflex Block
+  * [Dragonheart](untitled.md#dragonheart)
+  * [Reflex Block    ](untitled.md#reflex-block)
 * Tip:Protect your friends with Reflex Block!
 
 ## Fountain of Renewal
@@ -130,10 +131,11 @@
   * +300 Max Health
   * +65 Shield
   * +20 Armor
-  * Passive: Lifespring, Activate: Heals you and nearby allies for 2.5 health for each % missing health per second for 3s. \(65s cooldown\)
+  * Passive: [Lifespring](untitled.md#lifespring)
+  * Activate: Heals you and nearby allies for 2.5 health for each % missing health per second for 3s. \(65s cooldown\)
 * Builds from:
-  * Lifespring
-  * Kenetic Shield
+  * [Lifespring](untitled.md#lifespring)
+  * [Kenetic Shield    ](untitled.md#kenetic-shield)
 * Tip: Heal is especially powerful on allies who are almost dead.
 
 ## Aegis
@@ -143,10 +145,10 @@
   * +85 Shield
   * +20 Armor
   * +250 Max Health
-  * Activate: Reflex Block \(35s cooldown\)
+  * Activate: [Reflex Block](untitled.md#reflex-block) \(35s cooldown\)
 * Builds from:
-  * Reflex Block
-  * Kenetic Shield
+  * [Reflex Block](untitled.md#reflex-block)
+  * [Kenetic Shield    ](untitled.md#kenetic-shield)
 * Tip: Greatly reduces damage from enemy abilities.
 
 ## Metal Jacket
@@ -156,7 +158,7 @@
   * +120 Armor
   * +25 Shield
 * Builds from:
-  * Coat of Plates
+  * [Coat of Plates    ](untitled.md#coat-of-plates)
 * Tip: Armor reduces damage from basic attacks.
 
 ## Atlas Pauldron
@@ -167,6 +169,6 @@
   * +25 Shield
   * Activate: Maim nearby enemies, lowering their attack speed by 50% of their total for 4s in a 4-meter range. \(20s cooldown\)
 * Builds from:
-  * Coat of Plates
+  * [Coat of Plates    ](untitled.md#coat-of-plates)
 * Tip: Counters enemies with high attack speed, but you must get close to the enemies to affect them.
 

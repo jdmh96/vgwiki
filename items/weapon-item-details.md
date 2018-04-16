@@ -134,10 +134,10 @@
   * [Breaking Point](weapon-item-details.md#breaking-point)
   * [Bonesaw](weapon-item-details.md#bonesaw)
   * [Tornado Trigger](weapon-item-details.md#tornado-trigger)
-  * Alternating Current
-  * Shiversteel 
+  * [Alternating Current](crystal-item-details.md#alternating-current)
+  * [Shiversteel     ](utility-item-details.md#shiversteel)
 * Builds from:
-  * Swift Shooter 
+  * [Swift Shooter     ](weapon-item-details.md#swift-shooter)
 
 ## Lucky Strike 
 

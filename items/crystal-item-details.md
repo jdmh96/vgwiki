@@ -97,7 +97,7 @@
 * Builds into:
   * [Clockwork](crystal-item-details.md#clockwork)
   * [Eve of Harvest](crystal-item-details.md#eve-of-harvest)
-  * Echo
+  * [Echo    ](utility-item-details.md#echo)
 * Builds from:
   * [Energy Battery    ](crystal-item-details.md#energy-battery)
 * Tip: Energy is needed to use your abilities.
@@ -114,9 +114,9 @@
   * [Clockwork](crystal-item-details.md#clockwork)
   * [Aftershock](crystal-item-details.md#aftershock)
   * [Spellsword](weapon-item-details.md#spellsword)
-  * Contraption
-  * Stormcrown
-  * Nullwave Gauntlet
+  * [Contraption](utility-item-details.md#contraption)
+  * [Stormcrown](utility-item-details.md#contraption)
+  * [Nullwave Gauntlet    ](utility-item-details.md#nullwave-gauntlet)
 * Builds from:
   * [Hourglass    ](crystal-item-details.md#hourglass)
 * Tip: Cooldown speed increases the speed at which your abilities come off the timer.

@@ -112,6 +112,15 @@
   * Void battery
 * Tip: Allows you to chase down enemy targets and use abilities more frequently... or to escape trouble!
 
+## Echo
+
+* Cost: 2200\(1500\) gold
+* Stats:
+  * 350 Max energy
+  * +6 Energy recharge
+  * Activate: The last ability to be put on cooldown is refreshed \(150% of ability's cooldown + 10s cooldown\)
+* Tip: This item has a shorter cooldown if activated on a low cooldown ability.
+
 ## Contraption
 
 * Cost: 2100\(700\) gold
