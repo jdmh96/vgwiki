@@ -2,7 +2,7 @@
 
 ## 'A STORY FOR EVERYTHING'
 
-![](../../.gitbook/assets/story_for_everything_1000px-768x1641.jpg)
+![Too much wandering, where are we going?](../../.gitbook/assets/story_for_everything_1000px-768x1641.jpg)
 
 The berserker dropped to the ground between the fire and the old druid, axes clinking at her belt, a caribou hock in one fist. Behind them, the others daubed the wattled longhouse walls with dung and straw where freezing wind whistled through.
 
@@ -44,65 +44,11 @@ The earth shook again, stronger than before, rolling logs away from the fire. Th
 
 In the distance, the howls of wolves sounded through the frozen air.
 
-## 'THE DESTRUCTION OF THE TEMPLE'
 
-![](../../.gitbook/assets/destructionofthetemple-768x361.png)
-
-A dire wolf raced out of the temple’s fourth circle, tongue lolled out to one side, panting, exhausted terror in his eyes, his thick fur matted with dried blood. His back legs were caked up to the stifles in red loamy mud; he’d kicked free in time to get bit in the muzzle by something venomous. He skidded to a stop where mud met ice, into the forelegs of the alpha, his eyes down, unsure whether to be more frightened of what he’d run from or what he’d run into. The ground rumbled, the ice cracking outward in long lines. The alpha’s hackles rose, ears twitching at the sound of his pack howling, whining and yipping in pain. He could name every one of those sounds: son, daughter, mate, packmate, friend.
-
-After the first quake, the alpha had inspected the inner circles of the ancient temple, his nails tapping on the ice, his breath fogging in the frozen air. A foreign scent bothered at his nose. The tremors intensified, the scent grew stronger and the pack’s restless whines and tail-chasing had to be contained with barked orders. Within hours, the ice in the first circle melted into pools of water that the ground drank up with greedy thirst. The second and third circles, once ice and brick, became mud. The scent choked every inhale, and the constant shaking set the wolves to howling.
-
-Then, the vines appeared.
-
-They were like nothing the wolves had seen. They whipped out from the mud, piercing blind in all directions. They wrapped around the temple pillars, crumbling them to gravel. The pack tore them apart, but within minutes the thick stems grew anew. The well itself, once richly decorated with sculpture and carvings, became nothing but a dark hole in the ground leaking putrid air. The inner sanctums turned to rubble.
-
-Eggs frozen for untold millennia bubbled up from the mud and broke open, spilling out long-toothed reptiles. The wolves went to battle, ears flat, snarling, leaping in fast and retreating in the way of the hunt until the blood of their prey dribbled out in thick clots that fed the carnivorous mud. But the creatures could not be contained – and the surviving reptile hatchlings grew larger than the wolves. Everything birthed in the fertile mud was bloodthirsty and more dangerous than anything the wolves had hunted before. The mud itself was an enemy, drinking the wolves into itself, forcing them farther and farther back from the well.
-
-They might have fought back the horde if not for the insects. Clouds of bloodsucking mosquitoes and hives of venomous wasps burst upward. Crimson ants burrowed into the wolves’ fur and chomped into their belles. The pack snapped their teeth into the stinging swarms to no avail, bit into their own itchy hindquarters, limped on poisoned limbs.
-
-The guarding of the Halcyon Well had been the alpha’s vocation since the temple had been built, from materials found nowhere near the frozen tundra, by a people whose lineage had died out before their story could be told. It was unthinkable to abandon it. Yet without a pack, an alpha commands nothing.
-
-“Get the others out,” he snarled at the beaten-down wolf, who turned without protest and ran again into the doom. The alpha turned snout to the moon.
-
-“Old friend,” he growled into the empty air, “I have need of you.”
-
-Then, Fortress let loose a wild howl that carried for miles.
-
-## 'THE GREAT OAK'
-
-![](../../.gitbook/assets/1000px_great_oak-768x513.jpg)
-
-The old druid cut a formidable figure, antlers bursting from his headdress, ceremonial furs draping from shoulders to boots. Before him stood the enormous tree, her branches concealing the soupy-gray sky for one-hundred steps, her trunk so wide around that it took 10 men gripping hands to encircle it, the face of the Mother carved into it at eye-level with the druid.
-
-“My pack has pulled your old bones on the sled through snowdrift these many days,” grumbled Fortress. “Why have you not yet opened the door in the tree? Have you forgotten how?”
-
-“Patience, old dog. She is perplexing and must be appeased.”
-
-“It has been far too many seasons since you appeased any woman,” growled Fortress.
-
-The druid’s face wrinkled into a smile. “There is a saying among the people. The maiden requires a strong gaze, but the mother, a hungry stomach.” He dug through the snow at the base of the tree, producing a handful of green acorns. He rapped the shells off with his staff, then gnawed at the bitter nut meat. “Let us see what nourishment the Mother has for us,” he said, feeding one also to Fortress.
-
-They waited in silence, side by side. Although he expected it, the ensuing stomach cramps bent the druid double. he leaned against the tree trunk, his head swimming. His vision blurred. The world darkened and peeled away. Fortress, too, fought the sick that threatened to overtake him. Sensation drained from him like water drops from an icicle until his spirit floated above, watching.
-
-“Why has a child come so far from his home?”
-
-The voice came from the tree. The druid looked for the Mother’s face and found it far above him, her stern eyes looking down.
-
-“I have come to beg passage to the other side of the world, Mother,” he said, and his voice was high and breaking. He looked absurd in his ceremonial furs, which had grown to tent him. His beard vanished. Even the stag horns on his headdress shortened until they were the nubs of a fawn. Where the formidable druid had stood, Fortress saw a boy.
-
-Branches stretched out from the trunk to touch the boy’s face. “It has been so long since I held a son,” crooned the voice within the tree. “Your companions may pass, but you will stay with me.”
-
-“No!” Fortress tried to lunge forward but felt as if he were moving through mud.
-
-The boy held out his arms to embrace the dire wolf, burying his face in Fortress’ furry neck, petting his nose and ears. “Go on, old dog. This is the only way.” Then, his body collapsed into the embrace of the branches.
-
-A wolf whined, then another. Fortress backed away from his old friend. “Call out to the spirit of our fallen packmate,” he commanded, then craned his neck to the moon and let loose a mournful howl. The others followed, one after another wolf song ringing out as the Mother hugged the druid, wrapping her branches round and around him until he was pinned against the trunk.
-
-The pack watched as the face of the Mother turned into a wide hollow. A thick, humid scent leaked from it, steaming the freezing air. Fortress moved closer, tentative, sniffing. Inside, a wooden staircase spiraled down into the dark.
 
 ## 'RONA VS. SKVADER'
 
-![](../../.gitbook/assets/rona-skvader-768x316.jpg)
+![I will pull your brain, out your nose.](../../.gitbook/assets/rona-skvader-768x316.jpg)
 
 Rona wriggled her nose to dislodge frozen boogers as she hiked along the wolf-drawn sled tracks, catching up to the old druid. Days behind her was her village, her hunting ground and her people, who had abandoned their homes to escape the Churn. Her mother and father had expected her to follow, but she’d never see them again.
 
@@ -126,9 +72,11 @@ Groaning, she sheathed the axes and reviewed the damage. She’d taken a few scr
 
 The tracks and spoor were fresh; she’d overtake the old druid within the hour.
 
+![What do you mean calm down, I AM CALM!](blob:https://ezl.gitbook.io/7827e59c-1989-407a-b14d-285b121a01ee)
+
 ## 'NORTH IS ALWAYS FORWARD'
 
-![](../../.gitbook/assets/1450x596_ronafold-1024x421.jpg)
+![North is always forward.](../../.gitbook/assets/1450x596_ronafold-1024x421.jpg)
 
 Rona sniffed the air, searched the empty sled, dug into the fresh tracks, then peered into the tangles of The Great Oak. Buried in the winding branches, she caught the old druid’s eye.
 
@@ -166,7 +114,7 @@ War Screech and Whistle dropped loose in her fingers. “And who are you?”
 
 #### 'MAAAAAAGIE'
 
-![](../../.gitbook/assets/fury_rona_splash_sized-768x432.jpg)
+![I crossed the donkey bridge.](../../.gitbook/assets/fury_rona_splash_sized-768x432.jpg)
 
 “Maggie! Maaaaggie!”
 
@@ -188,7 +136,7 @@ The first shell exploded out of the barrel in a white heat that passed an inch f
 
 #### 'A NEW SHERIFF IN TOWN'
 
-![](../../.gitbook/assets/content_release_schedule_feature_rona_t2-768x384.jpg)
+![I am in control of my anger, hmmm, my anger does not control me.](../../.gitbook/assets/content_release_schedule_feature_rona_t2-768x384.jpg)
 
 “Gimme some love, Maggie” whispered Rona through tight-grit teeth, eyes narrowed at the wide grub-face staring her down from the smashed-out rat rod window. It was the Heap Boss himself, dressed in his trademark law uniform, badge shining on his lapel, fat gun propped in his meaty fists and Rona’s scary toothful grin reflected in his aviators. Under her right foot, a melted tire wiggled; she hunkered down, every muscle in her legs taut. Magpie’s beefy finger squeezed the trigger. She stared at his hairy bicep inflating past the torn confines of his starchy dress blues ’til the trigger clicked. Rona jumped over the blast, belly front, the shell leaving a burning kiss on her left thigh. She landed with a slam on the roof of the rat rod, machetes piercing straight down through rust, upholstery, skin and skull.
 
@@ -202,7 +150,7 @@ Magpie’s people poked up their makeshift helmets from the rubble, rifles nestl
 
 #### 'FINDER'S KEEPERS'
 
-![](../../.gitbook/assets/fury_tier3_splash-e1470175141792.jpg)
+![Silly tree.](../../.gitbook/assets/fury_tier3_splash-e1470175141792.jpg)
 
 “So what if the Bird Man has ownt it since forever?” sang Rona, way loud. The People crowded shoulder-to-shoulder, Cutters crouched by the chain-link fence chip-chopping away at it bottom-up, leaping back when they got buzzed. Beyond, Churnguard Industries was a shiny, chrome-shuttered fortress, the only thing that’d been fixed up after the Churn Times. “What’s our motto?”
 
@@ -236,7 +184,7 @@ Another shiny chrome garage door opened, nice and slow, and The People cheered.
 
 #### 'THE TEMPORARY VICTORY OF THE BERSERKER'
 
-![](../../.gitbook/assets/redrona_1000px-1-768x432.jpg)
+![Your inside will be your outside!](../../.gitbook/assets/redrona_1000px-1-768x432.jpg)
 
 The berserker opened one eye and took to piecing together how she’d come to be in the mud, not dead, her legs twitching. Hitting the ground she remembered; the fighting part was always a red-misted blur, but somewhere in there she’d taken an axe in the shoulder. She remembered the _thunk_ sound, and her arm quitting, and pain.
 
@@ -269,4 +217,10 @@ But it was not the fate of Rona the Berserker that day to retreat to the Nether 
 “I surrender,” said Grace the Valkyrie without shame. “Stay among the living with my blessing, Berserker, and hone your skills, for one day you will feast and fight among your foremothers in the glade.”
 
 “Not a minute before I want to,” huffed the berserker. She watched as the valkyries retreated from the battlefield, and only lowered her swords when the last of them had disappeared over the hedge into the Netherworld.
+
+
+
+
+
+
 
