@@ -1,10 +1,12 @@
 # Gwen Lore
 
-## ‘GANGSTER’ GWEN
+## ALTERNATE FATES
 
-‘Gangster’ Gwen took out the mob, and now the boss wants payback. The seedy world of organized crime has never known a more dangerous dame!
+### ‘GANGSTER’ GWEN
 
-### OUT OF AMMO
+#### 'OUT OF AMMO'
+
+![](../../.gitbook/assets/gangster-gwen1000px.jpg)
 
 “I got a story for ya,” says Tiny, stalking into the room where he’s gonna die.
 
@@ -44,13 +46,11 @@ His eyes cross trying to look at it as he falls backward.
 
 “It was a good story,” says the dame. She hops down from the billiard table and roots through his pockets, pulls out the silver key to the penthouse. “But I prefer happy endings.”
 
-## ‘RED LANTERN’ GWEN
+### ‘RED LANTERN’ GWEN
 
-‘Red Lantern’ Reza & Gwen guard the doors to the Netherworld in their alternate fate lore. Participate in the
+#### 'THE DOOR GUARDIANS'
 
-[2018 Red Lantern Event](https://www.vainglorygame.com/news/red-lantern-2018-event-play-vainglory-5v5-earn-lunar-fame-get-rewarded/) to determine the outcome of the story!
-
-### THE DOOR GUARDIANS
+![](../../.gitbook/assets/fullhd_hor_redlantern_gwen.jpg)
 
 On the night of his death, the thief found himself on the street where he’d always lived, but it was gray and empty except for a nightclub he’d never seen before.
 
