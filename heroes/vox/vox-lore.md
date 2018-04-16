@@ -2,8 +2,6 @@
 
 ## 'IMPOSSIBLE DECISION'
 
-
-
 ![](../../.gitbook/assets/impossible-decision-768x316.jpg)
 
 “I do not need your permission to buy a goat,” Julia said. “Goat milk is delicious, and we can make cheese.”

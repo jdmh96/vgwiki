@@ -174,9 +174,7 @@ Then she drew her weapon, turned the corner and joined the firefight as the Safe
 
 ## ALTERNATE FATES
 
-### 'INFINITY' SKAARF
-
-#### TIER I LORE: WATER
+### 'WATER DRAGON' SKAARF
 
 ![](../../.gitbook/assets/download-2.jpeg)
 
@@ -198,9 +196,9 @@ He took a bath in the lake and waved at a greenish-blueish fish.
 
 “Yes,” she said, “you probably are.”
 
-#### TIER II LORE - AIR
+### 'CLOUD DRAGON' SKAARF
 
-![](../../.gitbook/assets/download-1.jpeg)
+![](../../.gitbook/assets/30744495726_2ee7b79d92_b.jpg)
 
 The dragon swam out of the lake and shook himself dry.
 
@@ -220,7 +218,7 @@ The dance made him float, so he floated to the sky, where he met a cloud.
 
 “Yes,” sang the cloud, “you must be a cloud.”
 
-#### TIER III LORE: ICE
+### 'ICE DRAGON' SKAARF
 
 ![](../../.gitbook/assets/skaarf_t3_spalsh-1024x576.jpg)
 
@@ -242,7 +240,7 @@ He blew and little icy spikes came out. He spat some freezey jelly goo and came 
 
 “I am a dragon!” he said, and flew away to freeze all the things.
 
-### 'SPARKLER' SCAARF
+### 'SPARKLER' SKAARF
 
 #### 'THE FIRST RED LANTERN FESTIVAL'
 

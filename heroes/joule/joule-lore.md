@@ -1,6 +1,6 @@
 # Joule Lore
 
-## ‘JOULE'S RESOLVE'
+## ‘THE HEIST'
 
 Scratching at her elbows under her ripped up jacket, Joule tells us, “It’ll be the biggest thing we’ve pulled off.” From under the dusty mat she sleeps on, Joule pulls out folded-up papers. “This one,” she says, “this one I got from an army guy, don’t ask how. Okay, go ahead and ask how. Go on. Okay, nevermind. Look.” She spreads out this blue paper and there’s an outline of something we ain’t seen before. Some big machine that walks.
 
