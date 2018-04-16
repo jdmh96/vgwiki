@@ -1,8 +1,10 @@
 # Grace Lore
 
-## Grace Lore: PART ONE
+## ‘THE BOY WHO SPEAKS FIRE’
 
-### ‘THE BOY WHO SPEAKS FIRE’
+
+
+![Follow the light.](../../.gitbook/assets/image%20%2827%29.png)
 
 On the unkempt path along the mangrove-lined river, overgrown with vines and flowers, the paladin in his gilded ceremonial armor cut an imposing figure. A dozen warriors and several local guides marched behind him; explorers brought up the rear, sketching, collecting samples and taking notes. The paladin’s wide-eyed young daughter gripped his outstretched finger with her whole small fist.
 
@@ -70,9 +72,7 @@ The paladin’s light shield burst into being between her and the boy just in ti
 
 “My brother.” Grace took the boy’s hand. “I shall name you Titus.”
 
-## Grace Lore: PART TWO
-
-### ‘THE FIRST HOUR’
+## ‘THE FIRST HOUR’
 
 Grace woke in the dark, her greyhound nuzzling its wet nose into her foot. Rolling the morning stiffness from her shoulders, she made her way to the empty training yard in the first rose light of dawn, the greyhound following at her heel. She selected a heavy mace from the weapon rack and moved through a warmup flow, swinging it in slow, controlled circles in front of her body and then behind her back, changing grip and direction, then progressed through lunging battle forms. Her mind stilled as she put her body through the old disciplines. In this way, she had learned long ago to control visions, to bid them come when she wished. Her consciousness flowed with her breath, up and up, the training yard falling away, up and then out.
 
@@ -112,6 +112,8 @@ Grace stood, and even without the splendor of her ceremonial dress she was an im
 
 The man knelt, prepared for punishment. Instead, he felt the woman’s palm on his bare head. Warmth flooded down his spine, and with it, a peace he had not known since he was a babe in his mother’s arms.
 
+![Faith shows the way.](../../.gitbook/assets/image%20%2849%29.png)
+
 “With valor and bravery you saved the life of the Archmage,” she said. “You kept watch in the night. Do you swear to live by the tenets of justice, courage, mercy, decorum, honesty, honor, loyalty and character?”
 
 “I do.” His words cracked with emotion.
@@ -124,11 +126,37 @@ He wept his thanks as the acolytes guided him away. Grace’s attendants hovered
 
 “No.” Grace turned and strode toward her chambers, the greyhound at her heel. “Find my brother.”
 
-## ‘VALKYRIE’ GRACE
+## 'REZA, THE FIRE MAGE'
 
-Valkyries ride to collect the finest warriors for feasting and war in the Netherworld. The eldest of these, Grace, has selected a berserker for her army – but will the berserker go willingly? Read on to learn more about ‘Valkyrie’ Grace!
+{% embed data="{\"url\":\"https://www.youtube.com/watch?v=gx1T\_VucdwI\",\"type\":\"video\",\"title\":\"Vainglory Lore: Reza, the Fire Mage, Part I\",\"description\":\"A Vainglory lore comic brought to life by Madefire!\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/gx1T\_VucdwI/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/gx1T\_VucdwI?rel=0&showinfo=0\",\"html\":\"<div style=\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\"><iframe src=\\"https://www.youtube.com/embed/gx1T\_VucdwI?rel=0&amp;showinfo=0\\" style=\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\" allowfullscreen scrolling=\\"no\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+
+~
+
+
+
+![](../../.gitbook/assets/image%20%28113%29.png)
+
+
+
+![](../../.gitbook/assets/image%20%2885%29.png)
+
+
+
+![](../../.gitbook/assets/image%20%2897%29.png)
+
+
+
+![](../../.gitbook/assets/image%20%2856%29.png)
+
+
+
+## ALTERNATE FATES
+
+### ‘VALKYRIE’ GRACE
 
 #### THE VALKYRIE AND THE BERSERKER
+
+![Where&apos;s your valor now?](../../.gitbook/assets/image%20%2864%29.png)
 
 Red mist covered the muted sun of the Netherworld, and the valkyries in their feasting glade turned their noses up to inhale the smell of nearby fire and blood.
 

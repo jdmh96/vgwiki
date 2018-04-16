@@ -184,7 +184,7 @@
 
 ## Spellsword 
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2881%29.png)
 
 * Cost: 2700\(750\)    gold
 * Stats:
