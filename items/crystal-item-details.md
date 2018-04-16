@@ -4,6 +4,10 @@
 
 ## Crystal bit
 
+
+
+![](../.gitbook/assets/crystal-bit.png)
+
 * Cost: 300   gold
 * Stats:
   * +20 Crystal Power
@@ -15,6 +19,10 @@
 
 
 ## Energy Battery
+
+
+
+![](../.gitbook/assets/energy-battery.png)
 
 * Cost: 300   gold
 * Stats:
@@ -28,6 +36,10 @@
 
 ## Hourglass
 
+
+
+![](../.gitbook/assets/hourglass.png)
+
 * Cost: 250   gold
 * Stats:
   * +10% Cooldown Speed
@@ -39,6 +51,10 @@
 ## Tier 2
 
 ## Heavy Prism
+
+
+
+![](../.gitbook/assets/heavy-prism%20%281%29.png)
 
 * Cost: 1050\(750\)   gold
 * Stats:
@@ -59,6 +75,10 @@
 
 ## Eclipse Prism
 
+
+
+![](../.gitbook/assets/eclipse-prism%20%282%29.png)
+
 * Cost: 630\(350\)   gold
 * Stats:
   * +35 Crystal Power
@@ -76,6 +96,8 @@
 
 ## Piercing Shard
 
+![](../.gitbook/assets/piercing-shard%20%281%29.png)
+
 * Cost: 900\(600\)   gold
 * Stats: 
   * +20 Crystal power
@@ -89,6 +111,8 @@
 
 
 ## Void Battery
+
+![](../.gitbook/assets/void-battery%20%281%29.png)
 
 * Cost: 700\(450\)   gold
 * Stats:
@@ -105,6 +129,8 @@
 
 
 ## Chronograph
+
+![](../.gitbook/assets/chronograph%20%281%29.png)
 
 * Cost: 800\(550\)   gold
 * Stats:
@@ -125,6 +151,8 @@
 
 ## Shatterglass
 
+![](../.gitbook/assets/shatterglass%20%281%29.png)
+
 * Cost: 3000\(1300\)  gold
 * Stats:
   * +150 Crystal power
@@ -137,6 +165,8 @@
 
 ## Spellfire
 
+![](../.gitbook/assets/image%20%283%29.png)
+
 * Cost: 2700\(1000\)   gold
 * Stats:
   * +90 Crystal power
@@ -147,6 +177,8 @@
 * Tip: Buy this item to augment poke abilities or hinder high sustain targets.
 
 ## Frostburn
+
+![](../.gitbook/assets/frostburn%20%281%29.png)
 
 * Cost: 2600\(900\)   gold
 * Stats:
@@ -159,6 +191,8 @@
 
 ## Dragon's Eye
 
+![](../.gitbook/assets/image%20%2825%29.png)
+
 * Cost: 3000\(1300\)   gold
 * Stats:
   * +85 Crystal powe
@@ -169,6 +203,8 @@
 * Tip: Abilities strengthen the longer you stay in a fight.
 
 ## Clockwork
+
+![](../.gitbook/assets/clockwork.png)
 
 * Cost: 2400\(900\)   gold
 * Stats:
@@ -184,6 +220,8 @@
 
 ## Broken Myth
 
+![](../.gitbook/assets/broken-myth.png)
+
 * Cost: 2700\(750\)   gold
 * Stats: 
   * +80 Crystal power
@@ -194,6 +232,8 @@
 * Tip: Improves crystal damage, especially against heavily shielded enemies
 
 ## Eve of Harvest
+
+![](../.gitbook/assets/eve-of-harvest.png)
 
 * Cost: 2600\(850\)   gold
 * Stats:
@@ -208,6 +248,8 @@
 
 ## Aftershock
 
+![](../.gitbook/assets/aftershock.png)
+
 * Cost: 2400\(950\)   gold
 * Stats: 
   * +25% Cooldown Spee
@@ -220,6 +262,8 @@
 * Tip: Very effective against enemies with high health.
 
 ## Alternating Current
+
+![](../.gitbook/assets/alternating-current.png)
 
 * Cost: 2800\(1050\)   gold
 * Stats:
