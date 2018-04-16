@@ -1,10 +1,8 @@
 # Grumpjaw Lore
 
-#### Grumpjaw Lore: PART ONE
+## ‘CHEESECAKE’
 
-### ‘CHEESECAKE’
-
-_GRUMPJAW MAKES A FRIEND…_
+![Uhhh smellll baddd.](../../.gitbook/assets/image%20%2852%29.png)
 
 “See what people get wrong is,” says the dwarf, “time travel isn’t about time at all. It’s about
 
@@ -82,11 +80,9 @@ Grumpjaw whips his horns around and roars, clattering the chains, knocking Frank
 
 “CHEESECAKE,” sighs Grumpjaw.
 
-#### Grumpjaw Lore: PART TWO
+## ‘OUT’ {#GrumpjawPart2}
 
-### ‘OUT’ {#GrumpjawPart2}
-
-_GRUMPJAW ESCAPES…_
+![Boop.](../../.gitbook/assets/image%20%2824%29.png)
 
 “Right then,” says Frankie, “after you.”
 
@@ -158,11 +154,13 @@ Frankie combs the stomach goo out of his beard as he peers up through the elevat
 
 “Yes, my friend,” he says. “After I tend to a matter upstairs, there will be cake.”
 
-## ‘LAPDOG’ GRUMPJAW
+## ALTERNATE FATES
 
-‘Lapdog’ Grumpjaw is NOT a bad boy, he’s just very large and very hangry. You’d be hangry too if your tummy was so big and empty. He’s a GOOD boy … if he’s on your team. Coming soon, you can own your very own cuddly Grumpjaw!
+### ‘LAPDOG’ GRUMPJAW
 
 #### THE PROPER CARE AND FEEDING OF GRUMPJAW LAPDOGS
+
+![Hungryyy.](../../.gitbook/assets/image%20%2841%29.png)
 
 The Grumpjaw Lapdog is a special breed with unique needs. Well cared-for Grumpjaws are so affectionate and loyal that their owners don’t even mind the loud snoring and farting. Grumpjaws get cold easily, so it is a good idea to get yours a nice hat and jacket for going outside in blustery weather.
 
@@ -183,4 +181,12 @@ Caring for Grumpjaws is much easier when they are trained as puppers. Grumpjaws 
 Grumpjaws love to go everywhere you go! Socialites are leading the way with fashion-forward motorized strollers and gem-encrusted leashes for transporting your Grumpjaw in style. Be aware that many shop owners will not welcome your doggy into their establishment, but adult Grumpjaws don’t fit through doorways anyway.
 
 These lovable doggies are also big on cuddling and will climb onto your lap at every opportunity. Be careful, as this has resulted in broken femurs and pelvises among Grumpjaw owners!
+
+### 'CARNIVORE' GRUMPJAW
+
+#### ' **FURIOUS GRUMPJAW ATTACKS ON THE RISE'**
+
+![Ughh die.](../../.gitbook/assets/image%20%2826%29.png)
+
+ Beware the carnivorous jungle Grumpjaw! Those who manage to escape his four strong horn-lined jaws return gored and trampled, telling tales of an insatiable, hungry beast who runs much faster than his massive body appears. Reports of marauding Grumpjaws have increased in recent months. Nothing is safe: humans, sappy treants, animals and even small dragons have been swallowed whole. Even seasoned hunters are rendered defenseless. Locals are advised to travel in groups and never turn their backs on the jungle.
 
