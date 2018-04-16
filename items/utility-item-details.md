@@ -1,114 +1,73 @@
 # Utility Item Details
 
-Tier 1
+## Tier 1
 
-Sprint boots
+## Sprint boots
 
-Cost: 300 gold
+* Cost: 300 gold
+* Stats:
+  * Passive: +0.4 move speed. \(Does not stack with other boots.\)
+  * Activate: Sprint for 2s \(150s cooldown\).
+* Builds into:
+  * Travel boots
 
-Passive: +0.4 move speed. \(Does not stack with other boots.\)
+## Tier 2
 
-Activate: Sprint for 2s \(150s cooldown\).
+## Travel boots
 
-Builds into:
+* Cost: 800\(500\) gold
+* Stats:
+  * +100 Max Health
+  * Passive: +0.4 move speed. \(Does not stack with other boots.\)
+  * Passive \(Travel Boots\): +1 move speed when not in combat with heroes, monsters or turrets.
+  * Activate: Sprint for 2s \(90s cooldown\)
+* Builds into:
+  * Teleport boots
+  * Journey boots
+  * War treads
+  * Halcyon chargers
+* Builds from:
+  * Sprint boots
 
-Travel boots
+## Flare gun
 
+* Cost: 600\(300\) gold
+* Stats:
+  * +300 Max Health
+  * Activate: Fire a flare. 5s cooldown. 2 charges max. 20s per charge.
+* Builds into: 
+  * Contraption
+* Builds from:
+  * Oakheart
+* Tip: Use this to avoid being ambushed, especially in the late game.
+* \*\*Note: Halcyon Fold only
 
+## Stormguard Banner
 
-Tier 2
+* Cost: 600\(300\) gold
+* Stats:
+  * +250 Max Health
+  * Stormguard: Basic attacks deal 10-60 \(level 1-12\) bonus true damage per second. 15% effectiveness against heroes and structures \(Does not stack with other Stormguard\)
+* Builds into:
+  * Stormcrown
+* Builds from:
+  * Oakheart
+* Tip: Helps you damage objectives such as turrets & jungle bosses.
 
-Travel boots
+## Tier 3
 
-Cost: 800\(500\) gold
+## Teleport boots
 
-+100 Max Health
-
-Passive: +0.4 move speed. \(Does not stack with other boots.\)
-
-Passive \(Travel Boots\): +1 move speed when not in combat with heroes, monsters or turrets.
-
-Activate: Sprint for 2s \(90s cooldown\)
-
-Builds into:
-
-Teleport boots
-
-Journey boots
-
-War treads
-
-Halcyon chargers
-
-Builds from:
-
-Sprint boots
-
-
-
-Flare gun
-
-Cost: 600\(300\) gold
-
-+300 Max Health
-
-Activate: Fire a flare. 5s cooldown. 2 charges max. 20s per charge.
-
-Builds into: 
-
-Contraption
-
-Builds from:
-
-Oakheart
-
-Tip: Use this to avoid being ambushed, especially in the late game.
-
-\*\*Note: Halcyon Fold only
-
-
-
-Stormguard Banner
-
-Cost: 600\(300\) gold
-
-+250 Max Health
-
-Stormguard: Basic attacks deal 10-60 \(level 1-12\) bonus true damage per second. 15% effectiveness against heroes and structures \(Does not stack with other Stormguard\)
-
-Builds into:
-
-Stormcrown
-
-Builds from:
-
-Oakheart
-
-Tip: Helps you damage objectives such as turrets & jungle bosses.
-
-
-
-Tier 3
-
-Teleport boots
-
-Cost: 1600\(800\) gold
-
-+150 Max Health
-
-+15 Shield
-
-+15 Armor
-
-Passive: +0.5 move speed. \(Does not stack with other boots.\)
-
-Passive: Travel Boots
-
-Activate: After channeling for 2.5s, teleport to allied structure, minion or Scout Cam. Grant 600 barrier to the target while channeling. Gain a burst of move speed upon arrival\(180s cooldown\).
-
-Tip:
-
-\*\*Note: Soverigns Rise only
+* Cost: 1600\(800\) gold
+* Stats:
+* +150 Max Health
+* +15 Shield
+* +15 Armor
+* Passive: +0.5 move speed. \(Does not stack with other boots.\)
+* Passive: Travel Boots
+* Activate: After channeling for 2.5s, teleport to allied structure, minion or Scout Cam. Grant 600 barrier to the target while channeling. Gain a burst of move speed upon arrival\(180s cooldown\).
+* Tip:   Lets you quickly join your team from across the map or flank unsuspecting opponents.
+* \*\*Note: Soverigns Rise only
 
 
 
