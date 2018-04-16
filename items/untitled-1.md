@@ -93,7 +93,7 @@
 
 ## Ironguard Contract
 
-![](../.gitbook/assets/ironguard-contract.png)
+![](../.gitbook/assets/ironguard-contract%20%281%29.png)
 
 * Cost: 250 gold
 * Stats:
@@ -122,7 +122,7 @@
 
 ## Weapon Infusion
 
-![](../.gitbook/assets/weapon-infusion.png)
+![](../.gitbook/assets/weapon-infusion%20%281%29.png)
 
 * Cost: 500 gold
 * Stats:
