@@ -124,7 +124,5 @@ description: List of all Items by category ad tier (click on the name for detail
 {% endtab %}
 {% endtabs %}
 
- \| Cost: 2750\(1200\) \| Tier3
-
- \| Cost: 2750\(1200\) \| Tier3 \| Cost: 2750\(1200\) \| Tier3
+ 
 

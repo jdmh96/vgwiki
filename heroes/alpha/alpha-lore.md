@@ -129,7 +129,7 @@ The room erupted in flashing blue magic and the roars of Second Boss. The machin
 
 
 
-![Mission: fiifiiiififind corn, yarn, garden. Storm guard.](../../.gitbook/assets/alpha000_86-e1481587231232.jpg)
+![Mission: fiifiiiififind corn, yarn, garden. Storm guard.](../../.gitbook/assets/alpha000_86-e1481587231232%20%281%29.jpg)
 
 Daisy squeezes into a corner of the workout room, bare feet sunk into the mat, arms bent, hiding her face behind bruised forearms and thick leather boxing gloves. Kestrel, a year older at fifteen, weaves close and strikes Daisy’s obliques, tight to cramping; when her arms drop, the strikes come at her jaw and temples. Tears slide out of Daisy’s swollen eyes, mixing with blood and snot from her nose. A hit to the belly sucks the air out of her and she crumples, arms over her head.
 

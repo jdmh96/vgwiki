@@ -190,7 +190,7 @@ In the moment before the chaos, a breeze swirls light snowflakes around the tent
 
 Then, she spins on her back foot and looses the arrow through the flames.
 
-![I’m the Stormguard. I’m your fortune and your despair.](../../.gitbook/assets/cathkestrel_stormguard_final_1000w.jpg)
+![I’m the Stormguard. I’m your fortune and your despair.](../../.gitbook/assets/cathkestrel_stormguard_final_1000w%20%281%29.jpg)
 
 ## ‘THE COUP D’ÉTAT’
 

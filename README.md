@@ -87,14 +87,14 @@ description: Welcome To The Official Vainglory Wiki
   * [x] joule
     * [ ] abilities
     * [ ] lore
-  * [ ] kestrel
-    * [x] abilities
+  * [x] kestrel
+    * [ ] abilities
     * [ ] lore
   * [x] koshka
     * [ ] abilities
     * [ ] lore
-  * [ ] krul
-    * [x] abilities
+  * [x] krul
+    * [ ] abilities
     * [ ] lore
   * [ ] lance
     * [x] abilities
