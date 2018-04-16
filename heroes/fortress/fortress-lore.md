@@ -64,7 +64,7 @@ The pack watched as the face of the Mother turned into a wide hollow. A thick, h
 
 
 
-![All roads lead to the vain.](../../.gitbook/assets/image%20%28102%29.png)
+![All roads lead to the vain.](../../.gitbook/assets/image%20%28109%29.png)
 
 Rona sniffed the air, searched the empty sled, dug into the fresh tracks, then peered into the tangles of The Great Oak. Buried in the winding branches, she caught the old druid’s eye.
 
