@@ -236,7 +236,7 @@ Ardan squinted up through the falling starlight at the shadows plummeting toward
 
 
 
-![I go where I’m needed.](../../.gitbook/assets/4_vanguard-up%20%281%29.jpg)
+![I go where I&#x2019;m needed.](../../.gitbook/assets/4_vanguard-up%20%281%29.jpg)
 
 “Please, be enough,” whispered Ardan, as the holographic barriers crackled to life a few feet from the ground.
 
@@ -374,7 +374,7 @@ SUGARVENOM: And there’s the bell. Round one has begun!
 
 
 
-![You’re not going anywhere.](../../.gitbook/assets/download%20%282%29.jpg)
+![You&#x2019;re not going anywhere.](../../.gitbook/assets/download%20%282%29.jpg)
 
 White-uniformed guards melted into shadows without so much as a cry to halt as Ardan stomped toward the queen’s chambers. The door gave way to his armored kick too easily; it hadn’t been bolted.
 
@@ -506,7 +506,7 @@ It took five guards to hold Ardan down while he struggled and howled. “Save it
 
 
 
-![You don’t want to be on my bad side.](../../.gitbook/assets/ardan_gladiator_e.jpg)
+![You don&#x2019;t want to be on my bad side.](../../.gitbook/assets/ardan_gladiator_e.jpg)
 
 
 

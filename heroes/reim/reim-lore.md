@@ -139,6 +139,48 @@ The woman turned her soot-stained face, mapped with tears, toward the stranger, 
 
 The woman shook her head and held the Grangor’s forearm for support. “He’s gone,” she answered, then looked up at the Grangor’s chubby face. “Everything is gone.”
 
+## 'THE CONSEQUENCE AND THE INCEPTION’
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/06/Lyra_Lore1.jpg)
+
+On the muddy shore of Trostan, Lyra watched a Grangor search expedition wind their way through the ghost town, past the glowing blue well of power and up the glacier trail. For days they had sorted through the smoking rubble, rubbing ash away from the faces of the dead, hearts in their throats, but Samuel had not been found.
+
+The old ice mage shuffled up beside her, leaning his weight on a staff, one bushy eyebrow raised. “No one’ll blame you if you don’t go back.”
+
+Lyra didn’t hesitate. “I am Gythian.”
+
+“Uh huh.” Reim made the blah-blah motion with one gnarled hand.
+
+“It’s time,” she said.
+
+Reim stretched out one arm; from his palm, a spinning ice ball formed. Lyra’s breath froze in her throat. Goosebumps rose on her arms. Frost leapt from Reim’s fingers; icicles formed on his beard; ice coated his staff and he slammed it into the mud. The ground shook as an ice spire shot up at the center of Trostan, spearing the sky, sealing the well.
+
+“Your turn,” said Reim. “Shut it down.”
+
+The spellbook blinked and fluttered open between her hands; the ancient words dropped from her mouth. The city’s magic borders scrolled away from the sky, fluttered in the air and returned to the book. Held back for decades, roiling clouds fled down from the peaks, flooding the destroyed city, releasing snow in fat flakes that blanketed the seared wreckage in blinding white.
+
+The mages boarded the last of the ships. From the stern, Lyra hugged her spellbook to her chest and watched the expanse of her life’s work shrink away into the distance. It had begun as a frozen camp for miners, thieves and get-rich-quick schemes, but within Lyra’s protective barriers, it had become a pocket of color in desolate white. Gythian settlers had filled it with spires, sculpture, vegetation, legitimate trade and proper jurisprudence. The mage tower of Trostan, though a shadow of the one at home, had been all her own, its rounded walls lined with books and art, now ash.
+
+~
+
+Twenty years and some earlier, the view from the prow of the icebreaker ship, with its strengthened hull crunched up against what would soon be the port of Trostan, was of white and more white, sandwiched between a cruel gray sky and a choppy gray sea.
+
+The fateswoman’s dour mouth twisted under her white hood as she dumped the divine doves out of their gilded cage without ceremony. When they flew into the masts, she proclaimed it a positive augur as she’d been paid to do. The reading of the fates mattered not at all to Lyra, but the surrounding ship decks were packed with lower-born citizens who would not have disembarked without a good augur. These explorers and miners had settled this forsaken and frozen area of the Kall Peaks, where only Grangor had roamed before crystal had been found. High above, on the ledges of the mountains, the cat-beasts themselves watched. If Lyra succeeded, more ships would follow from Gythia with future Trostanians: architects, merchants, artists, agriculturalists with their seedlings and livestock, more miners and equipment and shipbuilders, teachers and physicians for their children.
+
+Lyra huddled under a red fur cape that would have commanded respect were it not soaking wet. Spring in the Kalls meant sleet, a sleet that slammed into the sea at such a volume that her speech about the glory of the empire and hope for a future of affluence was abandoned.
+
+Never before had so many eyes laid upon her. Never before had so much responsibility rested on her shoulders. Never before had she wished for failure.
+
+“If there is a day for it, let it be today,” she muttered.
+
+“What?” bellowed her Grangor guide. Though covered in fur, he seemed no worse for wear; the wetness slid away from him and his toothy grin triumphed over the storm.
+
+“I had a speech prepared,” she yelled back. “I don’t think they’ll hear it!”
+
+“May as well just do your thing!” The Grangor’s claws clasped together over his generous belly.
+
+Lyra focused her gaze on the glowing glacier, all else falling away. She sank a deep, cold breath into her lungs and held it there, warming it, before releasing it out in a fog. “Come, Ambrosius,” she whispered, and her spellbook fled away from her cloak to float by her upturned palm. His eye rolled up as she whispered the words that appeared in runes on his pages. Another deep cold breath and the sleet sizzled when it struck her, and then her crimson fur cloak warmed and dried, then her hair, and she gathered the warmth between her hands and wished, as always, that she could hold it forever. Her arms spread wide and light flooded from her fingertips. Warm curved barriers formed at the borders of what would soon be Trostan, and the sleet fell around these wards like water around a glass globe. The clouds dissolved within her warm bulwark, the people turned joyful faces toward the sun, and the great glowing Halcyon-infused glacier began to crack and drip and flow into what would be known, for the next generation, as the twin rivers of Trostan.
+
 ## 'THE TRIAL’ {#thetrial}
 
 ![Give up! There&apos;s no shame in losing.](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/08/1000x500_Samuel_Lore2.jpg)
@@ -243,7 +285,7 @@ He unstrapped the armor and found within it a Valkyrie. “Well isn’t that a t
 
 #### 'THE PATH OF THE VALKYRIE'
 
-![Not so fast! I&apos;m not 81 anymore!](../../.gitbook/assets/image%20%2818%29.png)
+![Not so fast! I&apos;m not 81 anymore!](../../.gitbook/assets/image%20%2819%29.png)
 
 Through the icy peaks melting into forested valleys the pair traveled, the wandering mage and his companion the Valkyrie. Neither gave nor asked for a name from the other; theirs was a friendship with no past or future. The Valkyrie taught Reim how to spot and avoid the troll caves and when they were accosted by a Grangor hunting group, the duo fought together, Reim with his magic and the Valkyrie descending from the sky to attack with a terrifying battle shriek. The fearsome Grangor were reduced to a pile of cat pelts and frozen meat.
 
@@ -255,7 +297,7 @@ The last trek had no path. Reim was no longer young; some days they made little 
 
 #### 'TROLL BANE'
 
-![Ahh! Now this is my kind of weather.](../../.gitbook/assets/image%20%28126%29.png)
+![Ahh! Now this is my kind of weather.](../../.gitbook/assets/image%20%28129%29.png)
 
 The Valkyrie watched Reim with care as he drank the Draught of Memory. He coughed, bent double and retched. “What is this foul concoction?” he gasped.
 
@@ -285,7 +327,7 @@ In the silence that followed, Reim stepped beyond the standing-stones and stood 
 
 #### '**WHERE THE SOUL HIDES'**
 
-![I was mostly dead anyways.](../../.gitbook/assets/image%20%2889%29.png)
+![I was mostly dead anyways.](../../.gitbook/assets/image%20%2891%29.png)
 
 As the end drew close, Reim climbed the highest peak in the Kalls, casting his last insults upon the Grangor, patting snow beasts and cave trolls on their heads in farewell. He settled on the summit and let the thin air lull him to sleep, ready to die in the oblivion of dreams.
 
@@ -309,7 +351,7 @@ It is said that Reim still wanders the world with an ice-forged dragon staff, an
 
 #### '**WHADDYA WANT?'**
 
-![Let&apos;s play a game where you stop talking to me.](../../.gitbook/assets/image%20%2817%29.png)
+![Let&apos;s play a game where you stop talking to me.](../../.gitbook/assets/image%20%2818%29.png)
 
 Alright kid, whaddya want? Keep it snappy. Got a long line of drippy-nosed kids behind you and the store is closing. Catnip, a ball of yarn and a laser pointer? Can’t say I’ve heard that one before, but who’m I to judge? Off you go. Yeah yeah yeah, Happy Joy Festival.
 

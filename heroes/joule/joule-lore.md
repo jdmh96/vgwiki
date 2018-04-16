@@ -16,7 +16,7 @@ By now, all the hungry kids are milling around Joule’s corner of the floor, ru
 
 Nobody’s dumb enough to believe her, but nobody wants to be the one who chickens out. Once volunteers start raising hands, Joule has herself a gang.
 
-![I’m getting the hang of this, I think.](../../.gitbook/assets/joules_story.jpg)
+![I&#x2019;m getting the hang of this, I think.](../../.gitbook/assets/joules_story.jpg)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

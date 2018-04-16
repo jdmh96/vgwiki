@@ -98,7 +98,7 @@ There was no time to lose. She had to complete her mission before anyone could s
 
 
 
-![I’d look amazing in slow-mo.](../../.gitbook/assets/skyestory31%20%281%29.jpg)
+![I&#x2019;d look amazing in slow-mo.](../../.gitbook/assets/skyestory31%20%281%29.jpg)
 
 ## ‘SIERRA KILO YANKEE ECHO’
 
@@ -198,7 +198,7 @@ Holding on to one another, their crystal-splintered faces grubby with smoke, the
 
 
 
-![You’re writing checks your body can&apos;t cash.](../../.gitbook/assets/skye_baron_lore2_1000px.jpg)
+![You&#x2019;re writing checks your body can&apos;t cash.](../../.gitbook/assets/skye_baron_lore2_1000px.jpg)
 
 ## ALTERNATE FATES
 

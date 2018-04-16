@@ -36,7 +36,7 @@ Flitwick “Flicker” Stingsplatter IV, Doctor of Entomology
 
 
 
-![Seven, eight, nine. We’re missing someone!](../../.gitbook/assets/1000x500_flicker_lore2.jpg)
+![Seven, eight, nine. We&#x2019;re missing someone!](../../.gitbook/assets/1000x500_flicker_lore2.jpg)
 
 “Shoo Ethel, _shoo_, you damnable ingrate,” lectured Flicker, swiping at one of his fuzzy ears.
 

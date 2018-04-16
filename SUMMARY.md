@@ -54,7 +54,8 @@
     * [Lance Lore](heroes/lance/lance-lore.md)
   * [Lorelai](heroes/lorelai/README.md)
     * [Lorelai Lore](heroes/lorelai/lorelai-lore.md)
-  * [Lyra](heroes/lyra.md)
+  * [Lyra](heroes/lyra/README.md)
+    * [Lyra Lore](heroes/lyra/lyra-lore.md)
   * Malene
     * [Malene Lore](heroes/malene/malene-lore.md)
   * [Ozo](heroes/ozo/README.md)
