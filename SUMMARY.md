@@ -54,7 +54,8 @@
   * [Lyra](heroes/lyra.md)
   * Malene
     * [Malene Lore](heroes/malene/malene-lore.md)
-  * [Ozo](heroes/ozo.md)
+  * [Ozo](heroes/ozo/README.md)
+    * [Ozo Lore](heroes/ozo/ozo-lore.md)
   * [Petal](heroes/petal.md)
   * [Phinn](heroes/phinn/README.md)
     * [Phinn Lore](heroes/phinn/phinn-lore.md)
