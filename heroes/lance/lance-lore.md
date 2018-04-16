@@ -2,7 +2,7 @@
 
 ## 'THE ARCHELIONS’
 
-![Two steps forward, one to the side. Two steps forward, one to the side.](../../.gitbook/assets/image%20%28121%29.png)
+![Two steps forward, one to the side. Two steps forward, one to the side.](../../.gitbook/assets/image%20%28129%29.png)
 
  Samuel emerged from his rented island room sullen, his cheeks gaunt, dressed all in black. He walked past hammocks where the locals napped away the hot afternoon, couples snoring together in a tangle of limbs, mothers curled around little children like shells around peas. Away from the dwellings he found a handful of goats gnawing on shrubs; honeybees dove through tall bamboo to rummage inside of flowering beans, zucchini and asparagus. In the garden it was difficult to believe that the island was the shell of the giant and ancient titanback named Archelon, floating his annual way around the world.
 
@@ -110,7 +110,7 @@ Samuel moved like an unwilling shadow behind Lance’s great steel bulk as they 
 
 ## 'THE TRIAL’
 
-![Against the wall!](../../.gitbook/assets/image%20%28102%29.png)
+![Against the wall!](../../.gitbook/assets/image%20%28108%29.png)
 
  Bright-plumed Titanbeaks pulled the mages’ litters through the Gythian streets: the Archmage in her own, Lyra and Magister Reim in the next. Lance insisted on riding in the third with Samuel; he craned his head out of the curtained window to gape at the complex of short military towers and training yards sprawled against the great obsidian wall, then the closed-up and somber Ministers’ Tower, the Cartographers’ Tower with its landings and patios housing all sizes of telescopes and finally the Mage Tower, taller by a hundred feet than any other and wide as a city block. It was adorned around each level with golden sculptures of past Archmages, each holding the ancient wand named Verdict.
 
@@ -230,7 +230,7 @@ Grace stood, and even without the splendor of her ceremonial dress she was an im
 
 The man knelt, prepared for punishment. Instead, he felt the woman’s palm on his bare head. Warmth flooded down his spine, and with it, a peace he had not known since he was a babe in his mother’s arms.
 
-![Mi lady!](../../.gitbook/assets/image%20%28123%29.png)
+![Mi lady!](../../.gitbook/assets/image%20%28131%29.png)
 
 “With valor and bravery you saved the life of the Archmage,” she said. “You kept watch in the night. Do you swear to live by the tenets of justice, courage, mercy, decorum, honesty, honor, loyalty and character?”
 
@@ -254,7 +254,7 @@ He wept his thanks as the acolytes guided him away. Grace’s attendants hovered
 
 
 
-![I&apos;ll go first.](../../.gitbook/assets/image%20%28114%29.png)
+![I&apos;ll go first.](../../.gitbook/assets/image%20%28121%29.png)
 
 _A shadow fled from Verdict and landed in Samuel’s periphery a split moment before pain flooded his belly. He whirled to face his aggressor and stared into his own face, at Malice pointed at his own torso. There was no time to register this ultimate betrayal before his shadow double flanked and shot again._
 
@@ -290,7 +290,7 @@ An armory grew up around them, illuminated by the flames, full of suits of armor
 
 #### '**GUARDIAN OF THE NETHER'**
 
-![Your wisest choice is to run away.](../../.gitbook/assets/image%20%28134%29.png)
+![Your wisest choice is to run away.](../../.gitbook/assets/image%20%28142%29.png)
 
 The three-headed dire wolf of the Netherworld sat, motionless but for the flames flickering from his body, as ghouls buckled Lance into Nether-forged armor. “You will take me to the woman I killed,” commanded the warrior.
 
@@ -342,7 +342,7 @@ The fighters stepped through separate doors into the arena. Catherine blinked ag
 
 To survive one’s first fight in the arena was rare. To win was a miracle. To continue winning was unheard of. Ardan had had some recent luck, had won by the skin of his teeth and been stitched up in time to be torn apart in a half-dozen subsequent fights, but Lance, the Archelion, had won every bout for a year. He was not Gythian by birth, but the people had adopted him. His spiked black armguard rose, displaying a heavy bladed pilum to the roaring crowd; from his black helmet burst the red horsehair brush of the warriors. Into his armor was sculpted the faces of monsters he had beaten in the sands. His crimson shield bore the face of Caius, the fabled first warrior of Gythia. The crowd erupted in songs for the champion in red and black; some threw their masks into the sand.
 
-![Time for rolling.](../../.gitbook/assets/image%20%2817%29.png)
+![Time for rolling.](../../.gitbook/assets/image%20%2818%29.png)
 
 Ardan’s heart sank. He had abandoned Gythia long ago, in his youth, to join the Technologist rebels, and he had in turn abandoned them to protect his children, but he had been raised among the warriors. To bear the face of Caius would have made his father proud. As the Champion took his time striding across the sand toward them, Ardan forced himself to breathe through the throat-crushing weight of his failures. His fans called him a Son of Gythia, but this Archelion, Lance, was more Gythian than he.
 

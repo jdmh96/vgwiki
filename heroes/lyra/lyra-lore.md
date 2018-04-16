@@ -2,7 +2,7 @@
 
 ## 'THE FIRST MISTAKE'
 
-![You&#x2019;ll be safer with me.](../../.gitbook/assets/image%20%28127%29.png)
+![You&#x2019;ll be safer with me.](../../.gitbook/assets/image%20%28135%29.png)
 
 Remarkable, Lyra thought, how quickly the settlers had mixed Gythian with the rough syllables of the Grangor tongue to create the language of Trostanian. Lyra never deigned to speak it, but understanding Trostanian was essential in the multicultural port town, no matter what garish throaty things it did to the lyrical Gythian syllables. Only five years ago, her barriers had melted the Halcyon glacier and already the settlement had become a growing, respectable town. Dockside inns filled to bursting with taxpaying travelers seeking their crystal fortune, adding their native nomenclature to the evolving language. On the docks, sailors called to one another in fluent Trostanian as they passed crates down the ramps from the ships’ tenders to the docks.
 
@@ -62,7 +62,7 @@ She soaked his neck with silent tears, her fingers clawing into his shoulders.
 
 ## 'THE NIGHTMARE'
 
-![Oh no honey, not that way.](../../.gitbook/assets/image%20%2882%29.png)
+![Oh no honey, not that way.](../../.gitbook/assets/image%20%2888%29.png)
 
  Samuel returned to his room at sunset to find Lyra there, staring at the collection of ceremonial Grangor headdresses he’d mounted on one curved wall. He dropped his dripping snow gear on the floor and fell back on his unmade bed, flopping one arm over his eyes. “So there will be a lecture tonight,” he muttered. “Safety or obligation?”
 
@@ -328,7 +328,7 @@ Lyra
 
 #### 'THE CLASS PRESIDENT'
 
-![Boring? I&#x2019;m NOT boring&#x2026;.. Am I boring?](../../.gitbook/assets/image%20%28116%29.png)
+![Boring? I&#x2019;m NOT boring&#x2026;.. Am I boring?](../../.gitbook/assets/image%20%28124%29.png)
 
 So you want the best lunch table. You want teachers to step out of your way in the hall. You want everyone in school to know your name. You want to be class president. Hah! Everyone _thinks_ they can be in charge until they’re herding a bunch of unruly sheep-eyed adolescents with raging hormones, questionable morals and underdeveloped prefrontal cortexes. But I’ll give you a few pointers if you think you can make the cut.
 
@@ -344,7 +344,7 @@ Fourth, but most important: For high school, you’re going to need a squad.
 
 #### 'THE REUNION OF SUN AND MOON'
 
-![Do you ever feel like you&#x2019;re being watched?](../../.gitbook/assets/image%20%2835%29.png)
+![Do you ever feel like you&#x2019;re being watched?](../../.gitbook/assets/image%20%2837%29.png)
 
 One autumn, while Celeste was on the moon for her annual mooncake tasting, she noticed in the distance the silhouette of a grand palace.
 

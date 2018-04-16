@@ -216,7 +216,7 @@ Had his rules been so impossible? Don’t draw attention to yourselves. Don’t 
 
 And now, his children were falling.
 
-_Don’t draw attention to yourselves.\_And they’d put up\_posters_.
+_Don’t draw attention to yourselves. And they’d put up posters_.
 
 \*
 
@@ -342,6 +342,8 @@ There’s all these rumors and tales about how Celeste is gonna challenge the th
 
 #### ‘THE SWEETHEARTS’
 
+![Such pretty trees.](../../.gitbook/assets/image%20%2831%29.png)
+
 “Celeste! Yo, where’d you go?”
 
 “I’m up here, taking care of the sweethearts.”
@@ -364,9 +366,11 @@ Vox stepped close, peering at the basking butterfly. “Does … does this one h
 
 “Not yet.” Celeste whispered to the Julia, and it fluttered over to rest on Vox’s ear. “But I’ll take care of her until her sweetheart comes.”
 
-### ‘STAR QUEEN’ CELESTE  
+### ‘REBELLION’ CELESTE  
 
 #### 'NO MORE FEAR!
+
+![Step into the light, the light is your friend.](../../.gitbook/assets/image%20%2870%29.png)
 
 _A holographic image burst out of the top of a small gift box that sat before the rebel future queen and her Gythian advisor. There was no sound, only the image of a battle. There sat the Storm Queen atop her horse; beyond was the queen’s army and her Stormguard flooding a green farmland with the blood of the locals, whose cavalry fell under the magical onslaught. The last image was that of Catherine, her war mask disguising her features._
 
@@ -398,7 +402,7 @@ The Gythian struggled to control his tone. “You knew that the Storm Queen take
 
 “We have come too far to turn back,” pleaded the war mage. “This plan has been in place since you were born. If you do not take Mont Lille while the queen is away…”
 
-“\_I\_am the queen. Mont Lille is\_my\_city. These are\_my\_people. Shall I begin my reign by killing my own soldiers? By incinerating children? Does Gythia’s stake in this plan fall away at sunrise?” Celeste held the Gythian’s gaze until he backed away, then took the telescope back and squinted through it. “Vox? How loud can you make my voice?”
+“I am the queen. Mont Lille is my city. These are my people. Shall I begin my reign by killing my own soldiers? By incinerating children? Does Gythia’s stake in this plan fall away at sunrise?” Celeste held the Gythian’s gaze until he backed away, then took the telescope back and squinted through it. “Vox? How loud can you make my voice?”
 
 Vox laughed. “You wanna know if I can make noise?” He made a microphone with his fist and held it in front of her mouth.
 
@@ -422,9 +426,11 @@ Then, there was a solitary shout from behind the gate. The voice of an adolescen
 
 “The woman will overtake a capital city without a drop of blood spilled,” said the war mage, but the propellers picked up speed so that no one heard him. Vox steered\_The Audacity\_over the gate and landed in the city square, and the throngs surrounded the airship to welcome the Star Queen home.
 
-### ‘STAR QUEEN’ CELESTE 
+### ‘RISING STAR’ CELESTE 
 
 #### 'THE MIRRORED COURT'
+
+![I really AM the center of the Universe.](../../.gitbook/assets/image%20%28115%29.png)
 
 The royal party traveled up the winding streets of Mont Lille, torches lighting their way. The going was slow; the crowds pressed into their new monarch, reaching to touch her hair and gown, chanting No more fear! and Liberté, égalité! At the summit of Mont Lille, past grottos and fountains and manicured topiary, they climbed a marble staircase to find the gem-encrusted gate of the Storm Queen’s palace wide open. There, Celeste bade her people to return home and remain vigilant, and the gate closed behind her.
 
@@ -464,7 +470,9 @@ Vox grabbed a gauntlet and inspected it. “She knew you were coming?”
 
 ### ‘STAR QUEEN’ CELESTE 
 
-### 'THE RISE OF THE STAR QUEEN'
+#### 'THE RISE OF THE STAR QUEEN'
+
+![But who will take my place..?](../../.gitbook/assets/image%20%2838%29.png)
 
 Outside the palace and all along the continent, the independent kingdoms that had once all been the purview of the Storm Queen raged at war. Nobles took up arms against one another; commonfolk rose up against the nobles whose battles burned their farms. The Captain of the Navy laid in convalescence and the Star Queen remained palace-bound for her safety.
 
@@ -510,9 +518,9 @@ _If you wish, you may have our eyes_, came a whisper from her hand._I will show 
 
 Celeste snapped herself away from the ravens’ dream. Her lips pursed and the ravens cackled. “Is this vision true?” she asked in a measured tone.
 
-\_It is a memory,\_said one.
+It is a memory, said one.
 
-\_A story we can tell of what we saw,\_said another.
+A story we can tell of what we saw, said another.
 
 “I trusted him,” she said, her jaw tight. “He lied.”
 
@@ -524,7 +532,7 @@ _You can see our colors._
 
 _There is nowhere you cannot fly._
 
-\_Pay the price,\_hissed one.
+Pay the price, hissed one.
 
 _Let us take them, and we will be your eyes._
 
@@ -534,13 +542,13 @@ _Give us your eyes._
 
 The ravens descended, screaming.
 
-_The End._
+![This is your World, but this is my Galaxy.](../../.gitbook/assets/image%20%28122%29.png)
 
 ### ‘BAEWITCHED’ CELESTE‘ 
 
 #### 'BUT I QUITE LIKE PEANUT BUTTER’
 
-_**By SugarVenom**_
+![This is fun, I quite like peanut butter.](../../.gitbook/assets/image%20%2814%29.png)
 
 Celeste wandered upon Petal on the Halcyon Fold one night, pulling eyes out of newts and dropping them into a cauldron.
 
@@ -589,6 +597,8 @@ The melon exploded outward. When the green smoke cleared, the watermelon had spo
 ### ‘MOON PRINCESS’ CELESTE 
 
 #### ‘CELESTE SAVES THE MOON BUNNY’
+
+![I quite like pink.](../../.gitbook/assets/image%20%2863%29.png)
 
 Celeste was walking home after studying late at the Taizen High School library one night when she heard a snivel-y weepy sound coming from the park. She followed the bawling to the swing set, where she found a brown-spotted bunny. The bunny was swinging super high, so high that Celeste was afraid he would go all the way around, then he jumped out of the seat with his four legs and floppy ears spread wide only to faceplant in the grass. With slumped shoulders and hiccup-y sobs he climbed back up into the swing and began again.
 
