@@ -94,8 +94,6 @@ By the time the front window shattered, Kestrel had swung down from the tree. Ig
 
 Hanging from the windowsill by one hand, her bow slung over one shoulder, she glanced back at the storm of magic and steel following behind. Catherine stood behind the attack, tears in her eyes, a raven’s neck broken in her fist, another landing on her shoulder with an enraged scream.
 
-
-
 ## 'THE SHIELD AND THE BOW'
 
 ![I don&apos;t mind when people turn their backs on me.](../../.gitbook/assets/cathkestrel_stormguard_final_1000w.jpg)

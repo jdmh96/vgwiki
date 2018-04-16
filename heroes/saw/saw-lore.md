@@ -153,7 +153,7 @@ Applying updated identity: S.A.W
 
 ![There&apos;s no other choice.](../../.gitbook/assets/2593f7eca0c5fa84e4ba297a0a5c69ca.jpg)
 
-### 'Elite Force' SAW
+### 'ELITE FORCE' SAW
 
 #### PUCKER FACTOR 10
 

@@ -115,4 +115,6 @@
     * [Varya Lore](heroes/varya/varya-lore.md)
   * [Vox](heroes/vox/README.md)
     * [Vox Lore](heroes/vox/vox-lore.md)
+  * Saga Lores
+    * [The Stormguard Saga](heroes/saga-lores/the-stormguard-saga.md)
 
