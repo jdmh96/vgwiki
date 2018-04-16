@@ -1,26 +1,8 @@
 # Krul Lore
 
-## 'KRUL SAILS FOR THE FOLD'
-
-![](../../.gitbook/assets/krul_sails_1000px-768x365.jpg)
-
-Once, there was warmth. I remember fires, the way I’d leap and curse when a spark popped out to land on my arm. Meat and apples on my tongue. The soundless beat of my own heart. Flashes of those feelings return when I’ve forgotten too long. My suffering would not be complete without the occasional haunting memory.
-
-There are things my body remembers, deep to the bones, things my father must have taught me, though I do not remember him now: how to row, sail and navigate. How to wield a blade and command men. How to disarm an enemy and snap his neck. There are other memories, so detached from me now that I am never certain if they are real… or just parts of songs I’ve heard sung belowdecks.
-
-It seems impossible that once I breathed. That I feasted with brothers. That I ever held a woman, my nose buried in her hair, while she slept.
-
-Now, there is only the pain.
-
-I have carried this torment since the time of your grandfathers’ grandfathers, and if what I seek is not in the Halcyon Fold, I may well carry it generations longer.
-
-I hunger. I desire. But fulfillment never comes. There is no peace in this cursed life, if this can still be called life.
-
-One hope remains. One more chance to be rid of my soul and the steel that binds it – and find my final rest. Every pull of the oar, every splash of sea spray, draws me closer to salvation.
-
 ## 'KRUL, THE TORTURED UNDEAD'
 
-![](../../.gitbook/assets/krul_tortured_1000px-768x332.jpg)
+![Never rest, always restless.](../../.gitbook/assets/krul_tortured_1000px-768x332.jpg)
 
 Don’t go out there! I saw it… him… with my own eyes. An impossible creature. A man no longer a man, with a colossal sword through his chest. The glowing blade went clear through him and out the other side. Just imagine the gaping hole of a wound. An unthinkable sight. And then he reached for me. I got away with only a scratch, but…
 
@@ -33,8 +15,6 @@ He ripped apart the minions. There were only pieces of things left on the ground
 Now, let me die.
 
 ## 'WHAT KRUL SEEKS'
-
-![](../../.gitbook/assets/krul-lore2-768x432.jpg)
 
 “Do it!” roars the undead monster at the round metal eye of the turret, half grown over with brambles and rattan. “Put a hole in me! Blow me apart!”
 
@@ -58,6 +38,10 @@ Her response is the slow pulling of her weapon from the rocks, that _shing_ of s
 
 She leaps, falling hard onto him, sword front, magic buzzing around her like bees. She is good with her weapon, well trained. He might have respected her, once. She gets a few slashes into him, his half-dead flesh sagging apart where she aims. He swings at her, hits only air, circling, snorting like a devil, dodging as best he can until she turns the sword over her shoulder and pounds him good in the brow with the hilt. He lunges, closes the gap between them, roaring his dead breath onto her, then her valiant cry is cut short by his fist round her throat.
 
+![No peace for you, or me.](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9jiwk9ds21Hoy5QAcA%2F-LABl2AuWfRpQNLp5v39%2F-LABlsTlXasd3NO7e19x%2FKrul-Lore2-768x432.jpg?alt=media&token=a533ad12-25b4-4f90-b666-71d5199e2a64)
+
+Replace
+
 “Pretty thing.” He licks her cheek while she squirms; her sword clatters on the stones between them and he kicks it away. He’s had enough of swords. A squeeze, and her neck breaks in his grip. Her life flows away from her and into him and she collapses, forgotten the moment he steps over her, toward the turret.
 
 So close…
@@ -72,13 +56,31 @@ Hope lost, the world comes back to him. The rhythmic _bzzt bzzt_ of insects. Bir
 
 He allows himself one agonized scream before stalking back into the bush. There is another road there, to the Halcyon Fold, that he must now take.
 
+## 'KRUL SAILS FOR THE FOLD'
+
+![Bring me to the living.](../../.gitbook/assets/krul_sails_1000px-768x365.jpg)
+
+Once, there was warmth. I remember fires, the way I’d leap and curse when a spark popped out to land on my arm. Meat and apples on my tongue. The soundless beat of my own heart. Flashes of those feelings return when I’ve forgotten too long. My suffering would not be complete without the occasional haunting memory.
+
+There are things my body remembers, deep to the bones, things my father must have taught me, though I do not remember him now: how to row, sail and navigate. How to wield a blade and command men. How to disarm an enemy and snap his neck. There are other memories, so detached from me now that I am never certain if they are real… or just parts of songs I’ve heard sung belowdecks.
+
+It seems impossible that once I breathed. That I feasted with brothers. That I ever held a woman, my nose buried in her hair, while she slept.
+
+Now, there is only the pain.
+
+I have carried this torment since the time of your grandfathers’ grandfathers, and if what I seek is not in the Halcyon Fold, I may well carry it generations longer.
+
+I hunger. I desire. But fulfillment never comes. There is no peace in this cursed life, if this can still be called life.
+
+One hope remains. One more chance to be rid of my soul and the steel that binds it – and find my final rest. Every pull of the oar, every splash of sea spray, draws me closer to salvation.
+
 ## ALTERNATE FATES
 
 ### 'DEATH METAL' KRUL
 
 #### 'THE CHEATER OF DEATH'
 
-![](../../.gitbook/assets/download-4.jpeg)
+![Your soul will be emptied.](../../.gitbook/assets/download-4.jpeg)
 
 _Deadly iron transforming  
 To a cruel instrument performing  
@@ -94,7 +96,7 @@ I am the cheater of death._
 
 #### 'TOMMY'
 
-![](../../.gitbook/assets/krul_pirate_splash_1000px-768x432.jpg)
+![Goodness is just make believe.](../../.gitbook/assets/krul_pirate_splash_1000px-768x432.jpg)
 
 On that night, us on the queen’s galleon all woke screaming from nightmares. The navymen shrugged it off but the islanders said it was death come hunting. Me and my lowlife rigging brothers climbed the ratlines and told tall tales to make each other brave: I’d punched the nose of a shark, I said, and another had slept through a hurricane in a crow’s nest, and another claimed he’d out-argued the prosecution at his thieving trail.
 
@@ -124,7 +126,7 @@ Then _he_ came. His footsteps were different, one being booted and the other woo
 
 #### 'THE SURFBOARD OF DOOM'
 
-![](../../.gitbook/assets/krul_summer_splashart_1000w-768x391.jpg)
+![Enter the horror.](../../.gitbook/assets/krul_summer_splashart_1000w-768x391.jpg)
 
 In the hour after the patrol of dawn, when the sun rose and the groms and the kooks crowded the whitewater, as the wind chopped and sprayed the waves, I paddled the surfboard of doom toward shore in a rush for crunchy sustenance. In the deep sandy trench I saw it: a gliding fin rising off the surface, a carnivorous monster hunting its prey: a snorkeling damsel just under the surface.
 
@@ -138,7 +140,7 @@ Not for thanks did I this heroic deed, but for my lost honor.
 
 #### 'THE WOUND IN THE HEART AND THE WOUND IN THE SPINE'
 
-![](../../.gitbook/assets/1000px_samurai_krul_splash-768x373.jpg)
+![This was your mistake.](../../.gitbook/assets/1000px_samurai_krul_splash-768x373.jpg)
 
 The emperor’s army flooded through the broken gate while the Lord of the Walled City, a ten-year old boy, watched his dead father burn atop a pyre. In his hands he gripped Hellrazor, the cursed _katana_. “If… If I surrender…”
 

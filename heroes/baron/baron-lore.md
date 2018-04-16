@@ -98,7 +98,7 @@ There was no time to lose. She had to complete her mission before anyone could s
 
 
 
-![I’d look amazing in slow-mo.](../../.gitbook/assets/skyestory31.jpg)
+![I’d look amazing in slow-mo.](../../.gitbook/assets/skyestory31%20%281%29.jpg)
 
 ## ‘SIERRA KILO YANKEE ECHO’
 

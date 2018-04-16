@@ -2,8 +2,6 @@
 
 ## 'SKYE'S PROMISE'
 
-![](../../.gitbook/assets/skyestory1.jpg)
-
 “You aren’t supposed to be here today.” The general’s long shadow stretched into the hangar from the rolled-up garage door.
 
 Skye peeked out from the cockpit of a mech with half its front armor blown out, metal blackened and curling in from the impact point. With a screwdriver between her teeth, she tossed a charred actuator onto the ground and called out, “I’m glad you’re here, Appa. I want to show you my plans for the decommissioned exosuits.”
@@ -32,6 +30,8 @@ He shrugged. “There is always war. You cannot be a soldier forever.”
 
 “I’m a pilot, Appa. And I’m the best pilot you’ve… ow!” She winced as the makeup bot attacked her eyebrows with tweezers. The manicurist sat on a stool beside her and clucked under her breath at the broken nails and calluses. The hairstylist pulled Skye’s hair out of its knot and yanked through the tangles with a comb.
 
+![This doesn&apos;t end here...](../../.gitbook/assets/skyestory1.jpg)
+
 “No black around her eyes,” Skye’s mother said to the makeup bot. “It makes them small. And overdraw her lips; they are too thin.”
 
 The makeup bot bowed and rummaged through its box of powders and creams while Skye scowled. “What happens if you’re lucky tonight, and some high-placed family chooses me for their son? What will he say when he sees me without all this stuff on my face?”
@@ -54,7 +54,7 @@ Skye went still. “She … she would never choose me. There are many highborn g
 
 ## 'THE CHOOSING'
 
-![](../../.gitbook/assets/1450x596_skye_lore2-1024x421.jpg)
+![This is my idea of fun.](../../.gitbook/assets/1450x596_skye_lore2-1024x421.jpg)
 
 Skye strafed her way through the dense crowd of nervous girls surrounding the choosing table where the silver tiles laid, each engraved with a name. The marriageable young men crowded in corners playing Yunnori and howling at the results, seeming to care little for the outcome of the Choosing, but the young ladies ran their fingers over their own names and gossipped about which girl the house mothers would choose for their sons in the ceremony. Skye closed one eye and targeted the smug first daughter of Tiger House, a pretty girl named Nari. Around one delicate wrist, Nari held the velvet leash of a drugged and declawed tiger that blinked with confusion at the guests.
 
@@ -96,7 +96,7 @@ Skye could not look at his eyes. She stared instead at his hands, at the scars f
 
 ## 'FOR BARON'
 
-![](../../.gitbook/assets/skyestory3.jpg)
+
 
 “The Silver family is honored to choose…”
 
@@ -148,59 +148,11 @@ The explosion rocked the ground and blasted out millions of tiny crystal shards.
 
 There was no time to lose. She had to complete her mission before anyone could stop her. She strafed and fired, let loose salvo after salvo of missiles, rained death from above into the mines, destroying the crystals that had powered a civilization for generations. The halcyon power that so many had fought and died to possess bloomed into the night sky, then dispersed into the night air.
 
-## 'SIERRA KILO YANKEE ECHO'
-
-![](../../.gitbook/assets/screenshot-2018-04-15-at-2.20.28-pm.png)
-
-Baron rolled up the door to the hangar’s private garage. The glowing blue of his skin illuminated the Heavy Armor Rapid Deployment armor parked inside. It had been commissioned for his family’s new alliance, with helmet and joints sculpted into roaring tiger heads, power amplification haptic controls and reinforced plating built to withstand heavy kinetic rounds. He pressed his thumb to the lockpad and the exoframe opened with a quiet hum.
-
-He realized then that he was still holding the silver cage. He lowered it down and swung open the door. The goose lectured him with furious honks before escaping out of the hangar.
-
-~
-
-At the Choosing, a servant had handed the large silver cage to him and guided him with deep backward-walking bows to the line of betrothed young men. Inside the cage, an angry goose flapped and hissed. The other grooms held wooden geese, representing the bird’s tendency to mate for life, but Baron’s mother had insisted that her eldest son have a live goose to present to his future in-laws.
-
-It seemed to bother no one that the goose had been taken from her lifelong mate for the purposes of the ceremony.
-
-Some of the betrothed young women forced their gracious smiles, their sad eyes darting across the room to the men they’d hoped to marry. Nari Tiger’s expression gave away nothing as she bowed before his parents with her two cupped hands full of chestnuts and dates, symbolizing the many children she would bear for him. Baron supposed he’d never know whether he’d been her first choice. It didn’t matter.
-
-“The fireworks are early!” cried Baron’s mother in dismay, pointing at the windows, and a greedy murmur sounded among the guests as they crowded to get outside. Baron’s father chuckled, taking his son by the shoulders and guiding him along with the crowd.
-
-“Your mother will have the pyrotechnicians beheaded,” he murmured.
-
-“As well she should,” said Baron. “The other mothers watch for any mistake.”
-
-They were met at the door by the general. “Sir,” he said, leaning in close to Baron’s father, “it is not fireworks.”
-
-The three men stepped outside together, watching the night sky light up over the distant crystal mines.
-
-“Who would attack the mines?” whispered Baron’s father.
-
-“No one on the peninsula,” said the general. “but the Tigers…”
-
-“They are united with us now.”
-
-“And they do not have this kind of firepower.”
-
-The sky burst with blue fire and smoke billowed up from the source of the land’s only power, its only wealth. “No,” said Baron as understanding sank down his spine. “But we do.”
-
-The general locked eyes with Baron and he turned around, scanning the room for someone he would not find.
-
-Out of the house Baron went, into the smoke roiling with tiny crystal splinters that slid under his skin and glowed blue. Behind him, the families gathered, their growing panic a low murmur. He followed the trail of wilted orchids, loose screws and gold rings to Skye’s repair lift. The blue overcoat Skye had worn to the Choosing lay crumpled there.
-
-_There are times I wish that the mines would disappear._
-
-~
-
-He placed his rings and silver-threaded overcoat aside and settled into his exosuit. It locked into place around him, helmet last, the HUD blinking awake as the skydoor whirred open. The jump jets activated with a vibrating rumble that chattered his teeth. He bent his knees and the exoframe bent with him, a powerful extension of his every move; he jumped, launching through the skydoor, high over the hangar, high enough for his visor to register in infrared the scramble of minions in their pens, the burning mines, and all the way at the shoreline of the peninsula, one lone heat signature where he’d known she would be waiting for him.
-
-As always there was a moment when he wished he did not have to come back down.
-
-“Sierra Kilo Yankee Echo,” he said, “do you copy?”
+![Too close for missiles. I&apos;m switching to guns.](../../.gitbook/assets/skyestory31.jpg)
 
 ## 'BARON'S CHOICE'
 
-![](../../.gitbook/assets/skye_baron_lore2_1000px-768x432.jpg)
+![I&apos;m not happy unless I&apos;m going mach 2 with my hair on fire!](../../.gitbook/assets/skye_baron_lore2_1000px-768x432.jpg)
 
 Baron sailed over the orange groves and landed hard on the jagged cliff that overlooked islets surrounded with docked fishing boats. The stone ground split under the weight of his exoframe, sending loose stones tumbling down to the sea. Skye waited there in her renovated mech, guns aimed at the tiger’s mouth framing his helmet.
 
@@ -246,7 +198,7 @@ Holding on to one another, their crystal-splintered faces grubby with smoke, the
 
 ## ALTERNATE FATES
 
-### THE 'SUPERSONIC' SKYES
+###  'SUPERSONIC' SKYE
 
 ![](../../.gitbook/assets/supersonic_skyes_lore-768x1366.jpg)
 
