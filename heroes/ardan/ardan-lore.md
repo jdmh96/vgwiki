@@ -406,8 +406,6 @@ For love he remained, for the few moments the queen granted him with Julia, froz
 
 #### 'STAY WITH ME’
 
-
-
 ![No mercy.](../../.gitbook/assets/ardan_splash_t3.jpg)
 
 On the night of revolution, The Key stood on the Storm Queen’s balcony watching the crowd escort the royal party up the mountain. He had managed to keep the looters from the queen’s chamber, but he would not be able to stop a rebel party of soldiers and mages.

@@ -2,7 +2,7 @@
 
 ## 'KESTREL'S TEST'
 
-![Is that all? Really?](../../.gitbook/assets/kestrel_lore1_1000px.jpg)
+![](../../.gitbook/assets/kestrel_lore1_1000px.jpg)
 
 No one has ever rebuilt the overgrown Old Quarter, where the stink of magic lingers in the destroyed buildings. The children dare one another to touch those still-crackling buildings for the shock. That shock was Kestrel’s first memory.
 
@@ -56,7 +56,7 @@ The next day, two _blancorojos_ came to her home. Kestrel escaped out the back a
 
 ## ‘CATHERINE’S MISSION’
 
-![Just tell me which way they fled.](../../.gitbook/assets/0fbc9f04a86a356a6310df72be4f97b5.jpg)
+![](../../.gitbook/assets/0fbc9f04a86a356a6310df72be4f97b5.jpg)
 
 The Storm Queen sat sideways on Catherine’s lounge chair, her legs slung over one arm, cloaked and hooded, a raven perched on her shoulder. With no lamps lit, the intruder was invisible in the windowless living quarters. Catherine was not a fan of extra entryways, yet the queen had made her way past the reinforced and locked front door. The queen swung her legs forward and lit the nearest lamp. The raven adjusted its feet but remained in place. “They are nearby. I assume this room is secure?”
 
@@ -102,7 +102,7 @@ Catherine resisted the urge to shrug away the bird. “Yes, my queen.”
 
 ## ‘WHAT MUST BE DONE’
 
-![Until your last breath.](../../.gitbook/assets/catherinelore2_1000.jpg)
+![](../../.gitbook/assets/catherinelore2_1000.jpg)
 
 A single candle on the table at the back of the tavern flickered a light too weak to penetrate the heavy hood of a woman sitting alone, staring at the leaves swirling in her steaming cup of tea. She’d been sheltered all her young life from the roving bands of people whose old women wore clattering bangles up their arms and read the futures of gullible customers in tea leaves.
 
@@ -174,7 +174,7 @@ Catherine’s back straightened, her eyes cleared, and her hand returned to her 
 
 ## 'THE RIGHT TOOL FOR THE JOB'
 
-![Welcome to my crosshairs.](../../.gitbook/assets/kestrellore2-1024x3842.jpg)
+![](../../.gitbook/assets/kestrellore2-1024x3842.jpg)
 
 “It really _is_ her.”
 
@@ -296,7 +296,7 @@ Ardan’s heart pounded out one beat. Another. Air filled his lungs and he cough
 
 To his left, Julia stared into Catherine’s eyes.
 
-![Get behind me!](../../.gitbook/assets/img11.jpg)
+![](../../.gitbook/assets/img11.jpg)
 
 His heart beat a third time.
 
@@ -332,7 +332,7 @@ Her response is the slow pulling of her weapon from the rocks, that _shing_ of s
 
 She leaps, falling hard onto him, sword front, magic buzzing around her like bees. She is good with her weapon, well trained. He might have respected her, once. She gets a few slashes into him, his half-dead flesh sagging apart where she aims. He swings at her, hits only air, circling, snorting like a devil, dodging as best he can until she turns the sword over her shoulder and pounds him good in the brow with the hilt. He lunges, closes the gap between them, roaring his dead breath onto her, then her valiant cry is cut short by his fist round her throat.
 
-![No peace for you, or me.](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9jiwk9ds21Hoy5QAcA%2F-LABl2AuWfRpQNLp5v39%2F-LABlsTlXasd3NO7e19x%2FKrul-Lore2-768x432.jpg?alt=media&token=a533ad12-25b4-4f90-b666-71d5199e2a64)
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9jiwk9ds21Hoy5QAcA%2F-LABl2AuWfRpQNLp5v39%2F-LABlsTlXasd3NO7e19x%2FKrul-Lore2-768x432.jpg?alt=media&token=a533ad12-25b4-4f90-b666-71d5199e2a64)
 
 Replace
 
@@ -352,7 +352,7 @@ He allows himself one agonized scream before stalking back into the bush. There 
 
 ## 'THE SHIELD AND THE BOW'
 
-![I don&apos;t mind when people turn their backs on me.](../../.gitbook/assets/cathkestrel_stormguard_final_1000w.jpg)
+![](../../.gitbook/assets/cathkestrel_stormguard_final_1000w.jpg)
 
 “Who am I?”
 
@@ -452,11 +452,11 @@ Catherine shoots a glare at the daggerwoman. “There are no cowards in the Stor
 
 Catherine’s breath catches. “Then we can waste no more time. Make your choice, ladies, and make it before the queen’s ravens find you.”
 
-![Every step, sure footed.](../../.gitbook/assets/stormguard2_1000px.jpg)
+![](../../.gitbook/assets/stormguard2_1000px.jpg)
 
 ## 'CROSSING THE BRIDGE'
 
-![Mediocre.](../../.gitbook/assets/1000x500_winter_war_kestrel-768x384.jpg)
+![](../../.gitbook/assets/1000x500_winter_war_kestrel-768x384.jpg)
 
 When frozen tundra gave way to dense forest, the Stormguard traveled at night to evade the watchful eyes of nesting ravens. The country was at war, and the Storm Queen would be searching for them, but the freeze itself was their biggest enemy, and Kestrel was glad of her warm winter uniform.
 
@@ -502,7 +502,7 @@ Something like hope flashed in Catherine’s eyes as the officer called for his 
 
 
 
-![I can&apos;t stop! HELP!! System rebooting. Standby](../../.gitbook/assets/alpha_tease.jpg)
+![](../../.gitbook/assets/alpha_tease.jpg)
 
 The dark room rippled with an eerie, surgical-bright glow centered on a glass tank at the center. Inside, a pale woman floated in a bowed shape, belly highest, swaying, her shaved head thrown back as if in laughter. Tubes snaked inside the glass and attached to nodes in her chest and temples. Great wounds in her torso had been stitched and bound together with white bandages. There was a low hum, the sour smell of chemicals and an echoing rhythmic beep that matched the slow beat of her heart.
 
@@ -573,7 +573,7 @@ The screams outside stopped. The outer door slid open, letting in the night’s 
 
 
 
-![Target scan. Organic material. Risk, low](../../.gitbook/assets/alpha1.jpg)
+![](../../.gitbook/assets/alpha1.jpg)
 
 The room erupted in flashing blue magic and the roars of Second Boss. The machine moved forward without pause, slicing through its former comrades, deflecting the magic bolts, Third Boss’ blades clinking off its armor. Within minutes, Alpha stood in the post-battle silence scanning the room with glowing eyes. Six women lay broken and bleeding at her feet; two bosses shook with terror in a corner. Her sword had cleaved the table, and Marelde with it, in half.
 
@@ -581,7 +581,7 @@ The room erupted in flashing blue magic and the roars of Second Boss. The machin
 
 ##  ‘DAISY, DAISY’
 
-![Mission: fiifiiiififind corn, yarn, garden. Storm guard.](../../.gitbook/assets/alpha000_86-e1481587231232%20%281%29.jpg)
+![](../../.gitbook/assets/alpha000_86-e1481587231232%20%281%29.jpg)
 
 Daisy squeezes into a corner of the workout room, bare feet sunk into the mat, arms bent, hiding her face behind bruised forearms and thick leather boxing gloves. Kestrel, a year older at fifteen, weaves close and strikes Daisy’s obliques, tight to cramping; when her arms drop, the strikes come at her jaw and temples. Tears slide out of Daisy’s swollen eyes, mixing with blood and snot from her nose. A hit to the belly sucks the air out of her and she crumples, arms over her head.
 

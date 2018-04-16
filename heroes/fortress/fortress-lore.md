@@ -30,7 +30,7 @@ Then, Fortress let loose a wild howl that carried for miles.
 
 
 
-![The law of the claw.](../../.gitbook/assets/image%20%2852%29.png)
+![The law of the claw.](../../.gitbook/assets/image%20%2853%29.png)
 
 The old druid cut a formidable figure, antlers bursting from his headdress, ceremonial furs draping from shoulders to boots. Before him stood the enormous tree, her branches concealing the soupy-gray sky for one-hundred steps, her trunk so wide around that it took 10 men gripping hands to encircle it, the face of the Mother carved into it at eye-level with the druid.
 
@@ -64,7 +64,7 @@ The pack watched as the face of the Mother turned into a wide hollow. A thick, h
 
 
 
-![All roads lead to the vain.](../../.gitbook/assets/image%20%28161%29.png)
+![All roads lead to the vain.](../../.gitbook/assets/image%20%28163%29.png)
 
 Rona sniffed the air, searched the empty sled, dug into the fresh tracks, then peered into the tangles of The Great Oak. Buried in the winding branches, she caught the old druid’s eye.
 

@@ -117,4 +117,5 @@
     * [Vox Lore](heroes/vox/vox-lore.md)
   * Saga Lores
     * [The Stormguard Saga](heroes/saga-lores/the-stormguard-saga.md)
+    * [The Rise Of The Star Queen Saga](heroes/saga-lores/the-rise-of-the-star-queen-saga.md)
 
