@@ -98,7 +98,7 @@
 * Cost: Cost: 800\(500\) gold
 * Stats:
   * +12 Weapon power
-  * Passive: Book of Eulogies
+  * Passive:[ Book of Eulogies](weapon-item-details.md#book-of-eulogies)
   * Vampirism: +8% lifesteal \(does not stack with other Vampirism\)
 * Builds into:
   * [Serpent Mask](weapon-item-details.md#serpent-mask)
@@ -175,7 +175,7 @@
 * Cost: 2800\(850\) gold
 * Stats:
   * +100 Weapon power
-  * Passive: Book of Eulogies 
+  * Passive: [Book of Eulogies ](weapon-item-details.md#book-of-eulogies)
   * Vampirism: +10% lifesteal \(does not stack with other Vampirism\)
 * Builds from:
   * [Heavy Steel](weapon-item-details.md#heavy-steel)
@@ -204,7 +204,7 @@
 * Stats:
   * +40 Weapon power,
   * 30% Attack speed
-  * Passive: Book of Eulogies
+  * Passive: [Book of Eulogies](weapon-item-details.md#book-of-eulogies)
   * Vampirism: +8% lifesteal \(does not stack with other Vampirism\)
 * Builds from:
   * [Barbed Needle](weapon-item-details.md#barbed-needle)
