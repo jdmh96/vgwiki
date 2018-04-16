@@ -2,6 +2,10 @@
 
 ## 'BLADE IN SHADOW'
 
+
+
+![Do I look mysterious?](../../.gitbook/assets/vainglory_taka_by_carlo_arellano-d879fzu.jpg)
+
 ![](../../.gitbook/assets/taka1.png)
 
 ![](../../.gitbook/assets/taka2.png)
@@ -46,7 +50,7 @@
 
 #### 'THE GROTESQUE GRIN'
 
-![](../../.gitbook/assets/1450x596_takat1-1024x421.jpg)
+![Lets take a walk down memory lane, but with knives!](../../.gitbook/assets/1450x596_takat1-1024x421.jpg)
 
 Maza bent to peer into the ornate wooden box at her feet. It had been delivered to House Kamuha in the night without catching a single guard’s attention. A face grinned up at her from within the box, its mouth forced with twine into a grotesque grin.
 
@@ -64,7 +68,7 @@ Maza bent to peer into the ornate wooden box at her feet. It had been delivered 
 
 #### 'THE UNLOVED DEAD'
 
-![](../../.gitbook/assets/download.jpeg)
+![Peek-a-boo!](../../.gitbook/assets/taka_tier3_splashart_1000w.jpg)
 
 The legend of the _Shiro Kage_ grew as winter settled upon House Kamuha. Maza sent her best assassins after the shadow that plagued her, but only their heads returned. She hired bounty hunters, but the enemy had been tracked to the Tangled Wood, and everyone feared the unloved dead who lived there. The rumor grew that the _Shiro Kage_ was a vengeful ghost.
 
@@ -95,7 +99,7 @@ And that is how House Kamuha became House Kitsune, where the people bring gifts 
 
 #### 'KENDO CLUB MASTER'
 
-![](../../.gitbook/assets/taka_school_days_splash-768x432.jpg)
+![Tell your mom to stop calling me.](../../.gitbook/assets/taka_school_days_splash-768x432.jpg)
 
 The class presidency isn’t all studying, campaigning, scheduling, scheming and partying. Teenagers get out of line. Every school has its low-level bullies, ditchers, spraycan outlaws, lunch money wranglers, name-callers and angry jilted lovers. It’s not their fault; they just need guidance.
 
@@ -111,7 +115,7 @@ All he needed was a little direction. He barely remembers his mischievous former
 
 #### 'GYTHIAN WALL'
 
-![](../../.gitbook/assets/nightshadow_taka_ri_splashart-1.jpg)
+![It takes me 40 minutes to get dressed! And you thought paper-cuts were bad.](../../.gitbook/assets/1000w_nightshadow_taka_splash_art.jpg)
 
 After two nights and days astride the wide-backed pangomoose, the slowest beast of burden imaginable, the courier can see Gythia’s twinkling lights in the dark distance. Home: just a steep, winding hike down the inside of the wall and an hour’s ferry away. His thighs ache from straddling the saddle; his temples throb with exhaustion; the thought of his mother’s squid ink pasta floods his mouth with saliva.
 
