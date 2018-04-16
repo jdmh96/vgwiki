@@ -1,50 +1,10 @@
 # Fortress Lore
 
-## ‘A STORY FOR EVERYTHING’
-
-The berserker dropped to the ground between the fire and the old druid, axes clinking at her belt, a caribou hock in one fist. Behind them, the others daubed the wattled longhouse walls with dung and straw where freezing wind whistled through.
-
-“It’s explanation time, old man,” she demanded. She took a big bite of the meat, leaving strips dangling, and pointed the hock at the druid. “That’s the fifth earth tremor in an hour. It’s knocking holes out of the walls now. I know you have some old story for every little thing that happens.”
-
-“There is a\_truth\_for everything,” he corrected in a low drone. “Beneath us slumbers Gudmund, the giant elder, son of Gunnr the Great Oak, and brother of Gymir, his bitter rival.” His fingers danced like punctuation in the firelight. “The brothers’ war grew so violent that nothing could live among the ruins of their hatred, so Gunnr sang a song to make them dream, then buried them deep underground, one in each hemisphere of the world. Gudmund was banished to the northern half, and Gymir was banished to the south…”
-
-“Wait. Gymir was the father?”
-
-“Gymir is the brother of Gudmund and the son of Gunnr,” groaned the old druid. “Pay attention.”
-
-_“I am.”_
-
-“Gunnr transformed herself into the Great Oak that spears through the world, its branches growing on either side, its roots holding her sons captive. Where their breath seeps through to the surface, there are life-giving wells from which can be drawn great power.”
-
-“I will find one of those!” the berserker announced, her mouth full. “The west people wouldn’t hunt at our borders if we had ancient power-breath.”
-
-“The nearest well is at the center of a temple, guarded by the enormous Fortress, so that humankind will not kill itself with the power therein.”
-
-The berserker gnawed at the meat, her brain clicking through calculations. “I could scale a fortress,” she mumbled.
-
-The old druid chuckled. “Do not wander away with your mind. You must learn this story well, for it is you who will tell it after I’ve gone.”
-
-The berserker snapped up her eyes to the old druid. “Where do you think you’re going?”
-
-There was a long silence, during which the berserker did not breathe, until it was apparent that the old druid had nodded off into sleep. The berserker poked him in the shoulder; the old druid snorted and resumed: “Gudmund the Elder stirs. His breath comes stronger through the well. The ice has melted, and it is this elder’s breath that shakes the earth. I must go to the other side of the world to see to the wells of Gymir the Elder.”
-
-“You? You cannot wander to the other half of the world. You are eight hundred years old.”
-
-The old druid croaked, his version of a laugh. “I am not quite so helpless as you think. Not all battles are won with steel.”
-
-“If this Gudmund man is causing the quakes with his bad dreams, I shall put him permanently to sleep. I will go down the well and bury my axe in his eye. I will fish him up by the nostrils and punish him before the people, at the Thing.” The berserker rose, holding up one axe, her voice rising. “I am not afraid of any man who can be held captive by a silly tree!”
-
-The old druid rose with a groan and creak of joints, then patted her back. “It is difficult to see clearly through a blood-soaked helmet. No, this battle is not yours, nor mine. This is a terror from which we must run. You will lead our people as far from the well as you can, and I will pass through the womb of the Great Oak. I will not be alone.”
-
-“Then who will…”
-
-The earth shook again, stronger than before, rolling logs away from the fire. The berserker muttered to herself as she kicked them back into place with one boot heel. When she turned back, the old druid had already shuffled out of the longhouse.
-
-In the distance, the howls of wolves sounded through the frozen air.
-
 ## ‘THE DESTRUCTION OF THE TEMPLE’ {#destruction}
 
-_Halcyon energy seeps out of an old well…_
+
+
+![Speed of light, roar of thunder!](../../.gitbook/assets/image%20%289%29.png)
 
 A dire wolf raced out of the temple’s fourth circle, tongue lolled out to one side, panting, exhausted terror in his eyes, his thick fur matted with dried blood. His back legs were caked up to the stifles in red loamy mud; he’d kicked free in time to get bit in the muzzle by something venomous. He skidded to a stop where mud met ice, into the forelegs of the alpha, his eyes down, unsure whether to be more frightened of what he’d run from or what he’d run into. The ground rumbled, the ice cracking outward in long lines. The alpha’s hackles rose, ears twitching at the sound of his pack howling, whining and yipping in pain. He could name every one of those sounds: son, daughter, mate, packmate, friend.
 
@@ -66,9 +26,11 @@ The guarding of the Halcyon Well had been the alpha’s vocation since the templ
 
 Then, Fortress let loose a wild howl that carried for miles.
 
-## ‘THE GREAT OAK’
+## ‘THE GREAT OAK’_ _
 
-_The passageway through the world opens… _
+
+
+![The law of the claw.](../../.gitbook/assets/image%20%2829%29.png)
 
 The old druid cut a formidable figure, antlers bursting from his headdress, ceremonial furs draping from shoulders to boots. Before him stood the enormous tree, her branches concealing the soupy-gray sky for one-hundred steps, her trunk so wide around that it took 10 men gripping hands to encircle it, the face of the Mother carved into it at eye-level with the druid.
 
@@ -98,35 +60,11 @@ A wolf whined, then another. Fortress backed away from his old friend. “Call o
 
 The pack watched as the face of the Mother turned into a wide hollow. A thick, humid scent leaked from it, steaming the freezing air. Fortress moved closer, tentative, sniffing. Inside, a wooden staircase spiraled down into the dark.
 
-## ‘RONA VS. SKVADER’
-
-_Skvader attack!_
-
-Rona wriggled her nose to dislodge frozen boogers as she hiked along the wolf-drawn sled tracks, catching up to the old druid. Days behind her was her village, her hunting ground and her people, who had abandoned their homes to escape the Churn. Her mother and father had expected her to follow, but she’d never see them again.
-
-She had never disobeyed a direct order from the druid before. His kind had civilized the tundra generations before Rona’s people arrived. They kept the secrets of mathematics and letters and stars. If the old druid had told Rona to jump to the sun, she’d have died leaping. But this, she could not abide.
-
-She was crouched down, checking the freshness of the tracks, when the horned skvader attacked.
-
-The white-furred monsters flew up from the snowdrifts, at least a score of them, wings spread, horns spiraling up between long ears, eye level with Rona’s knee.
-
-Rona cursed, dropped her pack, unleashed the axes from her belt with practiced thumb flicks. “Always skvader,” she groaned, eyes flicking from opponent to opponent as they circled her, shrill squeaking sounding from between their mean, nasty, pointed teeth. “…or bears…” The frenzy of battle built up a drumming beat within her ribs. Her left axe swung out, sliced a jagged opening in one of the demon hares’ throats. The beast fell with a bubbling sound in time for two more to jump up. “…or reindeer or stink oxen.” Her arms crossed. The axe blades clashed together and sparked as she let loose a barbaric yawp; the noise scattered the skvader, but they rounded back on their long thumpers, running horn first straight at her goodies. One sailed up to her jugular and lost its head for its trouble. Another dug its front claws into her belly; she whirled, spinning up snow, shook it loose and opened up a hole for the creature’s guts to spill out.
-
-“Same beasts all the time,” she griped as the others came at her. “And the old man thinks he’s going to the other side of the world without me?” Front, back, side, she whirled, axes slashing, spinning, her vision washed red with her fury. The skvader jumped and flanked, shrieking out their madness; Rona shrugged off her cloak and her skin steamed in the freeze.
-
-“He thinks I’ll run from danger!” she cried. “Hide with the children!” She carved the snow back with her rear foot, shifted her weight low, swung wide with her left axe, hooking up three hares by their horns on the blade. “I never run!” she roared, and jumped into the center of the herd, spinning, axes flying, flinging away hooked skvader, dropping dead hares one after another with soft\_foomph\_sounds into snowdrifts.
-
-_“Never!”_
-
-She whirled, hacking and slashing in wide arcs through the air, twisting too sharp at last so that she fell onto her butt in the midst of what had once been a herd of enraged skvader. Her breaths came fast and foggy; snow sizzled on her overheated skin. It took a good minute to realize the danger was over.
-
-Groaning, she sheathed the axes and reviewed the damage. She’d taken a few scrapes. Some claw marks on her belly. New scars to join the old, and nothing needing stitches, so she drew on her cloak and pack and went about collecting bunny carcasses for the night’s dinner. Never a bad idea to bring a fresh, bloody present to a pack of wolves.
-
-The tracks and spoor were fresh; she’d overtake the old druid within the hour.
-
 ## ‘NORTH IS ALWAYS FORWARD’
 
-_Rona follows Fortress into the Great Oak…_
+
+
+![All roads lead to the vain.](../../.gitbook/assets/image%20%2896%29.png)
 
 Rona sniffed the air, searched the empty sled, dug into the fresh tracks, then peered into the tangles of The Great Oak. Buried in the winding branches, she caught the old druid’s eye.
 
@@ -160,11 +98,15 @@ War Screech and Whistle dropped loose in her fingers. “And who are you?”
 
 ## ALTERNATE FATES
 
-### ‘DIRE FORTRESS'
+### ‘DIRE' FORTRESS
 
 The Old World was cared for by druids until the northmen brought war. As a last compromise, the land was given to the northmen except for the temple, guarded by Fortress’ pack. Read on to get a glimpse of the war-torn alpha, his family, and Corb, his magic green war doll.
 
 #### THE INVASION OF THE NORTHMEN
+
+
+
+![Is that bacon?](../../.gitbook/assets/dire_fortress_1000px.jpg)
 
 “Humans were few on this land in the days before the northmen.”
 
@@ -194,9 +136,7 @@ The young druid paused with his fingers curled in the thick winter fur. “Only 
 
 The alpha took the doll from the young druid between his front paws and and settled into anxious sleep.
 
-### ‘NETHERWORLD FORTRESS’ 
-
-_The power of the Halcyon Wells originates deep underground in the boiling dark Netherworld. What lives aboveground survives because Fortress guards the Nether Gate. Past Fortress, none may go._
+### ‘NETHERWORLD' FORTRESS
 
 “Explorer, he’s called,” grumbled one worker on the high scaffold, sweating down the M-shape of his balding forehead. He pointed his hand axe over his opposite shoulder. “All he’s done today is sit in the shade.”
 
@@ -218,6 +158,10 @@ The Explorer lost his grip and fell, tumbling, for far longer than the tree was 
 
 The blazing light grew and morphed into the shape of a beast. At first, it was a mass of spitting and burning rage, incomprehensible, a terror that scorched the Explorer’s throat. As it drew close, it formed into an enormous, volcanic, burning dire wolf.
 
+
+
+![You may go no further.](../../.gitbook/assets/maxresdefault.jpg)
+
 “Name yourself, trespasser,” said the wolf.
 
 “I am Walker of the Cartographers. And you… you are Fortress, the Guardian of the Nether Well.”
@@ -230,7 +174,7 @@ The blazing light grew and morphed into the shape of a beast. At first, it was a
 
 The Explorer turned and ran, ran in no direction, swallowed into the void, begging forgiveness with pathetic sobs. The wolf’s deep laughter echoed from all around him until he woke, gasping for breath, at the base of the sacred tree.
 
-### ‘GIFT-WRAPPED FORTRESS'
+### ‘GIFT-WRAPPED' FORTRESS
 
 “Can I? Please?” Little Rona danced around a juniper garland-wrapped crate. “I wanna open them now!”
 
@@ -273,6 +217,10 @@ Before the druid could finish, little Rona had torn away at the garlands that wr
 “Pickles,” sighed Rona. The puppy rolled onto its back and Rona rubbed its belly.
 
 The druid shrugged. “Pickles it is, then.”
+
+
+
+![How do you not smell that?](../../.gitbook/assets/winter-fortress-splash.jpg)
 
 
 

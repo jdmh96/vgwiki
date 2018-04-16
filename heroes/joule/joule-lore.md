@@ -187,7 +187,7 @@ _When the smoke clears, there’s a perfect hole blasted through the middle of t
 
 _“So,” she says, cracking her knuckles, “can I graduate now?”_
 
-![](../../.gitbook/assets/maxresdefault.jpg)
+![](../../.gitbook/assets/maxresdefault%20%281%29.jpg)
 
 ### ‘SNOW MONSTER’ JOULE  
 
