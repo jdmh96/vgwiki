@@ -24,15 +24,15 @@ description: Welcome To The Official Vainglory Wiki
   * [x] defense
     * [x] chart
     * [x] details
-    * [ ] images
+    * [x] images
   * [x] utility
     * [x] chart
     * [x] details
-    * [ ] images
+    * [x] images
   * [x] other
     * [x] chart
     * [x] details
-    * [ ] images
+    * [x] images
 * [x] Terminology
   * [ ] Terminology review and update
 * [ ] Heroes
