@@ -2,7 +2,7 @@
 
 ## 'KESTREL'S TEST'
 
-![](../../.gitbook/assets/kestrel_lore1_1000px.jpg)
+![Is that all? Really?](../../.gitbook/assets/kestrel_lore1_1000px.jpg)
 
 No one has ever rebuilt the overgrown Old Quarter, where the stink of magic lingers in the destroyed buildings. The children dare one another to touch those still-crackling buildings for the shock. That shock was Kestrel’s first memory.
 
@@ -54,127 +54,11 @@ She did not cry, and she did not choose.
 
 The next day, two _blancorojos_ came to her home. Kestrel escaped out the back and climbed a walnut tree, armed with a slingshot and enough underripe ammo to make a grand nuisance should her father seek to punish her for failing the test of the boxes. Instead, her parents coaxed her down with tears and kisses, for she had been called to continue her education in Mont Lille. Her parents had one hour to say goodbye.
 
-## 'CATHERINE'S MISSION'
 
-![](../../.gitbook/assets/catherines-mission-768x316.jpg)
-
-The Storm Queen sat sideways on Catherine’s lounge chair, her legs slung over one arm, cloaked and hooded, a raven perched on her shoulder. With no lamps lit, the intruder was invisible in the windowless living quarters. Catherine was not a fan of extra entryways, yet the queen had made her way past the reinforced and locked front door. The queen swung her legs forward and lit the nearest lamp. The raven adjusted its feet but remained in place. “They are nearby. I assume this room is secure?”
-
-“I thought so, yet here you are.”
-
-The queen half-smiled. “You will assemble the Stormguard tonight.”
-
-Catherine sheathed the sword she had been gripping with both fists since first entering her apartment. “Who is the target?”
-
-“Targets. Twin targets, with remarkable magical abilities. You’ll remember their mother, my sister, Julia.”
-
-“Your sister? She’s been dead for years.”
-
-“So she would have us believe. Our spies have found her in southern Gythia.”
-
-“That is tech territory now.”
-
-“A hive of soulless machines and their engineers. Julia has made an alliance with them, hoping to supplant me. She’s even married one of their technologists and made some babies. Isn’t that sweet?”
-
-“Twin babies?”
-
-“Indeed. You will bring them to me so they can be trained.”
-
-“Why is the traitor not a target?”
-
-The queen stood, and the dim light seeped up into her hood, showing the stitches that crossed over the flesh where her eyes had been. They had been removed at birth, in the way of storm mages. “There are laws against royal murder, no matter how justified.” She stroked Catherine’s cheek with the back of her icy hand as she spoke, as if in lullabye. “I should execute you where you stand for suggesting it.”
-
-It was said that evil doles out affection in tiny droplets, yet Catherine could not help her desperate thirst. In a frustrated whisper she said, “So, we take the children and leave their mother to plot your murder? Your sister will seek revenge. She will enlist the Gythians to help her if you do this thing.”
-
-“Let us hope you are right. The Stormguard has never been stronger, and the Gythians are stretched thin fending off the technologists.”
-
-“You wish for war again, my queen?”
-
-“No, Catherine. I do not wish for war. I make it.” The queen’s hand dropped. “Now is the time. Now, while the technologists are a disjointed army of gadgets, while Gythia is an elderly collection of has-beens with shiny trinkets. They are a decade away from readiness and nothing without their toddling prodigies.”
-
-Catherine stared into the raven’s eyes as she spoke. “As you will, my queen.”
-
-“They have made their home in the farms northwest of Pompium. Vyn will accompany you.” Only then did the raven, the queen’s eyes and ears, move; with a quiet flap of its dark wings, it leapt from the queen’s shoulder to Catherine’s.
-
-Catherine resisted the urge to shrug away the bird. “Yes, my queen.”
-
-“I expect obedience.”
-
-## 'WHAT MUST BE DONE'
-
-![](../../.gitbook/assets/catherinelore2_1000%20%281%29.jpg)
-
-A single candle on the table at the back of the tavern flickered a light too weak to penetrate the heavy hood of a woman sitting alone, staring at the leaves swirling in her steaming cup of tea. She’d been sheltered all her young life from the roving bands of people whose old women wore clattering bangles up their arms and read the futures of gullible customers in tea leaves.
-
-Despite her thorough education, Julia would have paid well, in that moment, for such a service.
-
-Every head turned when Catherine entered. The red and white uniform was gone, but her drab hooded cloak failed to remove the disquieting sensation that a predator had stepped into the room. That heavy feeling did not waver despite the smile Catherine offered to Julia as she threaded through the tables to Julia’s booth, sweeping off her cloak to reveal a well-fitted dress true to the local style.
-
-The serving-boy’s words stumbled like pebbles rolling downhill: “Good.. good even… how can I… would you like some… what can I…?”
-
-Catherine stared the boy down, allowing him to stutter until he had found the end of a sentence. “Wine,” she said, a smile playing at one corner of her mouth.
-
-“Right away… and you, ma’am? Can I get you more tea? Hey, aren’t you Jul…”
-
-Catherine stepped close, one fingertip on the boy’s chin, turning his eyes back to her. “Red wine,” she murmured.
-
-Julia exhaled a breath she hadn’t known she was holding as the serving-boy tripped away. “Oh great subterfuge, Cath. Let’s please be as memorable to our fellow patrons as much as possible.”
-
-Catherine scoffed, feigning hurt. “You are so unkind. I am quite proud of my disguise. And look– buttons!” She winked, spreading her arms.
-
-Julia laughed, but the sound was brittle, fighting not to become a sob. “Your disguise is as subtle as a hat on a tiger.”
-
-Neither woman spoke while the wine was poured. Only after did Catherine lean forward in earnest. “She wants the twins, Lia, and you alive to make war before you can win it.”
-
-Julia lifted her chin. “Gythia will aid me.”
-
-Catherine shook her head. “Perhaps. Someday, if the time were right. But the Stormguard is here today. I couldn’t send word; I had Vyn on my shoulder the whole journey. He watches your family now.” Catherine clasped Julia’s shaking hand in hers. “This mission is happening tonight. The twins will come back with me to Mont Lille.”
-
-Julia jerked her hand away and looked up at a cobwebby corner of the tavern. “No.”
-
-Catherine’s spine straightened. “You know I would have it any other way if it could be. But you do not have a choice in this. I give my word, Lia, I will watch over them.”
-
-“No!” Julia insisted. “My sister would make a tyrant of Celeste in her image, and you could not stop her.”
-
-Catherine opened her callused palms. “So? What do you propose? You and Ardan cannot defeat the Stormguard tonight, not even with my help. Those not surrounding your farm have barricaded every road out of Pompium. Once we have completed our mission, we will disappear. Lia. Your only option is to trust me.”
-
-“The way my sister trusts you?”
-
-Catherine’s eyes narrowed. “You and I have been friends since we were children.”
-
-“We were all three friends when we were children.” A long silence once again wedged itself between them. At length, Julia sighed. “I will warn Ardan that the Stormguard may be closeby. The children will go about their routine as usual; nothing will seem amiss from the outside. I will help Ardan escape with the twins when you attack.”
-
-“There is no escape through the Stormguard.”
-
-“There is one way. A mage is never more powerful than at the time of death. When you take my life, I will pass my gift to him. He will make it through.”
-
-Catherine gripped her wine glass, her voice cold as frost. “I will not do this.”
-
-“Make a show of it. Create a diversion.”
-
-Catherine’s eyes sparkled wet, her teeth clenched. “I cannot.”
-
-“And then, run. There is nothing more for you in Mont Lille. The Stormguard will chase Ardan; you must escape to our friends in Gythia.”
-
-The glass in her hands exploded, shards of tinkling rain skittering across the table top. The tavern went quiet as all heads turned to Catherine as blood shimmering with halcyon dripped from her fist. “Neither you nor your sister ever consider the weight of your demands,” Catherine choked out, blinking away unshed tears.
-
-Julia swallowed against the knot in her throat. She took Catherine’s bleeding hands with all the patience she’d learned as a mother. “I am touched by your devotion, but I am not a person. I am an empire.” She pulled glass from Catherine’s palms, her voice a sing-song whisper. “If you deliver my children to my sister, she will make a monster of my daughter, put my son at the front lines of her military, and gain territory at the mouth of Gythia.” Blood and wine dribbled onto the floor as Julia cupped Catherine’s hands inside her own. Green light glowed, Julia’s healing power drawing strength from the halcyon, the lacerations closing. “Never feel guilty for what must be done. And… and..” Julia faltered, then stopped.
-
-“I will make it fast,” Catherine said softly.
-
-Julia’s shoulders wilted. She released Catherine’s healed hands. They slid out of the booth and stood, regarding each other across a distance that had grown, in only a few moments, unspannable.
-
-Catherine smiled and touched her hand to Julia’s cheek.
-
-“Hey, Lia,” she whispered.
-
-“Hey, Cath,” Julia whispered back, a sob and a laugh catching in her throat.
-
-Catherine’s back straightened, her eyes cleared, and her hand returned to her side. She nodded once at Julia, grabbed her cloak, and stepped through her own spilled blood, past the silent patrons and their tracking stares, out the tavern door into the waiting night.
 
 ## 'THE RIGHT TOOL FOR THE JOB'
 
-![](../../.gitbook/assets/kestrellore2-1024x3842.jpg)
+![Welcome to my crosshairs.](../../.gitbook/assets/kestrellore2-1024x3842.jpg)
 
 “It really _is_ her.”
 
@@ -210,147 +94,11 @@ By the time the front window shattered, Kestrel had swung down from the tree. Ig
 
 Hanging from the windowsill by one hand, her bow slung over one shoulder, she glanced back at the storm of magic and steel following behind. Catherine stood behind the attack, tears in her eyes, a raven’s neck broken in her fist, another landing on her shoulder with an enraged scream.
 
-## 'IMPOSSIBLE DECISION'
 
-![](../../.gitbook/assets/impossible-decision-768x316-1.jpg)
-
-“I do not need your permission to buy a goat,” Julia said. “Goat milk is delicious, and we can make cheese.”
-
-They’d been arguing all evening. Ardan was hunched over his power gauntlet, sanding down the edges of a grill he’d removed to improve air flow. Outside in the yard, a goat shrieked into the moonless dark. “Goats stink and scream like fiends,” he grumped. “It hasn’t stopped for an hour. How will the twins sleep?”
-
-“The kids need a pet. Are you dropping metal shavings on my divan?”
-
-“And who will make this alleged cheese? When have you ever made cheese, your highness?”
-
-“I could make cheese!” Julia shouted. She stomped out of the room and slammed the bedroom door behind her, the goat’s cries dramatizing her exit.
-
-Celeste toddled out of her room, rubbing sleep from her eyes. “Dadda? Is Mamma alright?”
-
-She had her mother’s accent. Ardan plucked up the toddler in his unarmored arm and kissed her cheeks. “Mamma is being ridiculous.”
-
-“What is ridick oo luss?”
-
-“It means she brought a goat home without talking to me about it.”
-
-“I like goats.” This from Vox, who wandered in after his sister. He seated himself on his father’s foot, wrapped his arms around Ardan’s leg and rode along as Ardan took Celeste back to bed, staring out the window toward the screams.
-
-“You like the idea of goats. None of us actually know how to care for a goat.”
-
-“There’s a baby crying outside,” said Celeste, half asleep.
-
-“It’s the stupid goat,” said Ardan, planting her back in her bed.
-
-Vox uncurled himself from his father’s leg. “He’s afraid,” he said. “Maybe lonely.”
-
-“It’s a she, Vox. At least I hope it is a she, or your mother’s dreams of cheese are –”
-
-Ardan paused, turned toward the window.
-
-The goat had stopped screaming.
-
-His adrenaline spiked.
-
-“Hide, both of you. Do not open the door.”
-
-There was no time to make sure they obeyed him. He ran to his bedroom. “Julia,” he hissed at the bedroom door. “They’re here.”
-
-Julia opened the door. Her face had gone white. “Now?”
-
-“Outside.”
-
-The armor stood in pieces around the front room in various states of renovation. Tools littered the floor. “Legs first,” he grumbled, stepping into the sabatons. Julia scrambled to her knees in her nightdress, a poor but necessary replacement for a proper battle squire. She pinched her fingers on the knee clamps, struggled under the weight of the chest pieces.
-
-The button panel whirred and crackled with static, then burped out: “System. Offline.” Ardan slammed his left fist onto it. “Worthless damn power source on this model…”
-
-“Shh.” Julia’s hands were black with oil, her face smudged as she attached the generator to his back and connected it to the power gauntlet. She stared out the door, into the hall. There was no sound. No disturbance. No goat. “Are you sure they’re…”
-
-“System. Online.”
-
-Glass broke. Ardan turned sideways in time for a metal arrow to slice a scratch through his breastplate, just under his chin, and thud home in the wall opposite the front window. Ardan cursed and squared up, the wood floor creaking under his armored weight. “I’ll watch the front door.”
-
-“But your cannon arm!”
-
-“It’s useless, unless you want me to blow up the house. Stay behind me.”
-
-Julia closed her eyes, turned her palms upward. “I’ll protect you,” she murmured, her voice dreamy, green light forming in her hands.
-
-Ardan winced away from the twisted-guts feeling that magic always gave him. “I can handle myself,” he grunted.
-
-A forearm appeared over the window, decorated in an archer’s gauntlet, and then the archer herself swung inside. Another woman followed and drew her sword. More came in behind her, magicians and assassins, all wearing the same insignia.
-
-“Stormguard!” he yelled, but Julia was lost inside her trance, eyes rolled back.
-
-Ardan’s armor groaned and buzzed as he moved forward, painfully slow, but he was grateful for it when the Stormguard attacked. They moved in tandem, each with a weapon they’d held since childhood. He ran forward, energy buzzing through the armor, propelling him, heating the metal to burning, steel cracking against the breastplate. When he backhanded the archer across her face, he left a burn mark. She crumpled, her bow clattering to the floor.
-
-The others raised shields of wood, metal and magic to counter Julia’s trance and Ardan’s assault. He stomped forward and plowed into them, knocked them from their feet, sent them flying in a crunch of bones to the wall. Their blood spattered the divan. They rolled in shattered glass, discarded weapons and their own knocked-out teeth. He could not resist every attack: Blades sliced through his unprotected arm and his cheeks; magic stung and froze him with deafening whipcrack sounds. But he was a wall between the enemy and his wife, and all the while, he felt warmth coming from her, a blanket that enveloped him, closed his wounds, melted the ice and gave him strength. It churned his insides, these unnatural talents, but he’d deal with the sick when his family was safe.
-
-Then, the blast.
-
-All went silent and cold. His teeth clamped shut. A shock pulsed up through his legs, his arms, his throat. He couldn’t scream. He couldn’t blink. Paintings slid from the wall and the bolts fell from the front door. He could hear the static noises from his armor display, the groans from the pile of wounded Stormguard, but he could not move. He could only watch as the front door opened and the last of the Stormguard stepped inside, as if invited. She surveyed the room, then snapped her fingers at two of the guard who were scrambling to their feet even as Ardan struggled to move. She pointed to the twins’ room and the two guards sprinted that way.
-
-The woman walked from the door, past Ardan as if he didn’t exist, to Julia, who stood frozen in her nightdress and bare feet.
-
-“Catherine,” gasped Julia.
-
-“Such a shame,” whispered Catherine as she pressed her sword against Julia’s chest.
-
-Ardan’s heart pounded out one beat. Another. Air filled his lungs and he coughed. To his right, the two Stormguard emerged carrying the twins, stunned as rigid as he. The other Stormguard rose, some shakily, some bleeding, all stone-eyed and with a firm grip on their weapons.
-
-To his left, Julia stared into Catherine’s eyes.
-
-His heart beat a third time.
-
-In another heartbeat, his children or his wife would be dead, depending on which way he ran.
-
-He ran.
-
-The general’s sword, turned sideways, slid easily between Julia’s ribs. Her last breath was his name, and with it came the last otherworldly green swirl of her magic. It hit him, Julia’s last gift becoming part of him, wrapping around his insides, giving him the burst of strength he needed. Ardan wrapped the twins up in his arms and crashed out of the window. The two Stormguard who had taken the children lay unconscious. There hadn’t been time to kill them… or to hold his wife as she died.
-
-He fled from the house into the dark, past the poor dead goat, whose screams had been silenced by one well-placed arrow through the throat. The children remained silent, in some lucky instinct, leaving the questions to the night owls in the trees.
-
-## 'WHAT KRUL SEEKS'
-
-![](../../.gitbook/assets/krul-lore2-768x432-1.jpg)
-
-“Do it!” roars the undead monster at the round metal eye of the turret, half grown over with brambles and rattan. “Put a hole in me! Blow me apart!”
-
-If only it would work.  
-  
-The turret remains silent, but he can smell recent explosions. Someone is keeping it loaded. Someone is summoning the minions that come through the choke point beyond the turret, past the shambles of what must have once been a rock fortress, in waves. And beyond that someone may be what he seeks.
-
-So close…
-
-Krul drags his left leg, nursing a nagging sting of magic in his thigh where some spell hit him earlier. Another _someone_, now lost to the world. The smell of summoning drifts over the rock face and he grimaces, grinds his teeth. More minions coming. Ugly bastards, no necks, no language, nothing in them but fight. He punches his leg to get the sting out and takes an unnecessary deep breath. A habit from a former existence. The air leaks out through the sucking wound in his chest, fogging up the cold steel trapped there.
-
-Every step is pain, and he runs hard. Catches the biggest of the idiot minions by surprise, flattens him fast, _ignore_ the pain, ignore the pain, ignore the… Tearing into the minion’s belly is good, the only good thing. A distraction from the misery that threatens, in every moment, to lay him flat. The minion’s dark insides are slippery in his hands; their bellies come apart like cobwebs, their legs detach easy as fly wings. He screams into their faces, spewing spittle. His insane laughter echoes through the battleground. Their souls suck away from their dying carcasses and feed him. It is his only satiation.
-
-There is blood, there are limbs, there are gurgling death-screams, there are pieces of once-living creatures clinging to Krul’s teeth and nails when he sees her standing atop the ruins of the fort. Human from the look of her, tall and still as morning, a sword buried between cracks in the rock, eyes impassive. His face, or what is left of it, cracks open into a grin.
-
-“Hullo, beauty!” he calls.
-
-Her response is the slow pulling of her weapon from the rocks, that _shing_ of steel.
-
-“You cannot protect it from me,” he growls. “Best run now and let me at it, before I destroy your best assets.”
-
-She leaps, falling hard onto him, sword front, magic buzzing around her like bees. She is good with her weapon, well trained. He might have respected her, once. She gets a few slashes into him, his half-dead flesh sagging apart where she aims. He swings at her, hits only air, circling, snorting like a devil, dodging as best he can until she turns the sword over her shoulder and pounds him good in the brow with the hilt. He lunges, closes the gap between them, roaring his dead breath onto her, then her valiant cry is cut short by his fist round her throat.
-
-“Pretty thing.” He licks her cheek while she squirms; her sword clatters on the stones between them and he kicks it away. He’s had enough of swords. A squeeze, and her neck breaks in his grip. Her life flows away from her and into him and she collapses, forgotten the moment he steps over her, toward the turret.
-
-So close…
-
-There is no one left to man the cannon, to feed it gunpowder and magic, no one to summon the thick-necked bastards. His right foot leaves bloody footprints and his left leg drags smears of minion gut all the way through the choke point, beyond the fortress, to the well.
-
-To the dead well.
-
-Perhaps once, the well had charged crystal; perhaps heroes had once guarded it. Perhaps he would once have found salvation here. But there is nothing now, nothing stirring in the well, only shards of broken crystal lying about, hardly anything worth defending.
-
-Hope lost, the world comes back to him. The rhythmic _bzzt bzzt_ of insects. Birds complaining. Cold coming on, sinking into his muscle, cramping him up all around his eternal wound, whatever is living about him trying to reject the foreign thing rammed through him. Pain and hatred.
-
-He allows himself one agonized scream before stalking back into the bush. There is another road there, to the Halcyon Fold, that he must now take.
 
 ## 'THE SHIELD AND THE BOW'
 
-![](../../.gitbook/assets/cathkestrel_stormguard_final_1000w.jpg)
+![I don&apos;t mind when people turn their backs on me.](../../.gitbook/assets/cathkestrel_stormguard_final_1000w.jpg)
 
 “Who am I?”
 
@@ -420,7 +168,7 @@ Then, she spins on her back foot and looses the arrow through the flames.
 
 ## 'THE COUP D’ÉTAT'
 
-![](../../.gitbook/assets/stormguard2_1000px-768x432.jpg)
+![You think it hurts now? Just wait.](../../.gitbook/assets/stormguard2_1000px-768x432.jpg)
 
 Sparks fly from Kestrel’s magic arrow as it sails past the fire, gliding through the narrow gap between two swordswomen and piercing straight into the Storm Queen’s raven. It lands with an undignified squawk and a floomph of powdered snow.
 
@@ -454,7 +202,7 @@ Catherine’s breath catches. “Then we can waste no more time. Make your choic
 
 ## 'CROSSING THE BRIDGE'
 
-![](../../.gitbook/assets/1000x500_winter_war_kestrel-768x384.jpg)
+![Mediocre.](../../.gitbook/assets/1000x500_winter_war_kestrel-768x384.jpg)
 
 When frozen tundra gave way to dense forest, the Stormguard traveled at night to evade the watchful eyes of nesting ravens. The country was at war, and the Storm Queen would be searching for them, but the freeze itself was their biggest enemy, and Kestrel was glad of her warm winter uniform.
 
@@ -496,219 +244,13 @@ The officer stuttered in his own language, then said in an accent, “Stormguard
 
 Something like hope flashed in Catherine’s eyes as the officer called for his troops to stand down. The Stormguard filed through the enemy’s line while the cavalry struggled to gain control of their wounded beasts. Kestrel walked backward, her bow pulled, until the last of the women had disappeared into friendly territory.
 
-## 'ALPHA'
-
-![](../../.gitbook/assets/alpha_tease-768x240.jpg)
-
-The dark room rippled with an eerie, surgical-bright glow centered on a glass tank at the center. Inside, a pale woman floated in a bowed shape, belly highest, swaying, her shaved head thrown back as if in laughter. Tubes snaked inside the glass and attached to nodes in her chest and temples. Great wounds in her torso had been stitched and bound together with white bandages. There was a low hum, the sour smell of chemicals and an echoing rhythmic beep that matched the slow beat of her heart.
-
-In one corner of the room, under a glaring light, a dwarf in thick safety goggles stood on a stool next to a headless robot in the shape of a woman. His power drill revved and died, revved and died, as he worked.  
-
-The door opened, startling him. The dwarf cursed and rubbed at a scratch on the white armor, ignoring the blind queen and the two guards who followed her. The queen pressed her fingertips to the tank. The raven on her shoulder glared through the glass.
-
-“Ungrateful wenches,” she hissed. “What would they have been without me? Wives. Mothers. Forgotten grandmothers telling boring stories. I saved them from mediocrity. I made them dangerous. I gave them a skill, a purpose, a family … and how am I repaid?”
-
-The two Stormguard women looked at one another, then back at the tank. “We returned -” began one, but the queen continued as if she hadn’t heard.
-
-“Betrayal. For some romantic notion. For a child who knows nothing of building and guiding an empire. But not you, my child.” The queen rested her cheek against the glass. “You will be more powerful than any soldier. You will never tire. You will never question me. You will never betray me. Because you cannot.”
-
-“Does that mean I have your permission to put her together?” called Frankie without turning around. “I can get her head off and have her configured by tomorrow.”
-
-“Yes,” said the queen. She turned from the tank to smile in her terrifying, eyeless way, at the only two Stormguard who had chosen to return. “And you, my loyal girls, will help me test her strength.”
-
-## 'THE DESTRUCTION'
-
-![](../../.gitbook/assets/alpha1-768x326.jpg)
-
-—— Hullo, Beauty…  
-—— Hullo…  
-—— Hullo Beaut-beaut-bee…  
-\#~$ REBOOT INITIATED: STAND BY…  
-… BUFFERING…  
-… TARGET DETECTED  
-–&gt; ENGAGING.
-
-Frankie and the veiled queen stepped along the scuffs, slides and stomp-marks scattered across the packed-dirt training yard. Pools of blood hardened into dusty paste around the bodies of Livia and Elena, the two Stormguard who had chosen to return. Alpha stood at attention, still as death, her mask and armor undented.
-
-“Harsh,” said Frankie.
-
-“Necessary,” replied the queen, “and impressive. No one in the world could have defeated either one of them, and your creation ended them both in moments.”
-
-“She’s unstoppable.” Frankie rapped his knuckles on Alpha’s knee. “Had some bugs to work out with her memory drive. Not easy, wiping everything except how to fight. I patched the issue with an automatic reboot…”
-
-“Is she ready?”
-
-“Yeah. Directive is uploaded.”_  
-_
-
-~
-
-—— You cannot protect it from me.  
-—— Protect it. From me. Best run now. Destroy.  
-—— Now before I destroy…  
-—— …your best assets.  
-\#~$ REBOOT INITIATED: STAND BY  
-… BUFFERING…  
-–&gt; PATROL MODE ACTIVATED.
-
-Quick as fire with wind behind it, word spread through the scattered Eventide cities that the _blancorojos_ were not to be trusted, that a technological monster stalked the insubordinate Stormguard. The news came too late for two old families, former royalty who sought to conspire against the queen. They, and six mangled former Stormguard, were dragged out of hiding into the streets to be picked at by the ravens.
-
-~
-
-—— Pretty thing.  
-—— Pretty…  
-—— …thing. Pretty thing.  
-\#~$ REBOOT INITIATED: STAND BY  
-… BUFFERING…  
-… STORMGUARD DETECTED…  
-… FULFILL DIRECTIVE…  
-–&gt; ENGAGING.
-
-Outside the oldest tea house in Taizen Gate, masked guards with curved swords stood shoulder-to-shoulder, silent. Inside, the Three Bosses knelt by a low table facing six former Stormguard, their palms facing down on the table according to local tradition.
-
-“The Stormguard is known for causing trouble here,” said Second Boss, a four-armed bear hybrid whose pot belly rested atop the table by his paws and teacup.
-
-“The Stormguard now serves the successor to Mont Lille,” replied Marelde.
-
-“We have no stake in which queen rules the Eventides. Our international politics are neutral.” First Boss’ hologram flickered at the edges of her business suit.
-
-Marelde bent her fingers, cracking each knuckle in turn, watching the Bosses’ eyes. “The queen’s ambition extends far beyond her shores.”
-
-“If you lie, and we give you the location of this princess you seek, you will kill her, yes?” asked Third Boss, a slight man with an unnerving smile.
-
-Marelde ached to look sidelong at the other women, but an unsteady gaze was a sign of weakness in Taizen Gate. Besides, she ever heard Catherine’s voice: _A shieldbearer’s first line of defense is her eyes_. She turned her hands over on the table, palms up. “I will not demand your trust, but for all things, there is a price. Use your best judgment and name yours.”
-
-Screams, and the clashing of steel from outside, interrupted. The Stormguard jumped onto the low table, kicking away the teapots and arranging themselves in defensive position around the three mages. Second Boss rose with surprising speed and dropped to all fours. First Boss flickered and disappeared. Third Boss opened his kimono, revealing a vest covered in small blade sheaths.
-
-“So much for no weapons allowed,” grumbled one mage, blue sparks exploding from her snapping fingers.
-
-“Not yet,” said Marelde; magic conjuration would be detected all over Taizen Gate. What if your first line of defense is all you have, Catherine? she thought, but Catherine was far away, and she had no shield.
-
-The screams outside stopped. The outer door slid open, letting in the night’s birdsongs and thick summer air.
-
-“Now,” ordered Marelde, and the room filled with the snap and buzz of magic as a heavy sword split apart the room’s paper wall from ceiling to floor and a machine stepped inside.
-
-The room erupted in flashing blue magic and the roars of Second Boss. The machine moved forward without pause, slicing through its former comrades, deflecting the magic bolts, Third Boss’ blades clinking off its armor. Within minutes, Alpha stood in the post-battle silence scanning the room with glowing eyes. Six women lay broken and bleeding at her feet; two bosses shook with terror in a corner. Her sword had cleaved the table, and Marelde with it, in half.
-
-\#~$ DIRECTIVE FULFILLED  
-… RECONNAISSANCE MODE ACTIVATED.  
-… DIRECTIVE: FIND STORMGUARD.  
-—— Pretty thing…
-
-## 'DAISY, DAISY'
-
-![](../../.gitbook/assets/alpha000_86-e1481587231232.jpg)
-
-Daisy squeezes into a corner of the workout room, bare feet sunk into the mat, arms bent, hiding her face behind bruised forearms and thick leather boxing gloves. Kestrel, a year older at fifteen, weaves close and strikes Daisy’s obliques, tight to cramping; when her arms drop, the strikes come at her jaw and temples. Tears slide out of Daisy’s swollen eyes, mixing with blood and snot from her nose. A hit to the belly sucks the air out of her and she crumples, arms over her head.
-
-Kestrel raises one glove. “Hey! Daisy’s cooked!”
-
-The instructor stalks over, glaring at the folded-up girl. “Never get hit, you fear every strike!” she says in a brusque accent. “Today fall down, cry, skin turn purple, blood come out. Tomorrow, still alive.”
-
-Kestrel winks through her own black-and-blue shiner. “Get up. It’s your turn next.”
-
-“I can’t,” sobs Daisy. “I can’t.”
-
-“Take your mind out of the pain.” Kestrel wipes at her nose with one leather glove. “I count the hits.”
-
-Daisy looks up, wincing. “That works?”
-
-Kestrel shrugs. “Get up and try.”
-
-~
-
-“Did you hear that?”
-
-Atop an airship tower, the last of the Stormguard waited for death. Kestrel and Catherine stood on the landing pad; four kept watch in the windowed control room below.
-
-Amie made a cat’s cradle out of stringy blue magic between her fingers, looking out at the winking lights twisting around the towers of the Royal Quarter. “Like a ding?”
-
-Ivet pressed her nose flat on the window and sighed a big foggy spot. “Taizen Gate bosses are notorious for being full of crap. We’d have known if the queen had some killing machine.”
-
-The ding came again, louder, from the elevator at the center of the room.
-
-The guards crouched as the elevator rose up the levels of the tower. The swordswoman flipped her broadswords and caught them. “Now ladies,” she said, “that could be anybody. Let’s not go killing a pilot or something.”
-
-A last ding and the elevator doors opened.
-
-“It’s true,” whispered Amie, the magic strings disintegrating. “Catherine!”
-
-“Too late,” said a shieldbearer, racing to the elevator. The shield burst into flames, slamming into the machine, pinning it to the far wall.
-
-“ONE,” it said.
-
-The shieldwoman flew back out of the elevator and slid along the floor to the glass wall, her shield and torso cut open, leaving a thick trail of blood behind.  
-
-“I’ll make scrap out of that thing,” said Ivet, charging forward, axe flourishing with blinding fast speed.
-
-The machine took the hit to its metal arm. “TWO,” it said in its mechanical voice, and pushed back. Ivet launched backward, her axe handle split in two, blood leaking from the top of her head.
-
-The third Stormguard stumbled backward over control displays and chairs, her broadswords crossed in front of her face. The machine plucked up the woman by one arm and slammed her into the window, cracking the glass. The swords slipped to the floor.
-
-Amie twisted her fingers, magic sputtering as she struggled to find her center in the swirling mess of panic. “Come on!” she cried as the machine drew near. The blue light solidified, formed wings, became a giant screeching phoenix in her arms. “Go!” she commanded, and the phoenix dived, grabbed the machine with its claws and dragged it back into the elevator.
-
-“THREE,” said the machine, then, “FOUR-FIVE-SIX” when Amie chased after it, ball after ball of explosive magic flying from her fingers. The phoenix forced the machine onto the elevator floor, pecking at its mask, screeching to wake the dead.
-
-~
-
-“That’s Amie’s bird.” Kestrel lunged back, four energy arrows forming in her right hand. Catherine ran to the stairs, her shield thrumming, as the landing zone exploded in an eruption of concrete. The machine leaped through the roof, snapped elevator cables wrapped round its blade, the elevator freefalling through the tower with Amie inside.
-
-The machine’s blank mask settled on Kestrel. “SCANNING. TARGET ZERO-TWO-THREE. STORMGUARD. EXTERMINATE.”
-
-Kestrel let loose three arrows in quick succession that pierced into the machine’s knee and neck joints. “SEVEN-EIGHT-NINE,” said the machine.
-
-Kestrel paused, an arrow in its nock.
-
-Catherine sped in from behind, slamming her arcshield into the machine’s back, spinning it toward herself. She held her breath and formed the shimmering magic shield around her, watched from inside the curved, pulsing bubble as the machine stuttered, “TEN-EN-EN-EN. SCAN-AN-ANNING TARGET ZERO-ZERO-ONE. STORMGUARD. EXTERMINATE-ATE-ATE.” The sword arced through the air, slamming into the bubble. The shield shattered in a rain of energy shards but not before it reflected the strike back at the machine, crumpling it. “ERROR. ERROR.”
-
-“Catherine, wait!” screamed Kestrel.
-
-Catherine positioned sideways, shield high, back knee bent, jaw tight as the machine took a step toward Kestrel, one leg dragging. Kestrel loosed the arrow into the eye of the machine’s mask.
-
-“ELEVEN,” said the machine, stepping like a broken doll as the arrow disintegrated. “COUNT… count the hits.” Her mechanical tone fell away. “I… can’t. Pretty thing. Daisy’s… Daisy’s cooked. I can’t. Kestrel?” The sword dropped from her hands.
-
-“What the hell did she do to you?” cried Kestrel.
-
-Catherine edged forward, shield up. “It could be a trap.”
-
-“It’s Daisy,” said Kestrel, slamming her fist into the mask until it fell away, revealing a woman’s horrified face.
-
-“Where am I?” whispered Daisy, clenching her fists. “Hurts. It hurts. Help… Kestrel, help-ELP-ELP-ELP…” Her eyes stared into the distance, her expression blank, her fists relaxing.
-
-“What’s happening?” cried Kestrel in a panic. “Is she dying?”
-
-“SYSTEM REBOOT. STANDBY,” said Daisy in pleasant monotone. Her eyes closed.
-
-“No! No rebooting!” Kestrel slapped Daisy in her cheeks. “Stay here, Daisy.”
-
-Daisy’s eyes opened. “I killed them,” said Daisy. “I killed all of them. Why did I kill them?”
-
-“It’s not your fault,” said Kestrel, gathering up the machine into her arms.
-
-“I can’t stop. It’s coming… back. I can feel it. Killed them. Best run now. Run. Run. I can end it but you have to RUN-UN-UN-UN can’t stop. STANDBY. Stop it. Can end it. Run. RUN TARGET ZERO-TWO-THREE. RUN, TARGET ZERO-ZERO-ONE. Pretty thing. TERMINATION PROTOCOL INITIATED. STANDBY.”
-
-Daisy went still. There was a click, and an energy barrier appeared around her. Catherine grabbed Kestrel by her arm.
-
-“We have to help her,” whimpered Kestrel, but Catherine yanked her away as blinding light shot out the seams in Daisy’s armor.
-
-“There! Go!” Catherine pointed up, yelling over the sound of the airship that hovered above. A rope ladder fell from the deck and Catherine shoved Kestrel toward it before dropping under her shield. Her eyes squeezed shut as the blast shook the tower.
-
-Kestrel clung for her life to the rope ladder as the explosion blew the ship sideways, the city spread out below, the sea ahead, the Halcyon Fold a dark strip of land in the far distance.
-
-Catherine rose, shaking, to her knees. The arcshield smoldered. She tossed it down and looked up to where she knew the raven would be circling, watching.
-
-\#~$ SYSTEM REBOOT…  
-… IDENTITY: ALPHA, STORMGUARD.  
-… DIRECTIVE: ELIMINATE STORMGUARD.  
-… LOADING COORDINATES: HALCYON FOLD…
-
 ## ALTERNATE FATES
 
 ### 'SYLVAN' KESTREL
 
 #### 'THE KING STAG'
 
-![](../../.gitbook/assets/kestrel_splash_t1_1000w-768x432.jpg)
+![In my vocabulary, quiver is a noun.](../../.gitbook/assets/kestrel_splash_t1_1000w-768x432.jpg)
 
 The King Stag entered the sacred meadow on Midsummer Noon. He stepped past the dancing and feasting; he broke through the line of forest creatures receiving their annual blessings from the elvish royal family. He bowed his heavy antlers to the king and queen but knelt at the feet of a princess. In silence she stood, straight and proud as living sculpture, too beautiful to be real, decked in ancient gold finery. She held in her left hand the bow named Sparrow, made from the horns of the scarlet bull. Her jeweled wings twitched in the hot breeze. In the face of her otherworldly beauty it was difficult to believe what was whispered: that humankind were elves who had left the woods and forgotten their link to root and sky, who had ceased to drink from the Island Well and who had learned selfishness and war and shame.
 
@@ -732,7 +274,7 @@ A wry grin tickled at Kestrel’s mouth. “I hoped Midsummer would bring me a c
 
 #### 'THE SPIDER MOTHER'
 
-![](../../.gitbook/assets/spiderqueenkestrel_1000px-768x432.jpg)
+![Oh look, there went my patience.](../../.gitbook/assets/spiderqueenkestrel_1000px-768x432.jpg)
 
 The Island Well was as the King Stag had said, overrun with humankind, contaminated and burbling black tar instead of the clear, healing water that had been revered by the forest creatures and protected by sanctimonious rites since the first memory. Kestrel, the wood elf princess, led the fight against the humans. Kestrel, with her bow named Sparrow, ended many human lives. Bear, wolf and deer fought together, trampling and mauling those who had harmed the well in their selfishness and ignorance. Hares and badgers and snakes, too, joined the fray, and birds dove to peck out human eyes. The battle was well-won by the forest creatures, but they suffered losses, and their victory did not last even a full moon cycle before more humans came, drawn by the stories of the healing well.
 
@@ -796,11 +338,11 @@ After what felt like an eternity, the spiderlings had eaten their fill, and Kest
 
 And so the Spider Queen emerged from the badgers’ den, transformed, with an army of dark elves and spiders behind her, blinking their red eyes in the glare. The army set upon the Island Well with their blades and arrows and poisons, and when they had made a ruin of the greedy humans, the spiders wove a thick silken web over the well that sealed its magic away from the world.
 
-### 'KYŪDŌ' KESTREL
+### 'KYUDO' KESTREL
 
 #### 'BECOMING THE KESTREL'
 
-![](../../.gitbook/assets/1000px_kyudo_kestrel_final_revision-768x373.jpg)
+![Spin in the wind, weathervane.](../../.gitbook/assets/1000px_kyudo_kestrel_final_revision-768x373.jpg)
 
 “Focus: tip of nose. Do not cross eyes. Settle energy down inside belly. No blinking.”
 
@@ -853,7 +395,7 @@ The arrow sailed away. The bow spun in her grip, the string against her wing. Th
 
 #### 'WHO'S DAVE?'
 
-![](../../.gitbook/assets/summerkestrel-768x384.jpg)
+![I like challenges, not risks.](../../.gitbook/assets/summerkestrel-768x384.jpg)
 
 Wait. Krul says he _surfed_ in to save me? SAW didn’t wait thirty minutes after eating his weight in tacos to get in the water? And now Phinn’s reporting himself a hero because he tossed a floaty donut in my general direction?
 
