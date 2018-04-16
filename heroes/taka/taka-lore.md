@@ -22,25 +22,25 @@
 
 ## 'GUNS AND SUNS'
 
-![](../../.gitbook/assets/gwen_comiccover_front-660x1019.jpg)
+![](../../.gitbook/assets/gwen_comiccover_front-660x1019%20%281%29.jpg)
 
 ![](../../.gitbook/assets/gwen_page1_flat-660x1019.jpg)
 
 ![](../../.gitbook/assets/gwen_page2_flat-660x1019.jpg)
 
-![](../../.gitbook/assets/gwen_page3_flat-660x1019.jpg)
+![](../../.gitbook/assets/gwen_page3_flat-660x1019%20%281%29.jpg)
 
-![](../../.gitbook/assets/gwen_page4_flat-660x1019.jpg)
+![](../../.gitbook/assets/gwen_page4_flat-660x1019%20%281%29.jpg)
 
 ![](../../.gitbook/assets/gwen_page5_flat-660x1019.jpg)
 
-![](../../.gitbook/assets/gwen_page6_flat-660x1019.jpg)
+![](../../.gitbook/assets/gwen_page6_flat-660x1019%20%281%29.jpg)
 
 ![](../../.gitbook/assets/gwen_page7_flat-660x1019.jpg)
 
-![](../../.gitbook/assets/gwen_page8_flat-660x1019.jpg)
+![](../../.gitbook/assets/gwen_page8_flat-660x1019%20%281%29.jpg)
 
-![](../../.gitbook/assets/gwen_page9_flat-660x1019.jpg)
+![](../../.gitbook/assets/gwen_page9_flat-660x1019%20%281%29.jpg)
 
 ![](../../.gitbook/assets/gwen_comiccover_back-660x1019.jpg)
 
