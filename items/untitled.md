@@ -50,129 +50,73 @@
 * Builds from:
   * Oakheart
 
+## Lifespring
 
+* Cost: 800\(500\)   gold
+* Stats:
+  * +300 Max Health
+  * Passive: Regenerate 1.5% of your missing health per second whenever you are out of combat with enemy heroes for 5s.
+* Builds into:
+  * Fountain of Renewal
+* Builds from:
+  * Oakheart
+* Tip: Helps you stay healthy in between battles.
 
-Lifespring
+## Reflex Block
 
+* Cost: 700\(400\)   gold
+* Stats:
+  * +250 Max Health
+  * Activate: Gain a barrier worth 25% of your missing health and block all debuffs for 1.5s. \(45s cooldown\) Can activate while stunned.
+* Builds into:
+  * Crucible, Aegis
+* Builds from:
+  * Oakheart
+* Tip: Block dangerous but predictable abilities with your fast reflexes.
 
+## Kenetic Shield
 
-800\(500\)
+* Cost: 800\(550\)   gold
+* Stats:
+  * +65 Shield
+  * +20 Armor
+* Builds into:
+  * Fountain of Renewal
+  * Aegis
+* Builds from:
+  * Light Shield
+* Tip: Shield reduces damage from abilities.
 
+## Coat of Plates
 
+* Cost: 800\(550\)   gold
+* Stats:
+  * +65 Armor
+  * +20 Shield
+* Builds into:
+  * Metal Jacket
+  * Atlas Pauldron
+* Builds from:
+  * Light Armor
+* Tip: Armor reduces damage from basic attacks.
 
-+300 Max Health, Passive: Regenerate 1.5% of your missing health per second whenever you are out of combat with enemy heroes for 5s.
+## Tier 3
 
+## Slumbering Husk
 
 
-Fountain of Renewal
 
 
 
-Oakheart
 
 
 
-Helps you stay healthy in between battles.
 
 
 
 
 
-Reflex Block
 
-
-
-700\(400\)
-
-
-
-+250 Max Health, Activate: Gain a barrier worth 25% of your missing health and block all debuffs for 1.5s. \(45s cooldown\) Can activate while stunned.
-
-
-
-Crucible, Aegis
-
-
-
-Oakheart
-
-
-
-Block dangerous but predictable abilities with your fast reflexes.
-
-
-
-
-
-Kenetic Shield
-
-
-
-800\(550\)
-
-
-
-+65 Shield, +20 Armor
-
-
-
-Fountain of Renewal, Aegis
-
-
-
-Light Shield
-
-
-
-Shield reduces damage from abilities.
-
-
-
-
-
-Coat of Plates
-
-
-
-800\(550\)
-
-
-
-+65 Armor, +20 Shield
-
-
-
-Metal Jacket, Atlas Pauldron
-
-
-
-Light Armor
-
-
-
-Armor reduces damage from basic attacks.
-
-
-
-Tier 3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Slumbering Husk
 
 
 
