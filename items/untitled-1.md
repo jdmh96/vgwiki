@@ -49,7 +49,7 @@
   * Depth: Scout Cams last 30s longer and take 1 extra hit\(s\) to kill. 
   * Activate: Flare
 * Builds from:
-  * Flare Loader
+  * [Flare Loader](untitled-1.md#flare-loader)
 * Tip: Buy this to strengthen your vision control in specific areas.
 * \*\*Note: Soverigns Rise only
 
@@ -61,7 +61,7 @@
   * +2.5 Energy recharge
   * Breadth: You can hold 1 additional Scout Cam\(s\) and obtain charges 30s faster per Scout Cam.
 * Builds from:
-  * Hourglass
+  * [Hourglass](crystal-item-details.md#hourglass)
 * Tip: Buy this to spread out vision across various areas. 
 * \*\*Note: Soverigns Rise only
 
@@ -76,8 +76,8 @@
   * Breadth: You can hold 3 additional Scout Cam\(s\) and obtain charges 60s faster per Scout Cam.
   * Activate: Flare
 * Builds from:
-  * Scout Pack
-  * Scout Tuff
+  * [Scout Pack    ](untitled-1.md#scout-pack)
+  * [Scout Tuff    ](untitled-1.md#scout-tuff)
 * Tip: buy this to provide maximum vision control for your team
 * \*\*Note: Soverigns Rise only
 
