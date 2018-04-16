@@ -2,7 +2,7 @@
 
 ## 'IMPOSSIBLE DECISION'
 
-![](../../.gitbook/assets/impossible-decision-768x316.jpg)
+![Why are we always running?](../../.gitbook/assets/impossible-decision-768x316.jpg)
 
 “I do not need your permission to buy a goat,” Julia said. “Goat milk is delicious, and we can make cheese.”
 
@@ -100,7 +100,7 @@ He fled from the house into the dark, past the poor dead goat, whose screams had
 
 ## 'ABOVE BOILING BAY'
 
-![](../../.gitbook/assets/above-boiling-bay-768x316.jpg)
+![Turn it up to eleven!](../../.gitbook/assets/above-boiling-bay-768x316.jpg)
 
 “Stop swinging.”
 
@@ -136,7 +136,7 @@ The amusement car creaks and moans as it swings. “Do you think they’ve found
 
 ## 'THE MASKER RAGE'
 
-![](../../.gitbook/assets/3_masker_rage-768x2227.jpg)
+![BOOM!](../../.gitbook/assets/3_masker_rage-768x2227.jpg)
 
 00:00.05
 
@@ -196,7 +196,7 @@ _Celeste searches among the faces of the Stormguard for the one who killed her m
 
 ## ‘VANGUARD UP!’
 
-![](../../.gitbook/assets/4_vanguard-up-768x539.jpg)
+![Shhh shh shh... My dad&apos;s coming.](../../.gitbook/assets/4_vanguard-up-768x539.jpg)
 
 Ardan slammed his fist into the armor’s control panel.
 
@@ -250,9 +250,9 @@ Ardan cursed, but Vox was running after his sister. Close behind, the Stormguard
 
 A single raven circled above them, camouflaged against the now-dark sky, watching.
 
-## ‘ESCAPE TO THE FOLD PART I’
+## ‘ESCAPE TO THE FOLD’
 
-![](../../.gitbook/assets/5_escape1-768x432.jpg)
+![Let&apos;s go, gotta wrap this up.](../../.gitbook/assets/5_escape1-768x432.jpg)
 
 So we’re headed out of Boiling Bay at top speed, right? Carnie Wheel cars are coming unbolted and like
 
@@ -288,9 +288,7 @@ The war mage goes on about how Celeste has to fulfill her destiny and take the t
 
 It gets crazy-tense, and everyone’s talking about what’s best for Celeste. But it feels like my future’s being decided too. And I got a decision to make…
 
-## ‘ESCAPE TO THE FOLD PART II’
-
-![](../../.gitbook/assets/6_escape2-743x1024.jpg)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 “If there is a way to end her tyranny, shouldn’t I do it?” Celeste says in that calm way that always winds Dad up even worse.
 
@@ -336,7 +334,7 @@ There’s all these rumors and tales about how Celeste is gonna challenge the th
 
 #### 'THE STAR QUEEN'S NAVY'
 
-![](../../.gitbook/assets/1450x596_voxt1splash-1024x421.jpg)
+![I never run from a fight.](../../.gitbook/assets/1450x596_voxt1splash-1024x421.jpg)
 
 A sprite named Loo stole Vox while the others slept. Celeste, being the girl, was the only one with any privacy; Vox was stuffed in a barracks with the Gythians and his snoring father. Ultimately it was a case of mistaken identity, for the sprite was nearsighted and panicky on account of The Audacity’s captain was missing. So she sped in through the high window and tugged at Vox’s nose with both her tiny hands and shouted her squeaks into his ear, which was half her size. “Captain, Captain! There’s a fight about!”
 
@@ -354,7 +352,7 @@ The next morning, The Audacity soared over the Halcyon Fold and hovered over Cel
 
 #### 'LIONNE'S REVENGE'
 
-![](../../.gitbook/assets/cr-vox-ii-768x432.jpeg)
+![Nothing but originals.](../../.gitbook/assets/cr-vox-ii-768x432.jpeg)
 
 With a roar of engines and propellers and the snap of sails, the Star Queen’s navy of airships rose like dark moons over the gates of Mont Lille. Captain Vox stood on the deck of _The Audacity_, a grin spread under his posh mustache. Loo the sprite stood atop his head in an epic battle pose, holding a lock of his hair in one little fist, a tiny saber in the other. Goblins manned the sound cannons. The Bloodless Revolution night had been a bore for the war-wild pirates, but Lionne’s Revenge against the capital city had proved quite the romp. The same people who had marched against the Storm Queen had, once given their independence, marched against her successor, demanding retribution for their fallen city in destruction and blood.
 
@@ -372,7 +370,7 @@ Dodging the huge jagged pieces of the great airship as they slammed down, he ran
 
 #### 'I MADE THESE FOR YOU'
 
-![](../../.gitbook/assets/cloudraider_t3_1000w-1-768x432.jpg)
+![It&apos;s like they don&apos;t know we&apos;re gonna win.](../../.gitbook/assets/cloudraider_t3_1000w-1-768x432.jpg)
 
 _…your mother and I when we were young. I should not have done it. I live with the regret of it to this day, not that my guilt could bring her back. I don’t know if you can hear this; perhaps it’s better if you don’t. All I can do now is protect Celeste, as well as she will allow…_
 
@@ -416,7 +414,7 @@ Ardan swallowed hard and patted Vox on the back. “I guess… ah, we can wake y
 
 #### LEADER OF THE BAND
 
-![](../../.gitbook/assets/vox_schooldays_splash-1-768x432.jpg)
+![I&apos;m feeling so crazy right now.](../../.gitbook/assets/vox_schooldays_splash-1-768x432.jpg)
 
 If you’re in this game to be liked, back out now. No one is going to like you; what you want is their _fear_. But every tyrant needs a sweetheart who will say things like, _She’s super nice when you get to know her._ A charming, front-facing party guy.
 
@@ -428,7 +426,7 @@ He turns streamers, a school gym and a punch bowl into a mindblowing homecoming 
 
 #### THE WORLD'S MOST ELUSIVE CHAMPION
 
-![](../../.gitbook/assets/1000px_vox_ice-768x432%20%281%29.jpg)
+![Well then, bring it!](../../.gitbook/assets/1000px_vox_ice-768x432%20%281%29.jpg)
 
 “You gonna eat that?”
 

@@ -2,7 +2,7 @@
 
 ## 'THE QUEEN'S GAMBIT'
 
-![](../../.gitbook/assets/1000px_varya_lore1-2-768x432.jpg)
+![I am a weapon of war, I have no opinion on the matter.](../../.gitbook/assets/1000px_varya_lore1-2-768x432.jpg)
 
 High above the last of the air, a Churn-infected raven circled the Anvil, the floating land that kept safe the world’s enormous living library. The raven’s crazed eyes glowed and its oversized, razor-sharp talons curled as it tucked back its wings and dove straight down through the library’s single skylight. The glass shattered and tore into the flesh of the diseased bird; its blood steamed where it splashed on the cold hard floor.
 
@@ -32,7 +32,7 @@ _To war I return._ She smiled as the storm gathered, surrounded her, then delive
 
 ## 'THUNDERSNOW'
 
-![](../../.gitbook/assets/1000px_winter_varya_skin_edit_final-768x432.jpg)
+![If you do not move, I will burn a hole in you and walkthrough.](../../.gitbook/assets/1000px_winter_varya_skin_edit_final-768x432.jpg)
 
 The Secret City was silent, muted by falling snow. Varya walked down an empty road between looming barracks, watchtowers, and tall, wide chimneys from which billowed thick smoke. The war between the two mage princes of the Sleeping Land had played out for fifty years, had spanned thousands of bitter cold miles, had eradicated dozens of nomadic tribes. In the Book of Futures, the Worldseer had seen the victory of Prince Aleksandr, but not for another fifty bloody years.
 
