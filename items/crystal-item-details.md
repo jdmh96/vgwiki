@@ -191,7 +191,7 @@
 
 ## Dragon's Eye
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 * Cost: 3000\(1300\)   gold
 * Stats:

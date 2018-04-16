@@ -24,7 +24,7 @@ Well, time to get to work. There are three paths stretching away from the Sanctu
 
 ### 'STEAM KNIGHT' TONY
 
-![](../../../.gitbook/assets/image%20%2889%29.png)
+![](../../../.gitbook/assets/image%20%2894%29.png)
 
 #### 'PRINCESS PINKERTON'
 
@@ -34,7 +34,7 @@ Avoiding the shadow, you hurry down the path and, after sunset, away from Mont L
 
 
 
-![](../../../.gitbook/assets/image%20%2846%29.png)
+![](../../../.gitbook/assets/image%20%2848%29.png)
 
 #### '**PROTECTING THE PRINCESS'**
 
