@@ -139,7 +139,7 @@
 
 ## Stormcrown
 
-* Cost: 2000 gold
+* Cost: 2000\(600\) gold
 * Stats:
   * +20% Cooldown Speed
   * +4 Energy Recharge
@@ -152,7 +152,7 @@
 
 ## Nullwave gauntlet
 
-* Cost: 2200 gold
+* Cost: 2200\(750\) gold
 * Stats:
   * +500 Max Health
   * 25% Cooldown Speed
