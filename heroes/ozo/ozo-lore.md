@@ -2,7 +2,7 @@
 
 ## 'SHOWOFFIN'
 
-![](../../.gitbook/assets/ozo_lore1_1000px-768x413.jpg)
+![Ozo! Ozo! Ozo!](../../.gitbook/assets/ozo_lore1_1000px-768x413.jpg)
 
 Knuckles throws the townie kid outta the Mister’s wagon and us Carnie Kids, who know better than to bother the Mister, sit off aways chortlin.
 
@@ -56,7 +56,7 @@ Ozo stays back to watch the decorations go up from inside his ring, hanging on w
 
 ## 'THE RED LANTERN FESTIVAL'
 
-![](../../.gitbook/assets/ozo_lore21000px-768x413.jpg)
+![Okey okey okey go,go go GO AAAAAAHH!!!](../../.gitbook/assets/ozo_lore21000px-768x413.jpg)
 
 Mad blue sparks flashed from Ozo’s ring as it bumped down the cobbles of the Undersprawl’s main avenue, Ozo in its center, Koshka dashing doubletime after him in her prettiest red party dress. Red lanterns cast a charming glow on the dingy neighborhood, and paper cutouts decorated the windows of even the roughest taverns. Ozo spun to a flourished stop by the minion pens at the city gate. “I win!” he cried. The minions clapped.
 
@@ -102,7 +102,7 @@ The pair dashed for the kumquat trees and jammed the fruit into their mouths, co
 
 #### 'THE RING, THE GUN & THE GOURD'
 
-![](../../.gitbook/assets/wuxia_ozo_1000px-768x432.jpg)
+![My eyebrows grow back fast.](../../.gitbook/assets/wuxia_ozo_1000px-768x432.jpg)
 
 High in the trees, Ozo sailed from branch to branch, his dragon-faced metal ring looped over one shoulder. From that height, the carnival was silent and far away.
 
