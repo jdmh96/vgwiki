@@ -2,7 +2,7 @@
 
 ## 'RETURN OF SKAARFUNGANDR'
 
-![](../../.gitbook/assets/skaarf_lore_tease-768x316.jpg)
+![Rawrwarw](../../.gitbook/assets/skaarf_lore_tease-768x316.jpg)
 
 _Love not architecture, for the Ender of Worlds crumbles all to ruin. Tend not to your fields, for His bloodfire reduces all to ashes. Care not for your future, for with a breath, Skaarfungandr, Ruler of Skies, eliminates nations entire. Beware the folly of pride, for even now your Reaper wakes. He is The Last; The Herald of Eternal Night. He is Skaarfungandr the Vehement, His Dreaded Majesty, the Indomitable and the Eater of All. Let us lament the last precious moments of Man._
 
@@ -60,7 +60,7 @@ _I was last out the gate, so I saw him come. The black sky split apart, sun spil
 
 _When the ash cleared way for the sun, we came back, but nothing was left of the town. Not one stick of a fence or house. The wells dried. Nothing will grow in the earth there now. It’s a forgotten place: no name, no history. Easy to forget the name of a place when it’s leveled. Easy to blame it on fire got some accidental way. Easy to laugh at the stories of old people. Already, no one believes me._
 
-![](../../.gitbook/assets/skaarf_asiandragon.jpg)
+![Hrarhaghrr](../../.gitbook/assets/skaarf_asiandragon.jpg)
 
 **The final translated account from the private collection of Martim Walker. Of particular interest is the reference to the “fifth reign” of Skaarfungandr.**
 
@@ -132,7 +132,7 @@ Detective Sarth was assigned to the case, and her investigation will follow.
 
 ## 'FAN THE FLAMES'
 
-![](../../.gitbook/assets/skaarf_wantedposter-730x1024.jpg)
+![ Rwharwrhr](../../.gitbook/assets/skaarf_wantedposter-730x1024.jpg)
 
 “I didn’t do it!”
 
@@ -176,7 +176,7 @@ Then she drew her weapon, turned the corner and joined the firefight as the Safe
 
 ### 'WATER DRAGON' SKAARF
 
-![](../../.gitbook/assets/download-2.jpeg)
+![Arhrahgrrh](../../.gitbook/assets/download-2.jpeg)
 
 One day, a dragon hatched out of his egg covered in slurpy yolk. There was no one around, so he wandered outside to discover the world.
 
@@ -198,7 +198,7 @@ He took a bath in the lake and waved at a greenish-blueish fish.
 
 ### 'CLOUD DRAGON' SKAARF
 
-![](../../.gitbook/assets/30744495726_2ee7b79d92_b.jpg)
+![Rhearhaaw](../../.gitbook/assets/30744495726_2ee7b79d92_b.jpg)
 
 The dragon swam out of the lake and shook himself dry.
 
@@ -220,7 +220,7 @@ The dance made him float, so he floated to the sky, where he met a cloud.
 
 ### 'ICE DRAGON' SKAARF
 
-![](../../.gitbook/assets/skaarf_t3_spalsh-1024x576.jpg)
+![Rwharwrhr](../../.gitbook/assets/skaarf_t3_spalsh-1024x576.jpg)
 
 The dragon cloud fell asleep and woke with his tongue stuck to a glacier.
 
@@ -244,7 +244,7 @@ He blew and little icy spikes came out. He spat some freezey jelly goo and came 
 
 #### 'THE FIRST RED LANTERN FESTIVAL'
 
-![](../../.gitbook/assets/1000x500_skaarf_lny-768x384.jpg)
+![Hrarhaghrr](../../.gitbook/assets/1000x500_skaarf_lny-768x384.jpg)
 
 On the first day of the new year, five big eggs under the sea hatched: _crik-crak!_ and five baby dragon brothers wiggled out into the water: one purple, one red, one green, one blue and one gold. They tried to talk to one another, but only steamy bubbles came out, so they left the sea and climbed out onto land, shaking water off their pretty wings.
 
