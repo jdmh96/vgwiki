@@ -1,8 +1,8 @@
 # Glaive Lore
 
-## Glaive Lore: PART ONE
+## ‘GLAIVE THE GRANGOR’
 
-### ‘GLAIVE THE GRANGOR’
+![Their fear...is making me HUNGRY!](../../.gitbook/assets/image%20%2871%29.png)
 
 Yeah, if you need to hire muscle, I have some recommendations. Just keep your voice down. Maybe you need someone stealthy – someone who can hide in the underbrush and attack outta nowhere, never see them coming? Got an assassin girl in the rafters that’ll make ribbons of a body in seconds. No, not quite right. But getting warmer, am I? You want to make a big splash, do you? Leave a real impression. Maybe the target’s friends will think twice… leave town to save their own heads?
 
@@ -14,11 +14,9 @@ Grangor don’t take naturally to mercenary work, in my humble… whassat? That 
 
 Sure, sure, he’ll make a show of the corpse. Scare off your trouble. But I ain’t have any experience with that. Go on and talk to him, but if you’re planning on getting a discount on account of his blindness, I’ll call up the cleaning crew in advance to sweep up your skull bits from the floor. And hey, a word of advice: Don’t look right at him. Grangor don’t take kindly to that. And yeah, he’ll know if you do.
 
-## Glaive Lore: PART TWO
+## ‘GLAIVE MEETS RINGO’
 
-### ‘GLAIVE MEETS RINGO’
-
-You thought you could call me \_beast \_from across the cantina. If you whispered it, you thought I wouldn’t hear. You thought that distance would give you a running start. And now you are at my feet, drunk little carnie fool. That’s why you lose at the dice tables, and why you return to lose again: You are only good from range.
+You thought you could call me beast from across the cantina. If you whispered it, you thought I wouldn’t hear. You thought that distance would give you a running start. And now you are at my feet, drunk little carnie fool. That’s why you lose at the dice tables, and why you return to lose again: You are only good from range.
 
 But now my axe has knocked you close, so while you’re at my feet clutching at that nasty bruise, why don’t you insult me again? Ah, good, good. There’s some courage in you. I can respect a man who spits in the face of a beast.
 
@@ -30,9 +28,15 @@ Get up off the ground, you cowardly shivering leaf, and let’s have a roll of d
 
 And you’d best not cheat. I can smell every move.
 
-## **PREHISTORIC GLAIVE: THE LORE**
 
-## ‘PREHISTORIC GLAIVE’ Tier I
+
+![Image by ForTheVainglorius](../../.gitbook/assets/image%20%2827%29.png)
+
+## ALTERNATE FATES
+
+### ‘PREHISTORIC' GLAIVE
+
+![Cut through bone.](../../.gitbook/assets/image%20%2856%29.png)
 
 _This skull here, this was a steel-toothed grimjaw. My grandfather’s grandfather took it down. You can put your whole hand in the hole, here, from my ancestor’s axe. Story goes, he climbed up its back to defeat it. Ha! Imagine that fight! I dream of it!_
 
@@ -42,7 +46,9 @@ _Over here are my trophies. Behold the nocturnal whiptail here. Had to track him
 
 _Few outsiders have seen my trophy room. You should feel lucky your skull is not hung on the wall with the rest. Ha!_
 
-## **‘PREHISTORIC GLAIVE’ TIER III**
+### **‘ICE AGE’ GLAIVE**
+
+![An acceptable trophy.](../../.gitbook/assets/image%20%2878%29.png)
 
 The summit of the mountain had been cleared and the circled stones consecrated with sacred signs and symbols hundreds of winters past. Glaive entered the circle on the longest night, dazed from the altitude and the day’s climb. The stars spread overhead in magnificent twists that spiraled on themselves in his woozy vision.
 
@@ -88,9 +94,9 @@ Glaive nodded. “My thanks, ancestors. I will heed your guidance.”
 
 At dawn, Glaive began his trek down to the port of Trostan.
 
-## SORROWBLADE’ GLAIVE TIER II
+### 'SORROWBLADE’ GLAIVE 
 
-#### **THE CHOSEN HUNTER**
+#### '**THE CHOSEN HUNTER'**
 
 One autumn, Glaive went ice fish hunting \(for there is no word in the Grangor tongue like “fishing;” the Grangor use the word “hunt” for anything that is acquired through skill or cunning\). He drilled a hole in the ice at the center of the great lake, impaled a wiggling ground-dwelling invertebrate onto the hook of his twine-dangling fish hunting weapon and hunkered down into his fish hunting stance, which was a comfortable sitting position. After some time his head nodded with the impending vision quest, which is how Glaive would explain later that he had fallen asleep, and that is when he heard a deep, booming voice.
 
@@ -98,7 +104,7 @@ _Greetings, Grangor. Tell me your sorrows._
 
 Glaive startled out of his dream and looked over his left and then his right shoulder. No one was about. He peered into his drilled fish hunting hole. “What is a sorrows?”
 
-\_Sorrow is the feeling of emptiness that follows a great loss,\_replied the voice in a cold, bubbly way from under the surface.
+Sorrow is the feeling of emptiness that follows a great loss, replied the voice in a cold, bubbly way from under the surface.
 
 “Can’t say I’ve ever felt that,” said Glaive.
 
@@ -116,19 +122,21 @@ _Have you never been rejected by a female?_
 
 _Congratulations_, said the voice, and the thick and meaty arm of a water troll burst through the ice, a great axe in its fist._You have been chosen to carry the great named axe, Sorrowblade, that was thrown into this icy deepness long ago to protect mankind. Only you, great hunter, will not fall to its terrors._
 
+![Hm, as you suggest...](../../.gitbook/assets/image%20%2848%29.png)
+
 Glaive took the weapon in his hands and tested its weight, marveled at the dynamic harmony of head and helve. The axe handle glowed red with a foreign force. “I’ve never seen its like. What manner of power is this?”
 
-_It is called technology,\_said the voice.\_It is the harnessing of the power of fire, lightning, magic, the sun, even the Churn._
+_It is called technology, said the voice. It is the harnessing of the power of fire, lightning, magic, the sun, even the Churn._
 
 “Are you sure you don’t want it?”
 
 _It makes the fish sad_, said the voice, farther away now._Now go, and tell those machine-makers to stop dumping their stuff here._
 
-## ‘KING’ GLAIVE
-
-_Glaive the Lion has become the King of the Forest! There’s only one problem: he’s a coward. Luckily, the wizard’s brew gives him courage – but what would happen if he lost it?_
+### ‘KING’ GLAIVE
 
 **THE THEFT OF THE WIZARD’S BREW**
+
+![Your mother bears a striking resemblance to... The Kraken. Has anyone ever told you that?](../../.gitbook/assets/image%20%2832%29.png)
 
 The roaring-est, meanest, and most frightening of all the forest creatures, the beheader of the Giant Spider, the King of the Forest, respected far and wide for his fearlessness and strength, the lion, had a terrible secret.
 
