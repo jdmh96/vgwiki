@@ -104,167 +104,69 @@
 
 ## Slumbering Husk
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1700\(1050\)
-
-
-
-+650 Max Health, Passive: Taking 25% of your max health in damage over 1.5s fortifies your remaining health for 2.0s \(25s cooldown\).
-
-
-
-N/A
-
-
-
-Dragonheart
-
-
-
-Buy this to survive against opponents with high burst damage.
-
-
-
-
-
-Crucible
-
-
-
-1850\(500\)
-
-
-
-+700 Max Health, Activate: Trigger Reflex Block for you and nearby teammates. \(45s cooldown\)
-
-
-
-N/A
-
-
-
-Dragonheart, Reflex Block
-
-
-
-Protect your friends with Reflex Block!
-
-
-
-
-
-Fountain of Renewal
-
-
-
-2300\(700\)
-
-
-
-+300 Max Health, +65 Shield, +20 Armor, Passive: Lifespring, Activate: Heals you and nearby allies for 2.5 health for each % missing health per second for 3s. \(65s cooldown\)
-
-
-
-N/A
-
-
-
-Lifespring, Kenetic Shield
-
-
-
-Heal is especially powerful on allies who are almost dead.
-
-
-
-
-
-Aegis
-
-
-
-2150\(650\)
-
-
-
-+85 Shield, +20 Armor, +250 Max Health, Activate: Reflex Block \(35s cooldown\)
-
-
-
-N/A
-
-
-
-Refles Block, Kenetic Shield
-
-
-
-Greatly reduces damage from enemy abilities.
-
-
-
-
-
-Metal Jacket
-
-
-
-2000\(1200\)
-
-
-
-+120 Armor, +25 Shield
-
-
-
-N/A
-
-
-
-Coat of Plates
-
-
-
-Armor reduces damage from basic attacks.
-
-
-
-
-
-Atlas Pauldron
-
-
-
-1900\(1100\)
-
-
-
-+80 Armor, +25 Shield, Activate: Maim nearby enemies, lowering their attack speed by 50% of their total for 4s in a 4-meter range. \(20s cooldown\)
-
-
-
-N/A
-
-
-
-Coat of Plates
-
-
-
-Counters enemies with high attack speed, but you must get close to the enemies to affect them.
+* Cost: 1700\(1050\)   gold
+* Stats:
+  * +650 Max Health
+  * Passive: Taking 25% of your max health in damage over 1.5s fortifies your remaining health for 2.0s \(25s cooldown\).
+* Builds from:
+  * Dragonheart
+* Tip: Buy this to survive against opponents with high burst damage.
+
+## Crucible
+
+* Cost: 1850\(500\)   gold
+* Stats:
+  * +700 Max Health
+  * Activate: Trigger Reflex Block for you and nearby teammates. \(45s cooldown\)
+* Builds from:
+  * Dragonheart
+  * Reflex Block
+* Tip:Protect your friends with Reflex Block!
+
+## Fountain of Renewal
+
+* Cost: 2300\(700\)   gold
+* Stats:
+  * +300 Max Health
+  * +65 Shield
+  * +20 Armor
+  * Passive: Lifespring, Activate: Heals you and nearby allies for 2.5 health for each % missing health per second for 3s. \(65s cooldown\)
+* Builds from:
+  * Lifespring
+  * Kenetic Shield
+* Tip: Heal is especially powerful on allies who are almost dead.
+
+## Aegis
+
+* Cost: 2150\(650\)   gold
+* Stats:
+  * +85 Shield
+  * +20 Armor
+  * +250 Max Health
+  * Activate: Reflex Block \(35s cooldown\)
+* Builds from:
+  * Reflex Block
+  * Kenetic Shield
+* Tip: Greatly reduces damage from enemy abilities.
+
+## Metal Jacket
+
+* Cost: 2000\(1200\)   gold
+* Stats:
+  * +120 Armor
+  * +25 Shield
+* Builds from:
+  * Coat of Plates
+* Tip: Armor reduces damage from basic attacks.
+
+## Atlas Pauldron
+
+* Cost:1900\(1100\)   gold
+* Stats:
+  * +80 Armor
+  * +25 Shield
+  * Activate: Maim nearby enemies, lowering their attack speed by 50% of their total for 4s in a 4-meter range. \(20s cooldown\)
+* Builds from:
+  * Coat of Plates
+* Tip: Counters enemies with high attack speed, but you must get close to the enemies to affect them.
 
