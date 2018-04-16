@@ -31,7 +31,7 @@
 
 ## Minion Candy
 
-![](../.gitbook/assets/minion-candy.png)
+![](../.gitbook/assets/minion-candy%20%281%29.png)
 
 * Cost: 100 gold
 * Stats:

@@ -36,7 +36,7 @@ Cost: 300 gold
 
 ## Flare gun
 
-![](../.gitbook/assets/flare-gun%20%281%29.png)
+![](../.gitbook/assets/flare-gun%20%282%29.png)
 
 * Cost: 600\(300\) gold
 * Stats:
