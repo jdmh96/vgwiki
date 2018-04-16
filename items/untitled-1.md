@@ -4,6 +4,8 @@
 
 ## Healing Flask
 
+![](../.gitbook/assets/image%20%2828%29.png)
+
 * Cost: 300 gold
 * Stats:
   * Activate: Block 115-500 \(level 1-12\) damage and recover 200-475\(level 1-12\) health and 30% energy over the next 5s \(120 cooldown\).
@@ -19,6 +21,8 @@
 
 ## Scout Trap
 
+![](../.gitbook/assets/scout-trap.png)
+
 * Cost: 50 gold
 * Stats:
   * Consume: Place a trap at your feet. Trap grants vision & will explode on contact with enemy heroes after a short delay. Deals splash damage and reveals affected enemies for 5s.
@@ -27,12 +31,16 @@
 
 ## Minion Candy
 
+![](../.gitbook/assets/minion-candy.png)
+
 * Cost: 100 gold
 * Stats:
   * Consume: Empowers nearby friendly minions for 60s and friendly jungle bosses for 30s. They are granted 40% increased damage, 120 armor, 60 shield, and 0.5 increased movement speed.
 * Tip: Helps you push and siege enemy turrets, especially in early game.
 
 ## Flare Loader
+
+![](../.gitbook/assets/flare-gun.png)
 
 * Cost: 300 gold
 * Stats:
@@ -85,6 +93,8 @@
 
 ## Ironguard Contract
 
+![](../.gitbook/assets/ironguard-contract.png)
+
 * Cost: 250 gold
 * Stats:
   * Passive: When a nearby ally kills a jungle monster or large lane minion, it heals you and your ally by 75 health each and 10 energy each.
@@ -92,12 +102,16 @@
 
 ## Protector Contract
 
+![](../.gitbook/assets/protector-contract.png)
+
 *  Cost: 250 gold
 * Stats:
   * Activate: Grants a 120 health barrier to nearby allied heroes for 2s. 5s cooldown. 2 max charges, 15s per charge.
 * Tip: Purchase this if you expect heavy aggression coming from the enemy team or want early teamfights.
 
 ## Dragonblood Contract
+
+![](../.gitbook/assets/dragonblood-contract.png)
 
 *  Cost: 250 gold
 * Stats:
@@ -108,12 +122,16 @@
 
 ## Weapon Infusion
 
+![](../.gitbook/assets/weapon-infusion.png)
+
 * Cost: 500 gold
 * Stats:
   * Consume: Temporarily gain 20-80 weapon power, 5%-20% attack speed, and 0-15 armor & shield based on your level. Lasts 150s. Can only have one infusion at a time.
 * Tip: Gain a powerful temporary advantage in your basic attacks.
 
 ## Crystal Infusion
+
+![](../.gitbook/assets/crystal-infusion.png)
 
 * Cost: 500 gold
 * Stats:
@@ -123,6 +141,8 @@
 ## Other
 
 ## Level Juice
+
+![](../.gitbook/assets/level-juice.png)
 
 * Cost: 0 gold
 * Stats:

@@ -4,7 +4,10 @@
 
 ## Sprint boots
 
-* Cost: 300 gold
+![](../.gitbook/assets/sprint-boots%20%281%29.png)
+
+Cost: 300 gold
+
 * Stats:
   * Passive: +0.4 move speed. \(Does not stack with other boots.\)
   * Activate: Sprint for 2s \(150s cooldown\).
@@ -14,6 +17,8 @@
 ## Tier 2
 
 ## Travel boots
+
+![](../.gitbook/assets/travel-boots%20%281%29.png)
 
 * Cost: 800\(500\) gold
 * Stats:
@@ -31,6 +36,8 @@
 
 ## Flare gun
 
+![](../.gitbook/assets/flare-gun%20%281%29.png)
+
 * Cost: 600\(300\) gold
 * Stats:
   * +300 Max Health
@@ -43,6 +50,8 @@
 * \*\*Note: Halcyon Fold only
 
 ## Stormguard Banner
+
+![](../.gitbook/assets/stormguard-banner.png)
 
 * Cost: 600\(300\) gold
 * Stats:
@@ -73,6 +82,8 @@
 
 ## Journey boots
 
+![](../.gitbook/assets/journey-boots.png)
+
 * Cost: 1700\(900\) gold
 * Stats:
   * +250 Max Health
@@ -84,6 +95,8 @@
 * Tip: Purchase to be able to chase down fleeing targets and sustain pressure.
 
 ## War treads
+
+![](../.gitbook/assets/war-treads.png)
 
 * Cost: 1900\(450\) gold
 * Stats:
@@ -97,6 +110,8 @@
 * Tip: Help your entire team engage the enemy team or flee from battle.
 
 ## Halcyon chargers
+
+![](../.gitbook/assets/halcyon-chargers%20%281%29.png)
 
 * Cost: 1700\(200\) gold
 * Stats
@@ -114,6 +129,8 @@
 
 ## Echo
 
+![](../.gitbook/assets/echo.png)
+
 * Cost: 2200\(1500\) gold
 * Stats:
   * 350 Max energy
@@ -124,6 +141,8 @@
 * Tip: This item has a shorter cooldown if activated on a low cooldown ability.
 
 ## Contraption
+
+![](../.gitbook/assets/contraption.png)
 
 * Cost: 2100\(700\) gold
 * Stats:
@@ -139,6 +158,8 @@
 
 ## Stormcrown
 
+![](../.gitbook/assets/stormcrown.png)
+
 * Cost: 2000\(600\) gold
 * Stats:
   * +20% Cooldown Speed
@@ -152,6 +173,8 @@
 
 ## Nullwave gauntlet
 
+![](../.gitbook/assets/nullwave-gauntlet.png)
+
 * Cost: 2200\(750\) gold
 * Stats:
   * +500 Max Health
@@ -164,6 +187,8 @@
 * Tip: Use this against opponents with many active items.
 
 ## Shiversteel
+
+![](../.gitbook/assets/shiversteel.png)
 
 * Cost: 1950\(600\) gold
 * Stats:

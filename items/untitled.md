@@ -4,6 +4,8 @@
 
 ## Oakheart
 
+![](../.gitbook/assets/oakheart.png)
+
 * Cost: 300   gold
 * Stats: 
   * +250 Max Health
@@ -16,6 +18,8 @@
 
 ## Light Shield
 
+![](../.gitbook/assets/light-shield.png)
+
 * Cost: 250   gold
 * Stats:
   * +30 Shield
@@ -25,6 +29,8 @@
 * Tip: Shield reduces damage from abilities.
 
 ## Light Armor
+
+![](../.gitbook/assets/light-armor.png)
 
 * Cost: 250   gold
 * Stats:
@@ -37,6 +43,8 @@
 ## Tier 2
 
 ## Dragonheart
+
+![](../.gitbook/assets/dragonheart.png)
 
 * Cost: 650\(350\)   gold
 * Stats:
@@ -52,6 +60,8 @@
 
 ## Lifespring
 
+![](../.gitbook/assets/lifespring.png)
+
 * Cost: 800\(500\)   gold
 * Stats:
   * +300 Max Health
@@ -63,6 +73,8 @@
 * Tip: Helps you stay healthy in between battles.
 
 ## Reflex Block
+
+![](../.gitbook/assets/reflex-block.png)
 
 * Cost: 700\(400\)   gold
 * Stats:
@@ -77,6 +89,8 @@
 
 ## Kenetic Shield
 
+![](../.gitbook/assets/kinetic-shield.png)
+
 * Cost: 800\(550\)   gold
 * Stats:
   * +65 Shield
@@ -89,6 +103,8 @@
 * Tip: Shield reduces damage from abilities.
 
 ## Coat of Plates
+
+![](../.gitbook/assets/coat-of-plates.png)
 
 * Cost: 800\(550\)   gold
 * Stats:
@@ -105,6 +121,8 @@
 
 ## Slumbering Husk
 
+![](../.gitbook/assets/slumbering-husk.png)
+
 * Cost: 1700\(1050\)   gold
 * Stats:
   * +650 Max Health
@@ -114,6 +132,8 @@
 * Tip: Buy this to survive against opponents with high burst damage.
 
 ## Crucible
+
+![](../.gitbook/assets/crucible.png)
 
 * Cost: 1850\(500\)   gold
 * Stats:
@@ -125,6 +145,8 @@
 * Tip:Protect your friends with Reflex Block!
 
 ## Fountain of Renewal
+
+![](../.gitbook/assets/fountain-of-renewal.png)
 
 * Cost: 2300\(700\)   gold
 * Stats:
@@ -140,6 +162,8 @@
 
 ## Aegis
 
+![](../.gitbook/assets/aegis.png)
+
 * Cost: 2150\(650\)   gold
 * Stats:
   * +85 Shield
@@ -153,6 +177,8 @@
 
 ## Metal Jacket
 
+![](../.gitbook/assets/metal-jacket.png)
+
 * Cost: 2000\(1200\)   gold
 * Stats:
   * +120 Armor
@@ -162,6 +188,8 @@
 * Tip: Armor reduces damage from basic attacks.
 
 ## Atlas Pauldron
+
+![](../.gitbook/assets/atlas-pauldron.png)
 
 * Cost:1900\(1100\)   gold
 * Stats:
