@@ -1,8 +1,12 @@
 # Ardan
 
-Protects allies with barriers & traps enemies inside a large cage.
+![](../../.gitbook/assets/image%20%2872%29.png)
+
+#### Protects allies with barriers & traps enemies inside a large cage.
 
 ## Heroic Perk: Julia's Gift
+
+![Julia&apos;s Gift](../../.gitbook/assets/image%20%28134%29.png)
 
 Ardan benefits from purchasing health items.
 
@@ -23,6 +27,8 @@ Ardan benefits from purchasing health items.
 
 ## Ability A: Vanguard
 
+![Vanguard](../../.gitbook/assets/image%20%2893%29.png)
+
 Arden dashes to protect an ally, granting them a 4s barrier & a burst of move speed. This also slows & damages nearby enemies.
 
 * Overdrive: At max rank, Vanguard grants 30% Vengeance when cast on an ally.
@@ -40,6 +46,8 @@ Arden dashes to protect an ally, granting them a 4s barrier & a burst of move sp
 
 ## Ability B: Blood for Blood
 
+![Blood for Blood](../../.gitbook/assets/image%20%2827%29.png)
+
 Ardan rushes forward & punches his target.
 
 * Overdrive: At max rank, Blood for Blood deals an additional 40% damage.
@@ -54,6 +62,8 @@ Ardan rushes forward & punches his target.
 | Damage | 40 | 80 | 120 | 160 | 200 | 70% |  |
 
 ## Ultimate: Gauntlet
+
+![Gauntlet](../../.gitbook/assets/image%20%28112%29.png)
 
 Ardan leaps to the target location & projects a perimeter around him. Enemy heroes who touch or cross the perimeter are stunned & take crystal damage.
 

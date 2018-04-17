@@ -1,8 +1,16 @@
 # Alpha
 
-Killing machine who can resurrect herself.
+
+
+![](../../.gitbook/assets/image%20%28136%29.png)
+
+#### Killing machine who can resurrect herself.
 
 ## Heroic Perk: Infinite Reboot
+
+
+
+![Infinite Reboot](../../.gitbook/assets/image%20%2875%29.png)
 
 Instead of dying, Alpha initiates a 4.5s reboot sequence. If her reboot health is not destroyed before time runs out, she will return to life.
 
@@ -12,7 +20,7 @@ When alive, Alpha's special energy bar shows the time until Infinite Reboot is a
 * Reboot duration: 4.5s \(-20% of Bonus Energy Recharge\)
 * Alpha revives with her Prime Directive & Core Charge ability cooldowns refreshed.
 
-### Stats Lvl 1-12
+#### Stats Lvl 1-12
 
 * Health: 761 - 2493
 * Energy: 0
@@ -24,6 +32,8 @@ When alive, Alpha's special energy bar shows the time until Infinite Reboot is a
 * Move Speed: 3.4
 
 ## Ability A: Prime Directive
+
+![Prime Directive](../../.gitbook/assets/image%20%28161%29.png)
 
 Alpha scans for enemies in front of her. If she scans an enemy hero, structure of jungle creature, Alpha dashes behind them & slashes all enemies within 4.5 meters.
 
@@ -44,6 +54,8 @@ Alpha scans for enemies in front of her. If she scans an enemy hero, structure o
 
 ## Ability B: Core Charge
 
+![Core Charge](../../.gitbook/assets/image%20%2878%29.png)
+
 Alpha lunges forward & basic attacks her target. This ability costs 2% of her current health & applies Core Overload to herself, which will increase her damage output.
 
 ### Core Overload \(Status Effect\):
@@ -63,6 +75,8 @@ Each stack increases health cost of Core Charge by 2%, but also increases the da
 | Bonus        Damage/  Stack | 12% | 12% | 12% | 12% | 18% |  |  |
 
 ## Ultimate: Termination Protocol
+
+![Termination Protocol](../../.gitbook/assets/image%20%28158%29.png)
 
 Alpha starts her self-destruct sequence, exploding after 3s & then resurrecting herself with Infinite Reboot.
 
