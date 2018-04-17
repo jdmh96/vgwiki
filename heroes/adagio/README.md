@@ -2,7 +2,9 @@
 
 #### Team healer & damage enhancer with a large area stun. A medium difficulty hero.
 
-## Heroic Perk: Arcane Renewal
+## Heroic Perk: Arcane Renewal 
+
+![Arcane Renewal](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Adagio-P-arcane-renewal.png)
 
 Whenever enemies burning with Arcane Fire take damage from any source, Adagio regenerates 25% of that damage as energy.
 
