@@ -2,13 +2,11 @@
 
 ## Adagio
 
-### Heroic Perk: Arcane Renewal
-
-### Ability A: Gift of Fire
-
-### Ability B: Agent of Wrath
-
-### Ultimate: Verse of Judgement
+| ![](../.gitbook/assets/adagio-p-arcane-renewal.png) | **Heroic Perk: Arcane Renewal** |
+| --- | --- | --- | --- |
+| ![Gift of Fire](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Adagio-A-gift-of-fire.png) | **Ability A: Gift of Fire** |
+| ![Agent of Wrath](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Adagio-B-agent-of-wrath.png) | **Ability B: Agent of Wrath** |
+| ![Verse of Judgement \[Ultimate\]](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Adagio-C-verse-of-judgement.png) | **Ultimate: Verse of Judgement** |
 
 ## Alpha
 
