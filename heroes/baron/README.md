@@ -1,15 +1,19 @@
 # Baron
 
-Rocket soldier who can nuke anywhere on the map.
+![](../../.gitbook/assets/image%20%2816%29.png)
+
+#### Rocket soldier who can nuke anywhere on the map.
 
 ## Heroic Perk: Rocket Launcher
+
+![Rocket Launcher](../../.gitbook/assets/image%20%28115%29.png)
 
 Baron's basic attacks explode, dealing 130% weapon damage to the target.
 
 * Explosions deal 100% damage to surrounding enemies.
 * Explosions deal 20% less damage to minions.
 
-### Stats Lvl 1-12
+#### Stats Lvl 1-12
 
 * Health: 679 - 2054
 * Energy: 270 - 765
@@ -21,6 +25,8 @@ Baron's basic attacks explode, dealing 130% weapon damage to the target.
 * Move Speed: 2.8
 
 ## Ability A: Porcupine Mortar
+
+![Porcupine Mortar](../../.gitbook/assets/image%20%2885%29.png)
 
 Baron launches artillery toward the target location, heavily damaging enemies on impact. This ability has 2 charges.
 
@@ -39,6 +45,8 @@ Baron launches artillery toward the target location, heavily damaging enemies on
 
 ## Ability B: Jump Jets
 
+![Jump Jets](../../.gitbook/assets/image%20%2842%29.png)
+
 After a brief delay, Baron jets to the target location then gains bonus move speed for 2.1s. His next basic attack is a double shot.
 
 * Overdrive: At max rank, Baron ignores all negative effects while leaping.
@@ -53,6 +61,8 @@ After a brief delay, Baron jets to the target location then gains bonus move spe
 | Speed        Boost | 0.8 | 1 | 1.2 | 1.4 | 1.8 |  | 0.1% |
 
 ## Ultimate: Ion Cannon
+
+![Ion Cannon](../../.gitbook/assets/image%20%28113%29.png)
 
 Baron targets a location anywhere on the map for an orbital strike, obliterating the area after a 3s delay.
 

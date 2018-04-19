@@ -1,8 +1,14 @@
 # Baptiste
 
-Mid-range mage who inflicts fear on foes.
+
+
+![](../../.gitbook/assets/image%20%28174%29.png)
+
+#### Mid-range mage who inflicts fear on foes.
 
 ## Heroic Perk: Reap
+
+![Reap](../../.gitbook/assets/image%20%28116%29.png)
 
 Baptiste steals soul fragments through combat & is healed for each soul fragment acquired.
 
@@ -12,7 +18,7 @@ Baptiste steals soul fragments through combat & is healed for each soul fragment
 * Heal per soul fragment: 20 - 86 \(level 1-12\)\(+25% of crystal power\)
 * Empowered effects: +35% basic-attack damage & +100% ability damage.
 
-### Stats Lvl 1-12
+#### Stats Lvl 1-12
 
 * Health: 739 - 2323
 * Energy: 273 - 636
@@ -24,6 +30,8 @@ Baptiste steals soul fragments through combat & is healed for each soul fragment
 * Move Speed: 3.4
 
 ## Ability A: Bad Mojo
+
+![Bad Mojo](../../.gitbook/assets/image%20%2822%29.png)
 
 Baptiste pulls a vial of liquid from his vest & throws it. The vial explodes upon reaching its target or when colliding with an enemy.
 
@@ -41,6 +49,8 @@ Baptiste pulls a vial of liquid from his vest & throws it. The vial explodes upo
 
 ## Ability B: Ordained
 
+![Ordained](../../.gitbook/assets/image%20%28187%29.png)
+
 Baptiste ordains a target enemy, damaging them & creating an ethereal prison around them. If the ordained target leaves the area, they are stunned & take additional damage.
 
 | Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
@@ -53,6 +63,8 @@ Baptiste ordains a target enemy, damaging them & creating an ethereal prison aro
 | Stun           Duration | 1.2s | 1.2s | 1.2s | 1.2s | 1.5s |  |  |
 
 ## Ultimate: Fearsome Shade
+
+![Fearsome Shade](../../.gitbook/assets/image%20%2846%29.png)
 
 Baptiste summons waves of shade that terrorize enemies caught in their path. Enemies struck by the shade run from the source in fear & take damage each second.
 

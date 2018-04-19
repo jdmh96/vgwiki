@@ -1,8 +1,12 @@
 # Blackfeather
 
-Evasive fighter who excels at chasing & cleaning up fragile enemies.
+![](../../.gitbook/assets/image%20%28156%29.png)
+
+#### Evasive fighter who excels at chasing & cleaning up fragile enemies.
 
 ## Heroic Perk: Heartthrob
+
+![Heartthrob](../../.gitbook/assets/image%20%2831%29.png)
 
 Blackfeather's attacks & abilities apply Heartthrob stacks to enemies. Any time stacks are added or refreshed, Blackfeather deals bonus crystal damage for each stack already on the target.
 
@@ -11,7 +15,7 @@ Blackfeather's attacks & abilities apply Heartthrob stacks to enemies. Any time 
 * Stacks appear as broken hearts around enemies.
 * Instead of energy, Blackfeather uses Focus for his abilities. This is capped at 100 & naturally regenerates 10 per second. Blackfeather also recovers an additional 10 focus for each basic attack he lands.
 
-### Stats Lvl 1-12
+#### Stats Lvl 1-12
 
 * Health: 657 - 2387
 * Energy: 20
@@ -23,6 +27,8 @@ Blackfeather's attacks & abilities apply Heartthrob stacks to enemies. Any time 
 * Move Speed: 3.4
 
 ## Ability A: Feint of Heart
+
+![Feint of Heart](../../.gitbook/assets/image%20%28108%29.png)
 
 Blackfeather lunges to his target with a thrust of his sword, then gains 2.2 bonus movement speed for 3s.
 
@@ -43,6 +49,8 @@ Blackfeather lunges to his target with a thrust of his sword, then gains 2.2 bon
 
 ## Ability B: On Point
 
+![On Point](../../.gitbook/assets/image%20%28144%29.png)
+
 Blackfeather pierces all enemies in a line, damaging them & applying a decaying slow for 1s.
 
 * Overdrive: At max rank, On Point gains increased range.
@@ -62,6 +70,8 @@ Blackfeather pierces all enemies in a line, damaging them & applying a decaying 
 | Barrier | 120 | 150 | 180 | 210 | 270 |  |  |
 
 ## Ultimate: Rose Offensive
+
+![Rose Offensive](../../.gitbook/assets/image%20%28182%29.png)
 
 Blackfeather dashes & slashes all enemies along his path.
 

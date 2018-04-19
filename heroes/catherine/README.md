@@ -1,12 +1,18 @@
 # Catherine
 
-Disruptive tank with lots of stuns & a powerful silence.
+![](../../.gitbook/assets/image%20%2847%29.png)
+
+#### Disruptive tank with lots of stuns & a powerful silence.
 
 ## Heroic Perk: Captain of the Guard
 
+![Captain of the Guard](../../.gitbook/assets/catherine_perk.png)
+
+
+
 Catherine gains 1 armor & shield every time she stuns or silences an enemy hero with her abilities.
 
-### Stats Lvl 1-12
+#### Stats Lvl 1-12
 
 * Health: 800 - 2673
 * Energy: 200 - 464
@@ -17,7 +23,9 @@ Catherine gains 1 armor & shield every time she stuns or silences an enemy hero 
 * Range: 1.5
 * Move Speed: 3.4
 
-## Ability A: Merciless Persuit
+## Ability A: Merciless Pursuit
+
+![Merciless Pursuit](../../.gitbook/assets/image%20%2893%29.png)
 
 Catherine gains a burst of move speed. Her next basic attack is replaced be a powerful stun attack.
 
@@ -32,6 +40,8 @@ Catherine gains a burst of move speed. Her next basic attack is replaced be a po
 | Stun           Duation | 1 | 1 | 1 | 1 | 1.2 |  |  |
 
 ## Ability B: Stormguard
+
+![Stormguard](../../.gitbook/assets/image%20%28130%29.png)
 
 Activates a protective bubble that reflects damage back to nearby enemies - especially when it comes in large bursts.
 
@@ -49,6 +59,8 @@ Activates a protective bubble that reflects damage back to nearby enemies - espe
 | Bonus        Reflect      Damage | 0% | 5% | 10% | 15% | 25% |  |  |
 
 ## Ultimate: Blast Tremor
+
+![Blast Tremor](../../.gitbook/assets/image%20%2853%29.png)
 
 Catherine slams the ground, damaging & silencing enemies in a large cone in front of her.
 

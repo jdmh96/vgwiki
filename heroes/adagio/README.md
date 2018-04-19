@@ -1,6 +1,6 @@
 # Adagio
 
-![](../../.gitbook/assets/image%20%2892%29.png)
+![](../../.gitbook/assets/image%20%28101%29.png)
 
 #### Team healer & damage enhancer with a large area stun. 
 
@@ -23,7 +23,7 @@ Whenever enemies burning with Arcane Fire take damage from any source, Adagio re
 
 ### Ability A: Gift of Fire
 
-![Gift of Fire](../../.gitbook/assets/image%20%2868%29.png)
+![Gift of Fire](../../.gitbook/assets/image%20%2875%29.png)
 
 Heals target ally, then splashes Arcane Fire onto nearby enemies. If Adagio heals himself, he'll also apply a heavy slow to nearby enemies.
 
@@ -48,7 +48,7 @@ Burns the target every second & causes Adagio's other abilities to deal more dam
 
 ### Ability B: Agent of Wrath
 
-![Agent of Wrath](../../.gitbook/assets/image%20%2869%29.png)
+![Agent of Wrath](../../.gitbook/assets/image%20%2876%29.png)
 
 Temporarily boosts an allied hero's next several basic attacks for 6s.
 
@@ -67,7 +67,7 @@ Temporarily boosts an allied hero's next several basic attacks for 6s.
 
 ### Ultimate: Verse of Judgement
 
-![Verse of Judgement](../../.gitbook/assets/image%20%28132%29.png)
+![Verse of Judgement](../../.gitbook/assets/image%20%28148%29.png)
 
 Adagio channels for 2s then deals heavy damage to all enemies in a wide ring around him. Enemies burning with Arcane Fire are also stunned.
 
