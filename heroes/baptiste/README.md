@@ -2,13 +2,13 @@
 
 
 
-![](../../.gitbook/assets/image%20%28174%29.png)
+![](../../.gitbook/assets/image%20%28178%29.png)
 
 #### Mid-range mage who inflicts fear on foes.
 
 ## Heroic Perk: Reap
 
-![Reap](../../.gitbook/assets/image%20%28116%29.png)
+![Reap](../../.gitbook/assets/image%20%28119%29.png)
 
 Baptiste steals soul fragments through combat & is healed for each soul fragment acquired.
 
@@ -49,7 +49,7 @@ Baptiste pulls a vial of liquid from his vest & throws it. The vial explodes upo
 
 ## Ability B: Ordained
 
-![Ordained](../../.gitbook/assets/image%20%28187%29.png)
+![Ordained](../../.gitbook/assets/image%20%28191%29.png)
 
 Baptiste ordains a target enemy, damaging them & creating an ethereal prison around them. If the ordained target leaves the area, they are stunned & take additional damage.
 

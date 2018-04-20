@@ -24,7 +24,7 @@ Well, time to get to work. There are three paths stretching away from the Sanctu
 
 ### 'STEAM KNIGHT' TONY
 
-![](../../../.gitbook/assets/image%20%28124%29.png)
+![](../../../.gitbook/assets/image%20%28127%29.png)
 
 #### 'PRINCESS PINKERTON'
 

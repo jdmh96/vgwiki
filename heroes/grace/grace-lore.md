@@ -112,7 +112,7 @@ Grace stood, and even without the splendor of her ceremonial dress she was an im
 
 The man knelt, prepared for punishment. Instead, he felt the woman’s palm on his bare head. Warmth flooded down his spine, and with it, a peace he had not known since he was a babe in his mother’s arms.
 
-![Faith shows the way.](../../.gitbook/assets/image%20%2880%29.png)
+![Faith shows the way.](../../.gitbook/assets/image%20%2882%29.png)
 
 “With valor and bravery you saved the life of the Archmage,” she said. “You kept watch in the night. Do you swear to live by the tenets of justice, courage, mercy, decorum, honesty, honor, loyalty and character?”
 
@@ -134,19 +134,19 @@ He wept his thanks as the acolytes guided him away. Grace’s attendants hovered
 
 
 
-![](../../.gitbook/assets/image%20%28188%29.png)
+![](../../.gitbook/assets/image%20%28192%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%28136%29.png)
+![](../../.gitbook/assets/image%20%28140%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%28160%29.png)
+![](../../.gitbook/assets/image%20%28164%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%2892%29.png)
+![](../../.gitbook/assets/image%20%2894%29.png)
 
 
 
@@ -156,7 +156,7 @@ He wept his thanks as the acolytes guided him away. Grace’s attendants hovered
 
 #### THE VALKYRIE AND THE BERSERKER
 
-![Where&apos;s your valor now?](../../.gitbook/assets/image%20%28105%29.png)
+![Where&apos;s your valor now?](../../.gitbook/assets/image%20%28108%29.png)
 
 Red mist covered the muted sun of the Netherworld, and the valkyries in their feasting glade turned their noses up to inhale the smell of nearby fire and blood.
 

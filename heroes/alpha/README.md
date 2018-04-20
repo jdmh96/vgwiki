@@ -2,7 +2,7 @@
 
 
 
-![](../../.gitbook/assets/image%20%28152%29.png)
+![](../../.gitbook/assets/image%20%28156%29.png)
 
 #### Killing machine who can resurrect herself.
 
@@ -10,7 +10,7 @@
 
 
 
-![Infinite Reboot](../../.gitbook/assets/image%20%2882%29.png)
+![Infinite Reboot](../../.gitbook/assets/image%20%2884%29.png)
 
 Instead of dying, Alpha initiates a 4.5s reboot sequence. If her reboot health is not destroyed before time runs out, she will return to life.
 
@@ -33,7 +33,7 @@ When alive, Alpha's special energy bar shows the time until Infinite Reboot is a
 
 ## Ability A: Prime Directive
 
-![Prime Directive](../../.gitbook/assets/image%20%28179%29.png)
+![Prime Directive](../../.gitbook/assets/image%20%28183%29.png)
 
 Alpha scans for enemies in front of her. If she scans an enemy hero, structure of jungle creature, Alpha dashes behind them & slashes all enemies within 4.5 meters.
 
@@ -54,7 +54,7 @@ Alpha scans for enemies in front of her. If she scans an enemy hero, structure o
 
 ## Ability B: Core Charge
 
-![Core Charge](../../.gitbook/assets/image%20%2886%29.png)
+![Core Charge](../../.gitbook/assets/image%20%2888%29.png)
 
 Alpha lunges forward & basic attacks her target. This ability costs 2% of her current health & applies Core Overload to herself, which will increase her damage output.
 
@@ -76,7 +76,7 @@ Each stack increases health cost of Core Charge by 2%, but also increases the da
 
 ## Ultimate: Termination Protocol
 
-![Termination Protocol](../../.gitbook/assets/image%20%28176%29.png)
+![Termination Protocol](../../.gitbook/assets/image%20%28180%29.png)
 
 Alpha starts her self-destruct sequence, exploding after 3s & then resurrecting herself with Infinite Reboot.
 

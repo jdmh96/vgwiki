@@ -25,7 +25,7 @@ Catherine gains 1 armor & shield every time she stuns or silences an enemy hero 
 
 ## Ability A: Merciless Pursuit
 
-![Merciless Pursuit](../../.gitbook/assets/image%20%2893%29.png)
+![Merciless Pursuit](../../.gitbook/assets/image%20%2895%29.png)
 
 Catherine gains a burst of move speed. Her next basic attack is replaced be a powerful stun attack.
 
@@ -41,7 +41,7 @@ Catherine gains a burst of move speed. Her next basic attack is replaced be a po
 
 ## Ability B: Stormguard
 
-![Stormguard](../../.gitbook/assets/image%20%28130%29.png)
+![Stormguard](../../.gitbook/assets/image%20%28134%29.png)
 
 Activates a protective bubble that reflects damage back to nearby enemies - especially when it comes in large bursts.
 

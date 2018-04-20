@@ -2,7 +2,7 @@
 
 ## ‘CHEESECAKE’
 
-![Uhhh smellll baddd.](../../.gitbook/assets/image%20%2894%29.png)
+![Uhhh smellll baddd.](../../.gitbook/assets/image%20%2896%29.png)
 
 “See what people get wrong is,” says the dwarf, “time travel isn’t about time at all. It’s about
 
@@ -160,7 +160,7 @@ Frankie combs the stomach goo out of his beard as he peers up through the elevat
 
 #### THE PROPER CARE AND FEEDING OF GRUMPJAW LAPDOGS
 
-![Hungryyy.](../../.gitbook/assets/image%20%2870%29.png)
+![Hungryyy.](../../.gitbook/assets/image%20%2872%29.png)
 
 The Grumpjaw Lapdog is a special breed with unique needs. Well cared-for Grumpjaws are so affectionate and loyal that their owners don’t even mind the loud snoring and farting. Grumpjaws get cold easily, so it is a good idea to get yours a nice hat and jacket for going outside in blustery weather.
 

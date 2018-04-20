@@ -2,7 +2,7 @@
 
 ## ‘GLAIVE THE GRANGOR’
 
-![Their fear...is making me HUNGRY!](../../.gitbook/assets/image%20%2888%29.png)
+![Their fear...is making me HUNGRY!](../../.gitbook/assets/image%20%2890%29.png)
 
 Yeah, if you need to hire muscle, I have some recommendations. Just keep your voice down. Maybe you need someone stealthy – someone who can hide in the underbrush and attack outta nowhere, never see them coming? Got an assassin girl in the rafters that’ll make ribbons of a body in seconds. No, not quite right. But getting warmer, am I? You want to make a big splash, do you? Leave a real impression. Maybe the target’s friends will think twice… leave town to save their own heads?
 
@@ -36,7 +36,7 @@ And you’d best not cheat. I can smell every move.
 
 ### ‘PREHISTORIC' GLAIVE
 
-![Cut through bone.](../../.gitbook/assets/image%20%2866%29.png)
+![Cut through bone.](../../.gitbook/assets/image%20%2868%29.png)
 
 _This skull here, this was a steel-toothed grimjaw. My grandfather’s grandfather took it down. You can put your whole hand in the hole, here, from my ancestor’s axe. Story goes, he climbed up its back to defeat it. Ha! Imagine that fight! I dream of it!_
 
@@ -48,7 +48,7 @@ _Few outsiders have seen my trophy room. You should feel lucky your skull is not
 
 ### **‘ICE AGE’ GLAIVE**
 
-![An acceptable trophy.](../../.gitbook/assets/image%20%2896%29.png)
+![An acceptable trophy.](../../.gitbook/assets/image%20%2899%29.png)
 
 The summit of the mountain had been cleared and the circled stones consecrated with sacred signs and symbols hundreds of winters past. Glaive entered the circle on the longest night, dazed from the altitude and the day’s climb. The stars spread overhead in magnificent twists that spiraled on themselves in his woozy vision.
 
