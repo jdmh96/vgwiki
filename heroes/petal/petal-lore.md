@@ -2,7 +2,7 @@
 
 ## 'PETAL'S POWER'
 
-![](../../.gitbook/assets/1000x500_petals_power-768x384.jpg)
+![I never fear; I grow my own courage!](../../.gitbook/assets/1000x500_petals_power-768x384.jpg)
 
 “And then I went like, _Pow! Pow! Pow!_ with sunbeams, and the baddies were running around in circles – all blind – and they bonked their heads together, and fell down kicking their stubby little legs and whining like babies!”
 
@@ -44,7 +44,7 @@ Petal whistles, and her lotus flower bounds back to her. “Come on, munnies,”
 
 ## 'THE MUNION'S TALE'
 
-![](../../.gitbook/assets/1000x500_munions_story-768x384.jpg)
+![Lets give chase.](../../.gitbook/assets/1000x500_munions_story-768x384.jpg)
 
 Out! Out! Petal takes us to the outside places today! You don’t get to come. You’re just a dumb giant ent. You have to stay here and guard the hatchery… but we three get to go out when Petal scouts! Ha!
 
@@ -70,7 +70,7 @@ You stay here, big dumb ent. You protect the village, and we will go chomp!
 
 #### 'WATCH OUT'
 
-![](../../.gitbook/assets/download-3.jpeg)
+![Someones gonna get some pollen in their eye](../../.gitbook/assets/download-3.jpeg)
 
 _Underestimate me, huh? Well, I hope you’re not allergic! I’m tired of these raiders wrecking the jungle with their bullets and magic and soundwaves! Nature has lots of tricks up her sleeve. You think onions made you cry? Try stingers! That’s right; I’m the queen around here. With my swarm and upgraded ride, we’re bringing some raw-pollen justice to anyone who gets in our way. You ever hear of killer bees? Better watch out which bushes you hide in, that’s all I’m saying._
 
@@ -78,13 +78,13 @@ _Underestimate me, huh? Well, I hope you’re not allergic! I’m tired of these
 
 #### 'BUGS FROM SPACE!'
 
-![](../../.gitbook/assets/1000_petal_t3_splash-768x432.jpg)
+![That gonna leave a mark.](../../.gitbook/assets/1000_petal_t3_splash-768x432.jpg)
 
 ### 'PUMPKIN SPICE' PETAL
 
 #### 'THE GREAT ECLIPSE'
 
-![](../../.gitbook/assets/1000petal_seasonal_splash1.jpg)
+![Ahh, I wish I didn&#x2019;t have to do this.](../../.gitbook/assets/1000petal_seasonal_splash1.jpg)
 
 Celeste wandered upon Petal on the Halcyon Fold one night, pulling eyes out of newts and dropping them into a cauldron.
 
@@ -134,7 +134,7 @@ The melon exploded outward. When the green smoke cleared, the watermelon had spo
 
 #### 'THE QUEEN'S TEA PARTY'
 
-![](../../.gitbook/assets/1000px_tea_party_petal-768x441.jpg)
+![I&apos;ll light up your life.](../../.gitbook/assets/1000px_tea_party_petal-768x441.jpg)
 
 Not to be outdone, the Queen of Hearts went about planning her own lavish tea party. But when she discovered what tea _was_ \(leaves ripped from unsuspecting plants, then dried in the sun and boiled!\), she was aghast. Tea, she proclaimed, would be made from there on with bugs. And so insects were collected in droves from under rocks and inside dark cabinets, then flavored with salts and honey and bagged up. In the palace courtyard, a long table was set with a white cloth and clean dishes and piled with cake and biscuits and steaming teapots. The queen herself proceeded, with great fanfare, down her freshly mowed croquet court to the long white table, only to discover that no guests had arrived…
 

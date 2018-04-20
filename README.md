@@ -38,119 +38,119 @@ description: Welcome To The Official Vainglory Wiki
 * [ ] Heroes
   * [x] Adagio
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] alpha
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] Ardan
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] baptiste
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] baron
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] blackfeather
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] catherine
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] celeste
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] churnwalker
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] flicker
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] fortress
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] glaive
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] grace
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] grupmjaw
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] Gwen
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] idris
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] joule
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] kestrel
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] koshka
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] krul
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [ ] lance
-    * [x] abilities
-    * [ ] lore
+    * [ ] abilities
+    * [x] lore
   * [x] loreli
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [ ] lyra
     * [x] abilities
-    * [ ] lore
+    * [x] lore
   * [x] Malene
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] ozo
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] petal
     * [ ] abilities
     * [ ] lore
   * [x] phinn
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [ ] reim
     * [x] abilities
-    * [ ] lore
+    * [x] lore
   * [ ] reza
     * [x] abilities
-    * [ ] lore
+    * [x] lore
   * [x] ringo
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] rona
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [ ] samuel
     * [x] abilities
-    * [ ] lore
+    * [x] lore
   * [x] SAW
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] Skaarf
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] skye
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] taka
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] tony
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] varya
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
   * [x] vox
     * [ ] abilities
-    * [ ] lore
+    * [x] lore
 
