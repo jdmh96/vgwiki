@@ -1,12 +1,16 @@
 # Fortress
 
-Aggressive pack leader who swarms the enemy with great speed.
+![](../../.gitbook/assets/image%20%28183%29.png)
+
+#### Aggressive pack leader who swarms the enemy with great speed.
 
 ## Heroic Perk: Packmates
 
+![Packmates](../../.gitbook/assets/image%20%2829%29.png)
+
 When Fortress is near an allied hero, he will move faster after 1s. He will maintain this move-speed bonus so long as he's alongside any allied hero.
 
-### Stats Lvl 1-12
+#### Stats Lvl 1-12
 
 * Health: 761 - 2581
 * Energy: 300 - 465
@@ -18,6 +22,8 @@ When Fortress is near an allied hero, he will move faster after 1s. He will main
 * Move Speed: 3.4
 
 ## Ability A: Truth of the Tooth
+
+![Truth of the Tooth](../../.gitbook/assets/image%20%2811%29.png)
 
 Fortress marks the target enemy as prey & his next basic attack becomes a short-range lunge.
 
@@ -34,6 +40,8 @@ Fortress marks the target enemy as prey & his next basic attack becomes a short-
 
 ## Ability B: Law of the Claw
 
+![Law of the Claw](../../.gitbook/assets/image%20%2842%29.png)
+
 Fortress claws his target, causing it to bleed for several seconds.
 
 * Attacks from Fortress & his allies increase bleeding by one stack.
@@ -49,6 +57,8 @@ Fortress claws his target, causing it to bleed for several seconds.
 | % Max          Health | 8% | 10% | 12% | 14% | 18% | 5% |  |
 
 ## Ultimate: Attack of the Pack
+
+![Attack of the Pack](../../.gitbook/assets/image%20%2852%29.png)
 
 Fortress summons a pack of wolves. Each pack wolf seeks out a different enemy hero.
 

@@ -1,14 +1,18 @@
 # Glaive
 
-Brutal axe warrior who can knock enemies out of position.
+![](../../.gitbook/assets/image%20%28117%29.png)
+
+#### Brutal axe warrior who can knock enemies out of position.
 
 ## Heroic Perk: Hunt The Weak
+
+![Hunt the Weak](../../.gitbook/assets/image%20%2833%29.png)
 
 Glaive's critical strikes cleave in a 4-meter cone in front of him.
 
 * Cleave deals half damage to minions.
 
-### Stats Lvl 1-12
+#### Stats Lvl 1-12
 
 * Health: 834 - 2503
 * Energy: 275 - 440
@@ -21,6 +25,8 @@ Glaive's critical strikes cleave in a 4-meter cone in front of him.
 
 ## Ability A: Afterburn
 
+![Afterburn](../../.gitbook/assets/image%20%28223%29.png)
+
 Glaive rockets in the target direction, damaging all enemies along the way. His next basic attack is replaced by a frightening blast that knocks his target back 5.5 meters & briefly stuns them.
 
 | Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
@@ -30,6 +36,8 @@ Glaive rockets in the target direction, damaging all enemies along the way. His 
 | Damage | 100 | 150 | 200 | 250 | 300 | 130% |  |
 
 ## Ability B: Twisted Stroke
+
+![Twisted Stroke](../../.gitbook/assets/image%20%2824%29.png)
 
 Instantly executes a critical strike.
 
@@ -46,6 +54,8 @@ Instantly executes a critical strike.
 | Crit Chance | 10% | 15% | 20% | 25% | 30 |  |  |
 
 ## Ultimate: Bloodsong
+
+![Bloodsong](../../.gitbook/assets/image%20%2853%29.png)
 
 Swings Glaive's axe in a 5.4 meter circle, dealing massive area damage that increases with the number of Bloodsong stacks used. This removes all stacks.
 
