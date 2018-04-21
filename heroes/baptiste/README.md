@@ -2,7 +2,7 @@
 
 
 
-![](../../.gitbook/assets/image%20%28178%29.png)
+![](../../.gitbook/assets/image%20%28179%29.png)
 
 #### Mid-range mage who inflicts fear on foes.
 
@@ -49,7 +49,7 @@ Baptiste pulls a vial of liquid from his vest & throws it. The vial explodes upo
 
 ## Ability B: Ordained
 
-![Ordained](../../.gitbook/assets/image%20%28191%29.png)
+![Ordained](../../.gitbook/assets/image%20%28192%29.png)
 
 Baptiste ordains a target enemy, damaging them & creating an ethereal prison around them. If the ordained target leaves the area, they are stunned & take additional damage.
 

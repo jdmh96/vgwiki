@@ -6,7 +6,7 @@
 
 ## Heroic Perk: Julia's Gift
 
-![Julia&apos;s Gift](../../.gitbook/assets/image%20%28154%29.png)
+![Julia&apos;s Gift](../../.gitbook/assets/image%20%28155%29.png)
 
 Ardan benefits from purchasing health items.
 
@@ -63,7 +63,7 @@ Ardan rushes forward & punches his target.
 
 ## Ultimate: Gauntlet
 
-![Gauntlet](../../.gitbook/assets/image%20%28128%29.png)
+![Gauntlet](../../.gitbook/assets/image%20%28129%29.png)
 
 Ardan leaps to the target location & projects a perimeter around him. Enemy heroes who touch or cross the perimeter are stunned & take crystal damage.
 

@@ -430,7 +430,7 @@ Then, there was a solitary shout from behind the gate. The voice of an adolescen
 
 #### 'THE MIRRORED COURT'
 
-![I really AM the center of the Universe.](../../.gitbook/assets/image%20%28162%29.png)
+![I really AM the center of the Universe.](../../.gitbook/assets/image%20%28163%29.png)
 
 The royal party traveled up the winding streets of Mont Lille, torches lighting their way. The going was slow; the crowds pressed into their new monarch, reaching to touch her hair and gown, chanting No more fear! and Liberté, égalité! At the summit of Mont Lille, past grottos and fountains and manicured topiary, they climbed a marble staircase to find the gem-encrusted gate of the Storm Queen’s palace wide open. There, Celeste bade her people to return home and remain vigilant, and the gate closed behind her.
 
@@ -542,7 +542,7 @@ _Give us your eyes._
 
 The ravens descended, screaming.
 
-![This is your World, but this is my Galaxy.](../../.gitbook/assets/image%20%28169%29.png)
+![This is your World, but this is my Galaxy.](../../.gitbook/assets/image%20%28170%29.png)
 
 ### ‘BAEWITCHED’ CELESTE‘ 
 

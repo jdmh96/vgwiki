@@ -134,15 +134,15 @@ He wept his thanks as the acolytes guided him away. Grace’s attendants hovered
 
 
 
-![](../../.gitbook/assets/image%20%28192%29.png)
+![](../../.gitbook/assets/image%20%28193%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%28140%29.png)
+![](../../.gitbook/assets/image%20%28141%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%28164%29.png)
+![](../../.gitbook/assets/image%20%28165%29.png)
 
 
 

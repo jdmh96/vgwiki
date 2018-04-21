@@ -1,6 +1,6 @@
 # Adagio
 
-![](https://vignette.wikia.nocookie.net/vainglory/images/4/48/Adagio.jpg/revision/latest?cb=20150410234848)
+![](../../.gitbook/assets/image%20%28127%29.png)
 
 #### Team healer & damage enhancer with a large area stun. A medium difficulty hero.
 

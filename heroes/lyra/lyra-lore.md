@@ -2,7 +2,7 @@
 
 ## 'THE FIRST MISTAKE'
 
-![You&#x2019;ll be safer with me.](../../.gitbook/assets/image%20%28187%29.png)
+![You&#x2019;ll be safer with me.](../../.gitbook/assets/image%20%28188%29.png)
 
 Remarkable, Lyra thought, how quickly the settlers had mixed Gythian with the rough syllables of the Grangor tongue to create the language of Trostanian. Lyra never deigned to speak it, but understanding Trostanian was essential in the multicultural port town, no matter what garish throaty things it did to the lyrical Gythian syllables. Only five years ago, her barriers had melted the Halcyon glacier and already the settlement had become a growing, respectable town. Dockside inns filled to bursting with taxpaying travelers seeking their crystal fortune, adding their native nomenclature to the evolving language. On the docks, sailors called to one another in fluent Trostanian as they passed crates down the ramps from the ships’ tenders to the docks.
 
@@ -328,7 +328,7 @@ Lyra
 
 #### 'THE CLASS PRESIDENT'
 
-![Boring? I&#x2019;m NOT boring&#x2026;.. Am I boring?](../../.gitbook/assets/image%20%28171%29.png)
+![Boring? I&#x2019;m NOT boring&#x2026;.. Am I boring?](../../.gitbook/assets/image%20%28172%29.png)
 
 So you want the best lunch table. You want teachers to step out of your way in the hall. You want everyone in school to know your name. You want to be class president. Hah! Everyone _thinks_ they can be in charge until they’re herding a bunch of unruly sheep-eyed adolescents with raging hormones, questionable morals and underdeveloped prefrontal cortexes. But I’ll give you a few pointers if you think you can make the cut.
 
