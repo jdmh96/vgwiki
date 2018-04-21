@@ -1,14 +1,18 @@
 # Flicker
 
-Trickster who can make the entire team invisible.
+![](../../.gitbook/assets/image%20%28160%29.png)
+
+#### Trickster who can make the entire team invisible.
 
 ## Heroic Perk: Willow Whisper
+
+![Willow Whisper](../../.gitbook/assets/image%20%2850%29.png)
 
 Flicker gains stealth & a move-speed bonus when in brush for 2s. Flicker can then leave the brush & remain stealthed for 3s.
 
 * Taking damage, attacking or using abilities removes stealth.
 
-### Stats Lvl 1-12
+#### Stats Lvl 1-12
 
 * Health: 797 - 2648
 * Energy: 295 - 757
@@ -20,6 +24,8 @@ Flicker gains stealth & a move-speed bonus when in brush for 2s. Flicker can the
 * Move Speed: 3.5
 
 ## Ability A: Binding Light
+
+![Binding Light](../../.gitbook/assets/image%20%2831%29.png)
 
 Flicker commands his fairies to swarm the target location for 2s, dealing damage to enemies within it. When the effect expires, fairy light roots any enemy heroes still within the area.
 
@@ -33,6 +39,8 @@ Flicker commands his fairies to swarm the target location for 2s, dealing damage
 
 ## Ability B: Fairy Dust
 
+![Fairy Dust](../../.gitbook/assets/image%20%2875%29.png)
+
 Flicker swirls fairy dust around him for 3s, slowing & dealing damage to anyone inside the dusted area. After 3s, the dust ignites, dealing a burst of damage.
 
 | Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
@@ -45,6 +53,8 @@ Flicker swirls fairy dust around him for 3s, slowing & dealing damage to anyone 
 | Detonate   Damage | 60 | 120 | 180 | 240 | 360 | 100% |  |
 
 ## Ultimate: Mooncloak
+
+![Mooncloak](../../.gitbook/assets/image%20%281%29.png)
 
 After 1s, Flicker & his allies temporarily gain stealth & a move-speed bonus.
 

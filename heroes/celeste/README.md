@@ -1,15 +1,19 @@
 # Celeste
 
-Back-line mage with heavy area damage & a stun.
+![](../../.gitbook/assets/image%20%28163%29.png)
+
+#### Back-line mage with heavy area damage & a stun.
 
 ## Heroic Perk: Julia's Light
+
+![Julia&apos;s Light](../../.gitbook/assets/image%20%28126%29.png)
 
 Celeste's basic attacks are flares of solar light thatdeal crystal damage & reveal their target.
 
 * Crystal Damage: 65 - 115 \(level 1-12\) \(+75% crystal power\)
 * Reveals enemies for 1.5s - even after the target leaves vision range.
 
-### Stats Lvl 1-12
+#### Stats Lvl 1-12
 
 * Health: 649 - 2028
 * Energy: 380 - 732
@@ -21,6 +25,8 @@ Celeste's basic attacks are flares of solar light thatdeal crystal damage & reve
 * Move Speed: 3.3
 
 ## Ability A: Heliogenesis
+
+![Heliogenesis](../../.gitbook/assets/image%20%28124%29.png)
 
 Celeste forms a small star at the target location, dealing crystal damage to nearby enemies. The star will briefly linger on the field.
 
@@ -37,6 +43,8 @@ Celeste forms a small star at the target location, dealing crystal damage to nea
 
 ## Ability B: Core Collapse
 
+![Core Collapse](../../.gitbook/assets/image%20%28149%29.png)
+
 After a brief delay, the target location collapses & nearby enemies are stunned & take crystal damage.
 
 | Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
@@ -47,6 +55,8 @@ After a brief delay, the target location collapses & nearby enemies are stunned 
 | Stun           Duration | 1s | 1s | 1s | 1s | 1.5s |  |  |
 
 ## Ultimate: Solar Storm
+
+![Solar Storm](../../.gitbook/assets/image%20%2891%29.png)
 
 Celeste launches a storm of stars that travels across the world. Stars collide with the first enemy they hit, dealing crystal damage in an area.
 

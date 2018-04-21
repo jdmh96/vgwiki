@@ -165,7 +165,7 @@
 
 ## Spellfire
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 * Cost: 2700\(1000\)   gold
 * Stats:
@@ -191,7 +191,7 @@
 
 ## Dragon's Eye
 
-![](../.gitbook/assets/image%20%2858%29.png)
+![](../.gitbook/assets/image%20%2863%29.png)
 
 * Cost: 3000\(1300\)   gold
 * Stats:
