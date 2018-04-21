@@ -28,6 +28,8 @@
     * [Celeste Lore](heroes/celeste/celeste-lore.md)
   * [Churnwalker](heroes/churnwalker/README.md)
     * [Churnwalker Lore](heroes/churnwalker/churnwalker-lore.md)
+  * [Corpus](heroes/corpus/README.md)
+    * [Corpus Lore](heroes/corpus/corpus-lore.md)
   * [Flicker](heroes/flicker/README.md)
     * [Flicker Lore](heroes/flicker/flicker-lore.md)
   * [Fortress](heroes/fortress/README.md)

@@ -62,7 +62,7 @@ Chaos erupted in the crowd as a squire approached with a golden shield bearing t
 
 ## ‘THE KEY’
 
-![](../../.gitbook/assets/image%20%28216%29.png)
+![](../../.gitbook/assets/image%20%28223%29.png)
 
 The Stormlords held high office and presided over proceedings at court; they made laws and bickered with one another over the Storm Queen’s small favors, and they were discarded at the first sign of dissent or disloyalty. Only one Stormlord differed from the others. Rather than wear the lavish robes and jewels indicative of the Stormlords, Ardan wore power armor. He refused the offered apartment in the queen’s palace and instead kept a constant vigil outside of the queen’s chamber. For his devotion he was given some magic to keep him always awake, and the queen strung the key to her door around his neck with a silver chain. After that, he was called The Key, and the court forgot that he had been called anything else.
 
@@ -118,7 +118,7 @@ _While the queen slept, her first knight transcribed a coded message from Gythia
 
 ## 'NO MORE FEAR!
 
-![](../../.gitbook/assets/image%20%28109%29.png)
+![](../../.gitbook/assets/image%20%28113%29.png)
 
 _A holographic image burst out of the top of a small gift box that sat before the rebel future queen and her Gythian advisor. There was no sound, only the image of a battle. There sat the Storm Queen atop her horse; beyond was the queen’s army and her Stormguard flooding a green farmland with the blood of the locals, whose cavalry fell under the magical onslaught. The last image was that of Catherine, her war mask disguising her features._
 
@@ -176,7 +176,7 @@ Then, there was a solitary shout from behind the gate. The voice of an adolescen
 
 ## 'THE MIRRORED COURT'
 
-![](../../.gitbook/assets/image%20%28177%29.png)
+![](../../.gitbook/assets/image%20%28182%29.png)
 
 The royal party traveled up the winding streets of Mont Lille, torches lighting their way. The going was slow; the crowds pressed into their new monarch, reaching to touch her hair and gown, chanting No more fear! and Liberté, égalité! At the summit of Mont Lille, past grottos and fountains and manicured topiary, they climbed a marble staircase to find the gem-encrusted gate of the Storm Queen’s palace wide open. There, Celeste bade her people to return home and remain vigilant, and the gate closed behind her.
 
@@ -378,7 +378,7 @@ Ardan swallowed hard and patted Vox on the back. “I guess… ah, we can wake y
 
 ## 'THE RISE OF THE STAR QUEEN'
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 Outside the palace and all along the continent, the independent kingdoms that had once all been the purview of the Storm Queen raged at war. Nobles took up arms against one another; commonfolk rose up against the nobles whose battles burned their farms. The Captain of the Navy laid in convalescence and the Star Queen remained palace-bound for her safety.
 

@@ -1,12 +1,12 @@
 # Churnwalker
 
-![](../../.gitbook/assets/image%20%28108%29.png)
+![](../../.gitbook/assets/image%20%28112%29.png)
 
 #### A disruptor who throws multiple skillshot hooks, chaining victims to him.
 
 ## Heroic Per: Futility of Life
 
-![Futility of Life](../../.gitbook/assets/image%20%2879%29.png)
+![Futility of Life](../../.gitbook/assets/image%20%2882%29.png)
 
 * Whenever chained victims take damage from any source, Churnwalker regenerates 18% of that damage as health.
 * Whenever any chained victim takes damage, 30% of that damage is conferred on all other chained victims.
@@ -24,7 +24,7 @@
 
 ## Ability A: Hook & Chain
 
-![Hook &amp; Chain](../../.gitbook/assets/image%20%28181%29.png)
+![Hook &amp; Chain](../../.gitbook/assets/image%20%28186%29.png)
 
 Churnwalker throws a skillshot hook that damages on impact, briefly slows & chains victims to him.
 
@@ -56,7 +56,7 @@ Torment yanks all chained victims toward Churnwalker a fixed distance, damaging 
 
 ## Ultimate: Trespass
 
-![Trespass](../../.gitbook/assets/image%20%2855%29.png)
+![Trespass](../../.gitbook/assets/image%20%2857%29.png)
 
 Churnwalker channels churn power for a short time, then travels to the target location, stunning all chained victims & breaking all chains.
 
