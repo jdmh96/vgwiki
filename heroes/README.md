@@ -2,6 +2,8 @@
 
 ## Adagio
 
+![](https://vignette.wikia.nocookie.net/vainglory/images/4/48/Adagio.jpg/revision/latest?cb=20150410234848)
+
 | ![](../.gitbook/assets/adagio-p-arcane-renewal.png) | **Heroic Perk: Arcane Renewal** |
 | --- | --- | --- | --- |
 | ![Gift of Fire](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Adagio-A-gift-of-fire.png) | **Ability A: Gift of Fire** |
@@ -9,6 +11,12 @@
 | ![Verse of Judgement \[Ultimate\]](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Adagio-C-verse-of-judgement.png) | **Ultimate: Verse of Judgement** |
 
 ## Alpha
+
+| ![INFINITE REBOOT](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/04/Alpha-Icon_Perk.jpg) |  |
+| --- | --- | --- | --- |
+| ![PRIME DIRECTIVE](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/04/Alpha-Icon_A.jpg) |  |
+| ![CORE CHARGE](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/04/Alpha-Icon_B.jpg) |  |
+|  |  |
 
 ### Heroic Perk: Infinite Reboot
 

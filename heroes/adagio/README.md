@@ -1,8 +1,8 @@
 # Adagio
 
-![](../../.gitbook/assets/image%20%28104%29.png)
+![](https://vignette.wikia.nocookie.net/vainglory/images/4/48/Adagio.jpg/revision/latest?cb=20150410234848)
 
-#### Team healer & damage enhancer with a large area stun. 
+#### Team healer & damage enhancer with a large area stun. A medium difficulty hero.
 
 ## Heroic Perk: Arcane Renewal 
 
@@ -23,7 +23,9 @@ Whenever enemies burning with Arcane Fire take damage from any source, Adagio re
 
 ### Ability A: Gift of Fire
 
-![Gift of Fire](../../.gitbook/assets/image%20%2877%29.png)
+![Gift of Fire](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Adagio-A-gift-of-fire.png)
+
+
 
 Heals target ally, then splashes Arcane Fire onto nearby enemies. If Adagio heals himself, he'll also apply a heavy slow to nearby enemies.
 
@@ -48,7 +50,7 @@ Burns the target every second & causes Adagio's other abilities to deal more dam
 
 ### Ability B: Agent of Wrath
 
-![Agent of Wrath](../../.gitbook/assets/image%20%2878%29.png)
+![Agent of Wrath](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Adagio-B-agent-of-wrath.png)
 
 Temporarily boosts an allied hero's next several basic attacks for 6s.
 
@@ -67,7 +69,7 @@ Temporarily boosts an allied hero's next several basic attacks for 6s.
 
 ### Ultimate: Verse of Judgement
 
-![Verse of Judgement](../../.gitbook/assets/image%20%28152%29.png)
+![Verse of Judgement \[Ultimate\]](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Adagio-C-verse-of-judgement.png)
 
 Adagio channels for 2s then deals heavy damage to all enemies in a wide ring around him. Enemies burning with Arcane Fire are also stunned.
 
