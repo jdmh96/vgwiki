@@ -1,16 +1,24 @@
 # Idris
 
-Nimble assassin who unlocks melee or ranged fighting styles.
+![](../../.gitbook/assets/image%20%28287%29.png)
+
+#### Nimble assassin who unlocks melee or ranged fighting styles.
 
 ## Heroic Perk: Divergent Paths
+
+![Divergent Paths](../../.gitbook/assets/image%20%28232%29.png)
 
 Idris unlocks unique combat styles upon attaining 100 weapon or crystal power:
 
 ### Melee \(Weapon\)
 
+![Melee Path](../../.gitbook/assets/image%20%28286%29.png)
+
 Idris's Shroudstep becomes an instantaneous blink. His basic attack also restore 10 stamina & reduce the cooldowns of his Shroudstep & Shimmer Strike abilities by 1s.
 
 ### Ranged \(Crystal\)
+
+![Ranged Path](../../.gitbook/assets/image%20%28252%29.png)
 
 Idris gains a 3.6 meter ranged attack with 100% crystal ratio but only 50% weapon ratio.
 
@@ -19,7 +27,7 @@ Instead of energy, Idris uses stamina to activate his abilities. Purchasing item
 * Max Stamina: 100 + 10% Max Energy
 * Stamina Regen: 7.5 + 50% Energy Regen
 
-### Stats Lvl 1-12
+#### Stats Lvl 1-12
 
 * Health: 697 - 2257
 * Energy: 0
@@ -31,6 +39,8 @@ Instead of energy, Idris uses stamina to activate his abilities. Purchasing item
 * Move Speed: 3.2
 
 ## Ability A: Shroudstep
+
+![Shroudstep](../../.gitbook/assets/image%20%28145%29.png)
 
 Idris dashes in the target direction, dealing amplified damage to the next target he attacks within 4s.
 
@@ -47,6 +57,8 @@ Idris dashes in the target direction, dealing amplified damage to the next targe
 
 ## Ability B: Chakram
 
+![Chakram](../../.gitbook/assets/image%20%28256%29.png)
+
 Idris throws a chakram that returns to him, damaging enemies each time it passes over them.
 
 * Hitting enemy heroes, miners or Kraken recovers 15 stamina.
@@ -61,6 +73,8 @@ Idris throws a chakram that returns to him, damaging enemies each time it passes
 | Damage | 60 | 110 | 160 | 210 | 260 | 110% | 90% |
 
 ## Ultimate: Shimmer Strike
+
+![Shimmer Strike](../../.gitbook/assets/image%20%28236%29.png)
 
 Idris disappears into the target hero becoming invulnerable, untargetable & cleanses movement-impairing effects from himself. While attached, tap to make Idris leap out in desired direction, striking all surrounding enemies with weapon damage as he jumps off.
 

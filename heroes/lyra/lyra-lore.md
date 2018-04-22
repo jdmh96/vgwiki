@@ -2,7 +2,7 @@
 
 ## 'THE FIRST MISTAKE'
 
-![You&#x2019;ll be safer with me.](../../.gitbook/assets/image%20%28218%29.png)
+![You&#x2019;ll be safer with me.](../../.gitbook/assets/image%20%28268%29.png)
 
 Remarkable, Lyra thought, how quickly the settlers had mixed Gythian with the rough syllables of the Grangor tongue to create the language of Trostanian. Lyra never deigned to speak it, but understanding Trostanian was essential in the multicultural port town, no matter what garish throaty things it did to the lyrical Gythian syllables. Only five years ago, her barriers had melted the Halcyon glacier and already the settlement had become a growing, respectable town. Dockside inns filled to bursting with taxpaying travelers seeking their crystal fortune, adding their native nomenclature to the evolving language. On the docks, sailors called to one another in fluent Trostanian as they passed crates down the ramps from the ships’ tenders to the docks.
 
@@ -62,7 +62,7 @@ She soaked his neck with silent tears, her fingers clawing into his shoulders.
 
 ## 'THE NIGHTMARE'
 
-![Oh no honey, not that way.](../../.gitbook/assets/image%20%28149%29.png)
+![Oh no honey, not that way.](../../.gitbook/assets/image%20%28180%29.png)
 
  Samuel returned to his room at sunset to find Lyra there, staring at the collection of ceremonial Grangor headdresses he’d mounted on one curved wall. He dropped his dripping snow gear on the floor and fell back on his unmade bed, flopping one arm over his eyes. “So there will be a lecture tonight,” he muttered. “Safety or obligation?”
 
@@ -310,7 +310,7 @@ Reim stood at the portal’s source, palm out as Lyra’s face turned blue. Icic
 
 #### 'DEAR DIARY,'
 
-![Can we train these minions to carry us?](../../.gitbook/assets/image%20%2815%29.png)
+![Can we train these minions to carry us?](../../.gitbook/assets/image%20%2819%29.png)
 
 Everything is AMAZING because it’s my tenth birthday! I’m sad that my horn hasn’t grown out yet. Most of my family have antlers so they say I will also grow antlers but I think when I grow up I’ll have one of the super-rare unicorn horns because I am the very best in my family at magic.
 
@@ -328,7 +328,7 @@ Lyra
 
 #### 'THE CLASS PRESIDENT'
 
-![Boring? I&#x2019;m NOT boring&#x2026;.. Am I boring?](../../.gitbook/assets/image%20%28201%29.png)
+![Boring? I&#x2019;m NOT boring&#x2026;.. Am I boring?](../../.gitbook/assets/image%20%28245%29.png)
 
 So you want the best lunch table. You want teachers to step out of your way in the hall. You want everyone in school to know your name. You want to be class president. Hah! Everyone _thinks_ they can be in charge until they’re herding a bunch of unruly sheep-eyed adolescents with raging hormones, questionable morals and underdeveloped prefrontal cortexes. But I’ll give you a few pointers if you think you can make the cut.
 
@@ -344,7 +344,7 @@ Fourth, but most important: For high school, you’re going to need a squad.
 
 #### 'THE REUNION OF SUN AND MOON'
 
-![Do you ever feel like you&#x2019;re being watched?](../../.gitbook/assets/image%20%2862%29.png)
+![Do you ever feel like you&#x2019;re being watched?](../../.gitbook/assets/image%20%2879%29.png)
 
 One autumn, while Celeste was on the moon for her annual mooncake tasting, she noticed in the distance the silhouette of a grand palace.
 

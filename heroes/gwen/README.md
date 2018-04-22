@@ -1,15 +1,19 @@
 # Gwen
 
-Gunslinger with powerful burst damage & ability to shake off disables.
+![](../../.gitbook/assets/image%20%28126%29.png)
+
+#### Gunslinger with powerful burst damage & ability to shake off disables.
 
 ## Heroic Perk: Boomstick
+
+![Boomstick](../../.gitbook/assets/image%20%28263%29.png)
 
 After not attacking for 1.6s, Gwen's next basic attack is a Boomstick shot that deals bonus damage.
 
 * Bonus damage: 30-120 \(+35% of bonus weapon power\)
 * Additional attack speed increases the frequency of Boomstick shots.
 
-### Stats Lvl 1-12
+#### Stats Lvl 1-12
 
 * Health: 661 - 2072
 * Energy: 175 - 395
@@ -21,6 +25,8 @@ After not attacking for 1.6s, Gwen's next basic attack is a Boomstick shot that 
 * Move Speed: 3
 
 ## Abililty A: Buckshot Bonanza
+
+![Buckshot Bonanza](../../.gitbook/assets/image%20%28266%29.png)
 
 Gwen blasts enemies in the target direction, dealing weapon damage to all targets in a cone. Enemies hit by this ability are slowed & revealed for 2s.
 
@@ -35,6 +41,8 @@ Gwen blasts enemies in the target direction, dealing weapon damage to all target
 
 ## Ability B: Skedaddle
 
+![Skedaddle](../../.gitbook/assets/image%20%28208%29.png)
+
 Gwen gains a burst of move speed while instantly removing from herself any negative movement-impairing effects.
 
 * Blocks further effects for 0.5s.
@@ -48,6 +56,8 @@ Gwen gains a burst of move speed while instantly removing from herself any negat
 | Bonus        Speed       Duration | 1.5s | 1.5s | 1.5s | 1.5s | 1.5s |  |  |
 
 ## Ultimate: Aces High
+
+![Aces High](../../.gitbook/assets/image%20%28116%29.png)
 
 Gwen flings a card in the target direction, stunning & dealing weapon damage the first hero it hits.
 

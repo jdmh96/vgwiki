@@ -1,8 +1,12 @@
 # Grace
 
-A powerful paladin with a massive heal.
+![](../../.gitbook/assets/image%20%28289%29.png)
+
+#### A powerful paladin with a massive heal.
 
 ## Heroic Perk: Retribution
+
+![Retribution](../../.gitbook/assets/image%20%28146%29.png)
 
 Grace chains her normal basic attack into a ground slam, dealing bonus weapon damage & slowing enemies in a wide area. If any enemies are hit by the ground slam, her ability cooldowns are reduced by 1.5s.
 
@@ -13,7 +17,7 @@ All effects in Grace's heroic perk & abilities are capped at 200 Crystal power e
 * Slow duration: 0.6 \(+0.3 crystal power\)
 * Deals 50% less damage to minions.
 
-### Stats Lvl 1-12
+#### Stats Lvl 1-12
 
 * Health: 740 - 2483
 * Energy: 268 - 653
@@ -25,6 +29,8 @@ All effects in Grace's heroic perk & abilities are capped at 200 Crystal power e
 * Move Speed: 3.5
 
 ## Ability A: Benediction
+
+![Benediction](../../.gitbook/assets/image%20%28241%29.png)
 
 Grace dashes to her target, striking them with an empowered Retribution attack. Nearby allies instantly gain a directional holy shield that continually faces the target, while Grace gains a full holy shield that protects her from all sides.
 
@@ -46,6 +52,8 @@ Reduce incoming damage by 40% \(+5% crystal power\).
 
 ## Ability B: Holy Nova
 
+![Holy Nova](../../.gitbook/assets/image%20%288%29.png)
+
 After a short delay, Grace knocks enemies into the air, disabling them for 1s.
 
 * Overdrive: Grace gains immunity to negative effects when casting this ability.
@@ -59,6 +67,8 @@ After a short delay, Grace knocks enemies into the air, disabling them for 1s.
 | Damage | 125 | 200 | 275 | 350 | 425 | 200% |  |
 
 ## Ultimate: Divine Intervention
+
+![Divine Intervention](../../.gitbook/assets/image%20%2897%29.png)
 
 Grace instantly surrounds herself & her target with a full holy shield & begins channeling for 1.8s after which Grace's target receives a massive heal.
 

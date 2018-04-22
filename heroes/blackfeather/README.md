@@ -1,12 +1,12 @@
 # Blackfeather
 
-![](../../.gitbook/assets/image%20%28189%29.png)
+![](../../.gitbook/assets/image%20%28230%29.png)
 
 #### Evasive fighter who excels at chasing & cleaning up fragile enemies.
 
 ## Heroic Perk: Heartthrob
 
-![Heartthrob](../../.gitbook/assets/image%20%2839%29.png)
+![Heartthrob](../../.gitbook/assets/image%20%2851%29.png)
 
 Blackfeather's attacks & abilities apply Heartthrob stacks to enemies. Any time stacks are added or refreshed, Blackfeather deals bonus crystal damage for each stack already on the target.
 
@@ -28,7 +28,7 @@ Blackfeather's attacks & abilities apply Heartthrob stacks to enemies. Any time 
 
 ## Ability A: Feint of Heart
 
-![Feint of Heart](../../.gitbook/assets/image%20%28132%29.png)
+![Feint of Heart](../../.gitbook/assets/image%20%28162%29.png)
 
 Blackfeather lunges to his target with a thrust of his sword, then gains 2.2 bonus movement speed for 3s.
 
@@ -49,7 +49,7 @@ Blackfeather lunges to his target with a thrust of his sword, then gains 2.2 bon
 
 ## Ability B: On Point
 
-![On Point](../../.gitbook/assets/image%20%28174%29.png)
+![On Point](../../.gitbook/assets/image%20%28214%29.png)
 
 Blackfeather pierces all enemies in a line, damaging them & applying a decaying slow for 1s.
 
@@ -71,7 +71,7 @@ Blackfeather pierces all enemies in a line, damaging them & applying a decaying 
 
 ## Ultimate: Rose Offensive
 
-![Rose Offensive](../../.gitbook/assets/image%20%28217%29.png)
+![Rose Offensive](../../.gitbook/assets/image%20%28267%29.png)
 
 Blackfeather dashes & slashes all enemies along his path.
 
