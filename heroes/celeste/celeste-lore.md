@@ -142,7 +142,7 @@ The amusement car creaks and moans as it swings. “Do you think they’ve found
 
 
 
-![Yes, it hurt when I fell.](../../.gitbook/assets/3_masker_rage-768x2227%20%281%29.jpg)
+![Yes, it hurt when I fell.](../../.gitbook/assets/3_masker_rage-768x2227%20%282%29.jpg)
 
 00:00.05
 

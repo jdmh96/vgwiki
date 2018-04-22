@@ -6,7 +6,7 @@
 
 ## Heroic Perk: Captain of the Guard
 
-![Captain of the Guard](../../.gitbook/assets/catherine_perk.png)
+![Captain of the Guard](../../.gitbook/assets/catherine_perk%20%281%29.png)
 
 
 
