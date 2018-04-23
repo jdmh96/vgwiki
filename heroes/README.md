@@ -258,83 +258,83 @@
 
 ## Phinn
 
-### Heroic Perk: Unstoppable
+![](../.gitbook/assets/phinn_splash.png)
 
-### Ability A: Quibble
-
-### Ability B: Polite Company
-
-### Ultimate: Forced Accord
+| ![UNSTOPPABLE](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/09/Phinn_Perk.jpg) | **Heroic Perk: Unstoppable** |
+| --- | --- | --- | --- |
+| ![QUIBBLE](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/09/Phinn_A1.jpg) | **Ability A: Quibble** |
+| ![POLITE COMPANY](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/09/Phinn_B.jpg) | **Ability B: Polite Company** |
+| ![FORCED ACCORD](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/09/Phinn_C.jpg) | **Ultimate: Forced Accord** |
 
 ## Reim
 
-### Heroic Perk: Frostguard
+![](../.gitbook/assets/reim_splash.png)
 
-### Ability A: Winter Spire
-
-### Ability B: Chill Winds
-
-### Ultimate: Valkyrie
+| ![FROSTGUARD](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/01/Reim_Frostguard_Perk.jpg) | **Heroic Perk: Frostguard** |
+| --- | --- | --- | --- |
+| ![WINTER SPIRE](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/01/Reim_Glacial_Shard_Ability_A.jpg) | **Ability A: Winter Spire** |
+| ![CHILL WINDS](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/01/Reim_Chill_Winds_Ability_B.jpg) | **Ability B: Chill Winds** |
+| ![VALKYRIE](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/01/Reim_Winter_Valkyrie_Ultimate.jpg) | **Ultimate: Valkyrie** |
 
 ## Reza
 
-### Heroic Perk: Firestarter
+![](../.gitbook/assets/reza_splash.png)
 
-### Ability A: Scorcher
-
-### Ability B: Troublemaker
-
-### Ultimate: Netherform Detonator
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/08/Reza_Perk-150x150.jpg) | **Heroic Perk: Firestarter** |
+| --- | --- | --- | --- |
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/08/Reza_A-150x150.jpg) | **Ability A: Scorcher** |
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/08/Reza_B-150x150.jpg) | **Ability B: Troublemaker** |
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/08/Reza_C-150x150.jpg) | **Ultimate: Netherform Detonator** |
 
 ## Ringo
 
-### Heroic Perk: Double Down
+![](../.gitbook/assets/ringo_splash.png)
 
-### Ability A: Achilles Shot
-
-### Ability B: Twirling Silver
-
-### Ultimate: Hellfire Brew
+| ![Double Down](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Ringo-P-double-down.png) | **Heroic Perk: Double Down** |
+| --- | --- | --- | --- |
+| ![Achilles Shot](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Ringo-A-achilles-shot.png) | **Ability A: Achilles Shot** |
+| ![Twirling Silver](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Ringo-B-twirling-silver.png) | **Ability B: Twirling Silver** |
+| ![Hellfire Brew \[Ultimate\]](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Ringo-C-hellfire-brew.png) | **Ultimate: Hellfire Brew** |
 
 ## Rona
 
-### Heroic Perk: Berserker's Fury
+![](../.gitbook/assets/rona_splash.png)
 
-### Ability A: Into the Fray
-
-### Ability B: Foesplitter
-
-### Ultimate: Red Mist
+| ![Berserkers&apos; Fury](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/08/RonaPberserkers-fury.png) | **Heroic Perk: Berserker's Fury** |
+| --- | --- | --- | --- |
+| ![Into the Fray](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/08/RonaAinto-the-fray.png) | **Ability A: Into the Fray** |
+| ![Foesplitter](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/08/RonaBfoesplitter.png) | **Ability B: Foesplitter** |
+| ![Red Mist \[Ultimate\]](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/08/RonaCred-mist.png) | **Ultimate: Red Mist** |
 
 ## Samuel
 
-### Heroic Perk: Corrupted Genius
+![](../.gitbook/assets/samuel_splash.png)
 
-### Ability A: Malice & Verdict
-
-### Ability B: Drifting Dark
-
-### Ultimate: Oblivion
+| ![CORRUPTED GENIUS](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/08/corrupted-genius.png) | **Heroic Perk: Corrupted Genius** |
+| --- | --- | --- | --- |
+| ![MALICE &amp; VERDICT](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/08/malice-verdict.png) | **Ability A: Malice & Verdict** |
+| ![DRIFTING DARK](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/08/drifting-dark.png) | **Ability B: Drifting Dark** |
+| ![OBLIVION](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/08/oblivion.png) | **Ultimate: Oblivion** |
 
 ## SAW
 
-### Heroic Perk: Spin up
+![](../.gitbook/assets/saw_splash.png)
 
-### Ability A: Roadie Run
-
-### Ability B: Suppressing Fire
-
-### Ultimate: Mad Cannon
+| ![Spin Up](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Saw-P-spin-up.png) | **Heroic Perk: Spin up** |
+| --- | --- | --- | --- |
+| ![Roadie Run](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Saw-A-roadie-run.png) | **Ability A: Roadie Run** |
+| ![Suppressing Fire](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Saw-B-suppressing-fire.png) | **Ability B: Suppressing Fire** |
+| ![Mad Cannon \[Ultimate\]](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Saw-C-mad-cannon.png) | **Ultimate: Mad Cannon** |
 
 ## Skaarf
 
-### Heroic Perk: Fan the Flames
+![](../.gitbook/assets/skaarf_splash.png)
 
-### Ability A: Spitfire
-
-### Ability B: Goop
-
-### Ultimate: Dragon Breath
+| ![Fan the Flames](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/SkaarfPfan-the-flames.png) | **Heroic Perk: Fan the Flames** |
+| --- | --- | --- | --- |
+| ![Spitfire](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/SkaarfAspitfire.png) | **Ability A: Spitfire** |
+| ![Goop](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/SkaarfBgoop.png) | **Ability B: Goop** |
+| ![Dragon Breath \[Ultimate\]](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/SkaarfCdragon-breath.png) | **Ultimate: Dragon Breath** |
 
 ## Skye
 
