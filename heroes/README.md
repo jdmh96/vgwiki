@@ -236,6 +236,19 @@
 | ![BRIGHT BULWARK](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/06/Lyra_Ability_Icons_B.png) | **Ability B: Bright Bulwark** |
 | ![ARCANE PASSAGE](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/06/Lyra_Ability_Icons_C.png) | **Ultimate: Arcane Passage** |
 
+## Malene
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2018/04/Malene_Standard-1000x560.jpg)
+
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2018/04/Malene_Perk.png) | **Heroic Perk: Masked Ball** |
+| --- | --- | --- | --- | --- | --- | --- |
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2018/04/Malene_A1.png) | **Ability A: Light Ribbons \(Light Form\)** |
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2018/04/Malene_A2.png) | **Ability A: Shadow Tendrils \(Shadow Form\)** |
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2018/04/Malene_B1.png) | **Ability B: Royal Amnesty \(Light Form\)** |
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2018/04/Malene_B2.png) | **Ability B: Wicked Escapade \(Shadow Form\)** |
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2018/04/Malene_C2.png) | **Ultimate: Enchanted Transformation** |
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2018/04/Malene_C1.png) |  |
+
 ## Ozo
 
 ![](../.gitbook/assets/ozo_splash.png)
@@ -338,33 +351,43 @@
 
 ## Skye
 
-### Heroic Perk: Target Lock
+![](../.gitbook/assets/skye_splash.png)
 
-### Ability A: Forward Barrage
-
-### Ability B: Suri Strike
-
-### Ultimate: Death from Above
+| ![ TARGET LOCK](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/08/Skye_P.jpg) | **Heroic Perk: Target Lock** |
+| --- | --- | --- | --- |
+| ![FORWARD BARRAGE](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/08/Skye_A2.jpg) | **Ability A: Forward Barrage** |
+| ![SURI STRIKE](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/08/Skye_B1.jpg) | **Ability B: Suri Strike** |
+| ![DEATH FROM ABOVE](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/08/Skye_C1.jpg) | **Ultimate: Death from Above** |
 
 ## Taka
 
-### Heroic Perk: House Kamuha
+![](../.gitbook/assets/taka_splash.png)
 
-### Ability A: Kaiten
+| ![House Kamuha](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Taka-P-house-kamuha.png) | **Heroic Perk: House Kamuha** |
+| --- | --- | --- | --- |
+| ![Kaiten](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Taka-A-kaiten.png) | **Ability A: Kaiten** |
+| ![Kaku](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Taka-B-kaku.png) | **Ability B: Kaku** |
+| ![X-Retsu \[Ultimate\]](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Taka-C-x-retsu.png) | **Ultimate: X-Retsu** |
 
-### Ability B: Kaku
+## Tony
 
-### Ultimate: X-Retsu
+
+
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2019/10/Tony_PERK.jpg) | **Heroic Perk: Come At Me** |
+| --- | --- | --- | --- |
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2019/10/Tony_A.jpg) | **Ability A: Jawbreaker** |
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2019/10/Tony_B.jpg) | **Ability B: Trash Talk** |
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2019/10/Tony_C.jpg) | **Ultimate: Bada Boom** |
 
 ## Varya
 
-### Heroic Perk: Chain Lightning
 
-### Ability A: Stormforged Spear
 
-### Ability B: Arc Recursion
-
-### Ultimate: Anvil's Hammer
+|  | Heroic Perk: Chain Lightning |
+| --- | --- | --- | --- |
+|  | Ability A: Stormforged Spear |
+|  | Ability B: Arc Recursion |
+|  | Ultimate: Anvil's Ham |
 
 ## Vox
 
