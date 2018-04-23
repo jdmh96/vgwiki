@@ -381,21 +381,21 @@
 
 ## Varya
 
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/12/FullHD_Hor_Varya.jpg)
 
-
-|  | Heroic Perk: Chain Lightning |
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/12/Perk_varya_chain_lightning-150x150.jpg) | Heroic Perk: Chain Lightning |
 | --- | --- | --- | --- |
-|  | Ability A: Stormforged Spear |
-|  | Ability B: Arc Recursion |
-|  | Ultimate: Anvil's Ham |
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/12/A_icon_varya_lightning_bolt-150x150.jpg) | Ability A: Stormforged Spear |
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/12/B_icon_varya_Charge_dash-1-150x150.jpg) | Ability B: Arc Recursion |
+| ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/12/C_icon_varya_Lightning_storm-150x150.jpg) | Ultimate: Anvil's Hammer |
 
 ## Vox
 
-### Heroic Perk: Julia's Song
 
-### Ability A: Sonic Zoom
 
-### Ability B: Pulse
-
-### Ultimate: Wait for It ...
+|  | **Heroic Perk: Julia's Song** |
+| --- | --- | --- | --- |
+|  | **Ability A: Sonic Zoom** |
+|  | **Ability B: Pulse** |
+|  | **Ultimate: Wait for It ...** |
 
