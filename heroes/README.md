@@ -391,11 +391,11 @@
 
 ## Vox
 
+![](../.gitbook/assets/vox_splash.png)
 
-
-|  | **Heroic Perk: Julia's Song** |
+| ![Julia&apos;s Song](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Vox-P-julias-song.png) | **Heroic Perk: Julia's Song** |
 | --- | --- | --- | --- |
-|  | **Ability A: Sonic Zoom** |
-|  | **Ability B: Pulse** |
-|  | **Ultimate: Wait for It ...** |
+| ![Sonic Zoom](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Vox-A-sonic-zoom.png) | **Ability A: Sonic Zoom** |
+| ![Pulse](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Vox-B-pulse.png) | **Ability B: Pulse** |
+| ![Wait for It \[Ultimate\]](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Vox-C-wait-for-it.png) | **Ultimate: Wait for It ...** |
 
