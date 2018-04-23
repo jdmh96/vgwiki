@@ -84,7 +84,7 @@
     * [Skye Lore](heroes/skye/skye-lore.md)
   * [Taka](heroes/taka/README.md)
     * [Taka Lore](heroes/taka/taka-lore.md)
-  * Tony
+  * [Tony](heroes/untitled/README.md)
     * [Tony Lore](heroes/untitled/tony-lore/README.md)
       * [Go left](heroes/untitled/tony-lore/go-left/README.md)
         * [Fight the minions' enemy](heroes/untitled/tony-lore/go-left/fight-the-minions-enemy/README.md)
