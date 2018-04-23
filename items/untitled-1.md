@@ -4,7 +4,7 @@
 
 ## Healing Flask
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%28121%29.png)
 
 * Cost: 300 gold
 * Stats:

@@ -1,15 +1,19 @@
 # Vox
 
-Agile damage dealer who dashes around the battlefield.
+![](../../.gitbook/assets/image%20%28215%29.png)
+
+#### Agile damage dealer who dashes around the battlefield.
 
 ## Heroic Perk: Julia's Song
+
+![Julia&apos;s Song](../../.gitbook/assets/image%20%28201%29.png)
 
 Vox's abilities mark enemies with Resonance. When basic attacking marked enemies, Resonance Bolts will bounce outwards to two nearby enemies dealing bonus crystal damage while refreshing & spreading the Resonance mark.
 
 * Crystal damage: 20 \(+100% of crystal power\)
 * Resonance bounces deal 50% damage to minions.
 
-### Stats - Level 1-12
+#### Stats - Level 1-12
 
 * Health: 667 - 2054
 * Energy: 200 - 464
@@ -22,6 +26,8 @@ Vox's abilities mark enemies with Resonance. When basic attacking marked enemies
 
 ## Ability A: Sonic Zoom
 
+![Sonic Zoom](../../.gitbook/assets/image%20%28309%29.png)
+
 Vox dashes in the targeted direction, throwing two basic attacks to the nearest enemy marked by Resonance \(prioritizing heroes\).
 
 | Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
@@ -31,6 +37,8 @@ Vox dashes in the targeted direction, throwing two basic attacks to the nearest 
 | Basic         Attack      Damage | 50% | 50% | 50% | 50% | 60% |  |  |
 
 ## Ability B: Pulse
+
+![Pulse](../../.gitbook/assets/image%20%2847%29.png)
 
 Vox emits a sonic pulse that echoes off nearby enemies & applies Resonance.
 
@@ -45,6 +53,8 @@ Vox emits a sonic pulse that echoes off nearby enemies & applies Resonance.
 | Slow at      Edge | 10% | 12% | 14% | 16% | 20% |  |  |
 
 ## Ultimate: Wait for It...
+
+![Wait for it](../../.gitbook/assets/image%20%28186%29.png)
 
 Vox fires an ultrasonic wave that applies Resonance to enemies in its path. Shortly after, a wide shockwave explodes along the same path, dealing crystal damage & silencing enemies.
 

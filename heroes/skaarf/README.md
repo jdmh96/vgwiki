@@ -1,8 +1,12 @@
 # Skaarf
 
-Spits long-range fireballs & incinerates entire teams.
+![](../../.gitbook/assets/image%20%28156%29.png)
+
+#### Spits long-range fireballs & incinerates entire teams.
 
 ## Heroic Perk: Fan the Flames
+
+![Fan the Flames](../../.gitbook/assets/image%20%28183%29.png)
 
 Skaarf's abilities burn targets & his basic attacks deal bonus crystal damage to burning targets.
 
@@ -11,7 +15,7 @@ Skaarf's abilities burn targets & his basic attacks deal bonus crystal damage to
 * This damage can crit for 2x.
 * Deals reduced damage to Kraken & structures.
 
-### Stats - Level 1-12
+#### Stats - Level 1-12
 
 * Health: 638 - 2112
 * Energy: 200 - 464
@@ -23,6 +27,8 @@ Skaarf's abilities burn targets & his basic attacks deal bonus crystal damage to
 * Move Speed: 3.3
 
 ## Ability A: Spitfire
+
+![Spitfire](../../.gitbook/assets/image%20%28200%29.png)
 
 Skaarf spits a fireball that collides with the first hero, structure or boss monster it hits.
 
@@ -39,6 +45,8 @@ Skaarf spits a fireball that collides with the first hero, structure or boss mon
 
 ## Ability B: Goop
 
+![Goop](../../.gitbook/assets/image%20%28128%29.png)
+
 Skaarf hurls a goop puddle onto the target location. Enemies walking through the sticky substance are slowed. Any of skaarf's flames will ignite the puddle, dealing burst damage & burning enemies over time.
 
 * A flaming puddle does not slow enemies as much as a goop puddle.
@@ -53,7 +61,9 @@ Skaarf hurls a goop puddle onto the target location. Enemies walking through the
 | Duration | 8s | 8s | 8s | 8s | 10s |  |  |
 | Duration on fire | 4s | 4s | 4s | 4s | 6s |  |  |
 
-## Ultimate: Dragon Breath
+## Ultimate: Dragon's Breath
+
+![Dragon&apos;s Breath](../../.gitbook/assets/image%20%28353%29.png)
 
 Skaarf inhales for 1.5s, then exhales a huge cone of flames for 3s. Skaarf may move freely while spewing fire.
 

@@ -1,8 +1,12 @@
 # Samuel
 
-Dark zone-control mage who can put enemies to sleep.
+![](../../.gitbook/assets/image%20%28347%29.png)
+
+#### Dark zone-control mage who can put enemies to sleep.
 
 ## Heroic Perk: Corrupted Genius
+
+![Corrupted Genius](../../.gitbook/assets/image%20%284%29.png)
 
 Every 6s, Samuel's next basic attack fires a bolt of dark power that deals bonus crystal damage & draws health & energy back to Samuel.
 
@@ -11,7 +15,7 @@ Every 6s, Samuel's next basic attack fires a bolt of dark power that deals bonus
 * Recharge: 50-200 \(level 1-12\) energy
 * The restorative powers are only 25% as effective against non-heroes.
 
-### Stats - Level 1-12
+#### Stats - Level 1-12
 
 * Health: 652 - 2040
 * Energy: 290 - 620
@@ -23,6 +27,8 @@ Every 6s, Samuel's next basic attack fires a bolt of dark power that deals bonus
 * Move Speed: 3.2
 
 ## Ability A: Malice & Verdict
+
+![Malice &amp; Verdict](../../.gitbook/assets/image%20%28258%29.png)
 
 Samuel fires two bolts from his wands at a target location, impacting the first enemy hit. Samuel can move between the shots.
 
@@ -40,6 +46,8 @@ If Samuel is standing inside the energy field from Drifting Dark, these bolts mo
 
 ## Ability B: Drifting Dark
 
+![Drifting Dark](../../.gitbook/assets/image%20%28167%29.png)
+
 Samuel creates a large field of darkness that slowly drifts forward, damaging enemies who stand inside it. If Samuel also stands inside, Malice & Verdict is greatly empowered & he heals for a small amount for each affected target.
 
 * The field will disappear if Samuel moves more than 16 meters away from it.
@@ -56,6 +64,8 @@ Samuel creates a large field of darkness that slowly drifts forward, damaging en
 | Heal/ Sec  Per Minion | 1 | 2 | 3 | 4 | 5 | 5% |  |
 
 ## Ultimate: Oblivion
+
+![Oblivion](../../.gitbook/assets/image%20%28329%29.png)
 
 After a short delay, Samuel summons a phantasm at the target location, which puts nearby enemies to sleep. Enemies inflicted are unable to move or act.
 

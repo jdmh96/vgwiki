@@ -1,8 +1,12 @@
 # Rona
 
-Durable berserker who excels in thick of fights.
+![](../../.gitbook/assets/image%20%28266%29.png)
+
+#### Durable berserker who excels in thick of fights.
 
 ## Heroic Perk: Berserkers' Fury
+
+![Berserker&apos;s Fury](../../.gitbook/assets/image%20%28337%29.png)
 
 Rona attacks faster than most heroes, but she deals 85% damage with each attack.
 
@@ -11,7 +15,7 @@ Rona's abilities use Bloodrage instead of energy, a unique resource that is gene
 * Critical strikes & basic attacks against against targets afflicted by Mortal Wounds will generate additional Bloodrage.
 * This caps at 100 & decays when Rona has been out of combat for 5s.
 
-### Stats - Level 1-12
+#### Stats - Level 1-12
 
 * Health: 778 - 2563
 * Energy: 0
@@ -23,6 +27,8 @@ Rona's abilities use Bloodrage instead of energy, a unique resource that is gene
 * Move Speed: 3.3
 
 ## Ability A: Into the Fray
+
+![Into the Fray](../../.gitbook/assets/image%20%28297%29.png)
 
 Rona leaps into battle, gaining Bloodrage for each enemy hero she collides with. After a short delay, the ground ruptures for 3s, dealing damage & slowing enemies who pass over it by 35%.
 
@@ -41,6 +47,8 @@ Rona leaps into battle, gaining Bloodrage for each enemy hero she collides with.
 
 ## Ability B: Foesplitter
 
+![Foesplitter](../../.gitbook/assets/image%20%28145%29.png)
+
 A two-part axe attack that can catch up to - then brutalize - an unsuspecting target.
 
 * First activation: Rona lunges at her target, landing an empowered basic attack & granting her increased move speed & Bloodrage.
@@ -58,6 +66,8 @@ A two-part axe attack that can catch up to - then brutalize - an unsuspecting ta
 | Duration | 2s | 2.5s | 3s | 3.5s | 4s |  |  |
 
 ## Ultimate: Red Mist
+
+![Red Mist](../../.gitbook/assets/image%20%28265%29.png)
 
 Rona drains her Bloodrage & spins in a whirlwind, dealing weapon damage to nearby enemies. While spinning, Rona moves slower & gains fortified health for each second.
 

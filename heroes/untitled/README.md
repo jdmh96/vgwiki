@@ -1,8 +1,8 @@
 # Tony
 
-![](../../.gitbook/assets/screenshot-2018-04-22-at-10.11.28-pm.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
-**Dwarven brawler who taunts and pummels enemies**
+**Dwarven brawler who taunts and pummels enemies.**
 
 ## Heroic Perk: Come At Me {#heroic-perk-berserkers-fury}
 

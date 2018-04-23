@@ -1,12 +1,16 @@
 # Ringo
 
-Fast-moving, fast-shooting gunslinger with an epic fireball.
+![](../../.gitbook/assets/image%20%28303%29.png)
+
+#### Fast-moving, fast-shooting gunslinger with an epic fireball.
 
 ## Heroic Perk: Double Down
 
+![Double Down](../../.gitbook/assets/image%20%28247%29.png)
+
 Ringo's next basic attack after killing anything will be a critical strike.
 
-### Stats - Level 1-12
+#### Stats - Level 1-12
 
 * Health: 673 - 2077
 * Energy: 163 - 416
@@ -19,6 +23,8 @@ Ringo's next basic attack after killing anything will be a critical strike.
 
 ## Ability A: Achilles Shot
 
+![Achilles Shot](../../.gitbook/assets/image%20%28322%29.png)
+
 Ringo fires a trick shot at his target's heel \(or whatever lower extremity exists\), slowing the target & dealing damage.
 
 | Stats | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Crystal      Ratio % | Weapon     Ratio % |
@@ -30,6 +36,8 @@ Ringo fires a trick shot at his target's heel \(or whatever lower extremity exis
 | Slow          Duration | 1.5s | 1.5s | 1.5s | 1.5s | 2.5s |  |  |
 
 ## Ability B: Twirling Silver
+
+![Twirling Silver](../../.gitbook/assets/image%20%2877%29.png)
 
 Ringo slings bullets at his target in a mad flurry, dramatically increasing his attack speed & move speed for a duration.
 
@@ -45,6 +53,8 @@ Ringo slings bullets at his target in a mad flurry, dramatically increasing his 
 | Speed        Boost | 0.75 | 0.8 | 0.85 | 0.9 | 1 |  |  |
 
 ## Ultimate: Hellfire Brew
+
+![Hellfire Brew](../../.gitbook/assets/image%20%2871%29.png)
 
 Ringo takes a long swig from his gourd, then spits out a scorching fireball at his target. The explosion deals slash damage on impact & sets the target on fire, burning it & nearby enemies for 7s.
 

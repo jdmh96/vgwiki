@@ -1,12 +1,12 @@
 # Lyra
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 #### Healer & zone mage who can create teleportation portals.
 
 ## Heroic Perk: Principle Arcanum
 
-![Principle Arcanum](../../.gitbook/assets/image%20%28182%29.png)
+![Principle Arcanum](../../.gitbook/assets/image%20%28231%29.png)
 
 Lyra's attacks are arcane missiles that deal crystal damage. If she holds her ground after releasing an attack, she automatically follows up with a heavy attack that also slows the target.
 
@@ -28,7 +28,7 @@ Lyra's attacks are arcane missiles that deal crystal damage. If she holds her gr
 
 ## Ability A: Imperial Sigil
 
-![Imperial Sigil](../../.gitbook/assets/image%20%28148%29.png)
+![Imperial Sigil](../../.gitbook/assets/image%20%28184%29.png)
 
 Lyra creates a sigil that heals nearby allied heroes & damages nearby enemy heroes. Reactivate this ability to detonate the sigil, dealing heavy damage to enemies while providing a move speed boost to allies inside & immediately consuming the remaining duration to heal at 50% effectiveness.
 
@@ -48,7 +48,7 @@ Lyra creates a sigil that heals nearby allied heroes & damages nearby enemy hero
 
 ## Ability B: Bright Bulwark
 
-![Bright Bulwark](../../.gitbook/assets/image%20%28264%29.png)
+![Bright Bulwark](../../.gitbook/assets/image%20%28331%29.png)
 
 Lyra creates a walled zone around her, damaging & applying a slow to surrounding enemies.
 
@@ -66,7 +66,7 @@ Lyra creates a walled zone around her, damaging & applying a slow to surrounding
 
 ## Ultimate: Arcane Passage
 
-![Arcane Passage](../../.gitbook/assets/image%20%28130%29.png)
+![Arcane Passage](../../.gitbook/assets/image%20%28159%29.png)
 
 Lyra teleports to the target location, creating portals at both ends that allow anyone to teleport across.
 

@@ -2,7 +2,7 @@
 
 ## 'Excerpt from the recovered letters of Martim Walker I'
 
-![...ikri v&apos;ahskad f&apos;ave](../../.gitbook/assets/image%20%28112%29.png)
+![...ikri v&apos;ahskad f&apos;ave](../../.gitbook/assets/image%20%28137%29.png)
 
 For the Guildmaster’s eyes only:
 
@@ -27,7 +27,7 @@ Martim Walker
 
 ## ' Excerpt from the recovered letters of Martim Walker II'
 
-![Oeda vli stishad!](../../.gitbook/assets/image%20%28165%29.png)
+![Oeda vli stishad!](../../.gitbook/assets/image%20%28213%29.png)
 
 For the Guildmaster’s eyes only:
 
@@ -59,7 +59,7 @@ Martim Walker
 
 ## 'Excerpt from the recovered letters of Martim Walker III'
 
-![Idu drovis ikre skeiv kekragas](../../.gitbook/assets/image%20%2846%29.png)
+![Idu drovis ikre skeiv kekragas](../../.gitbook/assets/image%20%2858%29.png)
 
 The new Guildmaster has, after consideration of my work, refused to publish it, declaring me an obsessed madman. Stida evibez! I have also intercepted letters from my wife about our children, now grown. I recorded my departure from my little children only a few seasons past, but time flows at a different pace in the Churn. I reconciled both lunar and solar calendars and the star charts, and I have determined that I left my country some ninety years ago. I should be long dead, yet I thrive. I must make detailed notes of this anomaly, even though the Cartographers have abandoned me. I will cast no more pearls before the swine of Gythia.
 
@@ -101,7 +101,7 @@ The Churnwalker
 
 #### '**Welcome To The Party!'**
 
-![..ide ikre kiovebraka](../../.gitbook/assets/image%20%2831%29.png)
+![..ide ikre kiovebraka](../../.gitbook/assets/image%20%2838%29.png)
 
 _Isha vavad, shobez!_ Which of you darlings is the guest of honor? Don’t be shy. This is a happy occasion, so _smile,_like me! I have candy, and magic, and tricks to show you. Don’t you want to see my tricks? Aren’t you funny, running away, as if you could ever escape me. A Churnstorm blew me away, and it will blow all of you away too unless you stay close. And if you won’t stay, I’ll _make_ you stay with these fun hooks. Better to stay than be blown away, friends. _Absto, ido oedo ikrad ahskadez ugui idam!_
 

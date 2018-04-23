@@ -1,6 +1,6 @@
 # Adagio
 
-![](../../.gitbook/assets/image%20%28181%29.png)
+![](../../.gitbook/assets/image%20%28230%29.png)
 
 #### Team healer & damage enhancer with a large area stun. A medium difficulty hero.
 

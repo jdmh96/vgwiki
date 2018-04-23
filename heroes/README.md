@@ -289,6 +289,8 @@
 | ![Yay, Pets!](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Petal-B-yay-pets.png) | **Ability B: Trampoline!** |
 | ![Spontaneous Combustion \[Ultimate\]](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Petal-C-spontaneous-combustion.png) | **Ultimate: Spontaneous Combustion** |
 
+![](../.gitbook/assets/image%20%28272%29.png)
+
 ## Phinn
 
 ![](../.gitbook/assets/phinn_splash.png)
@@ -383,15 +385,19 @@
 
 ![](../.gitbook/assets/taka_splash.png)
 
-| ![House Kamuha](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Taka-P-house-kamuha.png) | **Heroic Perk: House Kamuha** |
+|  | **Heroic Perk: House Kamuha** |
 | --- | --- | --- | --- |
 | ![Kaiten](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Taka-A-kaiten.png) | **Ability A: Kaiten** |
 | ![Kaku](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Taka-B-kaku.png) | **Ability B: Kaku** |
 | ![X-Retsu \[Ultimate\]](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Taka-C-x-retsu.png) | **Ultimate: X-Retsu** |
 
+![](../.gitbook/assets/image%20%2816%29.png)
+
+
+
 ## Tony
 
-![](../.gitbook/assets/screenshot-2018-04-22-at-10.11.28-pm%20%281%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 | ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2019/10/Tony_PERK.jpg) | **Heroic Perk: Come At Me** |
 | --- | --- | --- | --- |

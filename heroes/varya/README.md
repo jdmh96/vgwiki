@@ -1,12 +1,16 @@
 # Varya
 
-Shocking valkyrie who chains massive damage across enemy teams.
+![](../../.gitbook/assets/image%20%28192%29.png)
+
+#### Shocking valkyrie who chains massive damage across enemy teams.
 
 ## Heroic Perk: Chain Lightning
 
+![Chain Lightning](../../.gitbook/assets/image%20%2833%29.png)
+
 Varya's attacks deal 55-132 \(level 1-12\) \(+45% crystal power\) crystal damage. If Varya holds her ground after attacking, she will strike her target & up to 3 additional enemies with a bolt of Chain Lightning. This bolt deals the same damage & consumes 170 energy.
 
-### Stats - Level 1-12
+#### Stats - Level 1-12
 
 * Health: 642 - 2127
 * Energy: 950 - 1500
@@ -18,6 +22,8 @@ Varya's attacks deal 55-132 \(level 1-12\) \(+45% crystal power\) crystal damage
 * Move Speed: 3.1
 
 ## Ability A: Stormforged Spear
+
+![Stormforged Spear](../../.gitbook/assets/image%20%28185%29.png)
 
 Varya throws a spear at lightning speed, striking the first enemy in its path. This deals a burst of damage to the target & chains additional damage to nearby targets.
 
@@ -34,6 +40,8 @@ Varya throws a spear at lightning speed, striking the first enemy in its path. T
 
 ## Ability B: Arc Recursion
 
+![Arc Recursion](../../.gitbook/assets/image%20%28113%29.png)
+
 After gathering power for 0.9s, Varya's next two move commands will instantly dash in the chosen direction, striking the 3 nearest enemies at the end of each dash. For each enemy struck, Varya recovers 5% of her energy & gains a barrier equal to 3% of her health \(bonuses doubled on heroes\).
 
 * Overdrive: Varya moves further with each dash.
@@ -48,6 +56,8 @@ After gathering power for 0.9s, Varya's next two move commands will instantly da
 | Damage | 45 | 105 | 165 | 225 | 345 | 60% |  |
 
 ## Ultimate: Anvil's Hammer
+
+![Anvil&apos;s Hammer](../../.gitbook/assets/image%20%2827%29.png)
 
 After channeling for 2.4s, Varya unleashes the fury of the storm, calling a series of lightning strikes on every enemy hero, regardless of distance. Passively, each rank of the ultimate permanently increases her attack speed & the number of enemies her Chain Lightning & Stormforged Spear will hit.
 

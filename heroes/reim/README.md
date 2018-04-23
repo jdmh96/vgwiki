@@ -1,8 +1,12 @@
 # Reim
 
-Resilient ice mage who dominates close-quarter battles.
+![](../../.gitbook/assets/image%20%28162%29.png)
+
+#### Resilient ice mage who dominates close-quarter battles.
 
 ## Heroic Perk: Frostguard
+
+![Frostguard](../../.gitbook/assets/image%20%2821%29.png)
 
 When Reim damages opponents with his basic attack or Winter Spire, he is granted fortified health up to a cap of 25% of Reim's maximum health.
 
@@ -10,7 +14,7 @@ When Reim damages opponents with his basic attack or Winter Spire, he is granted
 * Reim's basic attack deal 15-54 \(level 1-12\) \(+80% crystal power\) crystal damage over 2s & grant 30% of the damage dealt with this effect as fortified health.
 * Basic attacks against targets that are already chilled apply a 60% slow that decays over 0.6s.
 
-### Stats Lvl 1-12
+#### Stats Lvl 1-12
 
 * Health: 746 - 2499
 * Energy: 220 - 462
@@ -22,6 +26,8 @@ When Reim damages opponents with his basic attack or Winter Spire, he is granted
 * Move Speed: 3.2
 
 ## Ability A: Winter Spire
+
+![Winter Spire](../../.gitbook/assets/image%20%28236%29.png)
 
 Reim summons a spire of ice at a nearby location, dealing crystal damage to surrounding enemies. After a short delay, the spire shatters, dealing heavy crystal damage.
 
@@ -40,6 +46,8 @@ Reim summons a spire of ice at a nearby location, dealing crystal damage to surr
 
 ## Ability B: Chill Winds
 
+![Chill Winds](../../.gitbook/assets/image%20%2884%29.png)
+
 Reim deals a burst of crystal damage to all surrounding enemies, rooting enemies who are chilled. A rooted enemy cannot move or dash, but the enemy can still attack.
 
 * Deals 50% less damage to minions.
@@ -52,6 +60,8 @@ Reim deals a burst of crystal damage to all surrounding enemies, rooting enemies
 | Root           Duration | 0.6s | 0.8s | 1s | 1.2s | 1.4s |  |  |
 
 ## Ultimate: Valkyrie
+
+![Valkyrie](../../.gitbook/assets/image%20%28203%29.png)
 
 Reim summons an ancient Valkyrie, devastating enemies in the area & applying a heavy decaying slow.
 
