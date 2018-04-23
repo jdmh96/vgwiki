@@ -13,7 +13,7 @@ Lyra's attacks are arcane missiles that deal crystal damage. If she holds her gr
 * Each channeled missile consumes 15-20 \(level 1-12\) energy, by Lyra can continue using these even if she runs out of energy.
 * Light attack damage: 50-85 \(level 1-12\) \(+60% crystal power\).
 * Heavy attack damage: 60-170 \(level 1-12\) \(+70% crystal damage\).
-* Heavy attack slow: 35% \(+0.01% of bonus max health\).
+* Heavy attack slow: 35% \(+0.02% of bonus max health\).
 
 #### Stats Lvl 1-12
 

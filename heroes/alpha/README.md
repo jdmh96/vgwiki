@@ -1,6 +1,8 @@
 # Alpha
 
-Killing machine who can resurrect herself.
+![](../../.gitbook/assets/alpha_splash%20%281%29.png)
+
+**Killing machine who can resurrect herself.**
 
 ## Heroic Perk: Infinite Reboot
 
