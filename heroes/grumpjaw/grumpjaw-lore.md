@@ -2,7 +2,7 @@
 
 ## ‘CHEESECAKE’
 
-![Uhhh smellll baddd.](../../.gitbook/assets/image%20%28185%29.png)
+![Uhhh smellll baddd.](../../.gitbook/assets/image%20%28196%29.png)
 
 “See what people get wrong is,” says the dwarf, “time travel isn’t about time at all. It’s about
 
@@ -82,7 +82,7 @@ Grumpjaw whips his horns around and roars, clattering the chains, knocking Frank
 
 ## ‘OUT’ {#GrumpjawPart2}
 
-![Boop.](../../.gitbook/assets/image%20%2889%29.png)
+![Boop.](../../.gitbook/assets/image%20%2896%29.png)
 
 “Right then,” says Frankie, “after you.”
 
@@ -160,7 +160,7 @@ Frankie combs the stomach goo out of his beard as he peers up through the elevat
 
 #### THE PROPER CARE AND FEEDING OF GRUMPJAW LAPDOGS
 
-![Hungryyy.](../../.gitbook/assets/image%20%28145%29.png)
+![Hungryyy.](../../.gitbook/assets/image%20%28154%29.png)
 
 The Grumpjaw Lapdog is a special breed with unique needs. Well cared-for Grumpjaws are so affectionate and loyal that their owners don’t even mind the loud snoring and farting. Grumpjaws get cold easily, so it is a good idea to get yours a nice hat and jacket for going outside in blustery weather.
 
@@ -186,7 +186,7 @@ These lovable doggies are also big on cuddling and will climb onto your lap at e
 
 #### ' **FURIOUS GRUMPJAW ATTACKS ON THE RISE'**
 
-![Ughh die.](../../.gitbook/assets/image%20%28100%29.png)
+![Ughh die.](../../.gitbook/assets/image%20%28107%29.png)
 
  Beware the carnivorous jungle Grumpjaw! Those who manage to escape his four strong horn-lined jaws return gored and trampled, telling tales of an insatiable, hungry beast who runs much faster than his massive body appears. Reports of marauding Grumpjaws have increased in recent months. Nothing is safe: humans, sappy treants, animals and even small dragons have been swallowed whole. Even seasoned hunters are rendered defenseless. Locals are advised to travel in groups and never turn their backs on the jungle.
 
