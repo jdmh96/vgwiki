@@ -52,7 +52,7 @@ description: Welcome To The Official Vainglory Wiki
   * [ ] SAW
   * [ ] Skaarf
   * [ ] Skye
-  * [ ] Taka
+  * [x] Taka
   * [ ] Tony
   * [ ] Varya
   * [x] Vox
@@ -91,8 +91,36 @@ description: Welcome To The Official Vainglory Wiki
   * [x] 1.0.13
   * [x] 1.1.0
   * [x] 1.1.1
+  * [x] 1.1.2
+  * [x] 1.1.3
+  * [x] 1.1.4
+  * [x] 1.1.5
+  * [x] 1.1.6
+  * [x] 1.1.7
+  * [x] 1.2.0
+  * [x] 1.3.0
+  * [x] 1.4
+  * [x] 1.4.0
+  * [x] 1.5
+  * [x] 1.6
+  * [x] 1.7
+  * [ ] 1.8
+  * [ ] 1.9
+  * [ ] 1.10
+  * [x] 1.11
+  * [x] 1.12
+  * [x] 1.13
+  * [x] 1.14
+  * [x] 1.15
+  * [ ] 1.16
+  * [x] 1.17
+  * [x] 1.18
+  * [x] 1.19
+  * [ ] 1.20
+  * [x] 1.21
+  * [x] 3.0
   * [ ] etc
-* [ ] in the main items page, leave only the full price for tier 2 & 3 items, having the other prices is confusing \(you will learn what builds into what in the detailed pages so having it here is redundant\).
+* [x] in the main items page, leave only the full price for tier 2 & 3 items, having the other prices is confusing \(you will learn what builds into what in the detailed pages so having it here is redundant\).
 * [ ] in “other” might want to add the scout cam even tho is not purchasable - since the section is referring to items and not “shop items” only.
 * [ ] add information about the hero’s role in the main page and hero’s page \(maybe even considering adding the ability to filter by role\)
 * [ ] might want to mention the skins in a list \(and the rarity\) for each hero in the main page, since the lores are in each hero’s page
