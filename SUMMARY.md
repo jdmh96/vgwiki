@@ -98,6 +98,7 @@
   * [Taka](heroes/taka/README.md)
     * [Taka Lore](heroes/taka/taka-lore.md)
   * [Tony](heroes/untitled/README.md)
+    * [Tony Talent](heroes/untitled/tony-talent.md)
     * [Tony Lore](heroes/untitled/tony-lore/README.md)
       * [Go left](heroes/untitled/tony-lore/go-left/README.md)
         * [Fight the minions' enemy](heroes/untitled/tony-lore/go-left/fight-the-minions-enemy/README.md)
@@ -173,5 +174,6 @@
   * [1.19 Notes](patch-notes/1.19-notes.md)
   * [1.21 Notes](patch-notes/untitled-4.md)
   * [3.0.0 Notes](patch-notes/3.0.0-notes.md)
+  * [2.0](patch-notes/2.0.md)
 * [Changelog](changelog.md)
 
