@@ -1,4 +1,25 @@
+---
+description: List of all Heroes by position (click on the name for details)
+---
+
 # Heroes
+
+
+
+{% tabs %}
+{% tab title="Captains" %}
+| Image | Link | Other Positions |
+| --- | --- | --- |
+| ![](blob:https://ezl.gitbook.io/dc953668-f7b4-4ce2-b038-2a5585727f18) | [Adagio](adagio/) \| [Talent](adagio/adagio-talent.md) \| [Lore](adagio/adagio-lore.md) | Carry |
+| ![](blob:https://ezl.gitbook.io/89eadafc-f604-4402-b112-8ea2d09fc207) | [Ardan](ardan/) \| [Talent](ardan/ardan-talent.md) \| [Lore](ardan/ardan-lore.md) |  |
+{% endtab %}
+
+{% tab title="Junglers" %}
+|  |  |
+| --- | --- |
+|  |  |
+{% endtab %}
+{% endtabs %}
 
 ## Adagio
 

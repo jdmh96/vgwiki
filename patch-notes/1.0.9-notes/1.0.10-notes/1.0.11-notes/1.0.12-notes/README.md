@@ -1,0 +1,97 @@
+---
+description: 'July 15, 2014'
+---
+
+# 1.0.12 Notes
+
+## APP UPDATE 1.0.12: KRUL IS HERE!
+
+_Update 1.0.12 is live … and the Halcyon Fold will never be the same. Here’s what you can expect:_
+
+### NEW HERO: KRUL, THE TORTURED UNDEAD
+
+Krul brings a terrifying presence to the Halcyon Fold. [Read the breakdown](https://www.vainglorygame.com/news/2014/7/14/krul-breakdown) of this melee carry now.
+
+![](http://vainglorygame.flywheelsites.com/wp-content/uploads/2014/09/ShadowsEmpowerMe.jpg)
+
+_Here are his abilities:_
+
+**HEROIC PERK: SHADOWS EMPOWER ME**
+
+Krul is empowered by the shadows after standing still in brush for 3 seconds. Once empowered, Krul moves faster and his next basic attack will slow the target.
+
+![](http://vainglorygame.flywheelsites.com/wp-content/uploads/2014/09/Dead-Man%27s-Rush1.jpg)
+
+**DEAD MAN’S RUSH**
+
+Krul dashes to the target and deals damage. Activating Dead Man’s Rush grants Krul a health barrier for 2 seconds.
+
+![](http://vainglorygame.flywheelsites.com/wp-content/uploads/2014/09/Spectral-Smite1.jpg)
+
+**SPECTRAL SMITE**
+
+After learning this, Krul’s basic attacks apply Weakness stacks \(up to 8 per target\). Each Weakness stack reduces attack speed and crystal power and allows Krul to lifesteal by basic attacking the target. Spectral Smite consumes the stacks to deal damage and regain health based on the number of stacks consumed.
+
+![](http://vainglorygame.flywheelsites.com/wp-content/uploads/2014/09/From-Hell%27s-Heart.jpg)
+
+**FROM HELL’S HEART**
+
+Krul pulls Hellrazor from his chest and hurls it in the targeted direction. If the sword hits an enemy hero \(on the way out or the way back\), it stuns and slows the target and deals damage. Stun duration is longer based on the distance the sword has traveled.
+
+### **SURRENDER CHANGES**
+
+![](http://vainglorygame.flywheelsites.com/wp-content/uploads/2014/09/img31.jpg)
+
+Surrender was an important addition to the game, allowing players in hopeless situations to escape, recoup time and play more. And in fact, that’s how things played out: We’ve seen significantly more matches played in a single session, which is a sign that players’ time is being better spent.
+
+But we’ve also been listening to your feedback—and quite a bit of it—and agree that a unanimous surrender vote is more appropriate to prevent matches from ending prematurely and prevent abuse of the system. Losing an outer turret is not the right time for surrender—and if you’re winning, why would you stop playing?!
+
+**Below are the changes in 1.0.12, which many of you have asked for:**
+
+* **Unanimous surrender vote:** If your entire team is present, all three players must vote to surrender. If any of your allies have DC’d or AFK’d, they will automatically vote in favor of surrender. But as before, an absent player will never start a surrender vote.
+* **Surrender is not available until 15 minutes** into the match \(increased from 10 minutes\). This will help ensure players invest in a match and see how it plays out before deciding whether to initiate a surrender vote.
+* **Clarification: Surrender always counts as a loss.** New text makes it clearer that surrender is counted as a defeat for the surrendering team and a victory for the other team.
+
+### GAMEPLAY & BALANCE TWEAKS
+
+#### **PIERCING ITEMS:**
+
+* **Splintered Myth** is now “Broken Myth.” Shield piercing boosted from 24% to 30%.
+* **Piercing Spear** \(12%\) and **Piercing Shard **\(10%\) boosted to 15% piercing.
+
+_In addition to having a mouthful of a name, Splintered Myth hasn’t been getting any love from players. At its cost, this Tier 3 item hasn’t been worthy of much consideration despite the critical importance of shield piercing. With many players running “all blue” crystal builds, shield items such as Aegis have become absolute Kryptonite. In fact, if you seem to not be doing the damage you expect, chances are you haven’t realized that YOU’VE BEEN COUNTERED with shielding. Start to think “three moves ahead” and plan to build Broken Myth if you start seeing yellow on the enemy side of the scoreboard. If this buff isn’t enough to make Broken Myth a new part of your plans, let us know. We will be keeping watch and may update this item further until it’s a true Tier 3 choice._
+
+_Mid-tier piercing items should now also be more viable on your way to the Tier 3 … or stop at the spear/shard if that’s getting the job done._
+
+#### **CRYSTAL RATIOS:**
+
+* **Adagio:** Arcane Fire’s damage crystal ratio lowered from 0.36 to 0.18
+
+_We’re keeping a close eye on Adagio, and more tweaks may be in order. _
+
+* **Glaive: **Afterburn crystal ratio lowered from 1.5 to 1.0. Bloodsong crystal ratio lowered from 0.40 to 0.30. Twisted Stroke crystal ratio RAISED from 1.0 to 1.2.
+
+_Glaive’s Crystal build burst has been melting other heroes onto the cobblestones. These changes bring down his burstiness a tad while his farming/attacking ability that synergizes with Weapon feel even better. _
+
+### PETAL SPEAKS!
+
+![](http://vainglorygame.flywheelsites.com/wp-content/uploads/2014/09/PetalSpeaks.png)
+
+This adorable Meekos scout is finally able to express herself. It’s amazing what a difference a voice can make to the flavor and fullness of gameplay.
+
+If someone already insta-locked Krul, be sure to select Petal and hear what she sounds like!
+
+### SPIFFY NEW VISUALS
+
+#### LAST-HITTING INDICATOR
+
+Lane minion health bars will now indicate when it’s possible to last hit and claim their gold. While a small visual change, this packs a big punch, especially for newer players. “Last-hitting” is a concept that experienced players can easily take for granted. But for the uninitiated, it can feel foreign and difficult. This should definitely help. And even for those with more practice, when playing someone such as Ringo, it sure doesn’t hurt!
+
+### PERFORMANCE IMPROVEMENTS
+
+If you’re having a stability or performance issue, email: [feedback@superevilmegacorp.com](mailto:feedback@superevilmegacorp.com).
+
+* Misc. performance improvements and bug fixes.
+
+Join the conversation [in the forums](http://forums.vainglorygame.com/) and let us know what you think of Krul!
+

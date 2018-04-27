@@ -132,5 +132,9 @@
   * [1.0.6 Notes](patch-notes/1.0.6-notes.md)
   * [1.0.7 Notes](patch-notes/1.0.7-notes.md)
   * [1.0.8 Notes](patch-notes/1.0.8-notes.md)
-  * [1.0.9 Notes](patch-notes/1.0.9-notes.md)
+  * [1.0.9 Notes](patch-notes/1.0.9-notes/README.md)
+    * [1.0.10 Notes](patch-notes/1.0.9-notes/1.0.10-notes/README.md)
+      * [1.0.11 Notes](patch-notes/1.0.9-notes/1.0.10-notes/1.0.11-notes/README.md)
+        * [1.0.12 Notes](patch-notes/1.0.9-notes/1.0.10-notes/1.0.11-notes/1.0.12-notes/README.md)
+          * [1.0.13 Notes](patch-notes/1.0.9-notes/1.0.10-notes/1.0.11-notes/1.0.12-notes/1.0.13-notes.md)
 

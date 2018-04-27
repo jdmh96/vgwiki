@@ -1,0 +1,76 @@
+---
+description: 'July 03, 2014'
+---
+
+# 1.0.11 Notes
+
+## APP UPDATE 1.0.11: SURRENDER TO THE MIGHTY
+
+_Update 1.0.11 is live. Here’s what you can expect …_
+
+### SURRENDER
+
+Surrender as a feature isn’t about giving up; it’s about packing as much incredible gameplay as possible into a single Vainglory session.  When you’re convinced you can’t win because of an insurmountable disadvantage, you don’t have to drag things out. You can just get out … and get into your next match.
+
+**Here’s how it works:**
+
+* **Tap on the scoreboard** \(the “crossed-swords” icon\) and then “SURRENDER” to start a vote.
+* **Your allies will see the surrender options appear. **Tap the checkmark \(and confirm\) to vote to surrender. Tap the “X” to decline.
+* **Majority rules. **If your entire team is present, two affirmative surrender votes will end the match in a defeat. If any of your allies have DC’d or AFK’d, they will automatically vote in favor of surrender. However, an absent player will not start a surrender vote. So, even if you’re all alone, you can play it out if you want to see how long you can last \(or if you can pull off the most glorious of victories\). But when you’ve had enough, you’ll have the votes you need.
+* **If you start a surrender vote and it fails,** you will not be able to ask for surrender again for a few minutes. \(No fun to deal with a pessimistic spammer.\)
+* **Surrender is not available until 10 minutes **into the match.
+
+A word of caution: Some of the best wins you’ll ever have will come after a declined surrender vote. There is nothing quite like a come-from-behind victory—either through superior skill or superior tactics. Think hard before accepting a surrender proposal. You might be just one crucial teamfight away from turning things around in epic fashion.
+
+### THE NEXT HERO LOOMS … {#yui_3_17_2_1_1409800797459_518498}
+
+![](http://vainglorygame.flywheelsites.com/wp-content/uploads/2014/09/img2.png)
+
+**Krul, the Tortured Undead, **is coming soon. We’ve added his splash art to the Hero Select screen, although you can’t play him just yet. We’re still testing balance tweaks to his kit, but we can’t wait to get him into your hands … so he can rip your opponents to pieces! Want to hear Krul for the first time and read some of his ominous story? [Check this out](https://www.vainglorygame.com/news/2014/7/2/krul-the-tortured-undead).
+
+### GLAIVE SPEAKS!
+
+Glaive is the first character to gain a voice, marking a new milestone for our pantheon of heroes in the Halcyon Fold.  You may have already heard some early tracks in lore stories about [Glaive the Grangor](https://www.vainglorygame.com/news/2014/6/25/glaive-the-grangor) and [Glaive meeting Ringo for the first time](https://www.vainglorygame.com/news/2014/6/27/glaive-meets-ringo). But now, you can hear all the lines as Glaive moves, attacks and yes, dies. Glaive will also tell one of his jokes when you … well … go ahead and see if you can figure that out yourself! Most importantly, this is just the first in a series of updates to give voice to all of Vainglory’s heroes. We place a great emphasis on creating fully realized characters with rich personalities and histories, and few things tell that story better than hearing your favorite hero’s voice come alive in-game!
+
+### SMARTER KRAKEN & ‘THE ACADEMY’ \(UPDATE\)
+
+Recently, threads started appearing in the forums about how to attack the Kraken with a ranged hero from an angle that prevented the Kraken from fighting back. That was obviously unintentional and an important enough issue that we prioritized fixing the Kraken for this update over the release of the previewed Academy section. So, the Kraken can add one more to its list of victims. The result is a smarter Kraken that will better recognize when a hero is out of reach and instead return to his pit to regenerate health. You’re welcome. The Academy will instead debut in update 1.0.12.
+
+### GAMEPLAY & BALANCE TWEAKS
+
+#### ADAGIO UPDATES
+
+_Adagio gets a slight nerf so that he can’t exploit early-game energy items._
+
+* **Adagio’s base energy** raised from 300 to 400; energy raised from 2.0 to 2.66
+* **Gift of Fire** energy cost raised from 90 to 120
+* **Agent of Wrath** energy cost raised from 80 to 104
+* **Verse of Judgement** energy cost raised from 120 to 140
+
+“Why give Adagio more energy, but also raise his energy costs? Because Adagio was benefitting too much from energy items. In early game, buying a single Energy Battery allowed Adagio to continuously spam spells, which made it possible to power-farm and power-level with little risk.  We wanted to nerf Adagio slightly, but we HATE nerfing what makes a hero awesome.  Adagio is and should always be known for powerful spells, so it felt wrong to lower their power. Instead, we now require Adagio players to be more judicious with their energy use—and they can’t buy their way out of energy constraints with a single Tier 1 item.”  —Game designer SurpriseBirthday
+
+#### SIMULTANEOUS MOVE SPEED BOOSTS NO LONGER STACK
+
+_Smacking a dash ability and a boots active will no longer blast you into hyperspace._
+
+“In this update, we changed how speed boosts work slightly. Heroes will only move as fast as the fastest speed boost currently affecting them, but they will no longer move as fast as ALL the speed boosts affecting them, stacked on top of each other.
+
+“We’ve been playing with this movement speed style internally at The Lair and find it a better improvement overall. It helps make some of the frustrating “always escape” heroes balanced and effective for all players involved.” —Game Design Miniboss CaptainNeato
+
+### NEW MATCH-END GRAPHICS
+
+At the moment of victory, defeat or surrender, you will be met with vainglorious new artwork.  We think it’s a big improvement. Let us know if you agree!
+
+### MATCHMAKER IMPROVEMENTS
+
+The work goes on. … We will continue to pull levers, flip switches and rewire until the Matchmaker is your best friend! \(Well, maybe not that far, but at least not a source of angst.\)
+
+### PERFORMANCE IMPROVEMENTS
+
+If you’re having a stability or performance issue, email: [feedback@superevilmegacorp.com](mailto:feedback@superevilmegacorp.com).
+
+* Fixed a bug that could prevent your entire Friends list from displaying.
+* Misc. performance improvements and bug fixes.
+
+Join the conversation [in the forums](http://forums.vainglorygame.com/) and let us know what you think of these updates!
+

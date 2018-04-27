@@ -1,0 +1,53 @@
+---
+description: 'June 12, 2014'
+---
+
+# 1.0.10 Notes
+
+App Update 1.0.10: Strength In Numbers
+
+_Update 1.0.10 is live. Here’s what you can expect …_
+
+#### FRIENDS LIST REVAMP
+
+It’s incredible to see how many players are using the new Team Queuing feature to form all-star \(and AFK-free\) trios. The forums have been ablaze with [players looking for solid teammates ](http://forums.vainglorygame.com/discussion/425/the-ultimate-team-queuing-thread-find-your-teammates/p1)and reports of insane team vs. team matches. That said, your actual Friends list has been a relatively impenetrable black hole with little obvious value. Update 1.0.10 changes all that with a host of improvements. Now you can:
+
+* Create a party from the Friends List
+* “Favorite” friends, who will bubble toward the top of your Friends List. \(Available friends will always take priority.\)
+* See friends as “busy” when in parties
+* Add and delete friends more smoothly
+* See your party after completing a team match. \(You don’t need to click back into PARTY anymore.\)
+
+We believe social and team experiences are a cornerstone of great play. We still have a ton of work to do on this front _\(cough cough chat cough cough\), _but with this update we take the next steps toward realizing this vision.
+
+#### SIGNUP AND LOGIN REDESIGNED
+
+You’ll discover a new layout and interactions to make this speedier and easier.
+
+#### MATCHMAKER UPDATES: ESTIMATED TIMES & MORE
+
+If we did this right, you should now see a pretty accurate timer estimating how long your wait will be before your match kicks off. And under the hood, we’ve made some very significant Matchmaker updates to improve the criteria for who ends up in matches with you. This includes better factoring in the awesome power of pre-made teams.
+
+#### FRIENDS & NEWS BADGES
+
+It’s easy to get into a rhythm of entering the app and jumping straight into a match—not realizing you have friend requests waiting or that there’s something new to check out. Now, when you have new friend requests, a number will appear next to Friends on the main menu. When there are News features you haven’t seen, you’ll see a number next to News. Hope this helps!
+
+#### ‘CREATE PARTY’ IMPROVEMENTS
+
+_Here’s the list of goodies:_
+
+* Players now appear “Busy” when in the Matchmaker or already in parties.
+* Players in your party now appear blue in the party’s list of friends.
+* Notifications have been smoothed out and cleaned up to be more accurate.
+* Fixed a few player-reported bugs related to the introduction of Party Queuing.
+* Misc. performance improvements and bug fixes
+
+#### MISC. TWEAKS
+
+* The ‘Shop’ button now appears near the top of the screen when players are dead.
+* Fixed a crash some players reported that occurred rarely while they were selling items in the shop.
+
+Let us know [in the forums](http://forums.vainglorygame.com/) how we did!
+
+—PlayoffBeard
+
