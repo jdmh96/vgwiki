@@ -1,6 +1,6 @@
 # Fortress
 
-![](../../.gitbook/assets/image%20%28299%29.png)
+![](../../.gitbook/assets/image%20%28300%29.png)
 
 #### Aggressive pack leader who swarms the enemy with great speed.
 

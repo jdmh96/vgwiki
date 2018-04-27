@@ -1,6 +1,6 @@
 # Celeste
 
-![](../../.gitbook/assets/image%20%28287%29.png)
+![](../../.gitbook/assets/image%20%28288%29.png)
 
 #### Back-line mage with heavy area damage & a stun.
 

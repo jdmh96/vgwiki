@@ -59,7 +59,7 @@ Taka throws a smoke bomb at his feet & becomes invisible. While stealthed, Taka 
 
 ## Ultimate: X-Retsu
 
-![X-Retsu](../../.gitbook/assets/image%20%28307%29.png)
+![X-Retsu](../../.gitbook/assets/image%20%28308%29.png)
 
 Taka bursts through his target for massive damage & gains Ki stacks. The target suffers a mortal wound \(reduced healing\) & takes damage per second for the next 3s. The wound's duration is refreshed whenever Taka Mortal Strikes this target.
 

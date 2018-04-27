@@ -6,7 +6,7 @@
 
 ## Heroic Perk: Boomstick
 
-![Boomstick](../../.gitbook/assets/image%20%28353%29.png)
+![Boomstick](../../.gitbook/assets/image%20%28354%29.png)
 
 After not attacking for 1.6s, Gwen's next basic attack is a Boomstick shot that deals bonus damage.
 
@@ -26,7 +26,7 @@ After not attacking for 1.6s, Gwen's next basic attack is a Boomstick shot that 
 
 ## Abililty A: Buckshot Bonanza
 
-![Buckshot Bonanza](../../.gitbook/assets/image%20%28358%29.png)
+![Buckshot Bonanza](../../.gitbook/assets/image%20%28359%29.png)
 
 Gwen blasts enemies in the target direction, dealing weapon damage to all targets in a cone. Enemies hit by this ability are slowed & revealed for 2s.
 

@@ -30,7 +30,7 @@ Lorelai's abilities leave pools of water on the ground. While on a pool, Lorelai
 
 ## Ability A: Fish Food
 
-![Fish Food](../../.gitbook/assets/image%20%28282%29.png)
+![Fish Food](../../.gitbook/assets/image%20%28283%29.png)
 
 Lorelai calls upon her aquatic friends at the target location.
 

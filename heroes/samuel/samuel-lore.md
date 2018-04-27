@@ -223,7 +223,7 @@ Above the bed, the sleep-spider wove into its web a shimmering silken depiction 
 
 
 
-![](../../.gitbook/assets/image%20%28333%29.png)
+![](../../.gitbook/assets/image%20%28334%29.png)
 
  Samuel emerged from his rented island room sullen, his cheeks gaunt, dressed all in black. He walked past hammocks where the locals napped away the hot afternoon, couples snoring together in a tangle of limbs, mothers curled around little children like shells around peas. Away from the dwellings he found a handful of goats gnawing on shrubs; honeybees dove through tall bamboo to rummage inside of flowering beans, zucchini and asparagus. In the garden it was difficult to believe that the island was the shell of the giant and ancient titanback named Archelon, floating his annual way around the world.
 
@@ -427,7 +427,7 @@ Reim stood at the portal’s source, palm out as Lyra’s face turned blue. Icic
 
 
 
-![](../../.gitbook/assets/image%20%28313%29.png)
+![](../../.gitbook/assets/image%20%28314%29.png)
 
 ## ALTERNATE FATES
 
@@ -435,7 +435,7 @@ Reim stood at the portal’s source, palm out as Lyra’s face turned blue. Icic
 
 #### 'THE DOOR AT THE TOP OF THE STAIR'
 
-![I ruin your day to improve your life.](../../.gitbook/assets/image%20%28288%29.png)
+![I ruin your day to improve your life.](../../.gitbook/assets/image%20%28289%29.png)
 
 On the cold Haunting Night, the students at the Gythian Mage Academy tucked up in bed with hot bricks by their feet and fires glowing in the hearths, their doors locked. The most provincial students had shoved bureaus and chairs up against the doors, as if that would protect them.
 
@@ -481,7 +481,7 @@ Samuel strode past her to the glass case where the wand named Verdict was displa
 
 #### 'BE THE MACHINE'
 
-![Let&apos;s...evolve.](../../.gitbook/assets/image%20%28390%29.png)
+![Let&apos;s...evolve.](../../.gitbook/assets/image%20%28391%29.png)
 
 They say the world is coming to an end.
 
