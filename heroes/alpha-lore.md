@@ -2,7 +2,7 @@
 
 ## ‘WHAT KRUL SEEKS’
 
-![I can feel it, I&apos;m afraid](../../.gitbook/assets/image%20%281%29.png)
+![I can feel it, I&apos;m afraid](../.gitbook/assets/image%20%281%29.png)
 
 “Do it!” roars the undead monster at the round metal eye of the turret, half grown over with brambles and rattan. “Put a hole in me! Blow me apart!”
 
@@ -44,7 +44,7 @@ He allows himself one agonized scream before stalking back into the bush. There 
 
 
 
-![I can&apos;t stop! HELP!! System rebooting. Standby](../../.gitbook/assets/alpha_tease.jpg)
+![I can&apos;t stop! HELP!! System rebooting. Standby](../.gitbook/assets/alpha_tease.jpg)
 
 The dark room rippled with an eerie, surgical-bright glow centered on a glass tank at the center. Inside, a pale woman floated in a bowed shape, belly highest, swaying, her shaved head thrown back as if in laughter. Tubes snaked inside the glass and attached to nodes in her chest and temples. Great wounds in her torso had been stitched and bound together with white bandages. There was a low hum, the sour smell of chemicals and an echoing rhythmic beep that matched the slow beat of her heart.
 
@@ -64,7 +64,7 @@ The two Stormguard women looked at one another, then back at the tank. “We ret
 
 ## ‘THE DESTRUCTION’
 
-![Target scan. Organic material. Risk, low](../../.gitbook/assets/image%20%28317%29.png)
+![Target scan. Organic material. Risk, low](../.gitbook/assets/image%20%28317%29.png)
 
 #### —— Hullo, Beauty… —— Hullo… —— Hullo Beaut-beaut-bee… \#~$ REBOOT INITIATED: STAND BY… … BUFFERING… … TARGET DETECTED –&gt;ENGAGING.
 
@@ -125,7 +125,7 @@ The room erupted in flashing blue magic and the roars of Second Boss. The machin
 
 
 
-![Mission: fiifiiiififind corn, yarn, garden. Storm guard.](../../.gitbook/assets/alpha000_86-e1481587231232%20%281%29.jpg)
+![Mission: fiifiiiififind corn, yarn, garden. Storm guard.](../.gitbook/assets/alpha000_86-e1481587231232%20%281%29.jpg)
 
 Daisy squeezes into a corner of the workout room, bare feet sunk into the mat, arms bent, hiding her face behind bruised forearms and thick leather boxing gloves. Kestrel, a year older at fifteen, weaves close and strikes Daisy’s obliques, tight to cramping; when her arms drop, the strikes come at her jaw and temples. Tears slide out of Daisy’s swollen eyes, mixing with blood and snot from her nose. A hit to the belly sucks the air out of her and she crumples, arms over her head.
 
@@ -233,7 +233,7 @@ Catherine rose, shaking, to her knees. The arcshield smoldered. She tossed it do
 
 #### 'MELTING DAY'
 
-![Locating position. Location position. Locating, butter.](../../.gitbook/assets/alpha_tinman_splash.jpg)
+![Locating position. Location position. Locating, butter.](../.gitbook/assets/alpha_tinman_splash.jpg)
 
 The lion and the scarecrow followed a line of marching minions, each carrying a bowl of ice cream, to the tin castle’s tin courtyard. Tin flowers bloomed all around a tin fountain from which steaming coffee bubbled. At the top of the fountain stood the Tin Queen of the West.
 
@@ -293,7 +293,7 @@ Now, people come from the North and South and East to watch the Annual Minion Wa
 
 
 
-![I won&apos;t! Please!! No more!!! Rebooting. Standby.](../../.gitbook/assets/alpha_horror.jpg)
+![I won&apos;t! Please!! No more!!! Rebooting. Standby.](../.gitbook/assets/alpha_horror.jpg)
 
 She’s going to come back. She always comes back, and at first her mind is fuzzy and she doesn’t remember our names, but then she remembers and she plays with us again. Her mama put us all up in the attic in a box so I set up the teacups here. I took the chipped one like always, the one she threw the first time she had to go away. She never likes to go away but her mama cries and her daddy carries her and we all watch, very still like she taught us until she comes back. When she comes back, she dresses me up like she dressed when she was away, and she plays like the grownups and in a deep-deep voice she asks me questions like
 
@@ -325,7 +325,7 @@ It’s been a long time since she went away, but she’s going to come back beca
 
 
 
-![Internal compass warped. Retrying.](../../.gitbook/assets/horror-alphat2.jpg)
+![Internal compass warped. Retrying.](../.gitbook/assets/horror-alphat2.jpg)
 
 You think she’ll come back to us? You’re dumb. She\_can’t\_come back know why? Because she can hear the quiet inside voices of the grownups and grownups are afraid, so they make her stay in a little room with a little window.
 
@@ -337,7 +337,7 @@ You have just that ugly jacket but I have the pretty-pretty dress and the pretty
 
 
 
-![I&apos;m a monster.](../../.gitbook/assets/fullhd_hor-1.jpg)
+![I&apos;m a monster.](../.gitbook/assets/fullhd_hor-1.jpg)
 
 We poked out the eyes of the Bad Doctors with our sharp scissor points, and we took their keys, and then I colored my shoes pretty red in the mess we made in the hallways. “Look at me; look what I can do!” I said, twirling in the slippy-slidey, but the other dollies said “Come_on_, we have to find her.”
 
