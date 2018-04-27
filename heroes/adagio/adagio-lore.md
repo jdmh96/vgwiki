@@ -2,6 +2,8 @@
 
 ## ‘THE ADVICE NOT GIVEN’
 
+![Sure, no time like the present](../../.gitbook/assets/image%20%28260%29.png)
+
 Ages ago, the desert people learned to heat the pink, blue and white crystal sand of the desert to make glass, and from it they created a city so strong, glittering and beautiful that even the seraphim took notice.
 
 Adagio was not like his siblings, dabbling in the idiocies of humankind – why should he, when the silly creatures died off in a blink? – but he had taken a liking to the Glass City and was not pleased to see it destroyed. Flying over the glass ruins, he watched lightning spark in the dark, oily smoke rising from the fire breath of monsters – the humans called them so, though Adagio knew that Churnbeasts were just a natural part of the world’s endless cycle of annihilation and regrowth.
@@ -62,9 +64,9 @@ Adagio’s expression, for a moment, softened. “What the Churn does not kill, 
 
 “I gave no…” But before Adagio could finish his thought, the ground beneath Idris crumbled and the sand rose in a spectacular swirl. Then the young man was gone from the dune, and Adagio could only look after him, his arms crossed, shaking his head. “Once an eon or so,” he murmured, “a mortal casts an interesting shadow.”
 
-![Sure, no time like the present](../../.gitbook/assets/idris_orientalist_lore1_1000.jpg)
-
 ## ‘THE HOUSE OF INSIGHT’
+
+![They will flee before me.](../../.gitbook/assets/image%20%28255%29.png)
 
 Idris appeared inside the Glass City coughing, a painful sting in his nose when he tried to inhale, his eyes pouring water, the sharp chakram dropping from his fist. He wrapped his turban around his mouth and nose but it was no respite from the swirling green-gray smog. His skin burned even beneath his sandstorm-proof clothing. He dropped to his knees, choking, blind but aware on all sides of things waking, sniffing and growling. He tried to escape in the same way that he had come, but he was gripped by fear and could not move. So he would die like this, smothered, sniveling, helpless.
 
@@ -92,9 +94,9 @@ Idris whirled around and the display whirled too, so that what was behind him sh
 
 In the year of nightly battles he had seen many kinds of Churnbeasts, horrific evolutions of animals and plants, but what slithered through the door was another thing altogether, a thing fashioned after a giant serpent but made of steel and the conjoined bodies of two women, their fingers mutated to resemble viper fangs, tubes and wires grafted into their flesh as if grown there, a single glowing eye separating their torsos. It was a sickening amalgam of wildlife, humanity and technology. The serpent slithered in a spiral so that one and then the other of the sisters faced up, and Idris could see that they had been beautiful once.
 
-![They will flee before me.](../../.gitbook/assets/idris-lore2%20%281%29.jpg)
-
 ## ‘RANA AND AYAH’
+
+![Beautiful things deserve to be cherished](../../.gitbook/assets/image%20%28254%29.png)
 
 Adagio gazed into the mists. He knew well what lay at the center of the ruined city, for he had watched the Churn overtake the desert before; the earthquakes had crumbled the crystal peaks to the dust that mankind would later name The Shimmer. He had seen to the building of the Fabled Well himself, had set it in a place so hot and desolate that he’d thought it would be safe from civilization. And yet the people had come, drawn to its power. They had created beauty within the desert. He had dared to hope that the people’s ingenuity would triumph, and in the end he had been wrong.
 
@@ -134,8 +136,6 @@ The man who stumbled to the shimmering sand before Adagio was not the same man w
 
 Adagio sighed. How annoying it was to care for humans. From his hands burst the gift of fire; it flooded into the dying man, radiating beneath his skin. “This will revive you, but not even I can draw the poison from your blood. The Churn will always call to you.”
 
-![Beautiful things deserve to be cherished](../../.gitbook/assets/idrisadagio3.jpg)
-
 Idris’ shining eyes opened and he grasped for the book in the sand. “But I have this. Now we can win.”
 
 “Oh dear, no.” Adagio laughed, but then he met Idris’ steady, glowing gaze. His tone softened. “Your people are brave, but how will they engineer the devices in this book? With spears and goats and campfires? No; this book must go to those around the world who can use it. I suppose I can take you to the Technologists.”
@@ -150,7 +150,11 @@ Idris clenched his fists. “I will go with you, then. But I swear I will return
 
 ## ‘DRAGON FALL’
 
- Before the naga heard Adagio’s song, everything was the same always. She tended to her coral gardens; she danced with pearls for the amusement of the piranhas; she gossipped with the clams; she avoided jellies and anemones; and she tickled the belly of Archelon each year when he passed by.
+ 
+
+![This is so fun](../../.gitbook/assets/image%20%28206%29.png)
+
+Before the naga heard Adagio’s song, everything was the same always. She tended to her coral gardens; she danced with pearls for the amusement of the piranhas; she gossipped with the clams; she avoided jellies and anemones; and she tickled the belly of Archelon each year when he passed by.
 
  But then she heard the song, and for the first time in her long life, she was curious.
 
@@ -205,8 +209,6 @@ Idris clenched his fists. “I will go with you, then. But I swear I will return
  “No,” said the queen, though again she kept it anyway. “But I have plenty of oranges.”
 
  And so Lorelai dove again and brought up another egg, and another, and another, until the queen’s guards were overburdened with eggs of all colors. 
-
-![This is so fun.](../../.gitbook/assets/1000px_lorolei_lore%20%281%29.jpg)
 
 At last she brought up an egg so deep black that it made Lorelai uneasy just to look at it. She was glad to hand it over.
 

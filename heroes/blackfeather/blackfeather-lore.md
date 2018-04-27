@@ -80,6 +80,8 @@ Phinn and Blackfeather began their ascent.
 
 ## ‘NO USE RESISTING!’
 
+![ No use resisting!](../../.gitbook/assets/image%20%28353%29.png)
+
 The balcony gave a disconcerting creak under Phinn’s clawed bulk. Blackfeather drew his sword before bursting through the door to Princess Malene’s silken-pillowed, antique-furnished, monogrammed-everything room. The princess sat on a mahogany curule chair, her gown poofed over its sides, peering at her pretty young face in a silver mirror. The mirror reflected no shock when her abductor entered, though one of her eyebrows rose to a judgmental point when Blackfeather tore the rose from his teeth.
 
 “Resistance is useless, Princess. I have come to …”
@@ -103,10 +105,6 @@ The princess wrenched her face away from Blackfeather’s grasp. “What is_that
 Phinn stomped in his slow way to a gilded birdcage, inside of which perched a small white bird. “That’s a rare bird. Is it a Trostanian White?” he said, then whistled through the fork in his tongue.
 
 Princess Malene bopped Blackfeather over the head with her mirror and, while he wailed, sashayed over to a ring box by her bed. “Obviously. One of fifty left in the world.”
-
-
-
-![No use resisting!](../../.gitbook/assets/lore-painting3_1000px.jpg)
 
 “Pretty thing. Shouldn’t be in a cage. What’s its name?” Phinn unlatched the cage door with surprising dexterity and the bird hopped onto his head.
 
@@ -364,6 +362,8 @@ Susie nodded in agreement.
 
 ## ‘HAPPILY EVER AFTER’
 
+![I may be a frog, but I have a very sexy ribbit.](../../.gitbook/assets/image%20%28102%29.png)
+
  Malene felt a feather-soft tickle on her nose and opened her eyes.
 
  “Phinn! She’s awake!”
@@ -437,10 +437,6 @@ The witch twirled the mirror in her hand. “He didn’t know the mirror’s pur
 Malene leaped to her feet – then stumbled from the painful poking-pin sensation of her limbs waking. “You _will_ return it.”
 
 “No,” said the witch. “But I will return _this_.” She rapped her knuckles on the mirror’s back, and out of the glass swirled a dark shadow that collected itself into the shape of Malene.
-
-
-
-![I may be a frog, but I have a very sexy ribbit.](../../.gitbook/assets/1000px_malene_lore.jpg)
 
 The rescuer clamped his fist around the hilt of his sword, but Malene stopped him with one raised finger. The shadowy mirror-Malene’s finger raised, too. Their fingertips touched.
 

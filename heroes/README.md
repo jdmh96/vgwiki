@@ -286,10 +286,8 @@
 | ![Bramblethorn Munions](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Petal-P-bramblethorn-munions.png) | **Heroic Perk: Munions** |
 | --- | --- | --- | --- |
 | ![Bramblethorn Seed](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Petal-A-bramblethorn-seed.png) | **Ability A: Brambleboom Seeds** |
-| ![Yay, Pets!](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Petal-B-yay-pets.png) | **Ability B: Trampoline!** |
+| ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9jiwk9ds21Hoy5QAcA%2F-LAlgmOFbeFVxQnRitZJ%2F-LAlljiwtHhunRu9Xykc%2Fimage.png?alt=media&token=a6f59687-4fde-4b3f-930d-5b34ace85fbd) | **Ability B: Trampoline!** |
 | ![Spontaneous Combustion \[Ultimate\]](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Petal-C-spontaneous-combustion.png) | **Ultimate: Spontaneous Combustion** |
-
-![](../.gitbook/assets/image%20%28272%29.png)
 
 ## Phinn
 
@@ -385,19 +383,15 @@
 
 ![](../.gitbook/assets/taka_splash.png)
 
-|  | **Heroic Perk: House Kamuha** |
+| ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9jiwk9ds21Hoy5QAcA%2F-LAlgmOFbeFVxQnRitZJ%2F-LAliwEHCzzDXB-NTcGR%2Fimage.png?alt=media&token=27610de1-523b-4cc6-ab9b-18d5e3e2e8f1) | **Heroic Perk: House Kamuha** |
 | --- | --- | --- | --- |
 | ![Kaiten](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Taka-A-kaiten.png) | **Ability A: Kaiten** |
 | ![Kaku](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Taka-B-kaku.png) | **Ability B: Kaku** |
 | ![X-Retsu \[Ultimate\]](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Taka-C-x-retsu.png) | **Ultimate: X-Retsu** |
 
-![](../.gitbook/assets/image%20%2816%29.png)
-
-
-
 ## Tony
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 | ![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2019/10/Tony_PERK.jpg) | **Heroic Perk: Come At Me** |
 | --- | --- | --- | --- |

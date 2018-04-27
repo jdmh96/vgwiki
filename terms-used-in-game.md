@@ -14,7 +14,7 @@ Attack Damage
 
 ## Agro
 
-To have turret agro means the turret is targeting \(therefore attacking\) you. You can lose tuuret agro by moving out of range of the turret. You gain turret agro by being the first to step within the turrets range of attack.
+To have turret agro means the turret is targeting \(therefore attacking\) you. You can lose turret agro by moving out of range of the turret. You gain turret agro by being the first to step within the turrets range of attack.
 
 If you enter within range of the turret after your minions, you can still get tureet agro by attacking an enemy hero while under the turret.
 

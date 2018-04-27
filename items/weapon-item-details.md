@@ -1,4 +1,4 @@
-# Weapon Item Details
+# Weapon Items
 
 ## Tier 1
 
@@ -184,7 +184,7 @@
 
 ## Spellsword 
 
-![](../.gitbook/assets/image%20%28244%29.png)
+![](../.gitbook/assets/image%20%28247%29.png)
 
 * Cost: 2700\(750\)    gold
 * Stats:

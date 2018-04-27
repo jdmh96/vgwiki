@@ -1,6 +1,6 @@
 # Adagio
 
-![](../../.gitbook/assets/image%20%28230%29.png)
+![](../../.gitbook/assets/image%20%28233%29.png)
 
 #### Team healer & damage enhancer with a large area stun. A medium difficulty hero.
 
@@ -21,7 +21,7 @@ Whenever enemies burning with Arcane Fire take damage from any source, Adagio re
 * Range: 6.6
 * Move Speed: 3.2
 
-### Ability A: Gift of Fire
+## Ability A: Gift of Fire
 
 ![Gift of Fire](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Adagio-A-gift-of-fire.png)
 
@@ -29,7 +29,7 @@ Whenever enemies burning with Arcane Fire take damage from any source, Adagio re
 
 Heals target ally, then splashes Arcane Fire onto nearby enemies. If Adagio heals himself, he'll also apply a heavy slow to nearby enemies.
 
-#### Arcane Fire \(status effect\):
+### Arcane Fire \(status effect\):
 
 Burns the target every second & causes Adagio's other abilities to deal more damage.
 
@@ -48,7 +48,7 @@ Burns the target every second & causes Adagio's other abilities to deal more dam
 | Burst Heal | 40 | 60 | 80 | 100 | 140 | 30% |  |
 | Heal/Sec | 15 | 20 | 25 | 30 | 35 | 10% |  |
 
-### Ability B: Agent of Wrath
+## Ability B: Agent of Wrath
 
 ![Agent of Wrath](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Adagio-B-agent-of-wrath.png)
 
@@ -67,9 +67,9 @@ Temporarily boosts an allied hero's next several basic attacks for 6s.
 | Arcane Fire Bonus | 5 | 15 | 25 | 35 | 55 | 40% |  |
 | Self-cast    Bonus | 5 | 10 | 15 | 20 | 30 | 20% |  |
 
-### Ultimate: Verse of Judgement
+## Ultimate: Verse of Judgement
 
-![Verse of Judgement \[Ultimate\]](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Adagio-C-verse-of-judgement.png)
+![Verse of Judgement ](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2015/05/Adagio-C-verse-of-judgement.png)
 
 Adagio channels for 2s then deals heavy damage to all enemies in a wide ring around him. Enemies burning with Arcane Fire are also stunned.
 

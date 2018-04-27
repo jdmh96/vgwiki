@@ -18,7 +18,7 @@ When alive, Alpha's special energy bar shows the time until Infinite Reboot is a
 * Reboot duration: 4.5s \(-20% of Bonus Energy Recharge\)
 * Alpha revives with her Prime Directive & Core Charge ability cooldowns refreshed.
 
-### Stats Lvl 1-12
+#### Stats Lvl 1-12
 
 * Health: 761 - 2493
 * Energy: 0

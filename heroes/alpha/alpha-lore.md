@@ -2,6 +2,8 @@
 
 ## ‘WHAT KRUL SEEKS’
 
+![I can feel it, I&apos;m afraid](../../.gitbook/assets/image%20%281%29.png)
+
 “Do it!” roars the undead monster at the round metal eye of the turret, half grown over with brambles and rattan. “Put a hole in me! Blow me apart!”
 
 If only it would work.
@@ -23,10 +25,6 @@ Her response is the slow pulling of her weapon from the rocks, that shing of ste
 “You cannot protect it from me,” he growls. “Best run now and let me at it, before I destroy your best assets.”
 
 She leaps, falling hard onto him, sword front, magic buzzing around her like bees. She is good with her weapon, well trained. He might have respected her, once. She gets a few slashes into him, his half-dead flesh sagging apart where she aims. He swings at her, hits only air, circling, snorting like a devil, dodging as best he can until she turns the sword over her shoulder and pounds him good in the brow with the hilt. He lunges, closes the gap between them, roaring his dead breath onto her, then her valiant cry is cut short by his fist round her throat.
-
-
-
-![I can feel it. I&apos;m afraid.](../../.gitbook/assets/krul-lore2.jpg)
 
 “Pretty thing.” He licks her cheek while she squirms; her sword clatters on the stones between them and he kicks it away. He’s had enough of swords. A squeeze, and her neck breaks in his grip. Her life flows away from her and into him and she collapses, forgotten the moment he steps over her, toward the turret.
 
@@ -65,6 +63,8 @@ The two Stormguard women looked at one another, then back at the tank. “We ret
 “Yes,” said the queen. She turned from the tank to smile in her terrifying, eyeless way, at the only two Stormguard who had chosen to return. “And you, my loyal girls, will help me test her strength.”
 
 ## ‘THE DESTRUCTION’
+
+![Target scan. Organic material. Risk, low](../../.gitbook/assets/image%20%28304%29.png)
 
 #### —— Hullo, Beauty… —— Hullo… —— Hullo Beaut-beaut-bee… \#~$ REBOOT INITIATED: STAND BY… … BUFFERING… … TARGET DETECTED –&gt;ENGAGING.
 
@@ -114,10 +114,6 @@ Screams, and the clashing of steel from outside, interrupted. The Stormguard jum
 The screams outside stopped. The outer door slid open, letting in the night’s birdsongs and thick summer air.
 
 “Now,” ordered Marelde, and the room filled with the snap and buzz of magic as a heavy sword split apart the room’s paper wall from ceiling to floor and a machine stepped inside.
-
-
-
-![Target scan. Organic material. Risk, low](../../.gitbook/assets/alpha1.jpg)
 
 The room erupted in flashing blue magic and the roars of Second Boss. The machine moved forward without pause, slicing through its former comrades, deflecting the magic bolts, Third Boss’ blades clinking off its armor. Within minutes, Alpha stood in the post-battle silence scanning the room with glowing eyes. Six women lay broken and bleeding at her feet; two bosses shook with terror in a corner. Her sword had cleaved the table, and Marelde with it, in half.
 
@@ -236,8 +232,6 @@ Catherine rose, shaking, to her knees. The arcshield smoldered. She tossed it do
 ### ‘HEARTLESS’ ALPHA 
 
 #### 'MELTING DAY'
-
-
 
 ![Locating position. Location position. Locating, butter.](../../.gitbook/assets/alpha_tinman_splash.jpg)
 

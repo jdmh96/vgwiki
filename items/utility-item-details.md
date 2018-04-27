@@ -1,4 +1,4 @@
-# Utility Item Details
+# Utility Items
 
 ## Tier 1
 

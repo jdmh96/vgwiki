@@ -1,4 +1,4 @@
-# Crystal Item Details
+# Crystal Items
 
 ## Tier 1
 
@@ -165,7 +165,7 @@
 
 ## Spellfire
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 * Cost: 2700\(1000\)   gold
 * Stats:
@@ -191,7 +191,7 @@
 
 ## Dragon's Eye
 
-![](../.gitbook/assets/image%20%28108%29.png)
+![](../.gitbook/assets/image%20%28110%29.png)
 
 * Cost: 3000\(1300\)   gold
 * Stats:

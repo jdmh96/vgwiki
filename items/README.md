@@ -9,10 +9,10 @@ description: List of all Items by category ad tier (click on the name for detail
 | Image | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [**Tier 1**](weapon-item-details.md#tier-1) |  |
-| ![](../.gitbook/assets/weapon-blade.png) | [Weapon Blade](weapon-item-details.md#weapon-blade) \| Cost: 300 \| Tier1 |
-| ![](../.gitbook/assets/book-of-eulogies.png) | [Book of Eulogies](weapon-item-details.md#book-of-eulogies) \| Cost: 300 \| Tier1 |
-| ![](../.gitbook/assets/swift-shooter%20%281%29.png) | [Swift Shooter](weapon-item-details.md#swift-shooter) \| Cost: 300 \| Tier1 |
-| ![](../.gitbook/assets/minions-foot%20%282%29.png) | [Minion's Foot](weapon-item-details.md#minion's-foot) \| Cost: 300 \| Tier1 |
+| ![](../.gitbook/assets/weapon-blade.png) | [Weapon Blade](weapon-item-details.md#weapon-blade) \| Tier1 |
+| ![](../.gitbook/assets/book-of-eulogies.png) | [Book of Eulogies](weapon-item-details.md#book-of-eulogies) \| Tier1 |
+| ![](../.gitbook/assets/swift-shooter%20%281%29.png) | [Swift Shooter](weapon-item-details.md#swift-shooter) \| Tier1 |
+| ![](../.gitbook/assets/minions-foot%20%282%29.png) | [Minion's Foot](weapon-item-details.md#minion's-foot) \| Tier1 |
 | [**Tier 2**](weapon-item-details.md#tier-2) |  |
 | ![](../.gitbook/assets/heavy-steel%20%281%29.png) | [ Heavy Steel](weapon-item-details.md#heavy-steel) \| Cost:  1150\(850\) \| Tier2 |
 | ![](../.gitbook/assets/six-sins%20%281%29.png) |  [SixSins](weapon-item-details.md#sixsins) \| Cost:  650\(350\) \| Tier2 |
@@ -23,7 +23,7 @@ description: List of all Items by category ad tier (click on the name for detail
 | [**Tier 3**](weapon-item-details.md#tier-3) |  |
 | ![](../.gitbook/assets/sorrowblade%20%281%29.png) | [Sorrowblade](weapon-item-details.md#sorrowblade) \| Cost:  3100\(1300\) \| Tier3 |
 | ![](../.gitbook/assets/serpent-mask.png) | [Serpent Mask](weapon-item-details.md#serpent-mask) \| Cost:  2800\(850\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28252%29.png) | [SpellSword](weapon-item-details.md#spellsword) \| Cost:  2700\(750\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28257%29.png) | [SpellSword](weapon-item-details.md#spellsword) \| Cost:  2700\(750\) \| Tier3 |
 | ![](../.gitbook/assets/poisoned-shiv%20%282%29.png) | [Poisoned Shiv](weapon-item-details.md#poisoned-shiv) \| Cost:  2250\(750\) \| Tier3 |
 | ![](../.gitbook/assets/breaking-point.png) | [Breaking Point](weapon-item-details.md#breaking-point) \| Cost:  2600\(750\) \| Tier3 |
 | ![](../.gitbook/assets/tension-bow%20%281%29.png) | [Tension Bow](weapon-item-details.md#tension-bow) \| Cost:  2150\(600\) \| Tier3 |
@@ -36,9 +36,9 @@ description: List of all Items by category ad tier (click on the name for detail
 | Image | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [**Tier 1**](crystal-item-details.md#tier-1) |  |
-| ![](../.gitbook/assets/crystal-bit%20%281%29.png) | [Crystal bit](crystal-item-details.md#crystal-bit) \| Cost: 300 \| Tier1 |
-| ![](../.gitbook/assets/energy-battery%20%281%29.png) | [Energy Battery](crystal-item-details.md#energy-battery) \| Cost: 300 \| Tier1 |
-| ![](../.gitbook/assets/hourglass%20%281%29.png) | [Hourglass](crystal-item-details.md#hourglass) \| Cost: 250 \| Tier1 |
+| ![](../.gitbook/assets/crystal-bit%20%281%29.png) | [Crystal bit](crystal-item-details.md#crystal-bit) \| Tier1 |
+| ![](../.gitbook/assets/energy-battery%20%281%29.png) | [Energy Battery](crystal-item-details.md#energy-battery) \| Tier1 |
+| ![](../.gitbook/assets/hourglass%20%281%29.png) | [Hourglass](crystal-item-details.md#hourglass) \| Tier1 |
 | [**Tier 2**](crystal-item-details.md#tier-2) |  |
 | ![](../.gitbook/assets/heavy-prism.png) | [Heavy Prism](crystal-item-details.md#heavy-prism) \| Cost:  1050\(750\) \| Tier2 |
 | ![](../.gitbook/assets/eclipse-prism%20%283%29.png) | [Eclipse Prism](crystal-item-details.md#eclipse-prism) \| Cost:  630\(350\) \| Tier2 |
@@ -47,43 +47,43 @@ description: List of all Items by category ad tier (click on the name for detail
 | ![](../.gitbook/assets/chronograph.png) | [Chronograph ](crystal-item-details.md#chronograph)\| Cost:  800\(550\)\| Tier2 |
 | [**Tier 3**](crystal-item-details.md#tier-3) |  |
 | ![](../.gitbook/assets/shatterglass.png) | Shatterglass \| Cost:  3000\(1300\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28314%29.png) | [Spellfire](crystal-item-details.md#spellfire) \| Cost:  2700\(1000\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28324%29.png) | [Spellfire](crystal-item-details.md#spellfire) \| Cost:  2700\(1000\) \| Tier3 |
 | ![](../.gitbook/assets/frostburn.png) | [Frostburn](crystal-item-details.md#frostburn) \| Cost:  2600\(900\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28250%29.png) | [Dragon's Eye](crystal-item-details.md#dragon's-eye) \| Cost:  3000\(1300\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28327%29.png) | [Clockwork](crystal-item-details.md#clockwork) \| Cost: 300 \| Tier3 |
-| ![](../.gitbook/assets/image%20%28223%29.png) | [Broken Myth](crystal-item-details.md#broken-myth) \| Cost:  2700\(750\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28106%29.png) | [Eve of Harvest](crystal-item-details.md#eve-of-harvest) \| Cost:  2600\(850\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28225%29.png) | [Aftershock](crystal-item-details.md#aftershock) \| Cost:  2400\(950\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%2870%29.png) | [Alternating Current](crystal-item-details.md#alternating-current) \| Cost:  2800\(1050\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28253%29.png) | [Dragon's Eye](crystal-item-details.md#dragon's-eye) \| Cost:  3000\(1300\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28337%29.png) | [Clockwork](crystal-item-details.md#clockwork) \| Cost: 300 \| Tier3 |
+| ![](../.gitbook/assets/image%20%28226%29.png) | [Broken Myth](crystal-item-details.md#broken-myth) \| Cost:  2700\(750\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28108%29.png) | [Eve of Harvest](crystal-item-details.md#eve-of-harvest) \| Cost:  2600\(850\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28228%29.png) | [Aftershock](crystal-item-details.md#aftershock) \| Cost:  2400\(950\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%2871%29.png) | [Alternating Current](crystal-item-details.md#alternating-current) \| Cost:  2800\(1050\) \| Tier3 |
 {% endtab %}
 
 {% tab title="Defense" %}
 | Image | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tier 1** |  |
-| ![](../.gitbook/assets/image%20%28261%29.png) | [Oakheart ](untitled.md#oakheart)\| Cost: 300 \| Tier1 |
-| ![](../.gitbook/assets/image%20%2867%29.png) | [Light Shield](untitled.md#light-shield) \| Cost: 250 \| Tier1 |
-| ![](../.gitbook/assets/image%20%28289%29.png) | [Light Armor](untitled.md#light-armor) \| Cost: 250 \| Tier1 |
+| ![](../.gitbook/assets/image%20%28267%29.png) | [Oakheart ](untitled.md#oakheart)\| Tier1 |
+| ![](../.gitbook/assets/image%20%2868%29.png) | [Light Shield](untitled.md#light-shield) \| Tier1 |
+| ![](../.gitbook/assets/image%20%28296%29.png) | [Light Armor](untitled.md#light-armor) \| Tier1 |
 | **Tier 2** |  |
-| ![](../.gitbook/assets/image%20%28125%29.png) | [Dragonheart ](untitled.md#dragonheart)\| Cost:  650\(350\) \| Tier2 |
-| ![](../.gitbook/assets/image%20%28166%29.png) | [Lifespring](untitled.md#lifespring) \| Cost:  800\(500\) \| Tier2 |
-| ![](../.gitbook/assets/image%20%2845%29.png) | [Reflex Block](untitled.md#reflex-block) \| Cost:  700\(400\) \| Tier2 |
-| ![](../.gitbook/assets/image%20%28194%29.png) | [Kenetic Shield](untitled.md#kenetic-shield) \| Cost:  800\(550\) \| Tier2 |
-| ![](../.gitbook/assets/image%20%28307%29.png) | [Coat of Plates](untitled.md#coat-of-plates) \| Cost:  800\(550\) \| Tier2 |
+| ![](../.gitbook/assets/image%20%28127%29.png) | [Dragonheart ](untitled.md#dragonheart)\| Cost:  650\(350\) \| Tier2 |
+| ![](../.gitbook/assets/image%20%28168%29.png) | [Lifespring](untitled.md#lifespring) \| Cost:  800\(500\) \| Tier2 |
+| ![](../.gitbook/assets/image%20%2846%29.png) | [Reflex Block](untitled.md#reflex-block) \| Cost:  700\(400\) \| Tier2 |
+| ![](../.gitbook/assets/image%20%28196%29.png) | [Kenetic Shield](untitled.md#kenetic-shield) \| Cost:  800\(550\) \| Tier2 |
+| ![](../.gitbook/assets/image%20%28317%29.png) | [Coat of Plates](untitled.md#coat-of-plates) \| Cost:  800\(550\) \| Tier2 |
 | **Tier 3** |  |
-| ![](../.gitbook/assets/image%20%28354%29.png) | [Slumbering Husk](untitled.md#slumbering-husk) \| Cost:  1700\(1050\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28248%29.png) | [Crucible](untitled.md#slumbering-husk) \| Cost:  1850\(500\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28352%29.png) | [Fountain of Renewal](untitled.md#fountain-of-renewal) \| Cost:  2300\(700\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28208%29.png) | [Aegis](untitled.md#aegis) \| Cost:  2150\(650\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28120%29.png) | [Metal Jacket](untitled.md#metal-jacket) \| Cost:  2000\(1200\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%2896%29.png) | [Atlas Pauldron](untitled.md#atlas-pauldron) \| Cost:  1900\(1100\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28365%29.png) | [Slumbering Husk](untitled.md#slumbering-husk) \| Cost:  1700\(1050\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28251%29.png) | [Crucible](untitled.md#slumbering-husk) \| Cost:  1850\(500\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28363%29.png) | [Fountain of Renewal](untitled.md#fountain-of-renewal) \| Cost:  2300\(700\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28211%29.png) | [Aegis](untitled.md#aegis) \| Cost:  2150\(650\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28122%29.png) | [Metal Jacket](untitled.md#metal-jacket) \| Cost:  2000\(1200\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%2897%29.png) | [Atlas Pauldron](untitled.md#atlas-pauldron) \| Cost:  1900\(1100\) \| Tier3 |
 {% endtab %}
 
 {% tab title="Utility" %}
 | Image | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Tier 1](utility-item-details.md#tier-1) |  |
-| ![](../.gitbook/assets/sprint-boots%20%282%29.png) | [Sprint boots](utility-item-details.md#sprint-boots)[ ](untitled.md#oakheart)\| Cost: 300 \| Tier1 |
+| ![](../.gitbook/assets/sprint-boots%20%282%29.png) | [Sprint boots](utility-item-details.md#sprint-boots)[ ](untitled.md#oakheart)\| Tier1 |
 | [Tier 2](utility-item-details.md#tier-2) |  |
 | ![](../.gitbook/assets/travel-boots%20%282%29.png) | [Travel boots](utility-item-details.md#travel-boots)[ ](untitled.md#oakheart)\| Cost:  800\(500\) \| Tier2 |
 | ![](../.gitbook/assets/flare-gun%20%283%29.png) | [Flare gun](utility-item-details.md#flare-gun)[ ](untitled.md#oakheart)\| Cost:  600\(300\) \| Tier2 |
@@ -104,11 +104,11 @@ description: List of all Items by category ad tier (click on the name for detail
 | Image | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [ Base consumables](untitled-1.md#base-consumables) |  |
-| ![](../.gitbook/assets/image%20%28312%29.png) | [Healing Flask](untitled-1.md#healing-flask) \| Cost: 300 |
+| ![](../.gitbook/assets/image%20%28322%29.png) | [Healing Flask](untitled-1.md#healing-flask) \| Cost: 300 |
 | ![](../.gitbook/assets/flare.png) | [Flare](untitled-1.md#flare) \| Cost: 25 |
 | ![](../.gitbook/assets/scout-trap%20%281%29.png) | [Scout Trap](untitled-1.md#scout-trap) \| Cost: 50 |
 | ![](../.gitbook/assets/minion-candy.png) | [Minion Candy](untitled-1.md#minion-candy) \| Cost: 100 |
-| ![](../.gitbook/assets/flare-gun%20%281%29.png) | [Flare Loader](untitled-1.md#flare-loader) \| Cost: 300 \| Tier1 |
+| ![](../.gitbook/assets/flare-gun%20%281%29.png) | [Flare Loader](untitled-1.md#flare-loader) \| Tier1 |
 |  | [Scout Tuff](untitled-1.md#scout-tuff) \| Cost: 500\(200\) \| Tier2 |
 |  | [Scout Pack ](untitled-1.md#scout-pack)\| Cost: 500\(250\) \| Tier2 |
 |  | [Super Scout 2000](untitled-1.md#super-scout-2000) \| Cost: 2000\(1000\)\| Tier3 |

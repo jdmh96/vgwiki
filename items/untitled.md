@@ -1,4 +1,4 @@
-# Defense Item Details
+# Defense Items
 
 ## Tier 1
 
