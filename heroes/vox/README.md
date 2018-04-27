@@ -26,7 +26,7 @@ Vox's abilities mark enemies with Resonance. When basic attacking marked enemies
 
 ## Ability A: Sonic Zoom
 
-![Sonic Zoom](../../.gitbook/assets/image%20%28334%29.png)
+![Sonic Zoom](../../.gitbook/assets/image%20%28335%29.png)
 
 Vox dashes in the targeted direction, throwing two basic attacks to the nearest enemy marked by Resonance \(prioritizing heroes\).
 

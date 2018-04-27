@@ -6,7 +6,7 @@
 
 ## Heroic Perk: Partisan's Technique
 
-![Partisan&apos;s Technique](../../.gitbook/assets/image%20%28349%29.png)
+![Partisan&apos;s Technique](../../.gitbook/assets/image%20%28350%29.png)
 
 Lance's basic attacks damage every target along their path. However, his attacks are slow to land & attack speed is less effective on him.
 
@@ -66,7 +66,7 @@ Lance smashes enemies back with his shield, dealing weapon damage & also stunnin
 
 ## Ultimate: Combat Roll
 
-![Combat Roll](../../.gitbook/assets/image%20%28364%29.png)
+![Combat Roll](../../.gitbook/assets/image%20%28365%29.png)
 
 Lance rolls in the target direction. His next basic attack within 2s will strike quickly, dealing bonus crystal damage.
 

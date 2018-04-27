@@ -61,7 +61,7 @@ SAW fires a hurricane of bullets in a set direction for 2s, damaging & slowing e
 
 ## Ultimate: Mad Cannon
 
-![Mad Cannon](../../.gitbook/assets/image%20%28355%29.png)
+![Mad Cannon](../../.gitbook/assets/image%20%28356%29.png)
 
 SAW loads explosive shells into his gun that deal additional damage based on the target's missing health. The shells also deal splash damage based on the amount of crystal power SAW has.
 

@@ -297,7 +297,7 @@ The last trek had no path. Reim was no longer young; some days they made little 
 
 #### 'TROLL BANE'
 
-![Ahh! Now this is my kind of weather.](../../.gitbook/assets/image%20%28363%29.png)
+![Ahh! Now this is my kind of weather.](../../.gitbook/assets/image%20%28364%29.png)
 
 The Valkyrie watched Reim with care as he drank the Draught of Memory. He coughed, bent double and retched. “What is this foul concoction?” he gasped.
 

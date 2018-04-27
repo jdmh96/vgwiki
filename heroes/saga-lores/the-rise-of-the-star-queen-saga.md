@@ -62,7 +62,7 @@ Chaos erupted in the crowd as a squire approached with a golden shield bearing t
 
 ## ‘THE KEY’
 
-![](../../.gitbook/assets/image%20%28384%29.png)
+![](../../.gitbook/assets/image%20%28385%29.png)
 
 The Stormlords held high office and presided over proceedings at court; they made laws and bickered with one another over the Storm Queen’s small favors, and they were discarded at the first sign of dissent or disloyalty. Only one Stormlord differed from the others. Rather than wear the lavish robes and jewels indicative of the Stormlords, Ardan wore power armor. He refused the offered apartment in the queen’s palace and instead kept a constant vigil outside of the queen’s chamber. For his devotion he was given some magic to keep him always awake, and the queen strung the key to her door around his neck with a silver chain. After that, he was called The Key, and the court forgot that he had been called anything else.
 
@@ -176,7 +176,7 @@ Then, there was a solitary shout from behind the gate. The voice of an adolescen
 
 ## 'THE MIRRORED COURT'
 
-![](../../.gitbook/assets/image%20%28312%29.png)
+![](../../.gitbook/assets/image%20%28313%29.png)
 
 The royal party traveled up the winding streets of Mont Lille, torches lighting their way. The going was slow; the crowds pressed into their new monarch, reaching to touch her hair and gown, chanting No more fear! and Liberté, égalité! At the summit of Mont Lille, past grottos and fountains and manicured topiary, they climbed a marble staircase to find the gem-encrusted gate of the Storm Queen’s palace wide open. There, Celeste bade her people to return home and remain vigilant, and the gate closed behind her.
 

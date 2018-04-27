@@ -16,7 +16,7 @@ description: 'Too bad: Corpus was an April Fool''s Joke!'
 
 ## Ability A: Bleating Shriek
 
-![Bleating Shriek](../../.gitbook/assets/image%20%28341%29.png)
+![Bleating Shriek](../../.gitbook/assets/image%20%28342%29.png)
 
  Corpus lets out a shriek that deals crystal damage in a short radius around him, applies a mortal wound to each target and refreshes the dream trance on enemies. Sleeping enemies receive 20% more damage from the shriek and goat power-infused items.
 
@@ -28,7 +28,7 @@ description: 'Too bad: Corpus was an April Fool''s Joke!'
 
 ## Ultimate: Waking Nightmare
 
-![Waking Nightmare](../../.gitbook/assets/image%20%28374%29.png)
+![Waking Nightmare](../../.gitbook/assets/image%20%28375%29.png)
 
  Corpus plunges all sleeping enemies \(globally\) into a waking nightmare, causing them to lose control and attack the nearest ally for 3 seconds. A sleeping enemy with no ally nearby will inflict damage on itself for the duration of the nightmare. Following this duration, all enemies awaken \(trance removed\).
 
