@@ -1,4 +1,4 @@
-# Patch Notes
+# Update Notes
 
 ## UPDATE 1.0.3 NOTES: LET’S BE FRIENDS
 

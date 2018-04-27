@@ -269,7 +269,7 @@ Reim stood at the portal’s source, palm out as Lyra’s face turned blue. Icic
 
 #### 'THE DRAUGHT OF FORGETTING'
 
-![Rotten weather today.](../../.gitbook/assets/image%20%289%29.png)
+![Rotten weather today.](../../.gitbook/assets/image%20%2810%29.png)
 
 After he buried his son, Reim was given the draught of forgetting so he would not die. He spent years after wandering. He walked at the edge of senselessness and had no mind for day or night. He paced the mage tower, then the city, and then his feet took him to a ship full of traders and explorers and swollen-gummed pirates. He paced that ship and would have paced into the jaws of the sea, but a voice in the water forbade him.
 
@@ -285,7 +285,7 @@ He unstrapped the armor and found within it a Valkyrie. “Well isn’t that a t
 
 #### 'THE PATH OF THE VALKYRIE'
 
-![Not so fast! I&apos;m not 81 anymore!](../../.gitbook/assets/image%20%2844%29.png)
+![Not so fast! I&apos;m not 81 anymore!](../../.gitbook/assets/image%20%2847%29.png)
 
 Through the icy peaks melting into forested valleys the pair traveled, the wandering mage and his companion the Valkyrie. Neither gave nor asked for a name from the other; theirs was a friendship with no past or future. The Valkyrie taught Reim how to spot and avoid the troll caves and when they were accosted by a Grangor hunting group, the duo fought together, Reim with his magic and the Valkyrie descending from the sky to attack with a terrifying battle shriek. The fearsome Grangor were reduced to a pile of cat pelts and frozen meat.
 
@@ -297,7 +297,7 @@ The last trek had no path. Reim was no longer young; some days they made little 
 
 #### 'TROLL BANE'
 
-![Ahh! Now this is my kind of weather.](../../.gitbook/assets/image%20%28348%29.png)
+![Ahh! Now this is my kind of weather.](../../.gitbook/assets/image%20%28360%29.png)
 
 The Valkyrie watched Reim with care as he drank the Draught of Memory. He coughed, bent double and retched. “What is this foul concoction?” he gasped.
 
@@ -327,7 +327,7 @@ In the silence that followed, Reim stepped beyond the standing-stones and stood 
 
 #### '**WHERE THE SOUL HIDES'**
 
-![I was mostly dead anyways.](../../.gitbook/assets/image%20%28252%29.png)
+![I was mostly dead anyways.](../../.gitbook/assets/image%20%28260%29.png)
 
 As the end drew close, Reim climbed the highest peak in the Kalls, casting his last insults upon the Grangor, patting snow beasts and cave trolls on their heads in farewell. He settled on the summit and let the thin air lull him to sleep, ready to die in the oblivion of dreams.
 
@@ -351,7 +351,7 @@ It is said that Reim still wanders the world with an ice-forged dragon staff, an
 
 #### '**WHADDYA WANT?'**
 
-![Let&apos;s play a game where you stop talking to me.](../../.gitbook/assets/image%20%2837%29.png)
+![Let&apos;s play a game where you stop talking to me.](../../.gitbook/assets/image%20%2839%29.png)
 
 Alright kid, whaddya want? Keep it snappy. Got a long line of drippy-nosed kids behind you and the store is closing. Catnip, a ball of yarn and a laser pointer? Can’t say I’ve heard that one before, but who’m I to judge? Off you go. Yeah yeah yeah, Happy Joy Festival.
 

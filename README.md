@@ -10,50 +10,52 @@ description: Welcome To The Official Vainglory Wiki
 
 {% page-ref page="terms-used-in-game.md" %}
 
+{% page-ref page="patch-notes/" %}
+
 ## TODO
 
 * [x] Terminology
   * [ ] Terminology review and update
 * [ ] Talents
   * [x] Adagio
-  * [x] alpha
+  * [x] Alpha
   * [x] Ardan
-  * [x] baptiste
-  * [x] baron
-  * [ ] blackfeather
-  * [ ] catherine
-  * [ ] celeste
-  * [ ] churnwalker
-  * [ ] flicker
-  * [ ] fortress
-  * [ ] glaive
-  * [ ] grace
-  * [ ] grupmjaw
+  * [x] Baptiste
+  * [x] Baron
+  * [ ] Blackfeather
+  * [ ] Catherine
+  * [ ] Celeste
+  * [ ] Churnwalker
+  * [ ] Flicker
+  * [ ] Fortress
+  * [ ] Glaive
+  * [ ] Grace
+  * [ ] Grumpjaw
   * [ ] Gwen
-  * [ ] idris
-  * [ ] joule
-  * [ ] kestrel
-  * [ ] koshka
-  * [ ] krul
-  * [ ] lance
-  * [ ] loreli
-  * [ ] lyra
+  * [ ] Idris
+  * [ ] Joule
+  * [ ] Kestrel
+  * [ ] Koshka
+  * [ ] Krul
+  * [ ] Lance
+  * [ ] Lorelai
+  * [ ] Lyra
   * [ ] Malene
-  * [ ] ozo
-  * [ ] petal
-  * [ ] phinn
-  * [ ] reim
-  * [ ] reza
-  * [ ] ringo
-  * [ ] rona
-  * [ ] samuel
+  * [ ] Ozo
+  * [ ] Petal
+  * [ ] Phinn
+  * [ ] Reim
+  * [ ] Reza
+  * [ ] Ringo
+  * [ ] Rona
+  * [ ] Samuel
   * [ ] SAW
   * [ ] Skaarf
-  * [ ] skye
-  * [ ] taka
-  * [ ] tony
-  * [ ] varya
-  * [ ] vox
+  * [ ] Skye
+  * [ ] Taka
+  * [ ] Tony
+  * [ ] Varya
+  * [ ] Vox
 * [ ] Creeps Monster
   * [ ] 3v3
     * [ ] Kraken
@@ -73,12 +75,22 @@ description: Welcome To The Official Vainglory Wiki
     * [ ] CP BUFF
     * [ ] Goldoak
 * [ ] Patch Notes
-  * [ ] 1.0
-  * [ ] 1.0.1
-  * [ ] 1.0.2
-  * [ ] 1.0.3
-  * [ ] 1.0.4
-  * [ ] 1.0.5
+  * [x] 1.0
+  * [x] 1.0.1
+  * [x] 1.0.2
+  * [x] 1.0.3
+  * [x] 1.0.4
+  * [x] 1.0.5
+  * [x] 1.0.6
+  * [x] 1.0.7
+  * [x] 1.0.8
+  * [x] 1.0.9
+  * [x] 1.0.10
+  * [x] 1.0.11
+  * [x] 1.0.12
+  * [x] 1.0.13
+  * [x] 1.1.0
+  * [x] 1.1.1
   * [ ] etc
 * [ ] in the main items page, leave only the full price for tier 2 & 3 items, having the other prices is confusing \(you will learn what builds into what in the detailed pages so having it here is redundant\).
 * [ ] in “other” might want to add the scout cam even tho is not purchasable - since the section is referring to items and not “shop items” only.

@@ -1,12 +1,12 @@
 # Skye
 
-![](../../.gitbook/assets/image%20%28212%29.png)
+![](../../.gitbook/assets/image%20%28220%29.png)
 
 #### Versatile, elusive mech pilot who can flank enemies from any angle.
 
 ## Heroic Perk: Target Lock
 
-![Target Lock](../../.gitbook/assets/image%20%2884%29.png)
+![Target Lock](../../.gitbook/assets/image%20%2889%29.png)
 
 Skye's basic attacks apply Target Lock to the last target.
 
@@ -26,7 +26,7 @@ Skye's basic attacks apply Target Lock to the last target.
 
 ## Ability A: Forward Barrage
 
-![Forward Barrage](../../.gitbook/assets/image%20%28199%29.png)
+![Forward Barrage](../../.gitbook/assets/image%20%28206%29.png)
 
 Skye fires a continuous stream of bullets while strafing in the selected direction for 3s. Building weapon power makes the barrage slow approaching enemies by up to 40%
 
@@ -44,7 +44,7 @@ Skye fires a continuous stream of bullets while strafing in the selected directi
 
 ## Ability B: Suri Strike
 
-![Suri Strike](../../.gitbook/assets/image%20%28184%29.png)
+![Suri Strike](../../.gitbook/assets/image%20%28191%29.png)
 
 Skye dashes to a chosen location around her locked target while firing a volley of missiles along a line between her & her target.
 
@@ -66,7 +66,7 @@ Passive: Each ability point in Suri Strike increases the duration of Target Lock
 
 ## Ultimate: Death from Above
 
-![Death from Above](../../.gitbook/assets/image%20%2814%29.png)
+![Death from Above](../../.gitbook/assets/image%20%2815%29.png)
 
 Skye fires a salvo of missiles at a chosen location around her locked target. After a 1.3s delay, the missiles rain down on that location, stunning enemies for 0.5s. Enemies still in the area afterward are slowed & take crystal damage.
 

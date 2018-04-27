@@ -342,7 +342,7 @@ There’s all these rumors and tales about how Celeste is gonna challenge the th
 
 #### ‘THE SWEETHEARTS’
 
-![Such pretty trees.](../../.gitbook/assets/image%20%2880%29.png)
+![Such pretty trees.](../../.gitbook/assets/image%20%2885%29.png)
 
 “Celeste! Yo, where’d you go?”
 
@@ -370,7 +370,7 @@ Vox stepped close, peering at the basking butterfly. “Does … does this one h
 
 #### 'NO MORE FEAR!
 
-![Step into the light, the light is your friend.](../../.gitbook/assets/image%20%28192%29.png)
+![Step into the light, the light is your friend.](../../.gitbook/assets/image%20%28199%29.png)
 
 _A holographic image burst out of the top of a small gift box that sat before the rebel future queen and her Gythian advisor. There was no sound, only the image of a battle. There sat the Storm Queen atop her horse; beyond was the queen’s army and her Stormguard flooding a green farmland with the blood of the locals, whose cavalry fell under the magical onslaught. The last image was that of Catherine, her war mask disguising her features._
 
@@ -430,7 +430,7 @@ Then, there was a solitary shout from behind the gate. The voice of an adolescen
 
 #### 'THE MIRRORED COURT'
 
-![I really AM the center of the Universe.](../../.gitbook/assets/image%20%28299%29.png)
+![I really AM the center of the Universe.](../../.gitbook/assets/image%20%28309%29.png)
 
 The royal party traveled up the winding streets of Mont Lille, torches lighting their way. The going was slow; the crowds pressed into their new monarch, reaching to touch her hair and gown, chanting No more fear! and Liberté, égalité! At the summit of Mont Lille, past grottos and fountains and manicured topiary, they climbed a marble staircase to find the gem-encrusted gate of the Storm Queen’s palace wide open. There, Celeste bade her people to return home and remain vigilant, and the gate closed behind her.
 
@@ -472,7 +472,7 @@ Vox grabbed a gauntlet and inspected it. “She knew you were coming?”
 
 #### 'THE RISE OF THE STAR QUEEN'
 
-![But who will take my place..?](../../.gitbook/assets/image%20%2899%29.png)
+![But who will take my place..?](../../.gitbook/assets/image%20%28105%29.png)
 
 Outside the palace and all along the continent, the independent kingdoms that had once all been the purview of the Storm Queen raged at war. Nobles took up arms against one another; commonfolk rose up against the nobles whose battles burned their farms. The Captain of the Navy laid in convalescence and the Star Queen remained palace-bound for her safety.
 
@@ -542,13 +542,13 @@ _Give us your eyes._
 
 The ravens descended, screaming.
 
-![This is your World, but this is my Galaxy.](../../.gitbook/assets/image%20%28314%29.png)
+![This is your World, but this is my Galaxy.](../../.gitbook/assets/image%20%28326%29.png)
 
 ### ‘BAEWITCHED’ CELESTE‘ 
 
 #### 'BUT I QUITE LIKE PEANUT BUTTER’
 
-![This is fun, I quite like peanut butter.](../../.gitbook/assets/image%20%2827%29.png)
+![This is fun, I quite like peanut butter.](../../.gitbook/assets/image%20%2829%29.png)
 
 Celeste wandered upon Petal on the Halcyon Fold one night, pulling eyes out of newts and dropping them into a cauldron.
 
@@ -598,7 +598,7 @@ The melon exploded outward. When the green smoke cleared, the watermelon had spo
 
 #### ‘CELESTE SAVES THE MOON BUNNY’
 
-![I quite like pink.](../../.gitbook/assets/image%20%28166%29.png)
+![I quite like pink.](../../.gitbook/assets/image%20%28172%29.png)
 
 Celeste was walking home after studying late at the Taizen High School library one night when she heard a snivel-y weepy sound coming from the park. She followed the bawling to the swing set, where she found a brown-spotted bunny. The bunny was swinging super high, so high that Celeste was afraid he would go all the way around, then he jumped out of the seat with his four legs and floppy ears spread wide only to faceplant in the grass. With slumped shoulders and hiccup-y sobs he climbed back up into the swing and began again.
 
