@@ -297,7 +297,7 @@ The last trek had no path. Reim was no longer young; some days they made little 
 
 #### 'TROLL BANE'
 
-![Ahh! Now this is my kind of weather.](../../.gitbook/assets/image%20%28360%29.png)
+![Ahh! Now this is my kind of weather.](../../.gitbook/assets/image%20%28363%29.png)
 
 The Valkyrie watched Reim with care as he drank the Draught of Memory. He coughed, bent double and retched. “What is this foul concoction?” he gasped.
 
@@ -327,7 +327,7 @@ In the silence that followed, Reim stepped beyond the standing-stones and stood 
 
 #### '**WHERE THE SOUL HIDES'**
 
-![I was mostly dead anyways.](../../.gitbook/assets/image%20%28260%29.png)
+![I was mostly dead anyways.](../../.gitbook/assets/image%20%28263%29.png)
 
 As the end drew close, Reim climbed the highest peak in the Kalls, casting his last insults upon the Grangor, patting snow beasts and cave trolls on their heads in farewell. He settled on the summit and let the thin air lull him to sleep, ready to die in the oblivion of dreams.
 

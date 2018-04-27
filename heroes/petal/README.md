@@ -1,12 +1,12 @@
 # Petal
 
-![](../../.gitbook/assets/image%20%28131%29.png)
+![](../../.gitbook/assets/image%20%28134%29.png)
 
 #### Commands 3 pets who tear apart enemies & block incoming skillshots.
 
 ## Heroic Perk: Munions
 
-![Munions](../../.gitbook/assets/image%20%28122%29.png)
+![Munions](../../.gitbook/assets/image%20%28125%29.png)
 
 A few moments after petal plants a Brambleboom Seed, it will automatically sprout into a Munion pet, which will fight alongside Petal up to a maximum of 3 Munions.
 
@@ -23,7 +23,7 @@ A few moments after petal plants a Brambleboom Seed, it will automatically sprou
 
 ## Ability A: Brambleboom Seeds
 
-![Bramblethorn Seeds](../../.gitbook/assets/image%20%28183%29.png)
+![Bramblethorn Seeds](../../.gitbook/assets/image%20%28186%29.png)
 
 Petal plants a Brambleboom Seed directly in front of her.
 
@@ -42,7 +42,7 @@ Petal plants a Brambleboom Seed directly in front of her.
 
 ## Ability B: Trampoline!
 
-![Trampoline!](../../.gitbook/assets/image%20%28119%29.png)
+![Trampoline!](../../.gitbook/assets/image%20%28122%29.png)
 
 Petal leaps in the target direction, leaving a Brambleboom Seed behind at her original location. Using this ability will increase Petal's basic-attack range & amplify her weapon & crystal power for 4s.
 
@@ -56,7 +56,7 @@ Petal leaps in the target direction, leaving a Brambleboom Seed behind at her or
 
 ## Ultimate: Spontaneous Combustion
 
-![Spontaneous Combustion](../../.gitbook/assets/image%20%28248%29.png)
+![Spontaneous Combustion](../../.gitbook/assets/image%20%28251%29.png)
 
 Petal commands a munion to explode, slowing & dealing splash damage to nearby enemies while healing nearby allies.
 

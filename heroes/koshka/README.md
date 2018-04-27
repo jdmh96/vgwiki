@@ -1,12 +1,12 @@
 # Koshka
 
-![](../../.gitbook/assets/image%20%2859%29.png)
+![](../../.gitbook/assets/image%20%2860%29.png)
 
 #### Hit-&-run assassin who can pin down enemies with a long stun.
 
 ## Heroic Perk: Bloodrush
 
-![Bloodrush](../../.gitbook/assets/image%20%2870%29.png)
+![Bloodrush](../../.gitbook/assets/image%20%2872%29.png)
 
 Koshka gains 2.5 move speed for 4s whenever she deals damage with her abilities.
 
@@ -23,7 +23,7 @@ Koshka gains 2.5 move speed for 4s whenever she deals damage with her abilities.
 
 ## Ability A: Pouncy Fun
 
-![Pouncy Fun](../../.gitbook/assets/image%20%2861%29.png)
+![Pouncy Fun](../../.gitbook/assets/image%20%2862%29.png)
 
 Koshka pounces to the target enemy & deals damage.
 
@@ -37,7 +37,7 @@ Koshka pounces to the target enemy & deals damage.
 
 ## Ability B: Twirly Death
 
-![Twirly Death](../../.gitbook/assets/image%20%2886%29.png)
+![Twirly Death](../../.gitbook/assets/image%20%2888%29.png)
 
 Koshka twirls, damaging all enemies around her.
 
@@ -53,7 +53,7 @@ Koshka twirls, damaging all enemies around her.
 
 ## Ultimate: Yummy Catnip Frenzy
 
-![Yummy Catnip Frenzy](../../.gitbook/assets/image%20%28207%29.png)
+![Yummy Catnip Frenzy](../../.gitbook/assets/image%20%28210%29.png)
 
 Koshka leaps at her target, then launches into a flurry of slashes, stunning the target for the entire 2.2s duration.
 

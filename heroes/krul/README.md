@@ -1,12 +1,12 @@
 # Krul
 
-![](../../.gitbook/assets/image%20%28278%29.png)
+![](../../.gitbook/assets/image%20%28281%29.png)
 
 #### The king of duels with massive lifesteal & self-healing.
 
 ## Heroic Perk: Shadows Empower Me
 
-![Shadows Empower Me](../../.gitbook/assets/image%20%28274%29.png)
+![Shadows Empower Me](../../.gitbook/assets/image%20%28277%29.png)
 
 Krul is empowered by the shadows after standing still in brush for 1.5s. While empowered, Krul briefly gains 2 move speed & his basic attack will slow his target by 40% for 2.5s.
 
@@ -23,7 +23,7 @@ Krul is empowered by the shadows after standing still in brush for 1.5s. While e
 
 ## Ability A: Dead Man's Rush
 
-![Dead Man&apos;s Rush](../../.gitbook/assets/image%20%28138%29.png)
+![Dead Man&apos;s Rush](../../.gitbook/assets/image%20%28141%29.png)
 
 Krul dashes to the target & deals damage.
 
@@ -41,7 +41,7 @@ Activating Dead Man's Rush grants Krul a temporary health barrier.
 
 ## Ability B: Spectral Smite
 
-![Spectral Smite](../../.gitbook/assets/image%20%28378%29.png)
+![Spectral Smite](../../.gitbook/assets/image%20%28381%29.png)
 
 Krul detonates the Weakness stacks built up on a single target, regaining health based on the number of stacks consumed.
 
