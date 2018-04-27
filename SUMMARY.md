@@ -44,6 +44,7 @@
     * [Fortress Talent](heroes/fortress/fortress-talent.md)
     * [Fortress Lore](heroes/fortress/fortress-lore.md)
   * [Glaive](heroes/glaive/README.md)
+    * [Glaive Talent](heroes/glaive/glaive-talent.md)
     * [Glaive Lore](heroes/glaive/glaive-lore.md)
   * [Grace](heroes/grace/README.md)
     * [Grace Lore](heroes/grace/grace-lore.md)
