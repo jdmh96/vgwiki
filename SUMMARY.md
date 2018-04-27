@@ -98,6 +98,7 @@
   * [Taka](heroes/taka/README.md)
     * [Taka Lore](heroes/taka/taka-lore.md)
   * [Tony](heroes/untitled/README.md)
+    * [Tony Talent](heroes/untitled/tony-talent.md)
     * [Tony Lore](heroes/untitled/tony-lore/README.md)
       * [Go left](heroes/untitled/tony-lore/go-left/README.md)
         * [Fight the minions' enemy](heroes/untitled/tony-lore/go-left/fight-the-minions-enemy/README.md)
