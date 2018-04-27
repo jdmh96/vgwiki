@@ -100,8 +100,6 @@ War Screech and Whistle dropped loose in her fingers. “And who are you?”
 
 ### ‘DIRE' FORTRESS
 
-The Old World was cared for by druids until the northmen brought war. As a last compromise, the land was given to the northmen except for the temple, guarded by Fortress’ pack. Read on to get a glimpse of the war-torn alpha, his family, and Corb, his magic green war doll.
-
 #### THE INVASION OF THE NORTHMEN
 
 
@@ -217,8 +215,6 @@ Before the druid could finish, little Rona had torn away at the garlands that wr
 “Pickles,” sighed Rona. The puppy rolled onto its back and Rona rubbed its belly.
 
 The druid shrugged. “Pickles it is, then.”
-
-
 
 ![How do you not smell that?](../../.gitbook/assets/winter-fortress-splash.jpg)
 

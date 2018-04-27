@@ -41,6 +41,7 @@
     * [Flicker Talent](heroes/flicker/flicker-talent.md)
     * [Flicker Lore](heroes/flicker/flicker-lore.md)
   * [Fortress](heroes/fortress/README.md)
+    * [Fortress Talent](heroes/fortress/fortress-talent.md)
     * [Fortress Lore](heroes/fortress/fortress-lore.md)
   * [Glaive](heroes/glaive/README.md)
     * [Glaive Lore](heroes/glaive/glaive-lore.md)
