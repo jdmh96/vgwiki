@@ -1,6 +1,6 @@
 # Krul
 
-![](../../.gitbook/assets/image%20%28281%29.png)
+![](../../.gitbook/assets/image%20%28282%29.png)
 
 #### The king of duels with massive lifesteal & self-healing.
 
@@ -41,7 +41,7 @@ Activating Dead Man's Rush grants Krul a temporary health barrier.
 
 ## Ability B: Spectral Smite
 
-![Spectral Smite](../../.gitbook/assets/image%20%28381%29.png)
+![Spectral Smite](../../.gitbook/assets/image%20%28382%29.png)
 
 Krul detonates the Weakness stacks built up on a single target, regaining health based on the number of stacks consumed.
 

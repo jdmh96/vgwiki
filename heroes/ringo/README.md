@@ -1,6 +1,6 @@
 # Ringo
 
-![](../../.gitbook/assets/image%20%28328%29.png)
+![](../../.gitbook/assets/image%20%28329%29.png)
 
 #### Fast-moving, fast-shooting gunslinger with an epic fireball.
 
@@ -23,7 +23,7 @@ Ringo's next basic attack after killing anything will be a critical strike.
 
 ## Ability A: Achilles Shot
 
-![Achilles Shot](../../.gitbook/assets/image%20%28347%29.png)
+![Achilles Shot](../../.gitbook/assets/image%20%28348%29.png)
 
 Ringo fires a trick shot at his target's heel \(or whatever lower extremity exists\), slowing the target & dealing damage.
 

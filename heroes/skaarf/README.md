@@ -63,7 +63,7 @@ Skaarf hurls a goop puddle onto the target location. Enemies walking through the
 
 ## Ultimate: Dragon's Breath
 
-![Dragon&apos;s Breath](../../.gitbook/assets/image%20%28379%29.png)
+![Dragon&apos;s Breath](../../.gitbook/assets/image%20%28380%29.png)
 
 Skaarf inhales for 1.5s, then exhales a huge cone of flames for 3s. Skaarf may move freely while spewing fire.
 
