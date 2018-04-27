@@ -6,7 +6,7 @@
 
 ## Heroic Perk: Julia's Gift
 
-![Julia&apos;s Gift](../../.gitbook/assets/image%20%28294%29.png)
+![Julia&apos;s Gift](../../.gitbook/assets/image%20%28295%29.png)
 
 Ardan benefits from purchasing health items.
 

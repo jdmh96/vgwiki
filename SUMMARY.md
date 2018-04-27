@@ -174,6 +174,6 @@
   * [1.19 Notes](patch-notes/1.19-notes.md)
   * [1.21 Notes](patch-notes/untitled-4.md)
   * [3.0.0 Notes](patch-notes/3.0.0-notes.md)
-  * [2.0](patch-notes/2.0.md)
+  * [2.0 Notes](patch-notes/2.0.md)
 * [Changelog](changelog.md)
 

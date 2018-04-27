@@ -1,6 +1,6 @@
 # Samuel
 
-![](../../.gitbook/assets/image%20%28373%29.png)
+![](../../.gitbook/assets/image%20%28374%29.png)
 
 #### Dark zone-control mage who can put enemies to sleep.
 
@@ -65,7 +65,7 @@ Samuel creates a large field of darkness that slowly drifts forward, damaging en
 
 ## Ultimate: Oblivion
 
-![Oblivion](../../.gitbook/assets/image%20%28354%29.png)
+![Oblivion](../../.gitbook/assets/image%20%28355%29.png)
 
 After a short delay, Samuel summons a phantasm at the target location, which puts nearby enemies to sleep. Enemies inflicted are unable to move or act.
 

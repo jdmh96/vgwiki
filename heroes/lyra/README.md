@@ -48,7 +48,7 @@ Lyra creates a sigil that heals nearby allied heroes & damages nearby enemy hero
 
 ## Ability B: Bright Bulwark
 
-![Bright Bulwark](../../.gitbook/assets/image%20%28356%29.png)
+![Bright Bulwark](../../.gitbook/assets/image%20%28357%29.png)
 
 Lyra creates a walled zone around her, damaging & applying a slow to surrounding enemies.
 

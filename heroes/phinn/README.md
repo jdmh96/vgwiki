@@ -25,7 +25,7 @@ Phinn cannot be stopped or stunned. All movement-impairing effects are instead r
 
 ## Ability A: Quibble
 
-![Quibble](../../.gitbook/assets/image%20%28298%29.png)
+![Quibble](../../.gitbook/assets/image%20%28299%29.png)
 
 Phinn slams his anchor down on the targeted location, heavily slowing enemies for 0.9s.
 

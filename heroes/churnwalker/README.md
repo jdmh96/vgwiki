@@ -24,7 +24,7 @@
 
 ## Ability A: Hook & Chain
 
-![Hook &amp; Chain](../../.gitbook/assets/image%20%28321%29.png)
+![Hook &amp; Chain](../../.gitbook/assets/image%20%28322%29.png)
 
 Churnwalker throws a skillshot hook that damages on impact, briefly slows & chains victims to him.
 

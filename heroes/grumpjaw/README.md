@@ -59,7 +59,7 @@ Grumpjaw leaps toward his target & attacks it. Afterward, he gains bonus weapon 
 
 ## Ultimate: Stuffed
 
-![Stuffed](../../.gitbook/assets/image%20%28296%29.png)
+![Stuffed](../../.gitbook/assets/image%20%28297%29.png)
 
 Grumpjaw lunges forward, devouring the first enemy hero on his path. While inside Grumpjaw's belly, enemies cannot move, act or see. After 3s, Grumpjaw will spit the enemy out in front of him.
 

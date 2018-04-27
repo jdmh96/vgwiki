@@ -134,7 +134,7 @@ He wept his thanks as the acolytes guided him away. Grace’s attendants hovered
 
 
 
-![](../../.gitbook/assets/image%20%28369%29.png)
+![](../../.gitbook/assets/image%20%28370%29.png)
 
 
 
@@ -142,7 +142,7 @@ He wept his thanks as the acolytes guided him away. Grace’s attendants hovered
 
 
 
-![](../../.gitbook/assets/image%20%28315%29.png)
+![](../../.gitbook/assets/image%20%28316%29.png)
 
 
 
