@@ -50,6 +50,7 @@
     * [Grace Talent](heroes/grace/grace-talent.md)
     * [Grace Lore](heroes/grace/grace-lore.md)
   * [Grumpjaw](heroes/grumpjaw/README.md)
+    * [Grumpjaw Talent](heroes/grumpjaw/grumpjaw-talent.md)
     * [Grumpjaw Lore](heroes/grumpjaw/grumpjaw-lore.md)
   * [Gwen](heroes/gwen/README.md)
     * [Gwen Lore](heroes/gwen/gwen-lore.md)

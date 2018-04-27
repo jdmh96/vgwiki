@@ -22,14 +22,14 @@ description: Welcome To The Official Vainglory Wiki
   * [x] Ardan
   * [x] Baptiste
   * [x] Baron
-  * [ ] Blackfeather
-  * [ ] Catherine
-  * [ ] Celeste
-  * [ ] Churnwalker
-  * [ ] Flicker
-  * [ ] Fortress
-  * [ ] Glaive
-  * [ ] Grace
+  * [x] Blackfeather
+  * [x] Catherine
+  * [x] Celeste
+  * [x] Churnwalker
+  * [x] Flicker
+  * [x] Fortress
+  * [x] Glaive
+  * [x] Grace
   * [ ] Grumpjaw
   * [ ] Gwen
   * [ ] Idris
@@ -55,7 +55,7 @@ description: Welcome To The Official Vainglory Wiki
   * [ ] Taka
   * [ ] Tony
   * [ ] Varya
-  * [ ] Vox
+  * [x] Vox
 * [ ] Creeps Monster
   * [ ] 3v3
     * [ ] Kraken
