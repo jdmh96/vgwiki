@@ -47,6 +47,7 @@
     * [Glaive Talent](heroes/glaive/glaive-talent.md)
     * [Glaive Lore](heroes/glaive/glaive-lore.md)
   * [Grace](heroes/grace/README.md)
+    * [Grace Talent](heroes/grace/grace-talent.md)
     * [Grace Lore](heroes/grace/grace-lore.md)
   * [Grumpjaw](heroes/grumpjaw/README.md)
     * [Grumpjaw Lore](heroes/grumpjaw/grumpjaw-lore.md)
