@@ -30,9 +30,9 @@ description: Welcome To The Official Vainglory Wiki
   * [x] Fortress
   * [x] Glaive
   * [x] Grace
-  * [ ] Grumpjaw
-  * [ ] Gwen
-  * [ ] Idris
+  * [x] Grumpjaw
+  * [x] Gwen
+  * [x] Idris
   * [ ] Joule
   * [ ] Kestrel
   * [ ] Koshka

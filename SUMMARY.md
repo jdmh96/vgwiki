@@ -54,6 +54,7 @@
     * [Grumpjaw Lore](heroes/grumpjaw/grumpjaw-lore.md)
   * [Gwen](heroes/gwen/README.md)
     * [Gwen Lore](heroes/gwen/gwen-lore.md)
+    * [Gwen Talent](heroes/gwen/gwen-talent.md)
   * [Idris](heroes/idris/README.md)
     * [Idris Lore](heroes/idris/idris-lore.md)
   * [Joule](heroes/joule/README.md)
@@ -127,6 +128,7 @@
           * [Commandeer the airship](heroes/untitled/tony-lore/untitled/steer-clear-of-the-charged-crystals/commandeer-the-airship.md)
   * [Varya](heroes/varya/README.md)
     * [Varya Lore](heroes/varya/varya-lore.md)
+    * [Varya Talent](heroes/varya/varya-talent.md)
   * [Vox](heroes/vox/README.md)
     * [Vox Talent](heroes/vox/vox-talent.md)
     * [Vox Lore](heroes/vox/vox-lore.md)
@@ -171,4 +173,5 @@
   * [1.19 Notes](patch-notes/1.19-notes.md)
   * [1.21 Notes](patch-notes/untitled-4.md)
   * [3.0.0 Notes](patch-notes/3.0.0-notes.md)
+* [Changelog](changelog.md)
 
