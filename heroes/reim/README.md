@@ -1,6 +1,6 @@
 # Reim
 
-![](../../.gitbook/assets/image%20%28183%29.png)
+![](../../.gitbook/assets/image%20%28184%29.png)
 
 #### Resilient ice mage who dominates close-quarter battles.
 
@@ -27,7 +27,7 @@ When Reim damages opponents with his basic attack or Winter Spire, he is granted
 
 ## Ability A: Winter Spire
 
-![Winter Spire](../../.gitbook/assets/image%20%28264%29.png)
+![Winter Spire](../../.gitbook/assets/image%20%28265%29.png)
 
 Reim summons a spire of ice at a nearby location, dealing crystal damage to surrounding enemies. After a short delay, the spire shatters, dealing heavy crystal damage.
 
@@ -61,7 +61,7 @@ Reim deals a burst of crystal damage to all surrounding enemies, rooting enemies
 
 ## Ultimate: Valkyrie
 
-![Valkyrie](../../.gitbook/assets/image%20%28228%29.png)
+![Valkyrie](../../.gitbook/assets/image%20%28229%29.png)
 
 Reim summons an ancient Valkyrie, devastating enemies in the area & applying a heavy decaying slow.
 
