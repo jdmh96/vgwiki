@@ -134,3 +134,5 @@ description: Welcome To The Official Vainglory Wiki
 * [ ]  A list of our past in-game events \(like the Malene one right now\)
 * [ ] Update notes once we stopped making the article for them.
 
+
+
