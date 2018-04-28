@@ -2,7 +2,7 @@
 
 ## ‘CHEESECAKE’
 
-![Uhhh smellll baddd.](../../.gitbook/assets/image%20%28197%29.png)
+![Uhhh smellll baddd.](../../.gitbook/assets/image%20%28198%29.png)
 
 “See what people get wrong is,” says the dwarf, “time travel isn’t about time at all. It’s about
 

@@ -23,7 +23,7 @@ A few moments after petal plants a Brambleboom Seed, it will automatically sprou
 
 ## Ability A: Brambleboom Seeds
 
-![Bramblethorn Seeds](../../.gitbook/assets/image%20%28198%29.png)
+![Bramblethorn Seeds](../../.gitbook/assets/image%20%28199%29.png)
 
 Petal plants a Brambleboom Seed directly in front of her.
 
@@ -56,7 +56,7 @@ Petal leaps in the target direction, leaving a Brambleboom Seed behind at her or
 
 ## Ultimate: Spontaneous Combustion
 
-![Spontaneous Combustion](../../.gitbook/assets/image%20%28265%29.png)
+![Spontaneous Combustion](../../.gitbook/assets/image%20%28266%29.png)
 
 Petal commands a munion to explode, slowing & dealing splash damage to nearby enemies while healing nearby allies.
 
