@@ -1,6 +1,6 @@
 # Skye
 
-![](../../.gitbook/assets/image%20%28236%29.png)
+![](../../.gitbook/assets/image%20%28237%29.png)
 
 #### Versatile, elusive mech pilot who can flank enemies from any angle.
 
@@ -26,7 +26,7 @@ Skye's basic attacks apply Target Lock to the last target.
 
 ## Ability A: Forward Barrage
 
-![Forward Barrage](../../.gitbook/assets/image%20%28222%29.png)
+![Forward Barrage](../../.gitbook/assets/image%20%28223%29.png)
 
 Skye fires a continuous stream of bullets while strafing in the selected direction for 3s. Building weapon power makes the barrage slow approaching enemies by up to 40%
 
@@ -44,7 +44,7 @@ Skye fires a continuous stream of bullets while strafing in the selected directi
 
 ## Ability B: Suri Strike
 
-![Suri Strike](../../.gitbook/assets/image%20%28206%29.png)
+![Suri Strike](../../.gitbook/assets/image%20%28207%29.png)
 
 Skye dashes to a chosen location around her locked target while firing a volley of missiles along a line between her & her target.
 
