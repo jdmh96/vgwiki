@@ -62,6 +62,7 @@
     * [Joule Talent](heroes/joule/joule-talent.md)
     * [Joule Lore](heroes/joule/joule-lore.md)
   * [Kestrel](heroes/kestrel/README.md)
+    * [Kestrel Talent](heroes/kestrel/kestrel-talent.md)
     * [Kestrel Lore](heroes/kestrel/kestrel-lore.md)
   * [Koshka](heroes/koshka/README.md)
     * [Koshka Lore](heroes/koshka/koshka-lore.md)
