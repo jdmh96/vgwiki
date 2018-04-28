@@ -92,6 +92,7 @@
   * [SAW](heroes/saw/README.md)
     * [SAW Lore](heroes/saw/saw-lore.md)
   * [Skaarf](heroes/skaarf/README.md)
+    * [Skaarf Talent](heroes/skaarf/skaarf-talent.md)
     * [Skaarf Lore](heroes/skaarf/skaarf-lore.md)
   * [Skye](heroes/skye/README.md)
     * [Skye Lore](heroes/skye/skye-lore.md)
