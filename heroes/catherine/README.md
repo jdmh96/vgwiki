@@ -1,6 +1,6 @@
 # Catherine
 
-![](../../.gitbook/assets/image%20%28104%29.png)
+![](../../.gitbook/assets/image%20%28112%29.png)
 
 #### Disruptive tank with lots of stuns & a powerful silence.
 
@@ -25,7 +25,7 @@ Catherine gains 1 armor & shield every time she stuns or silences an enemy hero 
 
 ## Ability A: Merciless Pursuit
 
-![Merciless Pursuit](../../.gitbook/assets/image%20%28183%29.png)
+![Merciless Pursuit](../../.gitbook/assets/image%20%28195%29.png)
 
 Catherine gains a burst of move speed. Her next basic attack is replaced be a powerful stun attack.
 
@@ -41,7 +41,7 @@ Catherine gains a burst of move speed. Her next basic attack is replaced be a po
 
 ## Ability B: Stormguard
 
-![Stormguard](../../.gitbook/assets/image%20%28255%29.png)
+![Stormguard](../../.gitbook/assets/image%20%28268%29.png)
 
 Activates a protective bubble that reflects damage back to nearby enemies - especially when it comes in large bursts.
 
@@ -60,7 +60,7 @@ Activates a protective bubble that reflects damage back to nearby enemies - espe
 
 ## Ultimate: Blast Tremor
 
-![Blast Tremor](../../.gitbook/assets/image%20%28112%29.png)
+![Blast Tremor](../../.gitbook/assets/image%20%28120%29.png)
 
 Catherine slams the ground, damaging & silencing enemies in a large cone in front of her.
 

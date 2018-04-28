@@ -1,12 +1,12 @@
 # SAW
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 #### Heavy machine gunner who sacrifices move speed for damage.
 
 ## Heroic Perk: Spin Up
 
-![Spin Up](../../.gitbook/assets/image%20%2898%29.png)
+![Spin Up](../../.gitbook/assets/image%20%28106%29.png)
 
 Every basic attack give SAW increased attack speed, but it also significantly decreases his move speed.
 
@@ -28,7 +28,7 @@ Every basic attack give SAW increased attack speed, but it also significantly de
 
 ## Ability A: Roadie Run
 
-![Roadie Run](../../.gitbook/assets/image%20%28158%29.png)
+![Roadie Run](../../.gitbook/assets/image%20%28168%29.png)
 
 SAW sprints & switches to a melee combat knife. If SAW stabs someone, he will deal bonus damage based on the target's missing health & roll backward.
 
@@ -45,7 +45,7 @@ SAW sprints & switches to a melee combat knife. If SAW stabs someone, he will de
 
 ## Ability B: Suppressing Fire
 
-![Suppressing Fire](../../.gitbook/assets/image%20%2845%29.png)
+![Suppressing Fire](../../.gitbook/assets/image%20%2848%29.png)
 
 SAW fires a hurricane of bullets in a set direction for 2s, damaging & slowing enemies in its path.
 
@@ -61,7 +61,7 @@ SAW fires a hurricane of bullets in a set direction for 2s, damaging & slowing e
 
 ## Ultimate: Mad Cannon
 
-![Mad Cannon](../../.gitbook/assets/image%20%28356%29.png)
+![Mad Cannon](../../.gitbook/assets/image%20%28373%29.png)
 
 SAW loads explosive shells into his gun that deal additional damage based on the target's missing health. The shells also deal splash damage based on the amount of crystal power SAW has.
 
