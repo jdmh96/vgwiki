@@ -1,12 +1,12 @@
 # Joule
 
-![](../../.gitbook/assets/image%20%28268%29.png)
+![](../../.gitbook/assets/image%20%28270%29.png)
 
 #### Heavily armored mech rider with a powerful energy beam.
 
 ## Heroic Perk: Heavy Plating
 
-![Heavy Plating](../../.gitbook/assets/image%20%28106%29.png)
+![Heavy Plating](../../.gitbook/assets/image%20%28107%29.png)
 
 Joule has bonus armor & shield against damage that hits her on the front & sides, but not her back.
 
@@ -38,7 +38,7 @@ Joule leaps to the target location. Enemies caught underneath Joule take full da
 
 ## Ability B: Thunder Strike
 
-![Thunder Strike](../../.gitbook/assets/image%20%28149%29.png)
+![Thunder Strike](../../.gitbook/assets/image%20%28150%29.png)
 
 Joule's mech fires an energy bolt directly in front of her. If this strikes an enemy, the next Thunder Strike will have bonus armor & shield pierce.
 

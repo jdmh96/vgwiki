@@ -1,6 +1,6 @@
 # Phinn
 
-![](../../.gitbook/assets/image%20%28163%29.png)
+![](../../.gitbook/assets/image%20%28164%29.png)
 
 #### Extremely tanky & can pull in enemies from across the screen.
 
@@ -25,7 +25,7 @@ Phinn cannot be stopped or stunned. All movement-impairing effects are instead r
 
 ## Ability A: Quibble
 
-![Quibble](../../.gitbook/assets/image%20%28312%29.png)
+![Quibble](../../.gitbook/assets/image%20%28315%29.png)
 
 Phinn slams his anchor down on the targeted location, heavily slowing enemies for 0.9s.
 
@@ -41,7 +41,7 @@ Phinn slams his anchor down on the targeted location, heavily slowing enemies fo
 
 ## Ability B: Polite Company
 
-![Polite Company](../../.gitbook/assets/image%20%28145%29.png)
+![Polite Company](../../.gitbook/assets/image%20%28146%29.png)
 
 Phinn stomps the earth, damaging all enemies in a wide area & nudging them toward him. The effect reverberates around allies, temporarily granting them fortified health.
 
@@ -57,7 +57,7 @@ Phinn stomps the earth, damaging all enemies in a wide area & nudging them towar
 
 ## Ultimate: Forced Accord
 
-![Forced Accord](../../.gitbook/assets/image%20%28229%29.png)
+![Forced Accord](../../.gitbook/assets/image%20%28231%29.png)
 
 Phinn throws his anchor in a direction. After the anchor reaches its destination, Phinn yanks it back, damaging all enemies in its path & pulling them back to him.
 
