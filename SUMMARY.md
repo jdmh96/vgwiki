@@ -57,6 +57,7 @@
     * [Gwen Talent](heroes/gwen/gwen-talent.md)
   * [Idris](heroes/idris/README.md)
     * [Idris Lore](heroes/idris/idris-lore.md)
+    * [Idris Talent](heroes/idris/idris-talent.md)
   * [Joule](heroes/joule/README.md)
     * [Joule Lore](heroes/joule/joule-lore.md)
   * [Kestrel](heroes/kestrel/README.md)
