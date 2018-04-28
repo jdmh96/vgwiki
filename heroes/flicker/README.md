@@ -1,12 +1,12 @@
 # Flicker
 
-![](../../.gitbook/assets/image%20%28294%29.png)
+![](../../.gitbook/assets/image%20%28296%29.png)
 
 #### Trickster who can make the entire team invisible.
 
 ## Heroic Perk: Willow Whisper
 
-![Willow Whisper](../../.gitbook/assets/image%20%28110%29.png)
+![Willow Whisper](../../.gitbook/assets/image%20%28111%29.png)
 
 Flicker gains stealth & a move-speed bonus when in brush for 2s. Flicker can then leave the brush & remain stealthed for 3s.
 
@@ -39,7 +39,7 @@ Flicker commands his fairies to swarm the target location for 2s, dealing damage
 
 ## Ability B: Fairy Dust
 
-![Fairy Dust](../../.gitbook/assets/image%20%28147%29.png)
+![Fairy Dust](../../.gitbook/assets/image%20%28148%29.png)
 
 Flicker swirls fairy dust around him for 3s, slowing & dealing damage to anyone inside the dusted area. After 3s, the dust ignites, dealing a burst of damage.
 
