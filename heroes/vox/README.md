@@ -1,12 +1,12 @@
 # Vox
 
-![](../../.gitbook/assets/image%20%28241%29.png)
+![](../../.gitbook/assets/image%20%28242%29.png)
 
 #### Agile damage dealer who dashes around the battlefield.
 
 ## Heroic Perk: Julia's Song
 
-![Julia&apos;s Song](../../.gitbook/assets/image%20%28225%29.png)
+![Julia&apos;s Song](../../.gitbook/assets/image%20%28226%29.png)
 
 Vox's abilities mark enemies with Resonance. When basic attacking marked enemies, Resonance Bolts will bounce outwards to two nearby enemies dealing bonus crystal damage while refreshing & spreading the Resonance mark.
 
@@ -26,7 +26,7 @@ Vox's abilities mark enemies with Resonance. When basic attacking marked enemies
 
 ## Ability A: Sonic Zoom
 
-![Sonic Zoom](../../.gitbook/assets/image%20%28351%29.png)
+![Sonic Zoom](../../.gitbook/assets/image%20%28352%29.png)
 
 Vox dashes in the targeted direction, throwing two basic attacks to the nearest enemy marked by Resonance \(prioritizing heroes\).
 
@@ -54,7 +54,7 @@ Vox emits a sonic pulse that echoes off nearby enemies & applies Resonance.
 
 ## Ultimate: Wait for It...
 
-![Wait for it](../../.gitbook/assets/image%20%28210%29.png)
+![Wait for it](../../.gitbook/assets/image%20%28211%29.png)
 
 Vox fires an ultrasonic wave that applies Resonance to enemies in its path. Shortly after, a wide shockwave explodes along the same path, dealing crystal damage & silencing enemies.
 

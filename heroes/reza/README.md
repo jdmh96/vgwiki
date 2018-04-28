@@ -6,7 +6,7 @@
 
 ## Heroic Perk: Firestarter
 
-![Firestarter](../../.gitbook/assets/image%20%28213%29.png)
+![Firestarter](../../.gitbook/assets/image%20%28214%29.png)
 
 Scorcher & Netherform Detonator apply Firestarter to enemy targets.
 
@@ -42,7 +42,7 @@ Reza smashes the ground, creating a fiery shockwave in front of him. This deals 
 
 ## Ability B: Troublemaker
 
-![Troublemaker](../../.gitbook/assets/image%20%28404%29.png)
+![Troublemaker](../../.gitbook/assets/image%20%28405%29.png)
 
 Reza dashes to the target location, dealing crystal damage to enemies he passes through.
 
@@ -59,7 +59,7 @@ Reza dashes to the target location, dealing crystal damage to enemies he passes 
 
 ## Ultimate: Netherform Detonator
 
-![Netherform Detonator](../../.gitbook/assets/image%20%28320%29.png)
+![Netherform Detonator](../../.gitbook/assets/image%20%28321%29.png)
 
 Reza vanishes removing from himself any negative movement-impairing effects, then reappears at the target location in empowered demon form.
 

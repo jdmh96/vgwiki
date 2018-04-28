@@ -1,6 +1,6 @@
 # Blackfeather
 
-![](../../.gitbook/assets/image%20%28324%29.png)
+![](../../.gitbook/assets/image%20%28325%29.png)
 
 #### Evasive fighter who excels at chasing & cleaning up fragile enemies.
 
@@ -28,7 +28,7 @@ Blackfeather's attacks & abilities apply Heartthrob stacks to enemies. Any time 
 
 ## Ability A: Feint of Heart
 
-![Feint of Heart](../../.gitbook/assets/image%20%28236%29.png)
+![Feint of Heart](../../.gitbook/assets/image%20%28237%29.png)
 
 Blackfeather lunges to his target with a thrust of his sword, then gains 2.2 bonus movement speed for 3s.
 
@@ -49,7 +49,7 @@ Blackfeather lunges to his target with a thrust of his sword, then gains 2.2 bon
 
 ## Ability B: On Point
 
-![On Point](../../.gitbook/assets/image%20%28302%29.png)
+![On Point](../../.gitbook/assets/image%20%28303%29.png)
 
 Blackfeather pierces all enemies in a line, damaging them & applying a decaying slow for 1s.
 
@@ -71,7 +71,7 @@ Blackfeather pierces all enemies in a line, damaging them & applying a decaying 
 
 ## Ultimate: Rose Offensive
 
-![Rose Offensive](../../.gitbook/assets/image%20%28377%29.png)
+![Rose Offensive](../../.gitbook/assets/image%20%28378%29.png)
 
 Blackfeather dashes & slashes all enemies along his path.
 

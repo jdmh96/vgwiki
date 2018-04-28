@@ -27,7 +27,7 @@ Martim Walker
 
 ## ' Excerpt from the recovered letters of Martim Walker II'
 
-![Oeda vli stishad!](../../.gitbook/assets/image%20%28239%29.png)
+![Oeda vli stishad!](../../.gitbook/assets/image%20%28240%29.png)
 
 For the Guildmaster’s eyes only:
 

@@ -53,7 +53,7 @@ Koshka twirls, damaging all enemies around her.
 
 ## Ultimate: Yummy Catnip Frenzy
 
-![Yummy Catnip Frenzy](../../.gitbook/assets/image%20%28222%29.png)
+![Yummy Catnip Frenzy](../../.gitbook/assets/image%20%28223%29.png)
 
 Koshka leaps at her target, then launches into a flurry of slashes, stunning the target for the entire 2.2s duration.
 

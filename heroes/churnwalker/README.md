@@ -1,6 +1,6 @@
 # Churnwalker
 
-![](../../.gitbook/assets/image%20%28212%29.png)
+![](../../.gitbook/assets/image%20%28213%29.png)
 
 #### A disruptor who throws multiple skillshot hooks, chaining victims to him.
 
@@ -24,7 +24,7 @@
 
 ## Ability A: Hook & Chain
 
-![Hook &amp; Chain](../../.gitbook/assets/image%20%28338%29.png)
+![Hook &amp; Chain](../../.gitbook/assets/image%20%28339%29.png)
 
 Churnwalker throws a skillshot hook that damages on impact, briefly slows & chains victims to him.
 

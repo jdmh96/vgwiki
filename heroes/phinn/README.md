@@ -25,7 +25,7 @@ Phinn cannot be stopped or stunned. All movement-impairing effects are instead r
 
 ## Ability A: Quibble
 
-![Quibble](../../.gitbook/assets/image%20%28314%29.png)
+![Quibble](../../.gitbook/assets/image%20%28315%29.png)
 
 Phinn slams his anchor down on the targeted location, heavily slowing enemies for 0.9s.
 
@@ -57,7 +57,7 @@ Phinn stomps the earth, damaging all enemies in a wide area & nudging them towar
 
 ## Ultimate: Forced Accord
 
-![Forced Accord](../../.gitbook/assets/image%20%28230%29.png)
+![Forced Accord](../../.gitbook/assets/image%20%28231%29.png)
 
 Phinn throws his anchor in a direction. After the anchor reaches its destination, Phinn yanks it back, damaging all enemies in its path & pulling them back to him.
 

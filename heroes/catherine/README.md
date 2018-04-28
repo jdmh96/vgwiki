@@ -41,7 +41,7 @@ Catherine gains a burst of move speed. Her next basic attack is replaced be a po
 
 ## Ability B: Stormguard
 
-![Stormguard](../../.gitbook/assets/image%20%28268%29.png)
+![Stormguard](../../.gitbook/assets/image%20%28269%29.png)
 
 Activates a protective bubble that reflects damage back to nearby enemies - especially when it comes in large bursts.
 

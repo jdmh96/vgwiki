@@ -1,6 +1,6 @@
 # Samuel
 
-![](../../.gitbook/assets/image%20%28392%29.png)
+![](../../.gitbook/assets/image%20%28393%29.png)
 
 #### Dark zone-control mage who can put enemies to sleep.
 
@@ -28,7 +28,7 @@ Every 6s, Samuel's next basic attack fires a bolt of dark power that deals bonus
 
 ## Ability A: Malice & Verdict
 
-![Malice &amp; Verdict](../../.gitbook/assets/image%20%28290%29.png)
+![Malice &amp; Verdict](../../.gitbook/assets/image%20%28291%29.png)
 
 Samuel fires two bolts from his wands at a target location, impacting the first enemy hit. Samuel can move between the shots.
 
@@ -65,7 +65,7 @@ Samuel creates a large field of darkness that slowly drifts forward, damaging en
 
 ## Ultimate: Oblivion
 
-![Oblivion](../../.gitbook/assets/image%20%28372%29.png)
+![Oblivion](../../.gitbook/assets/image%20%28373%29.png)
 
 After a short delay, Samuel summons a phantasm at the target location, which puts nearby enemies to sleep. Enemies inflicted are unable to move or act.
 

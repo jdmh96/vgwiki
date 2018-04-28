@@ -1,12 +1,12 @@
 # Celeste
 
-![](../../.gitbook/assets/image%20%28303%29.png)
+![](../../.gitbook/assets/image%20%28304%29.png)
 
 #### Back-line mage with heavy area damage & a stun.
 
 ## Heroic Perk: Julia's Light
 
-![Julia&apos;s Light](../../.gitbook/assets/image%20%28243%29.png)
+![Julia&apos;s Light](../../.gitbook/assets/image%20%28244%29.png)
 
 Celeste's basic attacks are flares of solar light thatdeal crystal damage & reveal their target.
 
@@ -26,7 +26,7 @@ Celeste's basic attacks are flares of solar light thatdeal crystal damage & reve
 
 ## Ability A: Heliogenesis
 
-![Heliogenesis](../../.gitbook/assets/image%20%28240%29.png)
+![Heliogenesis](../../.gitbook/assets/image%20%28241%29.png)
 
 Celeste forms a small star at the target location, dealing crystal damage to nearby enemies. The star will briefly linger on the field.
 
@@ -43,7 +43,7 @@ Celeste forms a small star at the target location, dealing crystal damage to nea
 
 ## Ability B: Core Collapse
 
-![Core Collapse](../../.gitbook/assets/image%20%28273%29.png)
+![Core Collapse](../../.gitbook/assets/image%20%28274%29.png)
 
 After a brief delay, the target location collapses & nearby enemies are stunned & take crystal damage.
 

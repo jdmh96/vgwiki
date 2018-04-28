@@ -25,7 +25,7 @@ Glaive's critical strikes cleave in a 4-meter cone in front of him.
 
 ## Ability A: Afterburn
 
-![Afterburn](../../.gitbook/assets/image%20%28386%29.png)
+![Afterburn](../../.gitbook/assets/image%20%28387%29.png)
 
 Glaive rockets in the target direction, damaging all enemies along the way. His next basic attack is replaced by a frightening blast that knocks his target back 5.5 meters & briefly stuns them.
 

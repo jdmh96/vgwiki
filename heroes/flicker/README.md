@@ -1,6 +1,6 @@
 # Flicker
 
-![](../../.gitbook/assets/image%20%28295%29.png)
+![](../../.gitbook/assets/image%20%28296%29.png)
 
 #### Trickster who can make the entire team invisible.
 

@@ -28,7 +28,7 @@ Skaarf's abilities burn targets & his basic attacks deal bonus crystal damage to
 
 ## Ability A: Spitfire
 
-![Spitfire](../../.gitbook/assets/image%20%28224%29.png)
+![Spitfire](../../.gitbook/assets/image%20%28225%29.png)
 
 Skaarf spits a fireball that collides with the first hero, structure or boss monster it hits.
 
@@ -63,7 +63,7 @@ Skaarf hurls a goop puddle onto the target location. Enemies walking through the
 
 ## Ultimate: Dragon's Breath
 
-![Dragon&apos;s Breath](../../.gitbook/assets/image%20%28398%29.png)
+![Dragon&apos;s Breath](../../.gitbook/assets/image%20%28399%29.png)
 
 Skaarf inhales for 1.5s, then exhales a huge cone of flames for 3s. Skaarf may move freely while spewing fire.
 

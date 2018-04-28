@@ -56,7 +56,7 @@ Petal leaps in the target direction, leaving a Brambleboom Seed behind at her or
 
 ## Ultimate: Spontaneous Combustion
 
-![Spontaneous Combustion](../../.gitbook/assets/image%20%28264%29.png)
+![Spontaneous Combustion](../../.gitbook/assets/image%20%28265%29.png)
 
 Petal commands a munion to explode, slowing & dealing splash damage to nearby enemies while healing nearby allies.
 

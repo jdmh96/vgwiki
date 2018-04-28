@@ -134,15 +134,15 @@ He wept his thanks as the acolytes guided him away. Grace’s attendants hovered
 
 
 
-![](../../.gitbook/assets/image%20%28388%29.png)
+![](../../.gitbook/assets/image%20%28389%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%28280%29.png)
+![](../../.gitbook/assets/image%20%28281%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%28332%29.png)
+![](../../.gitbook/assets/image%20%28333%29.png)
 
 
 
@@ -156,7 +156,7 @@ He wept his thanks as the acolytes guided him away. Grace’s attendants hovered
 
 #### THE VALKYRIE AND THE BERSERKER
 
-![Where&apos;s your valor now?](../../.gitbook/assets/image%20%28231%29.png)
+![Where&apos;s your valor now?](../../.gitbook/assets/image%20%28232%29.png)
 
 Red mist covered the muted sun of the Netherworld, and the valkyries in their feasting glade turned their noses up to inhale the smell of nearby fire and blood.
 

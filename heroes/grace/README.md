@@ -1,6 +1,6 @@
 # Grace
 
-![](../../.gitbook/assets/image%20%28405%29.png)
+![](../../.gitbook/assets/image%20%28406%29.png)
 
 #### A powerful paladin with a massive heal.
 
@@ -30,7 +30,7 @@ All effects in Grace's heroic perk & abilities are capped at 200 Crystal power e
 
 ## Ability A: Benediction
 
-![Benediction](../../.gitbook/assets/image%20%28342%29.png)
+![Benediction](../../.gitbook/assets/image%20%28343%29.png)
 
 Grace dashes to her target, striking them with an empowered Retribution attack. Nearby allies instantly gain a directional holy shield that continually faces the target, while Grace gains a full holy shield that protects her from all sides.
 

@@ -6,7 +6,7 @@
 
 ## Heroic Perk: Rocket Launcher
 
-![Rocket Launcher](../../.gitbook/assets/image%20%28246%29.png)
+![Rocket Launcher](../../.gitbook/assets/image%20%28247%29.png)
 
 Baron's basic attacks explode, dealing 130% weapon damage to the target.
 
@@ -62,7 +62,7 @@ After a brief delay, Baron jets to the target location then gains bonus move spe
 
 ## Ultimate: Ion Cannon
 
-![Ion Cannon](../../.gitbook/assets/image%20%28244%29.png)
+![Ion Cannon](../../.gitbook/assets/image%20%28245%29.png)
 
 Baron targets a location anywhere on the map for an orbital strike, obliterating the area after a 3s delay.
 

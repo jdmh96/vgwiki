@@ -1,6 +1,6 @@
 # Joule
 
-![](../../.gitbook/assets/image%20%28269%29.png)
+![](../../.gitbook/assets/image%20%28270%29.png)
 
 #### Heavily armored mech rider with a powerful energy beam.
 

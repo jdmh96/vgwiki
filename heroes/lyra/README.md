@@ -6,7 +6,7 @@
 
 ## Heroic Perk: Principle Arcanum
 
-![Principle Arcanum](../../.gitbook/assets/image%20%28258%29.png)
+![Principle Arcanum](../../.gitbook/assets/image%20%28259%29.png)
 
 Lyra's attacks are arcane missiles that deal crystal damage. If she holds her ground after releasing an attack, she automatically follows up with a heavy attack that also slows the target.
 
@@ -48,7 +48,7 @@ Lyra creates a sigil that heals nearby allied heroes & damages nearby enemy hero
 
 ## Ability B: Bright Bulwark
 
-![Bright Bulwark](../../.gitbook/assets/image%20%28374%29.png)
+![Bright Bulwark](../../.gitbook/assets/image%20%28375%29.png)
 
 Lyra creates a walled zone around her, damaging & applying a slow to surrounding enemies.
 

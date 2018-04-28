@@ -25,7 +25,7 @@ Ozo receives 15%-30% additional healing, barrier & fortified health from all sou
 
 ## Ability A: Three-Ring Circus
 
-![Three-Ring Circus](../../.gitbook/assets/image%20%28352%29.png)
+![Three-Ring Circus](../../.gitbook/assets/image%20%28353%29.png)
 
 Ozo can use this ability three times in a 5s window:
 
@@ -46,7 +46,7 @@ Ozo can use this ability three times in a 5s window:
 
 ## Ability B: Acrobounce
 
-![Acrobounce](../../.gitbook/assets/image%20%28364%29.png)
+![Acrobounce](../../.gitbook/assets/image%20%28365%29.png)
 
 Ozo jumps onto a target, damaging & slowing it if it is an enemy. While airborne, quickly tap another target to bounce to it. Three hops maximum.
 
@@ -68,7 +68,7 @@ Ozo jumps onto a target, damaging & slowing it if it is an enemy. While airborne
 
 ## Ultimate: Bangarang
 
-![Bangarang](../../.gitbook/assets/image%20%28211%29.png)
+![Bangarang](../../.gitbook/assets/image%20%28212%29.png)
 
 Ozo charges up, then rolls toward a targeted enemy hero. Upon arrival, Ozo damages, stuns for 0.8s & flips the target over him.
 

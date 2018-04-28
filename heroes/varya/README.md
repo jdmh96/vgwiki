@@ -1,6 +1,6 @@
 # Varya
 
-![](../../.gitbook/assets/image%20%28216%29.png)
+![](../../.gitbook/assets/image%20%28217%29.png)
 
 #### Shocking valkyrie who chains massive damage across enemy teams.
 
