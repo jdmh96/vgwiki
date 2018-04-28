@@ -96,6 +96,7 @@
   * [Skye](heroes/skye/README.md)
     * [Skye Lore](heroes/skye/skye-lore.md)
   * [Taka](heroes/taka/README.md)
+    * [Taka Talent](heroes/taka/taka-talent.md)
     * [Taka Lore](heroes/taka/taka-lore.md)
   * [Tony](heroes/untitled/README.md)
     * [Tony Talent](heroes/untitled/tony-talent.md)
