@@ -64,7 +64,7 @@ The two Stormguard women looked at one another, then back at the tank. “We ret
 
 ## ‘THE DESTRUCTION’
 
-![Target scan. Organic material. Risk, low](../.gitbook/assets/image%20%28331%29.png)
+![Target scan. Organic material. Risk, low](../.gitbook/assets/image%20%28335%29.png)
 
 #### —— Hullo, Beauty… —— Hullo… —— Hullo Beaut-beaut-bee… \#~$ REBOOT INITIATED: STAND BY… … BUFFERING… … TARGET DETECTED –&gt;ENGAGING.
 

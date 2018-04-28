@@ -4,7 +4,7 @@
 
 
 
-![Follow the light.](../../.gitbook/assets/image%20%28102%29.png)
+![Follow the light.](../../.gitbook/assets/image%20%28103%29.png)
 
 On the unkempt path along the mangrove-lined river, overgrown with vines and flowers, the paladin in his gilded ceremonial armor cut an imposing figure. A dozen warriors and several local guides marched behind him; explorers brought up the rear, sketching, collecting samples and taking notes. The paladin’s wide-eyed young daughter gripped his outstretched finger with her whole small fist.
 
@@ -112,7 +112,7 @@ Grace stood, and even without the splendor of her ceremonial dress she was an im
 
 The man knelt, prepared for punishment. Instead, he felt the woman’s palm on his bare head. Warmth flooded down his spine, and with it, a peace he had not known since he was a babe in his mother’s arms.
 
-![Faith shows the way.](../../.gitbook/assets/image%20%28171%29.png)
+![Faith shows the way.](../../.gitbook/assets/image%20%28172%29.png)
 
 “With valor and bravery you saved the life of the Archmage,” she said. “You kept watch in the night. Do you swear to live by the tenets of justice, courage, mercy, decorum, honesty, honor, loyalty and character?”
 
@@ -134,19 +134,19 @@ He wept his thanks as the acolytes guided him away. Grace’s attendants hovered
 
 
 
-![](../../.gitbook/assets/image%20%28385%29.png)
+![](../../.gitbook/assets/image%20%28389%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%28279%29.png)
+![](../../.gitbook/assets/image%20%28281%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%28329%29.png)
+![](../../.gitbook/assets/image%20%28333%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%28193%29.png)
+![](../../.gitbook/assets/image%20%28194%29.png)
 
 
 
@@ -156,7 +156,7 @@ He wept his thanks as the acolytes guided him away. Grace’s attendants hovered
 
 #### THE VALKYRIE AND THE BERSERKER
 
-![Where&apos;s your valor now?](../../.gitbook/assets/image%20%28230%29.png)
+![Where&apos;s your valor now?](../../.gitbook/assets/image%20%28232%29.png)
 
 Red mist covered the muted sun of the Netherworld, and the valkyries in their feasting glade turned their noses up to inhale the smell of nearby fire and blood.
 

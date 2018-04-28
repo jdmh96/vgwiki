@@ -1,6 +1,6 @@
 # Glaive
 
-![](../../.gitbook/assets/image%20%28198%29.png)
+![](../../.gitbook/assets/image%20%28199%29.png)
 
 #### Brutal axe warrior who can knock enemies out of position.
 
@@ -25,7 +25,7 @@ Glaive's critical strikes cleave in a 4-meter cone in front of him.
 
 ## Ability A: Afterburn
 
-![Afterburn](../../.gitbook/assets/image%20%28383%29.png)
+![Afterburn](../../.gitbook/assets/image%20%28387%29.png)
 
 Glaive rockets in the target direction, damaging all enemies along the way. His next basic attack is replaced by a frightening blast that knocks his target back 5.5 meters & briefly stuns them.
 
@@ -55,7 +55,7 @@ Instantly executes a critical strike.
 
 ## Ultimate: Bloodsong
 
-![Bloodsong](../../.gitbook/assets/image%20%28100%29.png)
+![Bloodsong](../../.gitbook/assets/image%20%28101%29.png)
 
 Swings Glaive's axe in a 5.4 meter circle, dealing massive area damage that increases with the number of Bloodsong stacks used. This removes all stacks.
 
