@@ -95,6 +95,7 @@
     * [Skaarf Lore](heroes/skaarf/skaarf-lore.md)
   * [Skye](heroes/skye/README.md)
     * [Skye Lore](heroes/skye/skye-lore.md)
+    * [Skye Talent](heroes/skye/skye-talent.md)
   * [Taka](heroes/taka/README.md)
     * [Taka Talent](heroes/taka/taka-talent.md)
     * [Taka Lore](heroes/taka/taka-lore.md)
