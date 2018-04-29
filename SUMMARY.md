@@ -170,6 +170,7 @@
   * [1.5 Notes](patch-notes/1.5-notes.md)
   * [1.6 Notes](patch-notes/1.6-notes.md)
   * [1.7 Notes](patch-notes/1.7-notes.md)
+  * [1.8 Notes](patch-notes/1.8-notes.md)
   * [1.11 Notes](patch-notes/untitled-2.md)
   * [1.12 Notes](patch-notes/1.12-notes.md)
   * [1.13 Notes](patch-notes/untitled-3.md)
