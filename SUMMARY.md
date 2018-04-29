@@ -185,7 +185,8 @@
   * 2.11 Notes
   * 2.12 Notes
   * [2.9 Notes](patch-notes/2.9-notes.md)
-  * [2.2](patch-notes/2.2.md)
+  * [2.2 Notes](patch-notes/2.2.md)
+  * [2.4 Notes](patch-notes/2.4-notes.md)
 * [Changelog](changelog.md)
 * Untitled
 
