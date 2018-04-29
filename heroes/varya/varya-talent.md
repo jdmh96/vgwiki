@@ -31,7 +31,7 @@ Arc Recursion \(B\) grants additional barrier and charges up quicker.
 
 ### Thunderstorm 
 
-Anvil's Hammer \(Ult\) has two additional strikes and no longer has reduced damage for consecutive hits. 
+Anvil's Hammer \(Ultimate\) has two additional strikes and no longer has reduced damage for consecutive hits. 
 
 | Damage | 130% |
 | --- |

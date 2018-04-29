@@ -18,7 +18,7 @@ Troublemaker \(B\) grants Reza barrier for a short duration.
 
 ### Firemaker
 
-Troublemaker \(B\) applies Firestarter \(Perk\) to enemy heroes he passes through. 
+Troublemaker \(B\) applies Firestarter \(Heroic Perk\) to enemy heroes he passes through. 
 
 | Damage | 100% |
 | --- |
@@ -30,7 +30,7 @@ Troublemaker \(B\) applies Firestarter \(Perk\) to enemy heroes he passes throug
 
 ### Nether Rage
 
-Netherform Detonator \(Ult\) grants Reza bonus attack speed and lasts longer. 
+Netherform Detonator \(Ultimate\) grants Reza bonus attack speed and lasts longer. 
 
 | Passive Attack Speed | +15% |
 | --- | --- |

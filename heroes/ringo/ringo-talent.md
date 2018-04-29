@@ -30,7 +30,7 @@ Twirling Silver \(B\) causes Ringo's basic attack to fire a secondary shot to a 
 
 ### Spiked Brew 
 
-Hellfire Brew \(Ult\) bounces to a nearby enemy hero upon impact.
+Hellfire Brew \(Ultimate\) bounces to a nearby enemy hero upon impact.
 
 | Damage | 70% |
 | --- | --- |

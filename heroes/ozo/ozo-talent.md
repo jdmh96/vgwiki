@@ -30,7 +30,7 @@ Three-Ring Circus \(A\) heals nearby allies.
 
 ### Bangarangarang!
 
-Bangarang \(Ult\) has 1 additional charge. 
+Bangarang \(Ultimate\) has 1 additional charge. 
 
 | Damage  | 90% |
 | --- | --- |

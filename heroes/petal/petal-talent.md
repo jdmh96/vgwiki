@@ -30,7 +30,7 @@ Brambleboom Seeds \(A\) explode for massive damage but no longer knocks back ene
 
 ### Explosion Force
 
-Spontaneous Combustion \(Ult\) knocks back enemies caught within its explosion. 
+Spontaneous Combustion \(Ultimate\) knocks back enemies caught within its explosion. 
 
 | Damage  | 90% |
 | --- |
