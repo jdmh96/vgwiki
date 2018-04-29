@@ -71,6 +71,7 @@
     * [Krul Talent](heroes/krul/krul-talent.md)
     * [Krul Lore](heroes/krul/krul-lore.md)
   * [Lance](heroes/lance/README.md)
+    * [Lance Talent](heroes/lance/lance-talent.md)
     * [Lance Lore](heroes/lance/lance-lore.md)
   * [Lorelai](heroes/lorelai/README.md)
     * [Lorelai Lore](heroes/lorelai/lorelai-lore.md)
