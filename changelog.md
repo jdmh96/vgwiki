@@ -6,6 +6,10 @@ description: >-
 
 # Changelog
 
+## 0.0.3
+
+Added 2.0, 2.1, 2.3, 2.5, 2.6, 2.7, 2.8, 2.9, and 2.10 update notes \(Raw data\(still needs edits\)\) 
+
 ## 0.0.2
 
 ### Added
