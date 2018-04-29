@@ -86,6 +86,7 @@
   * [Ringo](heroes/ringo/README.md)
     * [Ringo Lore](heroes/ringo/ringo-lore.md)
   * [Rona](heroes/rona/README.md)
+    * [Rona Talent](heroes/rona/rona-talent.md)
     * [Rona Lore](heroes/rona/rona-lore.md)
   * [Samuel](heroes/samuel/README.md)
     * [Samuel Talent](heroes/samuel/samuel-talent.md)
