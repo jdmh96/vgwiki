@@ -181,6 +181,6 @@
   * [1.21 Notes](patch-notes/untitled-4.md)
   * [3.0.0 Notes](patch-notes/3.0.0-notes.md)
   * [3.1.0 Notes](patch-notes/3.1.0-notes.md)
-  * [Untitled](patch-notes/untitled-6.md)
+  * [3.2.0 Notes](patch-notes/untitled-6.md)
 * [Changelog](changelog.md)
 

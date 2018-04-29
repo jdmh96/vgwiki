@@ -19,7 +19,7 @@ Suri Strike \(B\) grants Skye a move-speed bonus after completion. Skye passivel
 
 ### Raining Death
 
-Death from Above \(Ult\) has 1 additional charge. 
+Death from Above \(Ultimate\) has 1 additional charge. 
 
 | Damage | 115% |
 | --- | --- |

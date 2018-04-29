@@ -30,7 +30,7 @@ Kaku \(B\) grants Taka invulnerability for 0.8s.
 
 ### Triple X-Retsu
 
-X-Retsu \(Ult\) automatically chains to 3 targets. 
+X-Retsu \(Ultimate\) automatically chains to 3 targets. 
 
 | Damage | 80% |
 | --- |

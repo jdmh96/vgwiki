@@ -6,7 +6,7 @@
 
 ### Power Siphon 
 
-Corrupted Genius \(Perk\) occurs more frequently. 
+Corrupted Genius \(Heroic Perk\) occurs more frequently. 
 
 | Heal  | 150% |
 | --- | --- |
@@ -18,7 +18,7 @@ Corrupted Genius \(Perk\) occurs more frequently.
 
 ### Unwaking Nightmare 
 
-Enemies put to sleep by Oblivion \(Ult\) will not wake up when taking damage. 
+Enemies put to sleep by Oblivion \(Ultimate\) will not wake up when taking damage. 
 
 | Cooldown | 70% |
 | --- | --- |

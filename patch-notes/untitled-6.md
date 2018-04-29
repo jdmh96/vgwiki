@@ -2,7 +2,7 @@
 description: 'APR 13, 2018'
 ---
 
-# Untitled
+# 3.2.0 Notes
 
 ## UPDATE 3.2 HERO & ITEM BALANCE CHANGES
 

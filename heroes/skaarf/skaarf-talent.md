@@ -18,7 +18,7 @@ Spitfire \(A\) shoots three fireballs in a cone.
 
 ### Flash Fire 
 
-Dragon Breath \(Ult\) has a quicker start up but shorter direction. 
+Dragon Breath \(Ultimate\) has a quicker start up but shorter direction. 
 
 | Cooldown | 60% |
 | --- | --- |

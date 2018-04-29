@@ -8,7 +8,7 @@
 
 Increases maximum Bloodrage. Rona passively gains weapon power.
 
-| Bonus Alt Energy | 60 |
+| Bonus Alternate Energy | 60 |
 | --- | --- |
 | Passive Weapon Power | +5% |
 
@@ -24,13 +24,13 @@ Basic attacks reduce the cooldown of Into the Fray \(A\) by 10%. Rona passively 
 | --- | --- |
 | Damage | 50% |
 
-### Legendary Talent
+## Legendary Talent
 
 ![](../../.gitbook/assets/rona_legendary.png)
 
 ### Fast Whirlwind 
 
-Red Mist \(Ult\) grants Rona 1.2s bonus move speed.
+Red Mist \(Ultimate\) grants Rona 1.2s bonus move speed.
 
 | Damage | 100% |
 | --- | --- |

@@ -18,7 +18,7 @@ SAW's basic attack pierces its target to hit all enemies along its path.
 
 ### Speedy Spin Up
 
-Spin Up \(Perk\) no longer slow SAW. 
+Spin Up \(Heroic Perk\) no longer slow SAW. 
 
 | Speed Boost Per Stack | 0.012 |
 | --- |
@@ -30,7 +30,7 @@ Spin Up \(Perk\) no longer slow SAW.
 
 ### Road Rage 
 
-SAW gains Spin Up \(Perk\) stacks after attacking an enemy with Roadie Run \(A\). Basic attacks reduce the cooldown of Roadie Run \(A\) by 50%
+SAW gains Spin Up \(Heroic Perk\) stacks after attacking an enemy with Roadie Run \(A\). Basic attacks reduce the cooldown of Roadie Run \(A\) by 50%
 
 | Damage | 100% |
 | --- | --- |
