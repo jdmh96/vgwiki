@@ -6,7 +6,7 @@ description: 'August 15, 2016'
 
 ## UPDATE 1.21: SAMUEL, SALES & SUMMER KESTREL
 
-![](../.gitbook/assets/image%20%2870%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 _Do you feel a chill in the air? Maybe it’s the end of Summer season, or maybe it’s the arrival of a **new dark mage hero**, whose abilities are sure to cast a shadow over the Halcyon Fold. Update 1.21 represents the **last opportunities** to unlock Summer skins \(including new arrivals **Summer Party Kestrel** and **Phinn**\) and rank up this season. So savor the last of Summer because Autumn is just around the corner…_
 

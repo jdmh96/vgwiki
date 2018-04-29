@@ -88,6 +88,7 @@
   * [Rona](heroes/rona/README.md)
     * [Rona Lore](heroes/rona/rona-lore.md)
   * [Samuel](heroes/samuel/README.md)
+    * [Samuel Talent](heroes/samuel/samuel-talent.md)
     * [Samuel Lore](heroes/samuel/samuel-lore.md)
   * [SAW](heroes/saw/README.md)
     * [SAW Talent](heroes/saw/saw-talent.md)
