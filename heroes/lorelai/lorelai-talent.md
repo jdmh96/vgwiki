@@ -1,4 +1,4 @@
-# Lorelai Talent
+# Lorelai Talent \(Need images\)
 
 ## Rare Talent
 

@@ -36,10 +36,10 @@ description: Welcome To The Official Vainglory Wiki
   * [x] Joule
   * [x] Kestrel
   * [ ] Koshka
-  * [ ] Krul
-  * [ ] Lance
+  * [x] Krul
+  * [x] Lance
   * [ ] Lorelai
-  * [ ] Lyra
+  * [x] Lyra
   * [ ] Malene
   * [ ] Ozo
   * [ ] Petal
