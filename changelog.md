@@ -13,6 +13,8 @@ description: >-
 * Grumpjaw Talent Page
 * Gwen Talent Page
 * Idris Talent Page
+* Joule Talent Page
+* Kestrel Talent Page
 
 ### Fixed
 

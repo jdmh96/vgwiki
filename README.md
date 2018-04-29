@@ -33,8 +33,8 @@ description: Welcome To The Official Vainglory Wiki
   * [x] Grumpjaw
   * [x] Gwen
   * [x] Idris
-  * [ ] Joule
-  * [ ] Kestrel
+  * [x] Joule
+  * [x] Kestrel
   * [ ] Koshka
   * [ ] Krul
   * [ ] Lance
