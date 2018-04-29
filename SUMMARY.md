@@ -75,6 +75,7 @@
     * [Lance Lore](heroes/lance/lance-lore.md)
   * [Lorelai](heroes/lorelai/README.md)
     * [Lorelai Lore](heroes/lorelai/lorelai-lore.md)
+    * [Lorelai Talent](heroes/lorelai/lorelai-talent.md)
   * [Lyra](heroes/lyra/README.md)
     * [Lyra Lore](heroes/lyra/lyra-lore.md)
   * [Malene](heroes/malene/README.md)
