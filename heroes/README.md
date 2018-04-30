@@ -4,8 +4,6 @@ description: List of all Heroes by position (click on the name for details)
 
 # Heroes
 
-
-
 {% tabs %}
 {% tab title="Captains" %}
 | Image | Link | Other Positions |
@@ -13,27 +11,52 @@ description: List of all Heroes by position (click on the name for details)
 | ![](blob:https://ezl.gitbook.io/dc953668-f7b4-4ce2-b038-2a5585727f18) | [Adagio](adagio/) \| [Talent](adagio/adagio-talent.md) \| [Lore](adagio/adagio-lore.md) | Carry |
 | ![](blob:https://ezl.gitbook.io/89eadafc-f604-4402-b112-8ea2d09fc207) | [Ardan](ardan/) \| [Talent](ardan/ardan-talent.md) \| [Lore](ardan/ardan-lore.md) |  |
 |  | [Catherine](catherine/) \| [Talent](catherine/catherine-talent.md) \| [Lore](catherine/catherine-lore.md) |  |
-|  | Churnwalker |  |
-|  | Flicker |  |
-|  | Fortress |  |
-|  | Grace |  |
-|  | Lance |  |
-|  | Lorelai |  |
-|  | Lyra |  |
-|  | Phinn |  |
+|  | [Churnwalker](churnwalker/) \| [Talent](churnwalker/churnwalker-talent.md) \| [Lore](churnwalker/churnwalker-lore.md) |  |
+|  | Flicker \| Talent \| Lore |  |
+|  | Fortress \| Talent \| Lore |  |
+|  | Grace \| Talent \| Lore |  |
+|  | Lance \| Talent \| Lore |  |
+|  | Lorelai \| Talent \| Lore |  |
+|  | Lyra \| Talent \| Lore |  |
+|  | Phinn \| Talent \| Lore |  |
 {% endtab %}
 
 {% tab title="Junglers" %}
 | Image | Link | Other Positions |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Alpha \| Talent \| Lore |  |
+|  | Glaive \| Talent \| Lore |  |
+|  | Grumpjaw \| Talent \| Lore |  |
+|  | Joule \| Talent \| Lore |  |
+|  | Koshka \| Talent \| Lore |  |
+|  | Krul \| Talent \| Lore |  |
+|  | Ozo \| Talent \| Lore |  |
+|  | Petal \| Talent \| Lore |  |
+|  | Reim \| Talent \| Lore |  |
+|  | Rona \| Talent \| Lore |  |
+|  | Taka \| Talent \| Lore |  |
+|  | Tony \| Talent \| Lore |  |
 {% endtab %}
 
 {% tab title="Carries" %}
 | Image | Link | Other Positions |
-| --- | --- |
-|  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Malene \| Talent \| Lore |  |
+|  | Baptiste \| Talent \| Lore |  |
+|  | Baron \| Talent \| Lore |  |
+|  | Blackfeather \| Talent \| Lore |  |
+|  | Celeste \| Talent \| Lore |  |
+|  | Gwen \| Talent \| Lore |  |
+|  | Idris \| Talent \| Lore |  |
+|  | Kestrel \| Talent \| Lore |  |
+|  | Reza \| Talent \| Lore |  |
+|  | Ringo \| Talent \| Lore |  |
+|  | Samuel \| Talent \| Lore |  |
+|  | SAW \| Talent \| Lore |  |
+|  | Skarff \| Talent \| Lore |  |
+|  | Skye \| Talent \| Lore |  |
+|  | Varya \| Talent \| Lore |  |
+|  | Vox \| Talent \| Lore |  |
 {% endtab %}
 {% endtabs %}
 
