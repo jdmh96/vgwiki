@@ -1,12 +1,12 @@
 # Lorelai
 
-![](../../.gitbook/assets/image%20%28267%29.png)
+![](../../.gitbook/assets/image%20%28268%29.png)
 
 #### Backline support, excelling at zone control & team utility.
 
 ## Heroic Perk: That's Swell
 
-![That&apos;s Swell](../../.gitbook/assets/image%20%28277%29.png)
+![That&apos;s Swell](../../.gitbook/assets/image%20%28278%29.png)
 
 Lorelai's abilities leave pools of water on the ground. While on a pool, Lorelai becomes empowered. Using an ability while empowered consumes the pool she's on & affects the ability used. Additionally, Lorelai's basic attacks are torrents of water that deal crystal damage.
 
@@ -30,7 +30,7 @@ Lorelai's abilities leave pools of water on the ground. While on a pool, Lorelai
 
 ## Ability A: Fish Food
 
-![Fish Food](../../.gitbook/assets/image%20%28302%29.png)
+![Fish Food](../../.gitbook/assets/image%20%28303%29.png)
 
 Lorelai calls upon her aquatic friends at the target location.
 

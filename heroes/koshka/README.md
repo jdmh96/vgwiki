@@ -37,7 +37,7 @@ Koshka pounces to the target enemy & deals damage.
 
 ## Ability B: Twirly Death
 
-![Twirly Death](../../.gitbook/assets/image%20%2898%29.png)
+![Twirly Death](../../.gitbook/assets/image%20%2899%29.png)
 
 Koshka twirls, damaging all enemies around her.
 
@@ -53,7 +53,7 @@ Koshka twirls, damaging all enemies around her.
 
 ## Ultimate: Yummy Catnip Frenzy
 
-![Yummy Catnip Frenzy](../../.gitbook/assets/image%20%28227%29.png)
+![Yummy Catnip Frenzy](../../.gitbook/assets/image%20%28228%29.png)
 
 Koshka leaps at her target, then launches into a flurry of slashes, stunning the target for the entire 2.2s duration.
 
