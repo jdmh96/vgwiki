@@ -13,7 +13,7 @@
     * [Adagio Lore](flicker/adagio/adagio-lore.md)
   * [Alpha](flicker/alpha/README.md)
     * [Alpha Talent](flicker/alpha/alpha-talent.md)
-  * [Alpha Lore](flicker/alpha-lore.md)
+    * [Alpha Lore](flicker/alpha/alpha-lore.md)
   * [Ardan](flicker/ardan/README.md)
     * [Ardan Talent](flicker/ardan/ardan-talent.md)
     * [Ardan Lore](flicker/ardan/ardan-lore.md)

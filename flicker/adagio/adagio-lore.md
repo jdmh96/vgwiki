@@ -2,7 +2,7 @@
 
 ## ‘THE ADVICE NOT GIVEN’
 
-![Sure, no time like the present](../../.gitbook/assets/image%20%28290%29.png)
+![Sure, no time like the present](../../.gitbook/assets/image%20%28291%29.png)
 
 Ages ago, the desert people learned to heat the pink, blue and white crystal sand of the desert to make glass, and from it they created a city so strong, glittering and beautiful that even the seraphim took notice.
 
@@ -66,7 +66,7 @@ Adagio’s expression, for a moment, softened. “What the Churn does not kill, 
 
 ## ‘THE HOUSE OF INSIGHT’
 
-![They will flee before me.](../../.gitbook/assets/image%20%28284%29.png)
+![They will flee before me.](../../.gitbook/assets/image%20%28285%29.png)
 
 Idris appeared inside the Glass City coughing, a painful sting in his nose when he tried to inhale, his eyes pouring water, the sharp chakram dropping from his fist. He wrapped his turban around his mouth and nose but it was no respite from the swirling green-gray smog. His skin burned even beneath his sandstorm-proof clothing. He dropped to his knees, choking, blind but aware on all sides of things waking, sniffing and growling. He tried to escape in the same way that he had come, but he was gripped by fear and could not move. So he would die like this, smothered, sniveling, helpless.
 
@@ -96,7 +96,7 @@ In the year of nightly battles he had seen many kinds of Churnbeasts, horrific e
 
 ## ‘RANA AND AYAH’
 
-![Beautiful things deserve to be cherished](../../.gitbook/assets/image%20%28283%29.png)
+![Beautiful things deserve to be cherished](../../.gitbook/assets/image%20%28284%29.png)
 
 Adagio gazed into the mists. He knew well what lay at the center of the ruined city, for he had watched the Churn overtake the desert before; the earthquakes had crumbled the crystal peaks to the dust that mankind would later name The Shimmer. He had seen to the building of the Fabled Well himself, had set it in a place so hot and desolate that he’d thought it would be safe from civilization. And yet the people had come, drawn to its power. They had created beauty within the desert. He had dared to hope that the people’s ingenuity would triumph, and in the end he had been wrong.
 
@@ -152,7 +152,7 @@ Idris clenched his fists. “I will go with you, then. But I swear I will return
 
  
 
-![This is so fun](../../.gitbook/assets/image%20%28233%29.png)
+![This is so fun](../../.gitbook/assets/image%20%28234%29.png)
 
 Before the naga heard Adagio’s song, everything was the same always. She tended to her coral gardens; she danced with pearls for the amusement of the piranhas; she gossipped with the clams; she avoided jellies and anemones; and she tickled the belly of Archelon each year when he passed by.
 

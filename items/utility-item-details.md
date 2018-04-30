@@ -2,7 +2,7 @@
 
 ## Tier 1
 
-## Sprint boots
+### Sprint boots
 
 ![](../.gitbook/assets/sprint-boots%20%281%29.png)
 
@@ -16,7 +16,7 @@ Cost: 300 gold
 
 ## Tier 2
 
-## Travel boots
+### Travel boots
 
 ![](../.gitbook/assets/travel-boots%20%281%29.png)
 
@@ -34,7 +34,7 @@ Cost: 300 gold
 * Builds from:
   * [Sprint boots    ](utility-item-details.md#sprint-boots)
 
-## Flare gun
+### Flare gun
 
 ![](../.gitbook/assets/flare-gun%20%282%29.png)
 

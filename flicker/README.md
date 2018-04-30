@@ -12,19 +12,19 @@ description: List of all Heroes by position (click on the name for details)
 | ![](../.gitbook/assets/ardan_portrait%20%282%29.png) | [Ardan](ardan/) \| [Talent](ardan/ardan-talent.md) \| [Lore](ardan/ardan-lore.md) |  |
 | ![](../.gitbook/assets/catherine_portrait.png) | [Catherine](catherine/) \| [Talent](catherine/catherine-talent.md) \| [Lore](catherine/catherine-lore.md) |  |
 |  | [Churnwalker](churnwalker/) \| [Talent](churnwalker/churnwalker-talent.md) \| [Lore](churnwalker/churnwalker-lore.md) |  |
-|  | [Flicker](flicker/) \| [Talent](flicker/flicker-talent.md) \| [Lore](flicker/flicker-lore.md) |  |
-|  | [Fortress](fortress/) \| [Talent](fortress/fortress-talent.md) \| [Lore](fortress/fortress-lore.md) |  |
-|  | [Grace](grace/) \| [Talent](grace/grace-talent.md) \| [Lore](grace/grace-lore.md) |  |
-|  | [Lance](lance/) \| [Talent ](glaive/glaive-talent.md)\| [Lore](lance/lance-lore.md) |  |
+| ![](../.gitbook/assets/flicker_portrait%20%282%29.png) | [Flicker](flicker/) \| [Talent](flicker/flicker-talent.md) \| [Lore](flicker/flicker-lore.md) |  |
+| ![](../.gitbook/assets/fortress_portrait.png) | [Fortress](fortress/) \| [Talent](fortress/fortress-talent.md) \| [Lore](fortress/fortress-lore.md) |  |
+| ![](../.gitbook/assets/grace_portrait.png) | [Grace](grace/) \| [Talent](grace/grace-talent.md) \| [Lore](grace/grace-lore.md) |  |
+| ![](../.gitbook/assets/lance_portrait.png) | [Lance](lance/) \| [Talent ](glaive/glaive-talent.md)\| [Lore](lance/lance-lore.md) |  |
 |  | [Lorelai](lorelai/) \| Talent \| [Lore](lorelai/lorelai-lore.md) |  |
-|  | [Lyra](lyra/) \| Talent \| [Lore](lyra/lyra-lore.md) |  |
-|  | [Phinn](phinn/) \| Talent \| [Lore](phinn/phinn-lore.md) |  |
+| ![](../.gitbook/assets/lyra_portrait%20%281%29.png) | [Lyra](lyra/) \| Talent \| [Lore](lyra/lyra-lore.md) |  |
+| ![](../.gitbook/assets/phinn_portrait%20%283%29.png) | [Phinn](phinn/) \| Talent \| [Lore](phinn/phinn-lore.md) |  |
 {% endtab %}
 
 {% tab title="Junglers" %}
 | Image | Link | Other Positions |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | [Alpha](alpha/) \| [Talent](alpha/alpha-talent.md) \| [Lore](alpha-lore.md) |  |
+|  | [Alpha](alpha/) \| [Talent](alpha/alpha-talent.md) \| [Lore](alpha/alpha-lore.md) |  |
 |  | [Glaive](glaive/) \| [Talent](glaive/glaive-talent.md) \| [Lore](glaive/glaive-lore.md) |  |
 |  | [Grumpjaw](grumpjaw/) \| [Talent](grumpjaw/grumpjaw-talent.md) \| [Lore](grumpjaw/grumpjaw-lore.md) |  |
 |  | [Joule](joule/) \| Talent \| [Lore](joule/joule-lore.md) |  |
