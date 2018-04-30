@@ -1,12 +1,12 @@
 # Grumpjaw
 
-![](../../.gitbook/assets/image%20%28293%29.png)
+![](../../.gitbook/assets/image%20%28294%29.png)
 
 #### A hungry beast who can swallow a hero whole.
 
 ## Heroic Perk: Living Armor
 
-![Living Armor](../../.gitbook/assets/image%20%28144%29.png)
+![Living Armor](../../.gitbook/assets/image%20%28145%29.png)
 
 Each stack of Living Armor reduces incoming damage by 5%.
 
@@ -27,7 +27,7 @@ Each stack of Living Armor reduces incoming damage by 5%.
 
 ## Ability A: Grumpy
 
-![Grumpy](../../.gitbook/assets/image%20%28257%29.png)
+![Grumpy](../../.gitbook/assets/image%20%28258%29.png)
 
 Grumpjaw charges forward & slashes the area in front of him, damaging & slowing enemies he hits.
 
@@ -45,7 +45,7 @@ Grumpjaw charges forward & slashes the area in front of him, damaging & slowing 
 
 ## Ability B: Hangry
 
-![Hangry](../../.gitbook/assets/image%20%28112%29.png)
+![Hangry](../../.gitbook/assets/image%20%28113%29.png)
 
 Grumpjaw leaps toward his target & attacks it. Afterward, he gains bonus weapon damage & attack speed for several seconds.
 
@@ -59,7 +59,7 @@ Grumpjaw leaps toward his target & attacks it. Afterward, he gains bonus weapon 
 
 ## Ultimate: Stuffed
 
-![Stuffed](../../.gitbook/assets/image%20%28317%29.png)
+![Stuffed](../../.gitbook/assets/image%20%28318%29.png)
 
 Grumpjaw lunges forward, devouring the first enemy hero on his path. While inside Grumpjaw's belly, enemies cannot move, act or see. After 3s, Grumpjaw will spit the enemy out in front of him.
 
