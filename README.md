@@ -6,7 +6,7 @@ description: Welcome To The Official Vainglory Wiki
 
 {% page-ref page="items/" %}
 
-{% page-ref page="heroes/" %}
+{% page-ref page="flicker/" %}
 
 {% page-ref page="terms-used-in-game.md" %}
 
