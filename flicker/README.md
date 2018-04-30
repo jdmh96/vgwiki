@@ -8,7 +8,7 @@ description: List of all Heroes by position (click on the name for details)
 {% tab title="Captains" %}
 | Image | Link | Other Positions |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![](../.gitbook/assets/adagio_portrait%20%283%29.png) | [Adagio](adagio/) \| [Talent](adagio/adagio-talent.md) \| [Lore](adagio/adagio-lore.md) | Carry |
+|  | [Adagio](adagio/) \| [Talent](adagio/adagio-talent.md) \| [Lore](adagio/adagio-lore.md) | Carry |
 | ![](../.gitbook/assets/ardan_portrait%20%282%29.png) | [Ardan](ardan/) \| [Talent](ardan/ardan-talent.md) \| [Lore](ardan/ardan-lore.md) |  |
 | ![](../.gitbook/assets/catherine_portrait.png) | [Catherine](catherine/) \| [Talent](catherine/catherine-talent.md) \| [Lore](catherine/catherine-lore.md) |  |
 |  | [Churnwalker](churnwalker/) \| [Talent](churnwalker/churnwalker-talent.md) \| [Lore](churnwalker/churnwalker-lore.md) |  |
@@ -19,6 +19,8 @@ description: List of all Heroes by position (click on the name for details)
 |  | [Lorelai](lorelai/) \| Talent \| [Lore](lorelai/lorelai-lore.md) |  |
 | ![](../.gitbook/assets/lyra_portrait%20%281%29.png) | [Lyra](lyra/) \| Talent \| [Lore](lyra/lyra-lore.md) |  |
 | ![](../.gitbook/assets/phinn_portrait%20%283%29.png) | [Phinn](phinn/) \| Talent \| [Lore](phinn/phinn-lore.md) |  |
+
+![](../.gitbook/assets/adagio_frame.png)
 {% endtab %}
 
 {% tab title="Junglers" %}
