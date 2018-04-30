@@ -2,7 +2,7 @@
 
 ## 'Excerpt from the recovered letters of Martim Walker I'
 
-![...ikri v&apos;ahskad f&apos;ave](../../.gitbook/assets/image%20%28161%29.png)
+![...ikri v&apos;ahskad f&apos;ave](../../.gitbook/assets/image%20%28162%29.png)
 
 For the Guildmaster’s eyes only:
 
@@ -27,7 +27,7 @@ Martim Walker
 
 ## ' Excerpt from the recovered letters of Martim Walker II'
 
-![Oeda vli stishad!](../../.gitbook/assets/image%20%28244%29.png)
+![Oeda vli stishad!](../../.gitbook/assets/image%20%28245%29.png)
 
 For the Guildmaster’s eyes only:
 

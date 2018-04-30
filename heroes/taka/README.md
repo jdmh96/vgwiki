@@ -3,7 +3,7 @@
   
 
 
-![](../../.gitbook/assets/image%20%28159%29.png)
+![](../../.gitbook/assets/image%20%28160%29.png)
 
 #### Stealthy assassin who can heal while invisible.
 
@@ -29,7 +29,7 @@ When Taka uses an ability or lands a Mortal Strike, he gains a stack of Ki.
 
 ## Ability A: Kaiten
 
-![Kaiten](../../.gitbook/assets/image%20%28123%29.png)
+![Kaiten](../../.gitbook/assets/image%20%28124%29.png)
 
 Taka flips over his target, cutting it with his switchblade. Taka is invulnerable to damage & negetive effects while in mid-air.
 
@@ -59,7 +59,7 @@ Taka throws a smoke bomb at his feet & becomes invisible. While stealthed, Taka 
 
 ## Ultimate: X-Retsu
 
-![X-Retsu](../../.gitbook/assets/image%20%28328%29.png)
+![X-Retsu](../../.gitbook/assets/image%20%28329%29.png)
 
 Taka bursts through his target for massive damage & gains Ki stacks. The target suffers a mortal wound \(reduced healing\) & takes damage per second for the next 3s. The wound's duration is refreshed whenever Taka Mortal Strikes this target.
 

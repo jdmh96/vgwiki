@@ -1,6 +1,6 @@
 # Fortress
 
-![](../../.gitbook/assets/image%20%28320%29.png)
+![](../../.gitbook/assets/image%20%28321%29.png)
 
 #### Aggressive pack leader who swarms the enemy with great speed.
 
@@ -58,7 +58,7 @@ Fortress claws his target, causing it to bleed for several seconds.
 
 ## Ultimate: Attack of the Pack
 
-![Attack of the Pack](../../.gitbook/assets/image%20%28100%29.png)
+![Attack of the Pack](../../.gitbook/assets/image%20%28101%29.png)
 
 Fortress summons a pack of wolves. Each pack wolf seeks out a different enemy hero.
 
