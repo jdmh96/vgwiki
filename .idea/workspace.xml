@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="559a66f4-13fe-411f-85d9-0301cd181318" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/heroes/idris/idris-talent.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/heroes/joule/joule-talent.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/heroes/kestrel/kestrel-talent.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/heroes/koshka/koshka-talent-need-images.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/heroes/krul/krul-talent.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/heroes/lance/lance-talent.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/heroes/lorelai/lorelai-talent.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/heroes/lyra/lyra-talent.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/heroes/untitled/tony-talent.md" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/SUMMARY.md" afterPath="$PROJECT_DIR$/SUMMARY.md" />
+      <change beforePath="$PROJECT_DIR$/changelog.md" afterPath="$PROJECT_DIR$/changelog.md" />
+      <change beforePath="$PROJECT_DIR$/flicker/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/adagio/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/adagio/adagio-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/adagio/adagio-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/alpha-lore.md" afterPath="$PROJECT_DIR$/flicker/alpha-lore.md" />
+      <change beforePath="$PROJECT_DIR$/flicker/alpha/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/alpha/alpha-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/alpha/alpha-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/ardan/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/ardan/ardan-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/ardan/ardan-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/baptiste/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/baptiste/baptiste-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/baptiste/baptiste-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/baron/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/baron/baron-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/baron/baron-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/blackfeather/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/blackfeather/blackfeather-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/blackfeather/blackfeather-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/catherine/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/catherine/catherine-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/catherine/catherine-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/celeste/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/celeste/celeste-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/celeste/celeste-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/churnwalker/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/churnwalker/churnwalker-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/churnwalker/churnwalker-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/corpus/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/corpus/corpus-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/flicker/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/flicker/flicker-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/flicker/flicker-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/fortress/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/fortress/fortress-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/fortress/fortress-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/glaive/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/glaive/glaive-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/glaive/glaive-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/grace/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/grace/grace-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/grace/grace-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/grumpjaw/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/grumpjaw/grumpjaw-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/grumpjaw/grumpjaw-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/gwen/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/gwen/gwen-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/gwen/gwen-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/idris/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/idris/idris-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/joule/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/joule/joule-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/kestrel/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/kestrel/kestrel-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/koshka/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/koshka/koshka-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/krul/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/krul/krul-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/lance/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/lance/lance-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/lorelai/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/lorelai/lorelai-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/lyra/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/lyra/lyra-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/malene/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/malene/malene-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/ozo/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/ozo/ozo-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/petal/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/petal/petal-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/phinn/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/phinn/phinn-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/reim/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/reim/reim-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/reza/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/reza/reza-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/ringo/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/ringo/ringo-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/rona/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/rona/rona-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/rona/rona-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/saga-lores/the-rise-of-the-star-queen-saga.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/saga-lores/the-stormguard-saga.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/samuel/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/samuel/samuel-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/samuel/samuel-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/saw/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/saw/saw-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/saw/saw-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/skaarf/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/skaarf/skaarf-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/skaarf/skaarf-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/skye/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/skye/skye-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/skye/skye-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/taka/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/taka/taka-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/taka/taka-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/go-left/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/go-left/fight-the-minions-enemy/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/go-left/fight-the-minions-enemy/explore-alone/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/go-left/fight-the-minions-enemy/explore-alone/buy-scout-cam-boost/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/go-left/fight-the-minions-enemy/explore-alone/buy-scout-cam-boost/become-a-daredevil.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/go-left/fight-the-minions-enemy/explore-alone/buy-scout-cam-boost/create-a-reality-show.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/go-left/fight-the-minions-enemy/explore-alone/buy-teleport-boots/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/go-left/fight-the-minions-enemy/explore-alone/buy-teleport-boots/teleport-to-the-center-of-the-mountain.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/go-left/fight-the-minions-enemy/explore-alone/buy-teleport-boots/teleport-to-your-happy-place.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/go-left/fight-the-minions-enemy/go-with-koshka/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/go-left/fight-the-minions-enemy/go-with-koshka/fight-the-dragon.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/go-left/fight-the-minions-enemy/go-with-koshka/save-yourself.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/go-left/save-the-minions.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/go-straight.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/untitled/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/untitled/give-the-big-crystal-a-whack/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/untitled/give-the-big-crystal-a-whack/beef-up-your-power-punchers/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/untitled/give-the-big-crystal-a-whack/beef-up-your-power-punchers/go-into-the-pipe/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/untitled/give-the-big-crystal-a-whack/beef-up-your-power-punchers/go-into-the-pipe/continue-down.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/untitled/give-the-big-crystal-a-whack/beef-up-your-power-punchers/go-into-the-pipe/punch-your-way-out-of-the-pipe.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/untitled/give-the-big-crystal-a-whack/beef-up-your-power-punchers/put-the-punchers-to-the-test.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/untitled/give-the-big-crystal-a-whack/plug-a-crystal-shard-into-your-nose.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/untitled/steer-clear-of-the-charged-crystals/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/untitled/steer-clear-of-the-charged-crystals/commandeer-the-airship.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/untitled/steer-clear-of-the-charged-crystals/stow-away-in-secret/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/untitled/steer-clear-of-the-charged-crystals/stow-away-in-secret/get-away-as-fast-as-possible.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-lore/untitled/steer-clear-of-the-charged-crystals/stow-away-in-secret/take-an-egg-for-yourself.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/untitled/tony-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/varya/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/varya/varya-lore.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/varya/varya-talent.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flicker/vox/README.md" afterPath="$PROJECT_DIR$/heroes/vox/README.md" />
+      <change beforePath="$PROJECT_DIR$/flicker/vox/vox-lore.md" afterPath="$PROJECT_DIR$/heroes/vox/vox-lore.md" />
+      <change beforePath="$PROJECT_DIR$/flicker/vox/vox-talent.md" afterPath="$PROJECT_DIR$/heroes/vox/vox-talent.md" />
+      <change beforePath="$PROJECT_DIR$/heroes/README.md" afterPath="$PROJECT_DIR$/heroes/README.md" />
+      <change beforePath="$PROJECT_DIR$/heroes/corpus-the-nightmare-goat.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/heroes/kestrel.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/heroes/krul.md" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/heroes/README.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="192">
+                  <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="alpha-lore2.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/heroes/alpha/alpha-lore2.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="95">
+                  <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="192">
+                  <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;&lt;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/heroes/README.md" />
+        <option value="$PROJECT_DIR$/heroes/alpha/alpha-lore2.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="91" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vgwiki" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vgwiki" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vgwiki" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vgwiki" type="462c0819:PsiDirectoryNode" />
+              <item name="heroes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vgwiki" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vgwiki" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/heroes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="559a66f4-13fe-411f-85d9-0301cd181318" name="Default" comment="" />
+      <created>1524791931633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524791931633</updated>
+      <workItem from="1524791934027" duration="880000" />
+      <workItem from="1525112167203" duration="1131000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2011000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1600" height="900" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13616213" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/items/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="107" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heroes/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items/untitled.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="17" column="121" lean-forward="false" selection-start-line="17" selection-start-column="121" selection-end-line="17" selection-end-column="121" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heroes/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heroes/alpha/alpha-lore2.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

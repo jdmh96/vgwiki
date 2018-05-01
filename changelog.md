@@ -13,6 +13,13 @@ description: >-
 * Grumpjaw Talent Page
 * Gwen Talent Page
 * Idris Talent Page
+* Joule Talent Page
+* Kestrel Talent Page
+* Koshka Talent Page \(Unfinished\)
+* Krul Talent Page
+* Lance Talent Page
+* Lorelai Talent Page \(Unfinished\)
+* Lyra Talent Page
 
 ### Fixed
 
