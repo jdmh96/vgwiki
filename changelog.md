@@ -6,6 +6,12 @@ description: >-
 
 # Changelog
 
+## 0.0.3
+
+### Added
+
+* 1.9 notes
+
 ## 0.0.2
 
 ### Added
