@@ -8,7 +8,18 @@ description: >-
 
 ## 0.0.3
 
-Added 2.0, 2.1, 2.3, 2.5, 2.6, 2.7, 2.8, 2.9, and 2.10 update notes \(Raw data\(still needs edits\)\) 
+### Added
+
+* 1.9 notes
+* Added 2.0
+* Added 2.1
+* Added 2.3
+* Added 2.5
+* Added 2.6
+* Added 2.7
+* Added 2.8
+* Added 2.9
+* Added 2.10 update notes \(Raw data\(still needs edits\)\) 
 
 ## 0.0.2
 

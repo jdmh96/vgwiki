@@ -142,8 +142,8 @@
     * [Vox Talent](heroes/vox/vox-talent.md)
     * [Vox Lore](heroes/vox/vox-lore.md)
   * Saga Lores
-    * [The Stormguard Saga](flicker/saga-lores/the-stormguard-saga.md)
-    * [The Rise Of The Star Queen Saga](flicker/saga-lores/the-rise-of-the-star-queen-saga.md)
+    * [The Stormguard Saga](heros/saga-lores/the-stormguard-saga.md)
+    * [The Rise Of The Star Queen Saga](heros/saga-lores/the-rise-of-the-star-queen-saga.md)
 * [Common Terms](terms-used-in-game.md)
 * [Update Notes](patch-notes/README.md)
   * [1.0.3 Notes](patch-notes/1.03-notes.md)
@@ -173,6 +173,8 @@
   * [1.6 Notes](patch-notes/1.6-notes.md)
   * [1.7 Notes](patch-notes/1.7-notes.md)
   * [1.8 Notes](patch-notes/1.8-notes.md)
+  * [1.9 Notes](patch-notes/1.9-notes.md)
+  * Untitled
   * [1.11 Notes](patch-notes/untitled-2.md)
   * [1.12 Notes](patch-notes/1.12-notes.md)
   * [1.13 Notes](patch-notes/untitled-3.md)
