@@ -6,7 +6,7 @@ description: Welcome To The Official Vainglory Wiki
 
 {% page-ref page="items/" %}
 
-{% page-ref page="heros/" %}
+{% page-ref page="heroes/" %}
 
 {% page-ref page="terms-used-in-game.md" %}
 
@@ -33,13 +33,13 @@ description: Welcome To The Official Vainglory Wiki
   * [x] Grumpjaw
   * [x] Gwen
   * [x] Idris
-  * [ ] Joule
-  * [ ] Kestrel
+  * [x] Joule
+  * [x] Kestrel
   * [ ] Koshka
-  * [ ] Krul
-  * [ ] Lance
+  * [x] Krul
+  * [x] Lance
   * [ ] Lorelai
-  * [ ] Lyra
+  * [x] Lyra
   * [ ] Malene
   * [ ] Ozo
   * [ ] Petal
@@ -120,7 +120,7 @@ description: Welcome To The Official Vainglory Wiki
   * [x] 1.21
   * [x] 3.0
   * [ ] etc
-* [x] in the main items page, leave only the full price for tier 2 & 3 items, having the other prices is confusing \(you will learn what builds into what in the detailed pages so having it here is redundant\).
+* [x] in the main items page, leave only the full price for tier 2 & 3 items, having the other prices is confusing \(you will learn what builds into what in the detailed pages so having it here is redundant\). 
 * [ ] in “other” might want to add the scout cam even tho is not purchasable - since the section is referring to items and not “shop items” only.
 * [ ] add information about the hero’s role in the main page and hero’s page \(maybe even considering adding the ability to filter by role\)
 * [ ] might want to mention the skins in a list \(and the rarity\) for each hero in the main page, since the lores are in each hero’s page
@@ -133,4 +133,6 @@ description: Welcome To The Official Vainglory Wiki
 * [ ] make sure to hyperlink Heroes to their more in-depth pages from the larger list of heroes
 * [ ]  A list of our past in-game events \(like the Malene one right now\)
 * [ ] Update notes once we stopped making the article for them.
+
+
 

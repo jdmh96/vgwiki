@@ -1,0 +1,1269 @@
+# 2.7 Notes
+
+### [Update 2.7 \(Reza\) Notes: Ignite Enemies & Claim Your Glory Refund](https://www.vainglorygame.com/news/update-2-7-reza-notes-ignite-enemies-claim-your-glory-refund/)
+
+August 8th 2017
+
+_In Update 2.7, check out Vainglory’s newest hero! Reza is a fast, devastating fire assassin with a demon netherform. Plus, read up on Glory refunds for Talents purchases, four brand-spanking-new skins and item & talents balance._
+
+**JUMP TO A SECTION:**
+
+[NEW SKINS](https://www.vainglorygame.com/news/update-2-7-reza-notes-ignite-enemies-claim-your-glory-refund/#Skins)  
+ [TALENTS GLORY REFUNDS](https://www.vainglorygame.com/news/update-2-7-reza-notes-ignite-enemies-claim-your-glory-refund/#Glory)  
+ [BLITZ CHANGES](https://www.vainglorygame.com/news/update-2-7-reza-notes-ignite-enemies-claim-your-glory-refund/#Blitz)  
+ [USER INTERFACE UPDATES](https://www.vainglorygame.com/news/update-2-7-reza-notes-ignite-enemies-claim-your-glory-refund/#User)  
+ [HERO BALANCE](https://www.vainglorygame.com/news/update-2-7-reza-notes-ignite-enemies-claim-your-glory-refund/#Hero)  
+ [TALENTS BALANCE  
+](https://www.vainglorygame.com/news/update-2-7-reza-notes-ignite-enemies-claim-your-glory-refund/#Talents)[BUG FIXES & IMPROVEMENTS](https://www.vainglorygame.com/news/update-2-7-reza-notes-ignite-enemies-claim-your-glory-refund/#Bugs)
+
+#### **NEW HERO: REZA** {#Reza}
+
+
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Reza_splashedit.jpg)
+
+_Reza is a fiery assassin who melts enemy heroes by stringing together a series of devastating abilities. His **Firestarter** perk adds even more damage to basic attacks while **Troublemaker** allows him to finish off fleeing foes or escape near-death situations.** **_
+
+_Reza is unlockable with ICE only for the first seven days. Afterward, you will be able to unlock him with ICE or Glory._
+
+#### **HERO ABILITIES**
+
+
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/08/Reza_Perk-150x150.jpg)
+
+**FIRESTARTER \(HEROIC PERK\)**
+
+**Scorcher** and **Netherform Detonator** apply **Firestarter**_ _to enemy targets. Reza’s basic attacks consume Firestarter, dealing crystal damage.
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/08/Reza_A-150x150.jpg)**SCORCHER \(A\)**
+
+Reza smashes the ground, creating a fiery shockwave in front of him. Scorcher deals damage to anything it passes through and collides with the first enemy hero or large minion hit.
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/08/Reza_B-150x150.jpg)**TROUBLEMAKER \(B\)**
+
+Reza dashes to the target location, dealing damage to enemies he passes through. Reza’s next basic attack deals bonus crystal damage. This ability has two charges.
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/08/Reza_C-150x150.jpg)**NETHERFORM DETONATOR \(ULTIMATE\)**
+
+Reza vanishes, then reappears at the target location in an empowered demon form. Upon reappearing, he unleashes a blazing explosion, damaging enemies and consuming **Firestarter**_ _within the target radius. Reza then applies_ Firestarter _to all enemies nearby.
+
+
+
+#### **HERO TALENTS**
+
+
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/08/Reza_B_Talent_Firemaker-300x300.jpg)**BURNING BARRIER \(RARE\)**
+
+**Troublemaker** \(B\) grants Reza a barrier for a short duration.
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/08/Reza_B_Talent_BurningBarier-300x300.jpg)**FIREMAKER \(EPIC\)**
+
+**Troublemaker** applies **Firestarter** to enemy heroes he passes through.
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/08/Reza_C_NetherRage-1-300x300.jpg)**NETHER RAGE \(LEGENDARY\)**
+
+**Netherform Detonator** \(Ult\) grants Reza bonus attack speed and lasts longer.  
+
+
+#### **NEW HERO SKINS**
+
+![bottom\_bracket](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/09/Bracket2.png)
+
+#### **‘Red’ Rona \(Legendary\)**
+
+Vainglory’s berserker is leaping into the fray with an all-new barbarian look, and she’s traded her axes for swords imbued with lightning and shadow. Read on to discover the legendary ‘Red’ Rona!
+
+**AVAILABILITY **
+
+* Beginning August 11 at 12PM PDT, ‘Red’ Rona will be available in a special Epic Mystery Chest that can be purchased for 999 ICE. The chances of pulling her skin are 1/5.
+* She will be available for 3599 ICE on August 23.
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/RedRona.jpg)
+
+**  
+ MODEL CHANGES**
+
+* Blood-red hair
+* Mud war paint
+* Viking queen circlet
+* Silver looped belt, skull-embellished armor
+* Axe-bladed pauldron
+* All new death-sword and light-sword
+
+**ANIMATION CHANGES**
+
+* New animation suite featuring sword attacks!
+* Forward spin with reverse slash Foesplitter attack
+* Buries her swords in the ground for Into the Fray
+* All new deliberate, menacing run
+* All-out berserker raging multi-slash Red Mist attack
+* Summon the shadow and lightning poses for recall
+
+**EFFECTS CHANGES**
+
+* Swords imbued with lightning and shadow
+* Arcing and slashing lightning and shadow attacks
+* Lightning strikes when she jumps and recalls!
+
+#### **WALLPAPERS** {#wallpapers}
+
+* [iPhone 5](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Iphone_5_RedRona.jpg)
+* [iPhone 6/7](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Iphone_7_RedRona.jpg)
+* [iPhone 6+/7+](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Iphone_7plus_RedRona.jpg)
+* [Full Size HD](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/FullHD_Hor.jpg)
+* [iPad](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Ipad_RedRona.jpg)
+
+**Read Rona’s canon lore:**
+
+[The Complete Collection](http://www.vainglorygame.com/news/vainglory-lore-rona/)
+
+#### **‘Valkyrie’ Grace \(Epic\)**
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/FullHD_Hor_ValkGrace.jpg)
+
+Valkyries ride to collect the finest warriors for feasting and war in the Netherworld. The eldest of these, Grace, has selected a berserker for her army … but will the berserker go willingly? Read on to learn more about ‘Valkyrie’ Grace!
+
+**AVAILABILITY **
+
+* Beginning August 11 at 12PM PDT, ‘Valkyrie’ Grace will be available in a special Rare Mystery Chest that can be purchased for 199 ICE. The chances of unlocking her skin are 1/8.
+* She will be available for 1499 ICE on August 23.
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/ValkGrace.jpg)
+
+**MODEL CHANGES**
+
+* Winged Viking helm
+* Shield maiden braids
+* Black & gold greaves, bracers & breastplate with fur collar
+* Gold tasseled skirt
+* War Hammer of the Wolf
+
+**EFFECTS CHANGES**
+
+* Electricity radiates from point of lightning-imbued hammer impact
+* Viking light shields and crackling lightning during Benediction
+* Hammer serves as a lightning rod during Holy Nova
+* Divine Intervention amplified with summoned lightning
+
+**Read Grace’s canon lore:**
+
+[The Complete Collection](http://www.vainglorygame.com/news/vainglory-lore-grace/)
+
+#### **WALLPAPERS** {#wallpapers}
+
+* [iPhone 5](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Iphone_5_ValkGrace.jpg)
+* [iPhone 6/7](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Iphone_7_ValkGrace.jpg)
+* [iPhone 6+/7+](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Iphone_7plus_ValkGrace.jpg)
+* [Full Size HD](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/FullHD_Hor_ValkGrace.jpg)
+* [iPad](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Ipad_ValkGrace.jpg)
+
+#### **‘Dire’ Fortress \(Rare\)**
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/FullHD_Hor_Dire_Fortress.jpg)
+
+The Old World was cared for by druids until the northmen brought war. As a last compromise, the land was given to the northmen except for the temple, guarded by Fortress’ pack. Read on to get a glimpse of the war-torn alpha, his family, and Corb, his magic green war doll.
+
+**AVAILABILITY **
+
+* ‘Dire’ Fortress will available for direct purchase on 8/9 for 900 ICE.
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/DireFortress.jpg)
+
+**MODEL CHANGES**
+
+* Battle-worn: mangy, scarred & wounded
+* Blind eyes
+* Furry crest & tail gradiate from dark gray to white
+* Harness & saddle
+* Corb, the magic green war doll
+
+**Read Fortress’ canon lore:**
+
+[The Complete Collection](http://www.vainglorygame.com/news/vainglory-lore-fortress/)
+
+#### **WALLPAPERS** {#wallpapers}
+
+* [iPhone 5](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Iphone_5_Dire_Fortress.jpg)
+* [iPhone 6/7](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Iphone_7_Dire_Fortress.jpg)
+* [iPhone 6+/7+](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Iphone_7plus_Dire_Fortress.jpg)
+* [Full Size HD](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/FullHD_Hor_Dire_Fortress.jpg)
+* [iPad](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Ipad_Dire_Fortress.jpg)
+
+#### **‘Butterfly’ Celeste **_**\(Rare\)**_ {#lyraskin}
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/FullHD_Hor__Butterfly_Celeste.jpg)
+
+Legend says that lovers who cannot be together become butterflies in the afterlife. These star-crossed beauties need a celestial mage to protect them. Read on to discover more about ‘Butterfly’ Celeste!
+
+**AVAILABILITY **
+
+* ‘Butterfly’ Celeste will available for direct purchase on 8/9 for 900 ICE.
+
+![](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/ButterflyCeleste.jpg)
+
+**MODEL CHANGES**
+
+* Hanfu style blue & pink dress with gold embroidery & bell detail
+* Jeweled butterfly staff
+* Jade butterfly hair pin
+* Dark hair with peony headdress and gold disc ponytail holders
+* Strappy dual colored shoes
+
+**Read Celeste’s canon lore:**
+
+[The Complete Collection](http://www.vainglorygame.com/news/vainglory-lore-celeste/)
+
+#### **WALLPAPERS** {#wallpapers}
+
+* [iPhone 5](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Iphone_5__Butterfly_Celeste.jpg)
+* [iPhone 6/7](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Iphone_7_Butterfly_Celeste.jpg)
+* [iPhone 6+/7+](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Iphone_7plus_ButterflyCeleste.jpg)
+* [Full Size HD](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/FullHD_Hor__Butterfly_Celeste.jpg)
+* [iPad](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Ipad__Butterfly_Celeste.jpg)
+
+#### **TALENTS GLORY REFUNDS**
+
+![bottom\_bracket](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/09/Bracket2.png)
+
+**A CHANGE TO THE TALENTS ECONOMY **  
+ We made talents glory-based because we wanted it to be a progression system for everyone, but based on the feedback we’ve received, players are hitting a brick wall on progress, especially those of you playing free. We want everyone to make meaningful progress and to enjoy collecting upgrades so we modified talents’ economic model by drastically lowering the cost of leveling them up. Our hope is these juicy new price points make talents more accessible.  
+  
+ **CLAIM YOUR GLORY REFUND  **  
+ If you got Talents before Update 2.7, we’re refunding you 100% of the difference between the old cost and the new, much-lower Glory cost. You’ll be notified of this deposit via pop-up message once you log in for the first time after Update 2.7 is live.
+
+#### **BLITZ CHANGES**
+
+
+
+**BLITZ**
+
+Blitz continues to evolve as we observe how people play and consider player feedback. This update, we focused on pushing players out of the lane and back into the jungle by making turrets harder to kill. We also beefed up the sentries to prevent a sneaky side Crystal Sentry camp strat that was creating a frustrating experience for players.
+
+* Middle Crystal Sentry is no longer visible without vision 
+* 25 second respawn time added to the side Crystal Sentries
+* Turret health increased
+
+#### **USER INTERFACE UPDATES**
+
+
+
+**QUESTS**
+
+* Added Grace hero quests
+* Removed “Play Casual” quests
+* Hero-specific quests are now refresh after 12 hours, not 18
+
+**Tap-and-hold Scoreboard**
+
+Prefer to take a quick glance at the Scoreboard without the taps and distraction of pulling up — then closing — the screen? Now, you can toggle on a tap-and-hold for the Scoreboard so that it only appears for as long as your finger is on the Scoreboard button.
+
+* Tap-and-Hold Scoreboard added
+* Turn on this feature by checking the box in the Scoreboard screen itself. \(After selecting this once, the game will remember your preference.\)
+
+**Hero Select \(Blitz, Casual and Non-draft Ranked\)**
+
+* Now hides heroes you don’t own, so that it’s easier to contemplate and select your hero for each match.
+
+**New Card Boxes**
+
+Card buying used to be an odd process that involved multiple boxes to choose from and a jumble of cards inside. We worked to create a clear and enjoyable way for players to get good cards.
+
+Moving forward, we’re consolidating card purchasing to one box to eliminate confusion over which box to open. Here’s how it works:
+
+* Unlock 4 random cards
+* 1 Rare or better card guaranteed
+* Price: 399 Glory
+
+#### **HERO BALANCE**
+
+
+
+**BARON**
+
+_We addressed one of Baron’s major pain points: Invisible CC immunity after one second of landing. — Nivmett_
+
+**ROCKET LAUNCHER**
+
+* Basic attack weapon damage down from **130%** to **120%**
+
+**JUMP JETS**
+
+* Removed **1 **second of ignoring all debuffs after landing
+
+**BLACKFEATHER**
+
+Blackfeather no longer spends thousands of gold on flowers for his rose trail. Instead, he’s focusing on slowing enemies with On Point. — Nivmett
+
+**FEINT OF HEART**
+
+* Rose trail removed
+* On overdrive, Blackfeather gains a burst of decaying movement speed
+
+**ON POINT**
+
+* Bonus slow duration per Heartthrob stack up from **0.3** to **0.4** seconds
+
+**CATHERINE**
+
+Catherine was dealing a bit too much damage for the utility she provided. This change should help with that. — Nivmett
+
+**MERCILESS PURSUIT**
+
+* Damage down from **35-70-105-140-175** to **35-60-85-110-135**
+
+**FLICKER**
+
+Flicker went to the gym and bulked up. — Nivmett
+
+**STATS**
+
+* Health up from **807-1654** to **807-1753**. \(Health per level increased from **77** to **86**\)
+
+**GRACE**
+
+Grace was the fastest hero in the game by a bit of a margin. This didn’t make too much sense considering she is in plate armor. —Nivmett
+
+**STATS**
+
+* Movespeed reduced from **3.7** to **3.5**
+
+**DIVINE INTERVENTION**
+
+* Heal strength reduced from **400-600-800** to **400-500-600**
+* Crystal ratio increased from **150%** to **200%**
+
+**GRUMPJAW**
+
+Grumpjaw has been a monster for a while, making him a frequent ban candidate. These changes should give other junglers a chance to shine. — Nivmett
+
+**GRUMPY**
+
+* Damage/stack down from **20-35-50-65-95** to **10-25-40-55-85**
+
+**HANGRY**
+
+* Bonus attack speed down from **20-30-40-50-60%** to **10-20-30-40-50%**
+
+**IDRIS**
+
+Idris reminds everyone that he has two possible paths he can take. — Nivmett
+
+**STATS**
+
+* Perk reduced from **120** to **100**
+
+**CHAKRAM**
+
+* Weapon ratio down from **100%** to **90%**
+
+**KRUL**
+
+Krul just wants to be close to his friends… and closer to his enemies. — Nivmett
+
+**DEAD MAN’S RUSH**
+
+* Cooldown down from **9-9-9-9-8** to **8-8-8-8-7 seconds**
+
+**RONA**
+
+Rona has been getting bullied lately and she’s fed up. — Nivmett
+
+**INTO THE FRAY**
+
+* Fortified health per target hit up from **30-40-50-60-80** to **30-45-60-75-105**
+
+**SKYE**
+
+Skye players were dealing a bit too much damage without lock-on. This change will help promote skillful Skye lock-on play. —Nivmett
+
+**FORWARD BARRAGE**
+
+* * Crystal ratio down from **210%** to **120%**
+  * Lock On Bonus crystal ratio increased from **10%** to **33%**
+
+**VOX**
+
+Vox is tired of dashing so often. — Nivmett
+
+**SONIC ZOOM**
+
+* Cooldown increased from **5.0-4.5-4.0-3.5-3.0** to **6.0-5.5-5.0-4.5-4.0**
+
+
+
+#### ITEM BALANCE CHANGES {#herobalance}
+
+
+
+**ECHO  
+**The benefits of buying an Echo were not enough to make up for its lengthy cooldown time.  — Nivmett
+
+* Cooldown decreased from **25s+115%** ability cooldown to **10s+115%** ability
+
+**NULLWAVE GAUNTLET**
+
+_While its a great counter for activatables, Nullwave is too expensive. — Nivmett_
+
+* Cost decreased from **2400** to **2200**
+
+**POISONED SHIV**
+
+_Poisoned Shiv was a staple in almost every weapon build. This tune down should help fix that. — Nivmett_
+
+* Attack speed down from **35%** to **30%**
+* Weapon power decreased from **35** to **30**
+
+**SHIVERSTEEL**
+
+_Shiversteel has been overshadowed as of late. This tune-up should make a more appealing option. — Nivmett_
+
+* Cooldown decreased from **18s** to **15s**
+* Slow duration increased from **1.2s** to **1.4s**
+
+**TENSION BOW**
+
+_Similar to Poisoned Shiv, Tension Bow had become essential in almost every weapon build. We returned it to its original pre-buff strength. — Nivmett_
+
+* Armor Pierce down from **12%** to **10%**
+
+#### **TALENTS BALANCE**
+
+
+
+Your feedback told us that Talents did not feel impactful enough, and if you don’t feel the difference, why would you bother upgrading? Your input has led to a massive overhaul of the Talents pool. The goal of this initiative is to make sure that talents and upgrades are always worth using. Check out the changes below:
+
+**  
+ ADAGIO**
+
+**GIFT OF LIFE**
+
+* Fortified health base increased from **40%** to **75%**
+* Fortified health scaling increased from **2%** to **7.5%**
+
+**AVENGING WRATH**
+
+* Charge time base decreased from **130%** to **95%**
+* Charge time scaling increased from **-3%** to **-5%**
+* Damage to burning targets scaling increased from **2%** to **4%**
+
+**HEALING VERSE  
+**
+
+* Heal ratio base increased from **15%** to **35%**
+* Heal ratio scaling increased from **2%** to **7.5%**
+* Damage base increased from **70%** to **75%**
+* Cooldown base decreased from **60%** to **50%**
+
+**  
+ ALPHA**
+
+**CORE OVERCLOCK**
+
+* Attack speed per stack base increased from **25%** to **35%**
+* Passive weapon power scaling increased from **1%** to **1.5%**
+
+**PRIME TIME**
+
+* Fortified health per stack scaling increased from **1%** to **2.5%**
+* Cooldown base decreased from **140%** to **100%**
+* Cooldown scaling increased from **-2%** to **-3%**
+* Duration base decreased from **4 seconds** to **3 seconds**
+
+**ACCELERATION**
+
+* Movement speed base decreased from **3** to **1.5**
+* Movement speed scaling increased from **0** to **0.5**
+* Barrier base increased from **120%** to **125%**
+* Barrier scaling increased from **5%** to **7.5%**
+* Cooldown scaling increased from **-1%** to **-7.5%**
+
+**  
+ ARDAN**
+
+**VANGUARDIAN **
+
+* Barrier scaling increased from **2%** to **7.5%**
+* Damage base decreased from **125%** to **100%**
+* Damage scaling decreased from **4%** to **2.5%**
+* Cooldown base decreased from **130%** to **95%**
+* Cooldown scaling increased from **-1%** to **-1.5%**
+
+**HEAVY HITTER**
+
+* Damage base increased from **125%** to **155%**
+* Damage scaling increased from **5%** to 15**%**
+* Cooldown scaling increased from **-2%** to **-3%**
+* Bonus range base decreased from **3** to **1**
+
+**KNOCKOUT PUNCH **
+
+* Damage base decreased from **70%** to **50%**
+* Damage scaling increased from **5%** to **10%**
+* Cooldown base decreased from **125%** to **70%**
+* Cooldown scaling increased from **-5%** to **-10%**
+
+**  
+ BAPTISTE**
+
+**BAD BAD MOJO**
+
+* Damage base increased from **76%** to **90%**
+* Damage scaling increased from **1%** to **2.5%**
+* Cooldown base increased from **70%** to **80%**
+* Cooldown scaling increased from **-1%** to **-1.5%**
+
+**THE REAPER **
+
+* Heal base increased from **40%** to 45**%**
+* Heal scaling increased from **3%** to** 4%**
+* Passive attack speed scaling increased from **1%** to 3**%**
+
+**ARMY OF SOULS**
+
+* Damage base decreased from **160%** to **120%**
+* Damage scaling increased from **10%** to **15%**
+* Cooldown base decreased from **90%** to **80%**
+* Cooldown scaling increased from **-1%** to **-7.5%**
+
+**  
+ BARON**
+
+**TURBO JETS**
+
+* Damage base increased from **60%** to **70%**
+* Damage scaling increased from **1%** to **2%**
+* Cooldown base decreased from **120%** to **110%**
+* Cooldown scaling decreased from **-1%** to **-2%**
+
+**ENDLESS MORTARS**
+
+* Damage base decreased from **50%** to **35%**
+* Damage scaling increased from **2%** to **3.5%**
+* Charges base increased from **4** to **8**
+* Energy cost base decreased from **30%** to **20%**
+
+**TRION CANNON **
+
+* Attack range base decreased from **1.1** to **0.5**
+* Cooldown override base decreased from **5** to **1.5**
+* Charge time scaling increased from **-1%** to **-7.5%**
+* Damage base increased from **40%** to **60%**
+* Damage scaling increased from **5%** to **7.5%**
+
+**  
+ BLACKFEATHER**
+
+**HUMMINGBIRD HEART**
+
+* Passive weapon power base decreased from **6%** to **5%**
+* Passive attack speed base increased from **15%** to **20%**
+* Passive attack speed scaling increased from **1%** to **2%**
+
+**POINT GUARD**
+
+* Barrier base increased from **110%** to **125%**
+* Barrier scaling increased from **2%** to **5%**
+* Radius base decreased from **12** to **9**
+
+**ELUSIVENESS**
+
+* Damage base decreased from **60%** to **40%**
+* Damage scaling decreased from **8%** to **5%**
+* Focus cost decreased from **60%** to **40%**
+* Charge time base decreased from **90%** to **70%**
+* Charge time scaling increased from **-5%** to **-7.5%**
+
+**  
+ CATHERINE**
+
+**ADVANCING GUARD **
+
+* Weapon power per stack base increased from **3%** to **5%**
+* Crystal power per stack base increased from **3%** to **5%**
+* Duration base increased from **30 seconds** to **40 seconds**
+
+**QUICK PURSUIT**
+
+* Merciless Pursuit reduction per hit base increased from **6%** to **10%**
+* Merciless Pursuit reduction per hit scaling increased from **1%** to **1.5%**
+* Blast Tremor reduction per hit base increased from **2%** to **5%**
+
+**SHOCKWAVE**
+
+* Damage base decreased from **45%** to **40%**
+* Damage scaling increased from **5%** to **7.5%**
+* Cooldown base decreased from **60%** to **50%**
+* Cooldown scaling increased from **-5%** to **-7.5%**
+
+**  
+ CELESTE**
+
+**YOUNG STAR**
+
+* Impact damage base decreased from **60%** to **30%**
+* Damage per second base increased from **30%** to **70%**
+* Damage per second scaling increased from **2%** to **2.5%**
+* Bonus duration base decreased from **8 seconds** to **4 seconds**
+
+**CORE LEAF CLOVER**
+
+* Damage base decreased from **40%** to **25%**
+* Damage scaling increased from **2%** to **2.5%**
+* Cooldown base decreased from **160%** to **125%**
+* Cooldown scaling increased from **-1%** to **-4%**
+
+**GALAXY COLLAPSE**
+
+* Impact damage base decreased from **85%** to **70%**
+* Supernova damage base increased from **90%** to **100%**
+* Supernova damage scaling increased from **1%** to **10%**
+
+**  
+ FLICKER**
+
+**SWARMING LIGHT**
+
+* Charge time base decreased from **95%** to **90%**
+* Charge time scaling increased from **-1%** to **-2%**
+* Damage base decreased from **110%** to **100%**
+* Damage scaling increased from **2%** to **2.5%**
+
+**BINDING DUST**
+
+* Bonus movement speed base decreased from **1.8** to **1.5**
+* Bonus movement speed scaling increased from **0.05** to **0.15**
+* Damage base increased from **75%** to **90%**
+* Damage scaling increased from **1%** to **5%**
+
+**FAIRY HEALING**
+
+* Passive crystal power scaling increased from **3%** to **5%**
+* Max health regeneration base increased from **4%** to **5%**
+* Max health regeneration scaling increased from **0%** to **1.5%**
+
+**  
+ FORTRESS**
+
+**LONGTOOTH**
+
+* Passive weapon power base decreased from **6%** to **1%**
+* Passive attack speed base increased from **15%** to **20%**
+* Bonus range base increased from **2.5** to **3.5**
+
+**CRITICAL WOUNDS**
+
+* Critical chance per wolf decreased from **30%** to **15%**
+* Passive critical damage base increased from **20%** to **25%**
+* Passive critical damage scaling increased from **2%** to **2.5%**
+* Cooldown base decreased from **120%** to **100%**
+* Cooldown scaling increased from **-2%** to **-4%**
+
+**FLANK ATTACK**
+
+* A and B Cooldowns base increased from **130%** to **180%**
+* A and B Cooldowns scaling increased from **-1%** to **-10%**
+* Bleed damage base increased from **55%** to **80%**
+* Bleed damage scaling increased from **3%** to **7.5%**
+
+**  
+ GLAIVE**
+
+**VIOLENT AFTERBURN**
+
+* Damage base decreased from **80%** to **70%**
+* Damage scaling increased from **1%** to **2%**
+* Cooldown base decreased from **120%** to **95%**
+* Cooldown scaling increased from **-1%** to **-1.5%**
+
+**STUNNING BLOODSONG**
+
+* Damage base decreased from **70%** to **40%**
+* Damage scaling increased from **1%** to **5%**
+* Cooldown base decreased from **95%** to **75%**
+* Cooldown scaling increased from **-1%** to **-2.5%**
+* Stun duration decreased from **1.25 seconds** to **0.75 seconds**
+
+**TWISTED PURSUIT  
+**
+
+* Damage base increased from **60%** to **90%**
+* Damage scaling increased from **2%** to **7.5%**
+* Cooldown base decreased from **90%** to **70%**
+* Cooldown scaling increased from **-1% to** **-7.5%**
+
+**  
+ GRACE**
+
+**SEAL OF RETRIBUTION  
+**
+
+* Bonus damage base increased from 1**20%** to 1**25%**
+* Bonus damage scaling increased from **1%** to **4%**
+* Passive crystal power base decreased from **20%** to **15%**
+* Passive crystal power scaling decreased from **3%** to **2.5%**
+
+**DOUBLE BENEDICTION **
+
+* Damage reduction scaling increased from **2%** to **3%**
+* Charge time base reduced from **95%** to **80%**
+* Charge time scaling increased from **-1%** to **-3.5%**
+
+**UNITED FRONT**
+
+* Healing base increased from **50%** to **75%**
+* Healing scaling increased from **10%** to **15%**
+* Cooldown base decreased from **90%** to **80%**
+* Cooldown scaling increased from **-5%** to **-7.5%**
+
+**  
+ GRUMPJAW**
+
+**RAMPAGE  
+**
+
+* Damage base increased from **90%** to **100%**
+* Damage scaling increased from **2%** to **2.5%**
+
+**RECONSTITUTION**
+
+* Lifesteal scaling increased from **1%** to **2.5%**
+* Cooldown base increased from **90%** to **95%**
+* Cooldown scaling increased from **-1%** to **-2.5%**
+
+**BIG APPETITE**
+
+* Bonus duration base decreased from **3 seconds** to **0.5 second**
+* Bonus duration scaling decreased from **0.5 seconds** to **0.25 seconds**
+* Cooldown base reduced from **80%** to **50%**
+* Cooldown scaling increased from **-1%** to **-5%**
+
+**  
+ GWEN**
+
+**SPEED LOADER**
+
+* Damage base increased from **75%** to **90%**
+* Damage scaling increased from **1%** to **2.5%**
+* Energy cost base increased from **40%** to **50%**
+
+**SKEDADDLING**
+
+* Bonus duration base decreased from **3 seconds** to **1 second**
+* Cooldown base decreased from **65%** to **60%**
+* Cooldown scaling increased from **-1%** to **-2.5%**
+
+**THREE OF A KIND  
+**
+
+* Damage base increased from **50%** to **60%**
+* Cooldown base decreased from **70%** to **60%**
+* Cooldown scaling increased from **-1%** to **-5%**
+
+**  
+ IDRIS**
+
+**PATH OF THE SEEKER**
+
+* Passive weapon power base increased from **1%** to **5%**
+* Passive weapon power scaling increased from **0.5%** to **1.5%**
+* Passive crystal power base increased from **1%** to **5%**
+* Passive crystal power scaling increased from **0.5%** to **1.5%**
+
+**CHA-CHA-CHAKRAM**
+
+* Angle base decreased from **45** to **25**
+* Damage base increased from **60%** to **80%**
+* Damage scaling increased from **3%** to **5%**
+* Cooldown base decreased from **150%** to **110%**
+* Cooldown scaling increased from **-1%** to **-2.5%**
+
+**SHIMMER HEAL **
+
+* Max health heal base increased from **20%** to **40%**
+* Max health heal scaling increased from **5%** to **7.5%**
+* Cooldown base decreased from **80%** to **60%**
+* Cooldown scaling increased from **-1%** to **-7.5%**
+
+**  
+ JOULE**
+
+**ROCKET LEAPFROG**
+
+* Cooldown base decreased from **145%** to **90%**
+* Cooldown scaling decreased from **-3%** to **-2%**
+* Energy cost base decreased from **100%** to **50%**
+* Passive armor scaling increased from **2%** to **2.5%**
+
+**BACKUP BUTTON **
+
+* Charge time base decreased from **80%** to **70%**
+* Charge time scaling increased from **-0%** to **-2.5%**
+* Damage base increased from **70%** to **75%**
+* Damage scaling increased from **3%** to **5%**
+
+**THUNDERING STEPS**
+
+* Bonus movement speed base decreased from **2** to **1.5**
+* Bonus movement speed scaling increased from **0** to **0.5**
+* Passive weapon power base decreased from **10%** to **7.5%**
+* Passive weapon power scaling increased from **1%** to **2.5%**
+
+**  
+ KESTREL**
+
+**GLIMMER VOLLEY **
+
+* Damage base increased from **60%** to **70%**
+* Damage scaling increased from **1%** to **2%**
+
+**ACTIVE RELOAD**
+
+* Cooldown base increased from **80%** to **95%**
+* Cooldown scaling increased from **-1%** to **-2%**
+* Damage base increased from **60%** to **70%**
+* Damage scaling increased from **2%** to **5%**
+* Energy cost for A and B decreased from **100%** to **40%**
+
+**PIERCING SHOT **
+
+* Damage scaling increased from **7.5%** to **10%**
+* Cooldown scaling increased from **-5%** to **-7.5%**
+
+**  
+ KOSHKA**
+
+**FRENZIED **
+
+* Ability damage base decreased from **70%** to **60%**
+* Ability damage scaling increased from **1%** to **2%**
+* Pouncy Fun cooldown reduction per hit base increased from **8%** to **10%**
+* Twirly Death cooldown reduction per hit base increased from **10%** to **15%**
+
+**TWIRLY LIFE **
+
+* Max health to barrier base increased from **6%** to **20%**
+* Max health to barrier scaling increased from **1%** to **3%**
+* Damage scaling increased from **1%** to **3%**
+
+**SLASHY PLAY TIME! **
+
+* Effect radius base decreased from **3.3** to **3**
+* Cooldown base decreased from **100%** to **60%**
+* Cooldown scaling increased from **-4%** to **-7.5%**
+* Damage base decreased from **60%** to **40%**
+* Damage scaling increased from **3%** to **10%**
+
+**  
+ KRUL**
+
+**DEAD MAN’S BARRIER**
+
+* Bonus range base decreased from **2** to **1**
+* Barrier base decreased from **150%** to **140%**
+* Barrier scaling increased from **5%** to **7.5%**
+
+**HEALING SMITE**
+
+* Heal radius base decreased from **12** to **9**
+* Heal base increased from **120%** to **130%**
+* Heal scaling increased from **5%** to **7.5%**
+* Passive crystal power scaling increased from **2%** to **2.5%**
+
+**CURSED BLADE**
+
+* Damage base decreased from **60%** to **40%**
+* Damage scaling increased from **1%** to **10%**
+* Cooldown base decreased from **80%** to **70%**
+* Cooldown scaling increased from **-2%** to **-5%**
+
+**  
+ LANCE**
+
+**REINFORCED WALLS**
+
+* Max health to barrier scaling increased from **1%** to **2.5%**
+
+**ROLLOUT  
+**
+
+* Roll damage base increased from **115%** to **120%**
+* Roll damage scaling increased from **2%** to **4%**
+* Cooldown base decreased from **90%** to **80%**
+* Cooldown scaling increased from **0** to **-2.5%**
+
+**STRIKER**
+
+* Impale cooldown reduction per hit base increased from **10%** to **20%**
+* Impale cooldown reduction per hit scaling increased from **1.2%** to **5%**
+* Impale damage base increased from **75%** to **90%**
+* Impale damage scaling increased from **2.5%** to **7.5%**
+* Combat Roll cooldown reduction per hit base increased from **10%** to **12%**
+* Combat Roll cooldown reduction per hit scaling increased from **1.2%** to **2%**
+
+**LYRA**
+
+**TWIN MISSILES**
+
+* Damage base increased from **50%** to **65%**
+* Damage scaling increased from **2%** to 3**%**
+
+**MOBILE BULWARK**
+
+* Passive crystal power base decreased from **10%** to **7.5%**
+* Passive crystal power scaling decreased from **3%** to **2.5%**
+* Bonus duration scaling increased from **0.2 seconds** to **0.4 seconds**
+
+**GYTHIAN WARD**
+
+* Barrier duration base decreased from **4 seconds** to **2 seconds**
+* Max health to barrier base increased from **10% to** **15%**
+* Max health to barrier scaling increased from **1%** to **5%**
+
+**  
+ OZO**
+
+**SECOND WIND**
+
+* Fortified health base increased from **60%** to **90%**
+* Fortified health scaling increased from **2%** to **4%**
+* Damage base increased from **50%** to **60%**
+* Damage scaling increased from **2.5%** to **4%**
+
+**RING LEADER**
+
+* Radius base decreased from **12** to **9**
+* Healing base increased from **100%** to **110%**
+* Healing scaling increased from **5%** to **7.5%**
+
+**BANGARANGARANG**
+
+* Damage base increased from **50%** to **80%**
+* Damage scaling increased from **5%** to **10%**
+* Charge time base decreased from **100%** to **70%**
+* Charge time scaling decreased from **-10%** to **-7.5%**
+
+**  
+ PETAL**
+
+**BOUNCER**
+
+* Energy cost base decreased from **195%** to **185%**
+* Energy cost scaling increased from **-4%** to **-5%**
+
+**KABOOM SEEDS**
+
+* Damage base decreased from **200%** to **180%**
+* Damage scaling increased from **5%** to **10%**
+
+**EXPLOSIVE FORCE**
+
+* Damage base increased from **75%** to **90%**
+* Damage scaling increased from **5%** to **7.5%**
+* Knockback duration base increased
+* Knockback distance base increased
+
+**  
+ PHINN**
+
+**FRIENDLY CAVIL **
+
+* Energy cost base for A and B decreased from **100%** to **50%**
+* Damage base increased from **60%** to **70%**
+* Damage scaling increased from **2%** to **3%**
+
+**PHASTER  
+**
+
+* Fortified health scaling decreased from **4%** to **2.5%**
+* Bonus movement speed base decreased from **1.2** to **1.1**
+* Bonus movement speed scaling increased from **0** to **0.15**
+
+**RAID BOSS**
+
+* Current HP regen base increased from **3%** to 7.5**%**
+* Current HP regen scaling increased from **1%** to **2%**
+* Damage base decreased from **60%** to **40%**
+
+**  
+ REIM**
+
+**CREEPING COLD  **
+
+* Damage base decreased from **60%** to **50%**
+* Damage scaling increased from **2%** to **2.5%**
+
+**LONG WINTER**
+
+* Passive crystal power base decreased from **20%** to **15%**
+* Passive crystal power scaling increased from **1.5%** to **2.5%**
+
+**REVENANT**
+
+* Barrier duration base decreased from **4 seconds** to **2 seconds**
+* Max health to barrier base increased from **10%** to **20%**
+* Max health to barrier scaling increased from **2.5%** to **7.5%**
+
+**  
+ REZA**
+
+**BURNING BARRIER**
+
+* Barrier duration base set to **2 seconds**
+* Max health to barrier base set to **10%**
+* Max health to barrier scaling set to **1.5%**
+
+**FIREMAKER**
+
+* Damage base set to **100%**
+* Damage scaling set to **5%**
+
+**NETHER RAGE**
+
+* Attack speed base set to **15%**
+* Attack speed scaling set to **5%**
+* Bonus duration base set to **1 second**
+* Bonus duration scaling set to **0.75 seconds**
+
+**  
+ RINGO**
+
+**LONG SHOT**
+
+* Damage base increased from **70%** to **125%**
+* Damage scaling increased from **1%** to **3%**
+* Cooldown base increased from **90%** to **135%**
+* Cooldown scaling increased from **-1%** to **-2%**
+* Bonus range base increased from **2 **to **3 **
+
+**BULLET SPLIT**
+
+* Damage base decreased from **80%** to **75%**
+* Damage scaling increased from **1.5%** to **2.5%**
+* Cooldown base decreased from **138%** to **95%**
+* Cooldown scaling increased from **-2.5%** to **-3%**
+
+**SPIKED BREW**
+
+* Damage base decreased from **75%** to **70%**
+* Damage scaling increased from **5%** to **7.5%**
+* Cooldown base decreased from **90%** to **80%**
+* Cooldown scaling increased from **-5%** to **-7.5%**
+
+**  
+ RONA**
+
+**MOAR RAGE**
+
+* Passive weapon power base decreased from **20%** to **5%**
+* Passive weapon power scaling decreased from **2%** to **1.5%**
+* Bonus rage base increased from **30** to **60**
+* Bonus rage scaling increased from **5** to **10**
+
+**HEROIC BRAWLER**
+
+* Passive attack speed base increased from **20%** to **25%**
+* Passive attack speed scaling increased from **1%** to **5%**
+* Damage base increased from **40%** to **60%**
+* Damage scaling increased from **5%** to **7.5%**
+
+**FAST WHIRLWIND**
+
+* Bonus movement speed base increased from **0.7** to **1.2**
+* Damage base increased from **75%** to **100%**
+* Damage scaling increased from **5%** to **10%**
+* Cooldown base increased from **120%** to **125%**
+* Cooldown scaling increased from **-5%** to **-7.5%**
+
+**  
+ SAMUEL**
+
+**POWER SIPHON **
+
+* Charge time base decreased from **4 seconds** to **3 seconds**
+* Healing base decreased from **153%** to **150%**
+* Healing scaling increased from **5%** to **10%**
+
+**UNWAKING NIGHTMARE **
+
+* Stun duration base decreased from **1.5 seconds** to **1.2 seconds**
+* Stun duration scaling increased from **0.1 seconds** to **0.2 seconds**
+* Cooldown base decreased from **90%** to **70%**
+* Cooldown scaling decreased from **-3%** to **-2.5%**
+
+**VISCOUS DARKNESS**
+
+* Slow base decreased from **30%** to **25%**
+* Healing scaling increased from **20%** to **25%**
+* Damage scaling increased from **20%** to **25%**
+* Duration scaling increased from **0.5 seconds** to **1 second**
+
+**  
+ SAW**
+
+**PIERCING BULLETS **
+
+* Damage base increased from **60%** to **90%**
+* Damage scaling increased from **1.5%** to **2.5%**
+
+**SPEEDY SPIN UP **
+
+* Speed per stack base decreased from **0.06** to **0.012**
+* Speed per stack scaling increased from **0.01** to **0.017**
+
+**ROAD RAGE**
+
+* Cooldown reduction per attack base increased from **15%** to **25%**
+* Damage base increased from **80%** to **90%**
+* Damage scaling increased from **3%** to **15%**
+
+**  
+ SKAARF**
+
+**SPLITFIRE**
+
+* Angle base decreased from **25** to **15**
+* Damage base increased from **62%** to **70%**
+* Damage scaling increased **1%** to **2%**
+* Additional fireballs on the same target deal **50% damage**
+
+**FLASH FIRE**
+
+* Cooldown scaling decreased from **-5%** to **-3%**
+* Damage base increased from **70%** to **90%**
+* Damage scaling increased from **2%** to **5%**
+
+**FLAMING SLUDGE**
+
+* Spitfire damage base decreased from **45%** to **25%**
+* Spitfire damage scaling increased from **2.5%** to **5%**
+* Burning goop damage base increased from **24%** to **35%**
+* Burning goop damage scaling increased from **4%** to **7.5%**
+
+**  
+ SKYE**
+
+**ENHANCED THRUSTERS**
+
+* Bonus movement speed scaling increased from **0.08** to **0.1**
+* Passive crystal power scaling increased from **1%** to **1.5%**
+
+**RAINING DEATH  
+**
+
+* Charge time base increased from **50%** to **70%**
+* Charge time scaling increased from **0%** to **-2.5%**
+* Damage base increased from **60%** to **90%**
+* Damage scaling increased from **3%** to **5%**
+
+**PIERCING BARRAGE  
+**
+
+* Damage base increased from **70%** to **100%**
+* Damage scaling increased from **5%** to **10%**
+
+**  
+ TAKA**
+
+**RANGED KAITEN**
+
+* Bonus range base increased from **4** to **5**
+* Damage base increased from **120%** to **125%**
+* Damage scaling increased from **2%** to **4%**
+
+**PROTECTIVE DECOY **
+
+* Cooldown base decreased from **80%** to **70%**
+* Cooldown scaling increased from **-1%** to **-2.5%**
+* Healing base increased from **105%** to **110%**
+* Healing scaling increased from **2%** to **4%**
+
+**TRIPLE X-RETSU**
+
+* Damage base increased from **70%** to **80%**
+* Damage scaling increased from **5%** to **10%**
+
+**  
+ VOX**
+
+**DEEP DASH**
+
+* Passive attack speed base decreased from **20%** to **10%**
+* Dash range base increased from **2** to **3**
+* Cooldown base decreased from **140%** to **125%**
+* Cooldown scaling increased from **-2%** to **-2.5%**
+
+**SOUND BARRIER  
+**
+
+* Max health to barrier base increased from **10%** to **15%**
+* Max health to barrier scaling increased from **1%** to **3%**
+* Barrier duration base increased from **3.5 seconds** to **4 seconds**
+
+**ECHO CHAMBER**
+
+* Damage base increased from **50%** to **60%**
+* Damage scaling increased from **6.2%** to **10%**
+
+
+
+#### **BUG FIXES & IMPROVEMENTS**
+
+
+
+**QUALITY OF LIFE & PERFORMANCE IMPROVEMENTS**
+
+* Fixed a major frame rate issue impacting all BRAWL game modes
+* Modified chat configurations to improve stability and added in significantly more chat instrumentation so that we can better identify, track, isolate and resolve any ongoing or future chat issues.
+* Step-change improvement in Match Accept stability
+* Made animations more efficient.
+* Reduced network traffic.
+* Reduced memory usage.
+
+**LATENCY IMPROVEMENTS**
+
+Through the use of new local servers, we’re improving latency in hotspots all over the world. These infrastructure improvements are now positively impacting 34% of players globally. Here are some of the highlights:
+
+* Southeast Asia has experienced a 35% decrease in the number of lag spikes.
+* In Australia, lag spikes were reduced by 15%.
+* In Indonesia, we reduced average ping by 11% and improved ping consistency by 62% \(meaning far fewer wild fluctuations in ping\), with lag spikes reduced by 13%.
+* In the Philippines, we reduced average ping by 6% and improved consistency by 32%, with lag spikes reduced by 24%.
+* In India, we improved consistency by 20% and reduced lag spikes by 8%.
+* In Cambodia, we reduced average ping by 19% and improved consistency by 32%, with lag spikes reduced by 55%.
+* In Thailand, we reduced average ping by 8% and improved consistency by 35%, with lag spikes reduced by 23%.
+* In Korea, we dropped the average ping by 15% from 72 milliseconds to 61ms, and we reduced ping fluctuations by 48%, with lag spikes reduced by 10%.
+* In North America, we reduced lag spikes by 10%.
+* In Europe, we reduced lag spikes by 4%.
+
+The bottom line is the tech improvements we’ve been testing are working, so we’ll leverage these learnings to continue to improve ping and stability for players everywhere. _—PlayoffBeard_
+
+**BUG FIXES**
+
+* Fixed an issue that caused Samuel’s Malice & Verdict to not do damage and not show the particle effect \(but was showing the animation and going on cooldown\).
+* Fixed a bug where Grumpjaw was able to instantaneously attack twice after activating Hangry.
+* Fixed a bug that caused Gwen’s Skedaddle to not block Grumpjaw’s Grumpy skill.
+* Fixed a bug where stealthed enemy heroes could be detected erroneously.
+* Fixed a bug where Petal would occasionally lose her munions permanently. 
+* Recalling now stops Skye’s forward barrage and also breaks the lock from Suri Strike.
+* Fixed a bug that allowed Skye to quickly return to battle by regenerating with Suri Strike.
+* Rapidly moving back and forth while locked on as Skye no longer occasionally causes her position to get out of sync with the server.
+* Fixed a typo on Skye’s Target Lock so it properly indicates her extra 10% bonus damage when locked on.
+* Fixed an issue that caused Idris to be locked onto the ground if stunned just before using his Shimmer Strike.
+* Stopped Grace from latching onto recalling enemies.
+* Modified the Recall sound to be on the same cooldown as any other spammable sound so that it can only be heard the first time it is used rather than every time someone uses it.
+* Fixed a visual issue that caused Reflex Block’s particle effects to last longer than it should \(no change to the Reflex Block length or how it works\).
+* Fixed an issue that could cause the wrong trophies to show when looking at other guilds.
+* Fixed a bug that could cause the UI in guilds to go all wonky \(technical term\) when promoting/demoting/removing members.
+* Fixed an issue that allowed Team leaders to start queue for next match even if other members were still looking at end-game results screen.
+
+**TALENTS BUG FIXES**
+
+* Fixed a bug that caused Rona’s MOAR Rage talent to provide double the weapon power bonuses.
+* Fixed a bug where Grumpjaw’s Rampage talent was doing damage to things he walked over after using his Grumpy skill instead of _during _his Grumpy skill’s charge.
+* Fixed an issue that could in rare instances cause a player’s talent to change mid-match.
+* Fixed a text discrepancy on Kestrel’s Active Reload talent. It should now properly show base numbers of Damage 70% and Energy 40%.
+* Fixed Phinn’s Phaster Talent text to more accurately reflect what it does.
+
+
+
