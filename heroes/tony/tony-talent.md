@@ -6,7 +6,7 @@
 
 ### Mighty Barrier 
 
-Tony gains bonus attack speed and increased health barrier from Come At Me \(Perk\). 
+Tony gains bonus attack speed and increased health barrier from Come At Me \(Heroic Perk\). 
 
 | Attack Speed | 20% |
 | --- | --- |
