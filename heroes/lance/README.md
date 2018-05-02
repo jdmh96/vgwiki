@@ -1,12 +1,12 @@
 # Lance
 
-![](../../.gitbook/assets/image%20%28186%29.png)
+![](../../.gitbook/assets/image%20%28194%29.png)
 
 #### Disruptive knight who stops enemies in their tracks.
 
 ## Heroic Perk: Partisan's Technique
 
-![Partisan&apos;s Technique](../../.gitbook/assets/image%20%28373%29.png)
+![Partisan&apos;s Technique](../../.gitbook/assets/image%20%28385%29.png)
 
 Lance's basic attacks damage every target along their path. However, his attacks are slow to land & attack speed is less effective on him.
 
@@ -28,7 +28,7 @@ Instead of energy, Lance uses stamina to activate his abilities. Purchasing item
 
 ## Ability A: Impale
 
-![Impale](../../.gitbook/assets/image%20%28149%29.png)
+![Impale](../../.gitbook/assets/image%20%28154%29.png)
 
 Lance lunges forward & strikes through his opponents, dealing weapon damage & rooting them in place \(max 1.6s\).
 
@@ -46,7 +46,7 @@ Lance lunges forward & strikes through his opponents, dealing weapon damage & ro
 
 ## Ability B: Gythian Wall
 
-![Gythian Wall](../../.gitbook/assets/image%20%2856%29.png)
+![Gythian Wall](../../.gitbook/assets/image%20%2858%29.png)
 
 Lance smashes enemies back with his shield, dealing weapon damage & also stunning them if they collide with a wall or structure \(max 1.4s\). Afterward, he holds his shield steadfast, greatly reducing incoming damage from the target direction by up to 90%.
 
@@ -66,7 +66,7 @@ Lance smashes enemies back with his shield, dealing weapon damage & also stunnin
 
 ## Ultimate: Combat Roll
 
-![Combat Roll](../../.gitbook/assets/image%20%28388%29.png)
+![Combat Roll](../../.gitbook/assets/image%20%28401%29.png)
 
 Lance rolls in the target direction. His next basic attack within 2s will strike quickly, dealing bonus crystal damage.
 

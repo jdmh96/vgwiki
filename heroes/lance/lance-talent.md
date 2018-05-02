@@ -38,5 +38,3 @@ Basic attacks reduce the cooldown of Impale \(A\) and Combat Roll \(Ultimate\).
 | Impale Reduction | 30% |
 | Combat Roll Reduction | 20% |
 
-
-

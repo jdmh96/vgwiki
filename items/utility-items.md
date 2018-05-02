@@ -1,0 +1,202 @@
+# Utility Items
+
+## Tier 1
+
+### Sprint boots
+
+![](../.gitbook/assets/sprint-boots%20%281%29.png)
+
+Cost: 300 gold
+
+* Stats:
+  * Passive: +0.4 move speed. \(Does not stack with other boots.\)
+  * Activate: Sprint for 2s \(150s cooldown\).
+* Builds into:
+  * [Travel boots    ](utility-items.md#travel-boots)
+
+## Tier 2
+
+### Travel boots
+
+![](../.gitbook/assets/travel-boots%20%281%29.png)
+
+* Cost: 800\(500\) gold
+* Stats:
+  * +100 Max Health
+  * Passive: +0.4 move speed. \(Does not stack with other boots.\)
+  * Passive \(Travel Boots\): +1 move speed when not in combat with heroes, monsters or turrets.
+  * Activate: Sprint for 2s \(90s cooldown\)
+* Builds into:
+  * [Teleport boots    ](utility-items.md#teleport-boots)
+  * [Journey boots    ](utility-items.md#journey-boots)
+  * [War treads    ](utility-items.md#war-treads)
+  * [Halcyon chargers    ](utility-items.md#halcyon-chargers)
+* Builds from:
+  * [Sprint boots    ](utility-items.md#sprint-boots)
+
+### Flare gun
+
+![](../.gitbook/assets/flare-gun%20%282%29.png)
+
+* Cost: 600\(300\) gold
+* Stats:
+  * +300 Max Health
+  * Activate: Fire a flare. 5s cooldown. 2 charges max. 20s per charge.
+* Builds into: 
+  * [Contraption    ](utility-items.md#contraption)
+* Builds from:
+  * [Oakheart    ](defense-items.md#oakheart)
+* Tip: Use this to avoid being ambushed, especially in the late game.
+* \*\*Note: Halcyon Fold only
+
+## Stormguard Banner
+
+![](../.gitbook/assets/stormguard-banner%20%281%29.png)
+
+* Cost: 600\(300\) gold
+* Stats:
+  * +250 Max Health
+  * Stormguard: Basic attacks deal 10-60 \(level 1-12\) bonus true damage per second. 15% effectiveness against heroes and structures \(Does not stack with other Stormguard\)
+* Builds into:
+  * [Stormcrown    ](utility-items.md#stormcrown)
+* Builds from:
+  * [Oakheart    ](defense-items.md#oakheart)
+* Tip: Helps you damage objectives such as turrets & jungle bosses.
+
+## Tier 3
+
+## Teleport boots
+
+* Cost: 1600\(800\) gold
+* Stats:
+  * +150 Max Health
+  * +15 Shield
+  * +15 Armor
+  * Passive: +0.5 move speed. \(Does not stack with other boots.\)
+  * Passive:[ Travel Boots    ](utility-items.md#travel-boots)
+  * Activate: After channeling for 2.5s, teleport to allied structure, minion or Scout Cam. Grant 600 barrier to the target while channeling. Gain a burst of move speed upon arrival\(180s cooldown\).
+* Builds from:
+  * [Travel Boots](utility-items.md#travel-boots)
+* Tip:   Lets you quickly join your team from across the map or flank unsuspecting opponents.
+* \*\*Note: Soverigns Rise only
+
+## Journey boots
+
+![](../.gitbook/assets/journey-boots.png)
+
+* Cost: 1700\(900\) gold
+* Stats:
+  * +250 Max Health
+  * Passive: +0.6 move speed. \(Does not stack with other boots.\)
+  * Passive: [Travel Boots    ](utility-items.md#travel-boots)
+  * Activate: Sprint for 2s \(60s cooldown\). Damaging heroes instantly sets the cooldown to 12s if it is above it.
+* Builds from: 
+  * [Travel boots    ](utility-items.md#travel-boots)
+* Tip: Purchase to be able to chase down fleeing targets and sustain pressure.
+
+## War treads
+
+![](../.gitbook/assets/war-treads%20%281%29.png)
+
+* Cost: 1900\(450\) gold
+* Stats:
+  * +500 Max Health
+  * Passive: +0.4 move speed. \(Does not stack with other boots.\)
+  * Passive: [Travel Boots    ](utility-items.md#travel-boots)
+  * Activate: Grant a sprint to all nearby teammates for 2s \(60s cooldown\).
+* Builds from:
+  * [Travel boots](utility-items.md#travel-boots)
+  * [Dragonheart    ](defense-items.md#dragonheart)
+* Tip: Help your entire team engage the enemy team or flee from battle.
+
+## Halcyon chargers
+
+![](../.gitbook/assets/halcyon-chargers%20%281%29.png)
+
+* Cost: 1700\(200\) gold
+* Stats
+  * +150 Max Health
+  * +15% Cooldown Speed
+  * +350 Max Energy
+  * +6 Energy Recharge
+  * Passive: +0.5 move speed. \(Does not stack with other boots.\)
+  * Passive: [Travel Boots    ](utility-items.md#travel-boots)
+  * Activate: Sprint for 3s \(50s cooldown\).
+* Builds from:
+  * [Travle boots    ](utility-items.md#travel-boots)
+  * [Void battery    ](crystal-items.md#void-battery)
+* Tip: Allows you to chase down enemy targets and use abilities more frequently... or to escape trouble!
+
+## Echo
+
+![](../.gitbook/assets/echo.png)
+
+* Cost: 2200\(1500\) gold
+* Stats:
+  * 350 Max energy
+  * +6 Energy recharge
+  * Activate: The last ability to be put on cooldown is refreshed \(150% of ability's cooldown + 10s cooldown\)
+* Builds from:
+  * [Void battery](crystal-items.md#void-battery)
+* Tip: This item has a shorter cooldown if activated on a low cooldown ability.
+
+## Contraption
+
+![](../.gitbook/assets/contraption%20%281%29.png)
+
+* Cost: 2100\(700\) gold
+* Stats:
+  * +450 Max Health
+  * +30% Cooldown Speed
+  * +3 Energy Recharge
+  * Activate: Target yourself to place a Scout Trap. Target the ground farther away to fire a flare. 5s cooldown. 3 charges max. 20s per charge.
+* Builds from:
+  * [Flare gun    ](utility-items.md#flare-gun)
+  * [Chronograph    ](crystal-items.md#chronograph)
+* Tip: A great way to save inventory space while still being able to control vision around the map =\)
+* \*\*Note: Halcyon Fold only
+
+## Stormcrown
+
+![](../.gitbook/assets/stormcrown%20%281%29.png)
+
+* Cost: 2000\(600\) gold
+* Stats:
+  * +20% Cooldown Speed
+  * +4 Energy Recharge
+  * +300 Max Health
+  * Stormguard: Basic attacks deal 50-160 \(level 1-12\) bonus true damage per second. 25% effectiveness against heroes and structures. \(Does not stack with other Stormguard\)
+* Builds from:
+  * [Chronograph    ](crystal-items.md#chronograph)
+  * [Stormguard Banne](utility-items.md#stormguard-banner)r
+* Tip: Substantially increases your damage to objectives.
+
+## Nullwave gauntlet
+
+![](../.gitbook/assets/nullwave-gauntlet.png)
+
+* Cost: 2200\(750\) gold
+* Stats:
+  * +500 Max Health
+  * 25% Cooldown Speed
+  * +4 Energy Recharge
+  * Activate: Fires a blast at an enemy hero which explodes shortly after hitting its target, item silencing for 4s and dealing 50-100 + 15% max health in crystal damage \(35s cooldown\).
+* Builds from:
+  * [Chronograph    ](crystal-items.md#chronograph)
+  * [Dragonheart    ](defense-items.md#dragonheart)
+* Tip: Use this against opponents with many active items.
+
+## Shiversteel
+
+![](../.gitbook/assets/shiversteel%20%281%29.png)
+
+* Cost: 1950\(600\) gold
+* Stats:
+  * +650 Max Health
+  * +30% Attack Speed
+  * Activate: For the next 4s \(6s if you are melee\), your basic attacks slow enemy heroes by 40% for 1.4s. \(12s cooldown\)
+* Builds from:
+  * [Dragonheart    ](defense-items.md#dragonheart)
+  * [Blazing Salvo    ](weapon-items.md#blazing-salvo)
+* Tip: Use this to slow fleeing enemies.
+

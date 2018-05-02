@@ -34,7 +34,7 @@ Vox's basic attacks periodically grant him a health barrier.
 
 ### Echo Chamber
 
-Julia's Song \(Heroic Perk\) Resonance bolts have an additional bounce. 
+Julia's Song \(Perk\) Resonance bolts have an additional bounce. 
 
 | Damage                       | 60% |
 | --- |

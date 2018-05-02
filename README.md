@@ -6,11 +6,9 @@ description: Welcome To The Official Vainglory Wiki
 
 {% page-ref page="items/" %}
 
-{% page-ref page="heroes/" %}
+{% page-ref page="common-terms.md" %}
 
-{% page-ref page="terms-used-in-game.md" %}
-
-{% page-ref page="patch-notes/" %}
+{% page-ref page="update-notes/" %}
 
 ## TODO
 
@@ -41,39 +39,39 @@ description: Welcome To The Official Vainglory Wiki
   * [ ] Lorelai
   * [x] Lyra
   * [ ] Malene
-  * [ ] Ozo
-  * [ ] Petal
-  * [ ] Phinn
-  * [ ] Reim
-  * [ ] Reza
-  * [ ] Ringo
-  * [ ] Rona
-  * [ ] Samuel
-  * [ ] SAW
-  * [ ] Skaarf
-  * [ ] Skye
+  * [x] Ozo
+  * [x] Petal
+  * [x] Phinn
+  * [x] Reim
+  * [x] Reza
+  * [x] Ringo
+  * [x] Rona
+  * [x] Samuel
+  * [x] SAW
+  * [x] Skaarf
+  * [x] Skye
   * [x] Taka
   * [ ] Tony
   * [ ] Varya
   * [x] Vox
 * [ ] Creeps Monster
   * [ ] 3v3
-    * [ ] Kraken
-    * [ ] Gold Miner
-    * [ ] Crystal Miners
-    * [ ] Heal Treant
-    * [ ] Double Backs
-    * [ ] Shop Minions
-    * [ ] Lead Lane Minion
-    * [ ] Big Lane Minion
-    * [ ] Back Lane Minion
-    * [ ] Second Lane Minion
+  * [ ] Kraken
+  * [ ] Gold Miner
+  * [ ] Crystal Miners
+  * [ ] Heal Treant
+  * [ ] Double Backs
+  * [ ] Shop Minions
+  * [ ] Lead Lane Minion
+  * [ ] Big Lane Minion
+  * [ ] Back Lane Minion
+  * [ ] Second Lane Minion
   * [ ] 5v5
-    * [ ] Blackclaw
-    * [ ] Ghostwing
-    * [ ] WP BUFF
-    * [ ] CP BUFF
-    * [ ] Goldoak
+  * [ ] Blackclaw
+  * [ ] Ghostwing
+  * [ ] WP BUFF
+  * [ ] CP BUFF
+  * [ ] Goldoak
 * [ ] Patch Notes
   * [x] 1.0
   * [x] 1.0.1
@@ -127,12 +125,8 @@ description: Welcome To The Official Vainglory Wiki
 * [ ] Heroes =&gt; would it look better if instead having the image centered? It would be on the left with the text on the right, then the numbers underneath as it is
 * [ ] Lore =&gt; have consistency with the structure - i.e. title + image + text
 * [ ] Common Terms =&gt; “bot/mid/top” lanes missing \(as I see jungle and lane in there for example\)
-
-  - “Carry” as the 3v3 role
-
+  * “Carry” as the 3v3 role
 * [ ] make sure to hyperlink Heroes to their more in-depth pages from the larger list of heroes
-* [ ]  A list of our past in-game events \(like the Malene one right now\)
+* [ ] A list of our past in-game events \(like the Malene one right now\)
 * [ ] Update notes once we stopped making the article for them.
-
-
 

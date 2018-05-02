@@ -1,24 +1,24 @@
 # Idris
 
-![](../../.gitbook/assets/image%20%28408%29.png)
+![](../../.gitbook/assets/image%20%28422%29.png)
 
 #### Nimble assassin who unlocks melee or ranged fighting styles.
 
 ## Heroic Perk: Divergent Paths
 
-![Divergent Paths](../../.gitbook/assets/image%20%28333%29.png)
+![Divergent Paths](../../.gitbook/assets/image%20%28345%29.png)
 
 Idris unlocks unique combat styles upon attaining 100 weapon or crystal power:
 
 ### Melee \(Weapon\)
 
-![Melee Path](../../.gitbook/assets/image%20%28407%29.png)
+![Melee Path](../../.gitbook/assets/image%20%28421%29.png)
 
 Idris's Shroudstep becomes an instantaneous blink. His basic attack also restore 10 stamina & reduce the cooldowns of his Shroudstep & Shimmer Strike abilities by 1s.
 
 ### Ranged \(Crystal\)
 
-![Ranged Path](../../.gitbook/assets/image%20%28363%29.png)
+![Ranged Path](../../.gitbook/assets/image%20%28375%29.png)
 
 Idris gains a 3.6 meter ranged attack with 100% crystal ratio but only 50% weapon ratio.
 
@@ -40,7 +40,7 @@ Instead of energy, Idris uses stamina to activate his abilities. Purchasing item
 
 ## Ability A: Shroudstep
 
-![Shroudstep](../../.gitbook/assets/image%20%28206%29.png)
+![Shroudstep](../../.gitbook/assets/image%20%28214%29.png)
 
 Idris dashes in the target direction, dealing amplified damage to the next target he attacks within 4s.
 
@@ -57,7 +57,7 @@ Idris dashes in the target direction, dealing amplified damage to the next targe
 
 ## Ability B: Chakram
 
-![Chakram](../../.gitbook/assets/image%20%28368%29.png)
+![Chakram](../../.gitbook/assets/image%20%28380%29.png)
 
 Idris throws a chakram that returns to him, damaging enemies each time it passes over them.
 
@@ -74,7 +74,7 @@ Idris throws a chakram that returns to him, damaging enemies each time it passes
 
 ## Ultimate: Shimmer Strike
 
-![Shimmer Strike](../../.gitbook/assets/image%20%28339%29.png)
+![Shimmer Strike](../../.gitbook/assets/image%20%28351%29.png)
 
 Idris disappears into the target hero becoming invulnerable, untargetable & cleanses movement-impairing effects from himself. While attached, tap to make Idris leap out in desired direction, striking all surrounding enemies with weapon damage as he jumps off.
 

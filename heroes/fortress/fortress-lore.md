@@ -4,7 +4,7 @@
 
 
 
-![Speed of light, roar of thunder!](../../.gitbook/assets/image%20%2833%29.png)
+![Speed of light, roar of thunder!](../../.gitbook/assets/image%20%2834%29.png)
 
 A dire wolf raced out of the temple’s fourth circle, tongue lolled out to one side, panting, exhausted terror in his eyes, his thick fur matted with dried blood. His back legs were caked up to the stifles in red loamy mud; he’d kicked free in time to get bit in the muzzle by something venomous. He skidded to a stop where mud met ice, into the forelegs of the alpha, his eyes down, unsure whether to be more frightened of what he’d run from or what he’d run into. The ground rumbled, the ice cracking outward in long lines. The alpha’s hackles rose, ears twitching at the sound of his pack howling, whining and yipping in pain. He could name every one of those sounds: son, daughter, mate, packmate, friend.
 
@@ -30,7 +30,7 @@ Then, Fortress let loose a wild howl that carried for miles.
 
 
 
-![The law of the claw.](../../.gitbook/assets/image%20%28138%29.png)
+![The law of the claw.](../../.gitbook/assets/image%20%28143%29.png)
 
 The old druid cut a formidable figure, antlers bursting from his headdress, ceremonial furs draping from shoulders to boots. Before him stood the enormous tree, her branches concealing the soupy-gray sky for one-hundred steps, her trunk so wide around that it took 10 men gripping hands to encircle it, the face of the Mother carved into it at eye-level with the druid.
 
@@ -64,7 +64,7 @@ The pack watched as the face of the Mother turned into a wide hollow. A thick, h
 
 
 
-![All roads lead to the vain.](../../.gitbook/assets/image%20%28417%29.png)
+![All roads lead to the vain.](../../.gitbook/assets/image%20%28431%29.png)
 
 Rona sniffed the air, searched the empty sled, dug into the fresh tracks, then peered into the tangles of The Great Oak. Buried in the winding branches, she caught the old druid’s eye.
 

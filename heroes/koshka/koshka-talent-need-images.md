@@ -2,8 +2,6 @@
 
 ## Rare Talent
 
-
-
 ### Frenzied
 
 Basic attacks reduce the cooldown of Koshka's abilities.
@@ -15,8 +13,6 @@ Basic attacks reduce the cooldown of Koshka's abilities.
 | Yummy Catnip Frenzy Reduction | 5% |
 
 ## Epic Talent
-
-
 
 ### Twirly Life
 

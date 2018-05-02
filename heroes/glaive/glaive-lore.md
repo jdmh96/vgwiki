@@ -2,7 +2,7 @@
 
 ## ‘GLAIVE THE GRANGOR’
 
-![Their fear...is making me HUNGRY!](../../.gitbook/assets/image%20%28191%29.png)
+![Their fear...is making me HUNGRY!](../../.gitbook/assets/image%20%28199%29.png)
 
 Yeah, if you need to hire muscle, I have some recommendations. Just keep your voice down. Maybe you need someone stealthy – someone who can hide in the underbrush and attack outta nowhere, never see them coming? Got an assassin girl in the rafters that’ll make ribbons of a body in seconds. No, not quite right. But getting warmer, am I? You want to make a big splash, do you? Leave a real impression. Maybe the target’s friends will think twice… leave town to save their own heads?
 
@@ -30,13 +30,13 @@ And you’d best not cheat. I can smell every move.
 
 
 
-![Image by ForTheVainglorius](../../.gitbook/assets/image%20%2877%29.png)
+![Image by ForTheVainglorius](../../.gitbook/assets/image%20%2880%29.png)
 
 ## ALTERNATE FATES
 
 ### ‘PREHISTORIC' GLAIVE
 
-![Cut through bone.](../../.gitbook/assets/image%20%28147%29.png)
+![Cut through bone.](../../.gitbook/assets/image%20%28152%29.png)
 
 _This skull here, this was a steel-toothed grimjaw. My grandfather’s grandfather took it down. You can put your whole hand in the hole, here, from my ancestor’s axe. Story goes, he climbed up its back to defeat it. Ha! Imagine that fight! I dream of it!_
 
@@ -48,7 +48,7 @@ _Few outsiders have seen my trophy room. You should feel lucky your skull is not
 
 ### **‘ICE AGE’ GLAIVE**
 
-![An acceptable trophy.](../../.gitbook/assets/image%20%28210%29.png)
+![An acceptable trophy.](../../.gitbook/assets/image%20%28218%29.png)
 
 The summit of the mountain had been cleared and the circled stones consecrated with sacred signs and symbols hundreds of winters past. Glaive entered the circle on the longest night, dazed from the altitude and the day’s climb. The stars spread overhead in magnificent twists that spiraled on themselves in his woozy vision.
 
@@ -122,7 +122,7 @@ _Have you never been rejected by a female?_
 
 _Congratulations_, said the voice, and the thick and meaty arm of a water troll burst through the ice, a great axe in its fist._You have been chosen to carry the great named axe, Sorrowblade, that was thrown into this icy deepness long ago to protect mankind. Only you, great hunter, will not fall to its terrors._
 
-![Hm, as you suggest...](../../.gitbook/assets/image%20%28128%29.png)
+![Hm, as you suggest...](../../.gitbook/assets/image%20%28132%29.png)
 
 Glaive took the weapon in his hands and tested its weight, marveled at the dynamic harmony of head and helve. The axe handle glowed red with a foreign force. “I’ve never seen its like. What manner of power is this?”
 
@@ -136,7 +136,7 @@ _It makes the fish sad_, said the voice, farther away now._Now go, and tell thos
 
 **THE THEFT OF THE WIZARD’S BREW**
 
-![Your mother bears a striking resemblance to... The Kraken. Has anyone ever told you that?](../../.gitbook/assets/image%20%2888%29.png)
+![Your mother bears a striking resemblance to... The Kraken. Has anyone ever told you that?](../../.gitbook/assets/image%20%2891%29.png)
 
 The roaring-est, meanest, and most frightening of all the forest creatures, the beheader of the Giant Spider, the King of the Forest, respected far and wide for his fearlessness and strength, the lion, had a terrible secret.
 
