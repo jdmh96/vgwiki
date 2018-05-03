@@ -26,7 +26,7 @@ Fishfood \(A\) stuns for a longer duration.
 
 ## Legendary Talent
 
-![](../../.gitbook/assets/image%20%28133%29.png)
+![](../../.gitbook/assets/image%20%28136%29.png)
 
 ### Wonder Wall
 

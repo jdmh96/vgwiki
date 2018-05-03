@@ -80,6 +80,7 @@
     * [Lyra Talent](heroes/lyra/lyra-talent.md)
     * [Lyra Lore](heroes/lyra/lyra-lore.md)
   * [Malene](heroes/malene/README.md)
+    * [Malene Talent](heroes/malene/malene-talent.md)
     * [Malene Lore](heroes/malene/malene-lore.md)
   * [Ozo](heroes/ozo/README.md)
     * [Ozo Lore](heroes/ozo/ozo-lore.md)
