@@ -10,6 +10,17 @@ description: Welcome To The Official Vainglory Wiki
 
 {% page-ref page="update-notes/" %}
 
+## Things NEEDED from SEMC
+
+* [ ] Malene Talents
+* [ ] Lorelai Talents
+* [ ] Tony Talents
+* [ ] Varya Talents
+* [ ] Koshka \(A&B\) Talents
+* [ ] 5v5 items pics \(scout cam\)
+
+
+
 ## TODO
 
 * [x] Terminology
