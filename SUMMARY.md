@@ -83,6 +83,7 @@
     * [Malene Talent](heroes/malene/malene-talent.md)
     * [Malene Lore](heroes/malene/malene-lore.md)
   * [Ozo](heroes/ozo/README.md)
+    * [Ozo Talent](heroes/ozo/ozo-talent.md)
     * [Ozo Lore](heroes/ozo/ozo-lore.md)
   * [Petal](heroes/petal/README.md)
     * [Petal Lore](heroes/petal/petal-lore.md)

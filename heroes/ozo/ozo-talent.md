@@ -2,11 +2,11 @@
 
 ## Rare Talent
 
-![](../../.gitbook/assets/ozo_rare.png)
+![](../../.gitbook/assets/ozo_rare%20%281%29.png)
 
 ### Second Wind
 
-Acrobounce \(B\) resets upon the third bounce. 
+Acrobounce \(B\) resets upon the third bounce.
 
 | Damage | 65% |
 | --- | --- |
@@ -14,27 +14,25 @@ Acrobounce \(B\) resets upon the third bounce.
 
 ## Epic Talent
 
-![](../../.gitbook/assets/ozo_epic.png)
+![](../../.gitbook/assets/ozo_epic%20%281%29.png)
 
-### Ring Leader 
+### Ring Leader
 
 Three-Ring Circus \(A\) heals nearby allies.
 
-| Heal  | 110% |
+| Heal | 110% |
 | --- |
 
 
 ## Legendary Talent
 
-![](../../.gitbook/assets/ozo_legendary.png)
+![](../../.gitbook/assets/ozo_legendary%20%281%29.png)
 
 ### Bangarangarang!
 
-Bangarang \(Ultimate\) has 1 additional charge. 
+Bangarang \(Ultimate\) has 1 additional charge.
 
-| Damage  | 90% |
+| Damage | 90% |
 | --- | --- |
 | Cooldown | 70% |
-
-
 
