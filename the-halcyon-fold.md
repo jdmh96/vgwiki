@@ -1,6 +1,6 @@
 # The Halcyon Fold
 
-![](.gitbook/assets/image%20%2874%29.png)
+![](.gitbook/assets/image%20%2880%29.png)
 
 ## The Map
 
@@ -36,7 +36,7 @@ The jungle is a comparatively larger and more complex area of the map. The jungl
 
 ### The Item Shop
 
-![](.gitbook/assets/image%20%2855%29.png)
+![](.gitbook/assets/image%20%2860%29.png)
 
 **The Item Shop **is located in the bottom of the map, surrounded by brush. Unlike the starting point item shop, this shop can be used by either team
 
@@ -54,13 +54,13 @@ The jungle is a comparatively larger and more complex area of the map. The jungl
 
 ### The Crystal Sentry
 
-![](.gitbook/assets/image%20%28398%29.png)
+![](.gitbook/assets/image%20%28435%29.png)
 
 **The Crystal Sentry** spawns, already affiliated with your team, from your Vain Crystal at the 4 minute mark and walks out to the Crystal Mine in your side of the Jungle. The Crystal Sentry is a protector in your Jungle, automatically targeting and attacking any enemy hero on sight. It travels a significant distance and deals significantly more damage to help you defend against enemy invasions.The bounty for killing a Crystal Sentry fairly significant at 125 gold, and you can gain some experience, but it is a tough fight. The Crystal Sentry only has 3 lives, after which it will no longer respawn after dying.
 
 ### The Treants
 
-![](.gitbook/assets/image%20%28222%29.png)
+![](.gitbook/assets/image%20%28241%29.png)
 
 **The Treants **are the single-monster camps in the jungle. Each treant not only gives the player a gold payout upon defeat, but will also heal over time the player that last-hit it. Targeting the healers is a great way to regenerate health in the jungle.
 
@@ -80,15 +80,15 @@ Each season update, the seasonal changes will bring it changes to the Halcyon Fo
 
 > “To celebrate the introduction of seasonal play, we’re including a ton of limited-time content. The most immediately noticeable of these will be the seasonal Halcyon Fold map skin. Play Vainglory with haunting ambiance, and enjoy all the changes — big and small — as well as a few easter eggs here and there.” _—PlayoffBeard_
 
-![Halloween Halcyon Fold Map](.gitbook/assets/image%20%28173%29.png)
+![Halloween Halcyon Fold Map](.gitbook/assets/image%20%28189%29.png)
 
-![Lunar New Year Halcyon Fold Map](.gitbook/assets/image%20%28190%29.png)
+![Lunar New Year Halcyon Fold Map](.gitbook/assets/image%20%28208%29.png)
 
-![Winter Season Halcyon Fold Map](.gitbook/assets/image%20%2877%29.png)
+![Winter Season Halcyon Fold Map](.gitbook/assets/image%20%2883%29.png)
 
-![Autumn Season Halcyon Fold Map](.gitbook/assets/image%20%28231%29.png)
+![Autumn Season Halcyon Fold Map](.gitbook/assets/image%20%28251%29.png)
 
-![Spring Season Halcyon Fold Map](.gitbook/assets/image%20%28378%29.png)
+![Spring Season Halcyon Fold Map](.gitbook/assets/image%20%28411%29.png)
 
 ## WELCOME TO THE HALCYON FOLD
 

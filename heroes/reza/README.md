@@ -1,12 +1,12 @@
 # Reza
 
-![](../../.gitbook/assets/image%20%28149%29.png)
+![](../../.gitbook/assets/image%20%28162%29.png)
 
 #### A fast, devastating fire mage with a demon netherform.
 
 ## Heroic Perk: Firestarter
 
-![Firestarter](../../.gitbook/assets/image%20%28234%29.png)
+![Firestarter](../../.gitbook/assets/image%20%28254%29.png)
 
 Scorcher & Netherform Detonator apply Firestarter to enemy targets.
 
@@ -26,7 +26,7 @@ Scorcher & Netherform Detonator apply Firestarter to enemy targets.
 
 ## Ability A: Scorcher
 
-![Scorcher](../../.gitbook/assets/image%20%28221%29.png)
+![Scorcher](../../.gitbook/assets/image%20%28240%29.png)
 
 Reza smashes the ground, creating a fiery shockwave in front of him. This deals crystal damage to anything it passes through & collides with the first enemy hero or jungle monster hit.
 
@@ -42,7 +42,7 @@ Reza smashes the ground, creating a fiery shockwave in front of him. This deals 
 
 ## Ability B: Troublemaker
 
-![Troublemaker](../../.gitbook/assets/image%20%28433%29.png)
+![Troublemaker](../../.gitbook/assets/image%20%28473%29.png)
 
 Reza dashes to the target location, dealing crystal damage to enemies he passes through.
 
@@ -59,7 +59,7 @@ Reza dashes to the target location, dealing crystal damage to enemies he passes 
 
 ## Ultimate: Netherform Detonator
 
-![Netherform Detonator](../../.gitbook/assets/image%20%28345%29.png)
+![Netherform Detonator](../../.gitbook/assets/image%20%28377%29.png)
 
 Reza vanishes removing from himself any negative movement-impairing effects, then reappears at the target location in empowered demon form.
 

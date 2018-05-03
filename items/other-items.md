@@ -4,7 +4,7 @@
 
 ### Healing Flask
 
-![](../.gitbook/assets/image%20%28152%29.png)
+![](../.gitbook/assets/image%20%28167%29.png)
 
 * Cost: 300 gold
 * Stats:
@@ -51,7 +51,7 @@
 
 ### Scout Cams
 
-![](../.gitbook/assets/image%20%2890%29.png)
+![](../.gitbook/assets/image%20%2898%29.png)
 
 * Every hero gets a maximum of 2 at the beginning of the game, and upon placing one, a stack is used, which replenishes over time.
 * Upon placing, grants vision over 5 meters radius.
