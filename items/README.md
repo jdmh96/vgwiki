@@ -23,7 +23,7 @@ description: List of all Items by category ad tier (click on the name for detail
 | [**Tier 3**](weapon-items.md#tier-3) |  |
 | ![](../.gitbook/assets/sorrowblade%20%281%29.png) | [Sorrowblade](weapon-items.md#sorrowblade) \| Cost:  3100\(1300\) \| Tier3 |
 | ![](../.gitbook/assets/serpent-mask.png) | [Serpent Mask](weapon-items.md#serpent-mask) \| Cost:  2800\(850\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28304%29.png) | [SpellSword](weapon-items.md#spellsword) \| Cost:  2700\(750\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28331%29.png) | [SpellSword](weapon-items.md#spellsword) \| Cost:  2700\(750\) \| Tier3 |
 | ![](../.gitbook/assets/poisoned-shiv%20%282%29.png) | [Poisoned Shiv](weapon-items.md#poisoned-shiv) \| Cost:  2250\(750\) \| Tier3 |
 | ![](../.gitbook/assets/breaking-point.png) | [Breaking Point](weapon-items.md#breaking-point) \| Cost:  2600\(750\) \| Tier3 |
 | ![](../.gitbook/assets/tension-bow%20%281%29.png) | [Tension Bow](weapon-items.md#tension-bow) \| Cost:  2150\(600\) \| Tier3 |
@@ -47,36 +47,36 @@ description: List of all Items by category ad tier (click on the name for detail
 | ![](../.gitbook/assets/chronograph.png) | [Chronograph ](crystal-items.md#chronograph)\| Cost:  800\(550\)\| Tier2 |
 | [**Tier 3**](crystal-items.md#tier-3) |  |
 | ![](../.gitbook/assets/shatterglass.png) | Shatterglass \| Cost:  3000\(1300\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28382%29.png) | [Spellfire](crystal-items.md#spellfire) \| Cost:  2700\(1000\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28416%29.png) | [Spellfire](crystal-items.md#spellfire) \| Cost:  2700\(1000\) \| Tier3 |
 | ![](../.gitbook/assets/frostburn.png) | [Frostburn](crystal-items.md#frostburn) \| Cost:  2600\(900\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28299%29.png) | \[Dragon's Eye\]\(crystal-item-details.md\#dragon's-eye\) \| Cost:  3000\(1300\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28396%29.png) | [Clockwork](crystal-items.md#clockwork) \| Cost: 300 \| Tier3 |
-| ![](../.gitbook/assets/image%20%28271%29.png) | [Broken Myth](crystal-items.md#broken-myth) \| Cost:  2700\(750\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28134%29.png) | [Eve of Harvest](crystal-items.md#eve-of-harvest) \| Cost:  2600\(850\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28273%29.png) | [Aftershock](crystal-items.md#aftershock) \| Cost:  2400\(950\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%2891%29.png) | [Alternating Current](crystal-items.md#alternating-current) \| Cost:  2800\(1050\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28325%29.png) | \[Dragon's Eye\]\(crystal-item-details.md\#dragon's-eye\) \| Cost:  3000\(1300\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28431%29.png) | [Clockwork](crystal-items.md#clockwork) \| Cost: 300 \| Tier3 |
+| ![](../.gitbook/assets/image%20%28296%29.png) | [Broken Myth](crystal-items.md#broken-myth) \| Cost:  2700\(750\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28146%29.png) | [Eve of Harvest](crystal-items.md#eve-of-harvest) \| Cost:  2600\(850\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28299%29.png) | [Aftershock](crystal-items.md#aftershock) \| Cost:  2400\(950\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28100%29.png) | [Alternating Current](crystal-items.md#alternating-current) \| Cost:  2800\(1050\) \| Tier3 |
 {% endtab %}
 
 {% tab title="Defense" %}
 | Image | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tier 1** |  |
-| ![](../.gitbook/assets/image%20%28318%29.png) | [Oakheart ](defense-items.md#oakheart)\| Tier1 |
-| ![](../.gitbook/assets/image%20%2885%29.png) | [Light Shield](defense-items.md#light-shield) \| Tier1 |
-| ![](../.gitbook/assets/image%20%28350%29.png) | [Light Armor](defense-items.md#light-armor) \| Tier1 |
+| ![](../.gitbook/assets/image%20%28347%29.png) | [Oakheart ](defense-items.md#oakheart)\| Tier1 |
+| ![](../.gitbook/assets/image%20%2892%29.png) | [Light Shield](defense-items.md#light-shield) \| Tier1 |
+| ![](../.gitbook/assets/image%20%28382%29.png) | [Light Armor](defense-items.md#light-armor) \| Tier1 |
 | **Tier 2** |  |
-| ![](../.gitbook/assets/image%20%28156%29.png) | [Dragonheart ](defense-items.md#dragonheart)\| Cost:  650\(350\) \| Tier2 |
-| ![](../.gitbook/assets/image%20%28207%29.png) | [Lifespring](defense-items.md#lifespring) \| Cost:  800\(500\) \| Tier2 |
-| ![](../.gitbook/assets/image%20%2858%29.png) | [Reflex Block](defense-items.md#reflex-block) \| Cost:  700\(400\) \| Tier2 |
-| ![](../.gitbook/assets/image%20%28239%29.png) | [Kenetic Shield](defense-items.md#kenetic-shield) \| Cost:  800\(550\) \| Tier2 |
-| ![](../.gitbook/assets/image%20%28374%29.png) | [Coat of Plates](defense-items.md#coat-of-plates) \| Cost:  800\(550\) \| Tier2 |
+| ![](../.gitbook/assets/image%20%28171%29.png) | [Dragonheart ](defense-items.md#dragonheart)\| Cost:  650\(350\) \| Tier2 |
+| ![](../.gitbook/assets/image%20%28226%29.png) | [Lifespring](defense-items.md#lifespring) \| Cost:  800\(500\) \| Tier2 |
+| ![](../.gitbook/assets/image%20%2863%29.png) | [Reflex Block](defense-items.md#reflex-block) \| Cost:  700\(400\) \| Tier2 |
+| ![](../.gitbook/assets/image%20%28261%29.png) | [Kenetic Shield](defense-items.md#kenetic-shield) \| Cost:  800\(550\) \| Tier2 |
+| ![](../.gitbook/assets/image%20%28407%29.png) | [Coat of Plates](defense-items.md#coat-of-plates) \| Cost:  800\(550\) \| Tier2 |
 | **Tier 3** |  |
-| ![](../.gitbook/assets/image%20%28428%29.png) | [Slumbering Husk](defense-items.md#slumbering-husk) \| Cost:  1700\(1050\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28297%29.png) | [Crucible](defense-items.md#slumbering-husk) \| Cost:  1850\(500\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28425%29.png) | [Fountain of Renewal](defense-items.md#fountain-of-renewal) \| Cost:  2300\(700\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28256%29.png) | [Aegis](defense-items.md#aegis) \| Cost:  2150\(650\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28151%29.png) | [Metal Jacket](defense-items.md#metal-jacket) \| Cost:  2000\(1200\) \| Tier3 |
-| ![](../.gitbook/assets/image%20%28123%29.png) | [Atlas Pauldron](defense-items.md#atlas-pauldron) \| Cost:  1900\(1100\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28468%29.png) | [Slumbering Husk](defense-items.md#slumbering-husk) \| Cost:  1700\(1050\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28323%29.png) | [Crucible](defense-items.md#slumbering-husk) \| Cost:  1850\(500\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28465%29.png) | [Fountain of Renewal](defense-items.md#fountain-of-renewal) \| Cost:  2300\(700\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28280%29.png) | [Aegis](defense-items.md#aegis) \| Cost:  2150\(650\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28166%29.png) | [Metal Jacket](defense-items.md#metal-jacket) \| Cost:  2000\(1200\) \| Tier3 |
+| ![](../.gitbook/assets/image%20%28134%29.png) | [Atlas Pauldron](defense-items.md#atlas-pauldron) \| Cost:  1900\(1100\) \| Tier3 |
 {% endtab %}
 
 {% tab title="Utility" %}
@@ -104,7 +104,7 @@ description: List of all Items by category ad tier (click on the name for detail
 | Image | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [ Base consumables](other-items.md#base-consumables) |  |
-| ![](../.gitbook/assets/image%20%28380%29.png) | [Healing Flask](other-items.md#healing-flask) |
+| ![](../.gitbook/assets/image%20%28413%29.png) | [Healing Flask](other-items.md#healing-flask) |
 
 \| Cost: 300 \| \| ![](../.gitbook/assets/flare.png) \| [Flare](other-items.md#flare) \| Cost: 25 \| \| ![](../.gitbook/assets/scout-trap%20%281%29.png) \| [Scout Trap](other-items.md#scout-trap) \| Cost: 50 \| \| ![](../.gitbook/assets/minion-candy.png) \| [Minion Candy ](other-items.md#minion-candy) \| Cost: 100 \| \| ![](../.gitbook/assets/flare-gun%20%281%29.png) \| [Flare Loader](other-items.md#flare-loader) \| Tier1 \| \| \| [Scout Tuff ](other-items.md#scout-tuff) \| Cost: 500\(200\) \| Tier2 \| \| \| [Scout Pack ](other-items.md#scout-pack)\| Cost: 500\(250\) \| Tier2 \| \| \| [Super Scout 2000](other-items.md#super-scout-2000) \| Cost: 2000\(1000\)\| Tier3 \| \| \| Scout Cams \| \| [Contracts ](other-items.md#contracts) \| \| \| ![](../.gitbook/assets/ironguard-contract.png) \| [Ironguard Contract](other-items.md#ironguard-contract) \| Cost: 250 \| \| ![](../.gitbook/assets/protector-contract%20%281%29.png) \| [Protector Contract](other-items.md#protector-contract) \| Cost: 250 \| \| ![](../.gitbook/assets/dragonblood-contract%20%281%29.png) \| [Dragonblood Contract ](other-items.md#dragonblood-contract) \| Cost: 250 \| \| [Infusions ](other-items.md#infusions) \| \| \| ![](../.gitbook/assets/weapon-infusion.png) \| [ Weapon Infusion](other-items.md#weapon-infusion) \| Cost: 500 \| \| ![](../.gitbook/assets/crystal-infusion%20%281%29.png) \| [Crystal Infusion ](other-items.md#crystal-infusion) \| Cost: 500 \| \| [Other ](other-items.md#other) \| \| \| ![](../.gitbook/assets/level-juice%20%281%29.png) \| [Level Juice](other-items.md#level-juice) \| Cost: 0 \|
 {% endtab %}
