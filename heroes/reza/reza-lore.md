@@ -2,7 +2,7 @@
 
 ## 'THE BOY WHO SPEAKS FIRE'
 
-![I am, at last, exactly where I should be.](../../.gitbook/assets/image%20%28430%29.png)
+![I am, at last, exactly where I should be.](../../.gitbook/assets/image%20%28439%29.png)
 
  On the unkempt path along the mangrove-lined river, overgrown with vines and flowers, the paladin in his gilded ceremonial armor cut an imposing figure. A dozen warriors and several local guides marched behind him; explorers brought up the rear, sketching, collecting samples and taking notes. The paladin’s wide-eyed young daughter gripped his outstretched finger with her whole small fist.
 
@@ -72,7 +72,7 @@ The paladin’s light shield burst into being between her and the boy just in ti
 
 ## 'THE FIRST MISTAKE'
 
-![I will not wait forever.](../../.gitbook/assets/image%20%28397%29.png)
+![I will not wait forever.](../../.gitbook/assets/image%20%28406%29.png)
 
 Remarkable, Lyra thought, how quickly the settlers had mixed Gythian with the rough syllables of the Grangor tongue to create the language of Trostanian. Lyra never deigned to speak it, but understanding Trostanian was essential in the multicultural port town, no matter what garish throaty things it did to the lyrical Gythian syllables. Only five years ago, her barriers had melted the Halcyon glacier and already the settlement had become a growing, respectable town. Dockside inns filled to bursting with taxpaying travelers seeking their crystal fortune, adding their native nomenclature to the evolving language. On the docks, sailors called to one another in fluent Trostanian as they passed crates down the ramps from the ships’ tenders to the docks.
 
@@ -138,19 +138,19 @@ She soaked his neck with silent tears, her fingers clawing into his shoulders.
 
 
 
-![](../../.gitbook/assets/image%20%28407%29.png)
+![](../../.gitbook/assets/image%20%28416%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%28296%29.png)
+![](../../.gitbook/assets/image%20%28303%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%28350%29.png)
+![](../../.gitbook/assets/image%20%28357%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%28207%29.png)
+![](../../.gitbook/assets/image%20%28212%29.png)
 
 ## ALTERNATE FATES
 
@@ -158,7 +158,7 @@ She soaked his neck with silent tears, her fingers clawing into his shoulders.
 
 #### 'THE DOOR GUARDIANS'
 
-![You&#x2019;re fired, and you&#x2019;re fired and you&#x2019;re fired.](../../.gitbook/assets/image%20%28182%29.png)
+![You&#x2019;re fired, and you&#x2019;re fired and you&#x2019;re fired.](../../.gitbook/assets/image%20%28186%29.png)
 
 On the night of his death, the thief found himself on the street where he’d always lived, but it was gray and empty except for a nightclub he’d never seen before.
 
