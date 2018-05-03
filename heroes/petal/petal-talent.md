@@ -2,11 +2,11 @@
 
 ## Rare Talent
 
-![](../../.gitbook/assets/petal_rare.png)
+![](../../.gitbook/assets/petal_rare%20%281%29.png)
 
-### Bouncer 
+### Bouncer
 
-Trampoline \(B\) has a 1s cooldown but will cost more energy if used while empowerment is still active. 
+Trampoline \(B\) has a 1s cooldown but will cost more energy if used while empowerment is still active.
 
 | Energy Cost | 185% |
 | --- |
@@ -14,7 +14,7 @@ Trampoline \(B\) has a 1s cooldown but will cost more energy if used while empow
 
 ## Epic Talent
 
-![](../../.gitbook/assets/petal_epic.png)
+![](../../.gitbook/assets/petal_epic%20%281%29.png)
 
 ### Kaboom Seeds
 
@@ -26,15 +26,13 @@ Brambleboom Seeds \(A\) explode for massive damage but no longer knocks back ene
 
 ## Legendary Talent
 
-![](../../.gitbook/assets/petal_legendary.png)
+![](../../.gitbook/assets/petal_legendary%20%281%29.png)
 
-### Explosion Force
+### Explosive Force
 
-Spontaneous Combustion \(Ultimate\) knocks back enemies caught within its explosion. 
+Spontaneous Combustion \(Ultimate\) knocks back enemies caught within the explosive.
 
-| Damage  | 90% |
+| Damage | 90% |
 | --- |
-
-
 
 

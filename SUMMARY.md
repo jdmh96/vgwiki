@@ -86,6 +86,7 @@
     * [Ozo Talent](heroes/ozo/ozo-talent.md)
     * [Ozo Lore](heroes/ozo/ozo-lore.md)
   * [Petal](heroes/petal/README.md)
+    * [Petal Talent](heroes/petal/petal-talent.md)
     * [Petal Lore](heroes/petal/petal-lore.md)
   * [Phinn](heroes/phinn/README.md)
     * [Phinn Lore](heroes/phinn/phinn-lore.md)
