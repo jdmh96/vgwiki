@@ -1,12 +1,12 @@
 # Reim
 
-![](../../.gitbook/assets/image%20%28201%29.png)
+![](../../.gitbook/assets/image%20%28238%29.png)
 
 #### Resilient ice mage who dominates close-quarter battles.
 
 ## Heroic Perk: Frostguard
 
-![Frostguard](../../.gitbook/assets/image%20%2827%29.png)
+![Frostguard](../../.gitbook/assets/image%20%2829%29.png)
 
 When Reim damages opponents with his basic attack or Winter Spire, he is granted fortified health up to a cap of 25% of Reim's maximum health.
 
@@ -27,7 +27,7 @@ When Reim damages opponents with his basic attack or Winter Spire, he is granted
 
 ## Ability A: Winter Spire
 
-![Winter Spire](../../.gitbook/assets/image%20%28285%29.png)
+![Winter Spire](../../.gitbook/assets/image%20%28334%29.png)
 
 Reim summons a spire of ice at a nearby location, dealing crystal damage to surrounding enemies. After a short delay, the spire shatters, dealing heavy crystal damage.
 
@@ -46,7 +46,7 @@ Reim summons a spire of ice at a nearby location, dealing crystal damage to surr
 
 ## Ability B: Chill Winds
 
-![Chill Winds](../../.gitbook/assets/image%20%28110%29.png)
+![Chill Winds](../../.gitbook/assets/image%20%28130%29.png)
 
 Reim deals a burst of crystal damage to all surrounding enemies, rooting enemies who are chilled. A rooted enemy cannot move or dash, but the enemy can still attack.
 
@@ -61,7 +61,7 @@ Reim deals a burst of crystal damage to all surrounding enemies, rooting enemies
 
 ## Ultimate: Valkyrie
 
-![Valkyrie](../../.gitbook/assets/image%20%28248%29.png)
+![Valkyrie](../../.gitbook/assets/image%20%28292%29.png)
 
 Reim summons an ancient Valkyrie, devastating enemies in the area & applying a heavy decaying slow.
 

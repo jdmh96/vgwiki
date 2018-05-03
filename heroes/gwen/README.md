@@ -1,12 +1,12 @@
 # Gwen
 
-![](../../.gitbook/assets/image%20%28193%29.png)
+![](../../.gitbook/assets/image%20%28230%29.png)
 
 #### Gunslinger with powerful burst damage & ability to shake off disables.
 
 ## Heroic Perk: Boomstick
 
-![Boomstick](../../.gitbook/assets/image%20%28397%29.png)
+![Boomstick](../../.gitbook/assets/image%20%28459%29.png)
 
 After not attacking for 1.6s, Gwen's next basic attack is a Boomstick shot that deals bonus damage.
 
@@ -26,7 +26,7 @@ After not attacking for 1.6s, Gwen's next basic attack is a Boomstick shot that 
 
 ## Abililty A: Buckshot Bonanza
 
-![Buckshot Bonanza](../../.gitbook/assets/image%20%28404%29.png)
+![Buckshot Bonanza](../../.gitbook/assets/image%20%28470%29.png)
 
 Gwen blasts enemies in the target direction, dealing weapon damage to all targets in a cone. Enemies hit by this ability are slowed & revealed for 2s.
 
@@ -41,7 +41,7 @@ Gwen blasts enemies in the target direction, dealing weapon damage to all target
 
 ## Ability B: Skedaddle
 
-![Skedaddle](../../.gitbook/assets/image%20%28316%29.png)
+![Skedaddle](../../.gitbook/assets/image%20%28368%29.png)
 
 Gwen gains a burst of move speed while instantly removing from herself any negative movement-impairing effects.
 
@@ -57,7 +57,7 @@ Gwen gains a burst of move speed while instantly removing from herself any negat
 
 ## Ultimate: Aces High
 
-![Aces High](../../.gitbook/assets/image%20%28176%29.png)
+![Aces High](../../.gitbook/assets/image%20%28211%29.png)
 
 Gwen flings a card in the target direction, stunning & dealing weapon damage the first hero it hits.
 

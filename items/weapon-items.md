@@ -224,7 +224,7 @@ Piercing Spear
 
 ## Spellsword
 
-![](../.gitbook/assets/image%20%28293%29.png)
+![](../.gitbook/assets/image%20%28342%29.png)
 
 * Cost: 2700\(750\) 
 

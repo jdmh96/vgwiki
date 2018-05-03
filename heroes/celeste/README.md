@@ -1,12 +1,12 @@
 # Celeste
 
-![](../../.gitbook/assets/image%20%28327%29.png)
+![](../../.gitbook/assets/image%20%28382%29.png)
 
 #### Back-line mage with heavy area damage & a stun.
 
 ## Heroic Perk: Julia's Light
 
-![Julia&apos;s Light](../../.gitbook/assets/image%20%28265%29.png)
+![Julia&apos;s Light](../../.gitbook/assets/image%20%28311%29.png)
 
 Celeste's basic attacks are flares of solar light thatdeal crystal damage & reveal their target.
 
@@ -26,7 +26,7 @@ Celeste's basic attacks are flares of solar light thatdeal crystal damage & reve
 
 ## Ability A: Heliogenesis
 
-![Heliogenesis](../../.gitbook/assets/image%20%28262%29.png)
+![Heliogenesis](../../.gitbook/assets/image%20%28308%29.png)
 
 Celeste forms a small star at the target location, dealing crystal damage to nearby enemies. The star will briefly linger on the field.
 
@@ -43,7 +43,7 @@ Celeste forms a small star at the target location, dealing crystal damage to nea
 
 ## Ability B: Core Collapse
 
-![Core Collapse](../../.gitbook/assets/image%20%28295%29.png)
+![Core Collapse](../../.gitbook/assets/image%20%28344%29.png)
 
 After a brief delay, the target location collapses & nearby enemies are stunned & take crystal damage.
 
@@ -56,7 +56,7 @@ After a brief delay, the target location collapses & nearby enemies are stunned 
 
 ## Ultimate: Solar Storm
 
-![Solar Storm](../../.gitbook/assets/image%20%28192%29.png)
+![Solar Storm](../../.gitbook/assets/image%20%28229%29.png)
 
 Celeste launches a storm of stars that travels across the world. Stars collide with the first enemy they hit, dealing crystal damage in an area.
 

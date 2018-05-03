@@ -80,7 +80,7 @@ Phinn and Blackfeather began their ascent.
 
 ## ‘NO USE RESISTING!’
 
-![ No use resisting!](../../.gitbook/assets/image%20%28415%29.png)
+![ No use resisting!](../../.gitbook/assets/image%20%28483%29.png)
 
 The balcony gave a disconcerting creak under Phinn’s clawed bulk. Blackfeather drew his sword before bursting through the door to Princess Malene’s silken-pillowed, antique-furnished, monogrammed-everything room. The princess sat on a mahogany curule chair, her gown poofed over its sides, peering at her pretty young face in a silver mirror. The mirror reflected no shock when her abductor entered, though one of her eyebrows rose to a judgmental point when Blackfeather tore the rose from his teeth.
 
@@ -362,7 +362,7 @@ Susie nodded in agreement.
 
 ## ‘HAPPILY EVER AFTER’
 
-![I may be a frog, but I have a very sexy ribbit.](../../.gitbook/assets/image%20%28128%29.png)
+![I may be a frog, but I have a very sexy ribbit.](../../.gitbook/assets/image%20%28151%29.png)
 
  Malene felt a feather-soft tickle on her nose and opened her eyes.
 
