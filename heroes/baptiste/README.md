@@ -2,13 +2,13 @@
 
 
 
-![](../../.gitbook/assets/image%20%28385%29.png)
+![](../../.gitbook/assets/image%20%28419%29.png)
 
 #### Mid-range mage who inflicts fear on foes.
 
 ## Heroic Perk: Reap
 
-![Reap](../../.gitbook/assets/image%20%28269%29.png)
+![Reap](../../.gitbook/assets/image%20%28294%29.png)
 
 Baptiste steals soul fragments through combat & is healed for each soul fragment acquired.
 
@@ -31,7 +31,7 @@ Baptiste steals soul fragments through combat & is healed for each soul fragment
 
 ## Ability A: Bad Mojo
 
-![Bad Mojo](../../.gitbook/assets/image%20%2850%29.png)
+![Bad Mojo](../../.gitbook/assets/image%20%2852%29.png)
 
 Baptiste pulls a vial of liquid from his vest & throws it. The vial explodes upon reaching its target or when colliding with an enemy.
 
@@ -49,7 +49,7 @@ Baptiste pulls a vial of liquid from his vest & throws it. The vial explodes upo
 
 ## Ability B: Ordained
 
-![Ordained](../../.gitbook/assets/image%20%28413%29.png)
+![Ordained](../../.gitbook/assets/image%20%28453%29.png)
 
 Baptiste ordains a target enemy, damaging them & creating an ethereal prison around them. If the ordained target leaves the area, they are stunned & take additional damage.
 
@@ -64,7 +64,7 @@ Baptiste ordains a target enemy, damaging them & creating an ethereal prison aro
 
 ## Ultimate: Fearsome Shade
 
-![Fearsome Shade](../../.gitbook/assets/image%20%28119%29.png)
+![Fearsome Shade](../../.gitbook/assets/image%20%28130%29.png)
 
 Baptiste summons waves of shade that terrorize enemies caught in their path. Enemies struck by the shade run from the source in fear & take damage each second.
 

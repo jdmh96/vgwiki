@@ -1,12 +1,12 @@
 # Baron
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
 #### Rocket soldier who can nuke anywhere on the map.
 
 ## Heroic Perk: Rocket Launcher
 
-![Rocket Launcher](../../.gitbook/assets/image%20%28268%29.png)
+![Rocket Launcher](../../.gitbook/assets/image%20%28293%29.png)
 
 Baron's basic attacks explode, dealing 130% weapon damage to the target.
 
@@ -26,7 +26,7 @@ Baron's basic attacks explode, dealing 130% weapon damage to the target.
 
 ## Ability A: Porcupine Mortar
 
-![Porcupine Mortar](../../.gitbook/assets/image%20%28200%29.png)
+![Porcupine Mortar](../../.gitbook/assets/image%20%28219%29.png)
 
 Baron launches artillery toward the target location, heavily damaging enemies on impact. This ability has 2 charges.
 
@@ -45,7 +45,7 @@ Baron launches artillery toward the target location, heavily damaging enemies on
 
 ## Ability B: Jump Jets
 
-![Jump Jets](../../.gitbook/assets/image%20%28112%29.png)
+![Jump Jets](../../.gitbook/assets/image%20%28122%29.png)
 
 After a brief delay, Baron jets to the target location then gains bonus move speed for 2.1s. His next basic attack is a double shot.
 
@@ -62,7 +62,7 @@ After a brief delay, Baron jets to the target location then gains bonus move spe
 
 ## Ultimate: Ion Cannon
 
-![Ion Cannon](../../.gitbook/assets/image%20%28266%29.png)
+![Ion Cannon](../../.gitbook/assets/image%20%28290%29.png)
 
 Baron targets a location anywhere on the map for an orbital strike, obliterating the area after a 3s delay.
 

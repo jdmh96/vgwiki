@@ -14,7 +14,7 @@ Splashdown \(B\) has 1 additional charge.
 
 ## Epic Talent
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 ### Clam Up
 
@@ -26,7 +26,7 @@ Fishfood \(A\) stuns for a longer duration.
 
 ## Legendary Talent
 
-![](../../.gitbook/assets/image%20%28136%29.png)
+![](../../.gitbook/assets/image%20%28148%29.png)
 
 ### Wonder Wall
 
