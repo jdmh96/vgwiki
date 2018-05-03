@@ -1,12 +1,12 @@
 # Joule
 
-![](../../.gitbook/assets/image%20%28317%29.png)
+![](../../.gitbook/assets/image%20%28340%29.png)
 
 #### Heavily armored mech rider with a powerful energy beam.
 
 ## Heroic Perk: Heavy Plating
 
-![Heavy Plating](../../.gitbook/assets/image%20%28128%29.png)
+![Heavy Plating](../../.gitbook/assets/image%20%28140%29.png)
 
 Joule has bonus armor & shield against damage that hits her on the front & sides, but not her back.
 
@@ -25,7 +25,7 @@ Joule has bonus armor & shield against damage that hits her on the front & sides
 
 ## Ability A: Rocket Leap
 
-![Rocket Leap](../../.gitbook/assets/image%20%2827%29.png)
+![Rocket Leap](../../.gitbook/assets/image%20%2828%29.png)
 
 Joule leaps to the target location. Enemies caught underneath Joule take full damage & are stunned, while enemies near the impact are knocked away & take 33% damage.
 
@@ -38,7 +38,7 @@ Joule leaps to the target location. Enemies caught underneath Joule take full da
 
 ## Ability B: Thunder Strike
 
-![Thunder Strike](../../.gitbook/assets/image%20%28178%29.png)
+![Thunder Strike](../../.gitbook/assets/image%20%28195%29.png)
 
 Joule's mech fires an energy bolt directly in front of her. If this strikes an enemy, the next Thunder Strike will have bonus armor & shield pierce.
 
@@ -55,7 +55,7 @@ Joule's mech fires an energy bolt directly in front of her. If this strikes an e
 
 ## Ultimate: Big Red Button
 
-![Big Red Button](../../.gitbook/assets/image%20%2871%29.png)
+![Big Red Button](../../.gitbook/assets/image%20%2877%29.png)
 
 Joule fires a massive beam of energy for 1.5s.
 

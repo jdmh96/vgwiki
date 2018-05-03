@@ -1,12 +1,12 @@
 # Fortress
 
-![](../../.gitbook/assets/image%20%28372%29.png)
+![](../../.gitbook/assets/image%20%28396%29.png)
 
 #### Aggressive pack leader who swarms the enemy with great speed.
 
 ## Heroic Perk: Packmates
 
-![Packmates](../../.gitbook/assets/image%20%2866%29.png)
+![Packmates](../../.gitbook/assets/image%20%2871%29.png)
 
 When Fortress is near an allied hero, he will move faster after 1s. He will maintain this move-speed bonus so long as he's alongside any allied hero.
 
@@ -40,7 +40,7 @@ Fortress marks the target enemy as prey & his next basic attack becomes a short-
 
 ## Ability B: Law of the Claw
 
-![Law of the Claw](../../.gitbook/assets/image%20%2896%29.png)
+![Law of the Claw](../../.gitbook/assets/image%20%28105%29.png)
 
 Fortress claws his target, causing it to bleed for several seconds.
 
@@ -58,7 +58,7 @@ Fortress claws his target, causing it to bleed for several seconds.
 
 ## Ultimate: Attack of the Pack
 
-![Attack of the Pack](../../.gitbook/assets/image%20%28117%29.png)
+![Attack of the Pack](../../.gitbook/assets/image%20%28126%29.png)
 
 Fortress summons a pack of wolves. Each pack wolf seeks out a different enemy hero.
 
