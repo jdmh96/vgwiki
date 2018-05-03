@@ -1,12 +1,12 @@
 # Kestrel
 
-![](../../.gitbook/assets/image%20%28426%29.png)
+![](../../.gitbook/assets/image%20%28435%29.png)
 
 #### Stealthy archer with devastating skillshots & traps.
 
 ## Heroic Perk: Adrenaline
 
-![Adrenaline](../../.gitbook/assets/image%20%28414%29.png)
+![Adrenaline](../../.gitbook/assets/image%20%28423%29.png)
 
 Whenever Kestrel lands a basic attack, she reduces the energy cost of her abilities by 10%. This stacks up to 5 times & wears off after 6s.
 
@@ -23,7 +23,7 @@ Whenever Kestrel lands a basic attack, she reduces the energy cost of her abilit
 
 ## Ability A: Glimmershot
 
-![Glimmershot](../../.gitbook/assets/image%20%28433%29.png)
+![Glimmershot](../../.gitbook/assets/image%20%28442%29.png)
 
 Kestrel fires an arrow that hits the first target in its path. The arrow then explodes, splashing crystal damage in a line beyond the point of impact.
 
@@ -65,7 +65,7 @@ Kestrel instantly stealths & gains bonus move speed. She leaves behind an invisi
 
 ## Ultimate: One Shot, One Kill
 
-![One Shot, One Kill](../../.gitbook/assets/image%20%2863%29.png)
+![One Shot, One Kill](../../.gitbook/assets/image%20%2864%29.png)
 
 Kestrel charges up & fires a single powerful arrow across the fold, impacting on the first enemy hero, large creature or structure in its path.
 

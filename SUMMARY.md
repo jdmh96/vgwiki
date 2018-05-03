@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [The Halcyon Fold](the-halcyon-fold.md)
 * [Items](items/README.md)
   * [Weapon Items](items/weapon-items.md)
   * [Crystal Items](items/crystal-items.md)
