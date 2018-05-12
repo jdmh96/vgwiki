@@ -2,6 +2,8 @@
 
 ## ‘THE HEIST'
 
+![I&#x2019;m getting the hang of this, I think.](../../.gitbook/assets/joules_story.jpg)
+
 Scratching at her elbows under her ripped up jacket, Joule tells us, “It’ll be the biggest thing we’ve pulled off.” From under the dusty mat she sleeps on, Joule pulls out folded-up papers. “This one,” she says, “this one I got from an army guy, don’t ask how. Okay, go ahead and ask how. Go on. Okay, nevermind. Look.” She spreads out this blue paper and there’s an outline of something we ain’t seen before. Some big machine that walks.
 
 ![Oh! I wonder if this thing comes in red](https://jd3sljkvzi-flywheel.netdna-ssl.com/wp-content/uploads/2016/12/Joule-prototype.jpg)
@@ -15,8 +17,6 @@ By now, all the hungry kids are milling around Joule’s corner of the floor, ru
 “We can. Remember that time I hotwired the flamewalker? This can’t be all that different.”
 
 Nobody’s dumb enough to believe her, but nobody wants to be the one who chickens out. Once volunteers start raising hands, Joule has herself a gang.
-
-![I&#x2019;m getting the hang of this, I think.](../../.gitbook/assets/joules_story.jpg)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -87,6 +87,8 @@ Joule stops, looking up at the lumpy, camouflaged shape of her new toy. “Um…
 
 ### ‘KILLA-JOULE 9000’ ** **
 
+![So far, so good.](../../.gitbook/assets/download-1%20%281%29.jpg)
+
 The officer looked from the academy admission test results in his hand to the recruit standing before him: the shock of color in her hair, the worn-down boots tapping impatiently, the crossed arms and the elbows ripped out of her leather jacket.
 
 The other hopefuls stared at her, snickering in their starchy prep school uniforms, their high-and-tights and slicked-back sock buns and their shined-up dress shoes.
@@ -115,11 +117,12 @@ The officer narrowed his eyes. “Let’s begin with ‘Yes, Sir.’”
 
 Joule grinned and straightened her spine. “Yes, Sir.”
 
-![So far, so good.](../../.gitbook/assets/download-1%20%281%29.jpg)
 
 ### ‘SCHOOL DAYS JOULE’ 
 
 #### 'THE ACADEMY IS ATTACKED!'
+
+![Walk command, entered.](../../.gitbook/assets/1000-joule-skin-2%20%281%29.jpg)
 
 _“This is soboooooring.”_
 
@@ -167,9 +170,9 @@ _“Nah! I’ll just get yelled at. I’ve been yelled at before.” Joule sprin
 
 _The line of cadets marches after the CO into the hangar. The CO shrugs, helpless, and everyone scatters to mount their mechs. Joule raps her knuckles on a button and the big door rises. The screeching sounds of the giant beast pierce into the hangar, and the cadet mech army clomps outside._
 
-![Walk command, entered.](../../.gitbook/assets/1000-joule-skin-2%20%281%29.jpg)
-
 #### **“CRAB LEGS FOR DINNER!”**
+
+![](../../.gitbook/assets/maxresdefault%20%281%29.jpg)
 
 _“Whatisthat thing?” screams a cadet as the giant crab pokes its claws through the dormitory windows._
 
@@ -187,11 +190,12 @@ _When the smoke clears, there’s a perfect hole blasted through the middle of t
 
 _“So,” she says, cracking her knuckles, “can I graduate now?”_
 
-![](../../.gitbook/assets/maxresdefault%20%281%29.jpg)
 
 ### ‘SNOW MONSTER’ JOULE  
 
 #### 'ORPHAN MONSTER'
+
+![Easier than walking.](../../.gitbook/assets/joule_skin_se_splashart_final1000px.jpg)
 
 Joule found the snow monster on toppa the airship tower where sometimes we’d go to set off fireworks. There’d been a ruckus up there the night before; an elevator broke and a bunch of ladies were done for. Whole thing was hush-hush even in the places we eavesdropped, so Joule said we should check it out ourselves. After dark we ducked under the security tape and went up the emergency ladders. Chatter tapped out halfway up, scared of heights, and SBD took longest, but Joule was first. We went right for the chalk outlines in the control room, laid inside them, poked at the buttons on busted equipment, wowed at the big hole in the ceiling. Chester pretended to shove Petey into the yawning broken elevator hole.
 
@@ -210,6 +214,3 @@ Bell had no cause yet to be scared of monsters so she stepped in close, then we 
 We couldn’t hide him for long. Every time he sneezed, he froze the house, and when he didn’t, the poor guy was sweaty-hot. He stomped holes in the floors. We figured we’d have to shave him or stuff him down in the sewer with the other too-big pets but Joule had this whole other idea. She taught Mac to carry her, and she’d chase alla us around for target practice, tickling Mac’s nose when she wanted him to roar ice. She fed him peppermint candies when he did good, and she used alla us as her target practice, so we had icicle eyelashes and frozen boogers until Joule figured Mac was ready for the big time.
 
 Now, she and Mac run crystal in the Halcyon Fold together. Joule tells us that Mac turned a whole jungle into wintertime with his yawns and roars and sneezes, so after they’ve collected lots of crystal and gold, she tucks him into a fluffy snowdrift and kisses him nighty-night. She makes a hella lotta gold there, which is lucky ‘cause every morning she has to bring him pizzas and pies and candies for breakfast, and that stuff ain’t cheap.
-
-![Easier than walking.](../../.gitbook/assets/joule_skin_se_splashart_final1000px.jpg)
-
